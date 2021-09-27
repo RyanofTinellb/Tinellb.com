@@ -1,0 +1,35 @@
+{
+  "site": {
+    "directory": "C:/Users/Ryan/TinellbianLanguages/toplevel",
+    "name": "Tinellb"
+  },
+  "styles": {
+    "default": {
+      "end": "\n",
+      "font": "Dubai",
+      "size": 18,
+      "block": "default"
+    },
+    "h1": {
+      "font": "Gadugi",
+      "size": 19
+    }
+  },
+  "markdown": "",
+  "entries": [
+    []
+  ],
+  "files": {
+    "source": "C:/Users/Ryan/TinellbianLanguages/toplevel/data.src",
+    "searchindex": "C:/Users/Ryan/TinellbianLanguages/toplevel/searching.json",
+    "main_template": "C:/Users/Ryan/TinellbianLanguages/toplevel/page.tpl",
+    "wholepage": {
+      "template": ""
+    },
+    "search": {
+      "template": "",
+      "template404": ""
+    },
+    "sections": {}
+  }
+}

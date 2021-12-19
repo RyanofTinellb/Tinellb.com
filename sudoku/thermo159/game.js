@@ -93,7 +93,7 @@ class Game {
         }
       }
       this.selected.update();
-      this.ensureSwap(this.selected)
+      this.ensureSwap(this.selected);
       this.keeplit();
     }
   };
@@ -107,6 +107,7 @@ class Game {
       }
     }
     this.selected.update();
+    this.ensureSwap(this.selected)
   };
 
   select(square) {

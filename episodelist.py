@@ -573,6 +573,6 @@ class EpisodeAdder(Tk.Frame):
         return dict(article=article, name=name, number=number)
 
 
-f = 'c:/users/ryan/tinellbianlanguages/toplevel/eplist.json'
+f = 'c:/users/ryan/tinellbianlanguages/toplevel/eplist/eplist.json'
 g = ListEditor(f)
 g.mainloop()

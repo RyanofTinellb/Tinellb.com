@@ -353,10 +353,10 @@ class EpisodeEditor(Tk.Frame):
             self.set_var('miscellaneous', 'parts', value)
             self.set_var('miscellaneous', 'section', '')
         elif isinstance(value, str):
-            self.set_var('miscellaneous', 'parts', 0)
+            self.set_var('miscellaneous', 'parts', 1)
             self.set_var('miscellaneous', 'section', value)
         else:
-            self.set_var('miscellaneous', 'parts', 0)
+            self.set_var('miscellaneous', 'parts', 1)
             self.set_var('miscellaneous', 'section', '')
 
         try:
@@ -418,7 +418,7 @@ class EpisodeEditor(Tk.Frame):
 
         if sMulti:
             self.entry['multi'] = sMulti
-        elif nMulti:
+        elif nMulti != 1:
             self.entry['multi'] = nMulti
         else:
             self.entry.pop('multi', None)

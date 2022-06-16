@@ -112,7 +112,8 @@ class ListEditor(Tk.Frame):
         def find(event=None):
             text = Tk.simpledialog.askstring(
                 'Series Name', 'What series are you looking for?')
-            self.position.set(_find(text))
+            if text is not None:
+                self.position.set(_find(text))
             move()
 
         def _find(text):

@@ -1,26 +1,10 @@
-{
-  "styles": {
-    "default": {
-      "end": "\n",
-      "font": "Dubai",
-      "size": 18,
-      "block": "default"
-    },
-    "h1": {
-      "font": "Gadugi",
-      "size": 19
-    }
-  },
-  "entries": [
-    []
-  ],
-  "assets": {
-    "source": "C:/Users/Ryan/TinellbianLanguages/toplevel/data/data.src"
-  },
-  "templates": {
-    "main": "C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/page.tpl",
-    "sections": {}
-  },
-  "locations": {},
-  "markdown": ""
-}
+assets:
+  source: C:/Users/Ryan/TinellbianLanguages/toplevel/data/data.src
+entries:
+- []
+locations: {}
+markdown: ''
+styles: c:/users/ryan/tinellbianlanguages/toplevel/data/assets/styles.tag
+templates:
+  main: C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/page.tpl
+  sections: {}

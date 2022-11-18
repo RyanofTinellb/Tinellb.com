@@ -1,4 +1,4 @@
-[{"series": "30 Rock", "season": 1, "ep": 1, "location": "Big Black Box", "date": "20061011"},
+[{"series": "", "season": 1, "ep": {"number": 1, "name": "30 Rock"}, "location": "Big Black Box", "date": "20061011"},
 {"series": "30 Rock", "season": 1, "ep": {"number": 2, "article": "The", "name": "Aftermath"}, "location": "Big Black Box", "date": "20061018"},
 {"series": "30 Rock", "season": 1, "ep": {"number": 3, "name": "Blind Date"}, "location": "Big Black Box", "date": "20061025"},
 {"series": "30 Rock", "season": 1, "ep": {"number": 4, "name": "Jack the Writer"}, "location": "Big Black Box", "date": "20061101"},

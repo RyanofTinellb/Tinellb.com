@@ -56,7 +56,7 @@
             <h1>Episode List</h1>
             <div class="main-contents">
                 <p><span id="top"></span></p>
-                <p>This list contains every film and television episode I own on physical media. I have neither cable television nor a subscription to a streaming service, but I do have over six years of normal viewing here.</p>
+                <p>This list contains every film and television episode I own on physical media. I have neither cable television nor a subscription to a streaming service, but I do have <span id="numEps">over six years</span> of normal viewing here</span>.</p>
                 <div class="message">
                     <p>Idiosyncratic, and often arbitrary, decisions abound here. I categorised films the way I felt like. Sorting by episode names ignores articles, as you might expect, but also ignores most anything that would otherwise result in too large a batch of the same series appearing together. For instance, check episodes of <em>Scrubs</em> or <em>Day Break</em>, or Simpsons episodes with character names in the title.</p>
                 </div>
@@ -7341,8 +7341,32 @@
     </script>
     <script>
         let eplist = document.getElementsByClassName("eplist")[0];
+        let numEps = document.getElementById("numEps");
         let data;
         openEpList();
+        
+        const NUMBERS = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight",
+                            "nine", "ten", "eleven", "twelve"];
+
+        async function updateNumbers() {
+            let numberofeps = data.length;
+            let time = numberofeps / 3 / 365.25;
+            let years = Math.floor(time);
+            let months = Math.floor(12 * (time - years));
+
+            let sentence = `${numberofeps} episodes, or ${NUMBERS[years]} years`;
+            switch(months) {
+                case 0:
+                    break;
+                case 1:
+                    sentence += " and one month";
+                    break;
+                default:
+                    sentence += ` and ${NUMBERS[months]} months`
+            }
+            
+            numEps.innerHTML = sentence;
+        }
 
         const WALLETS = {
             "Red Covered Wallet": "A",
@@ -7371,6 +7395,7 @@
             makeList(a => {
                 return;
             });
+            updateNumbers();
         }
 
         function makeList(sortfn) {

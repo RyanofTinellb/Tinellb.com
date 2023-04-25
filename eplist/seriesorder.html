@@ -438,14 +438,37 @@
             elt.childNodes[0].replaceWith(strike);
         }
 
+        function addEndDate(elt) {
+            var thendate = new Date(Date.parse(origdate) + (toFloat(total) * timeperseason));
+            switch (Math.floor(thendate.getDate() / 10)) {
+                case 0:
+                    var period = "early";
+                    break;
+                case 1:
+                    var period = "mid";
+                    break;
+                default:
+                    var period = "late";
+            }
+            thendate = ` &ndash; ends ${period} ${months[thendate.getMonth()]}, ${thendate.getFullYear()}.`;
+            elt.innerHTML += thendate;
+        }
+
+        function addLastChangedDate(elt, changedate, months) {
+            let day = changedate.getDate();
+            let suffix = ["st", "nd", "rd"][((day + 90) % 100 - 10) % 10 - 1] || "th"
+        elt.innerHTML += ` &ndash; ended ${day}${suffix} ${months[changedate.getMonth()]}, ${changedate.getFullYear()}.`;
+        }
+
         let timeperseason;
         let total = [0, 0];
         let origdate = new Date(document.getElementById("origdate").attributes.origdate.value);
         let changedate = new Date(document.getElementById("origdate").attributes.lastchangeddate.value);
         let months = [
-            "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
+            "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
         ]
         let strikeout = true;
+        let lastElt;
         for (elt of document.getElementsByTagName("li")) {
             let seasons = elt.attributes.seasons.value;
             let integer = parseInt(seasons.split(".")[0]);
@@ -453,6 +476,7 @@
             if (elt.attributes.current) {
                 strikeout = false;
                 timeperseason = (changedate - origdate) / toFloat(total);
+                addLastChangedDate(lastElt, changedate, months);
             }
             if (strikeout) applyStrikeout(elt);
             total = add(total, [integer, mantissa]);
@@ -461,23 +485,8 @@
             } else {
                 var fltotal = total[0];
             }
-            if (timeperseason) {
-                var thendate = new Date(Date.parse(origdate) + (toFloat(total) * timeperseason));
-                switch (Math.floor(thendate.getDate() / 10)) {
-                    case 0:
-                        var period = "early";
-                        break;
-                    case 1:
-                        var period = "mid";
-                        break;
-                    default:
-                        var period = "late";
-                }
-                thendate = ` &ndash; ends ${period} ${months[thendate.getMonth()]}, ${thendate.getFullYear()}.`;
-            } else {
-                var thendate = "";
-            }
-            elt.innerHTML += thendate;
+            if (timeperseason) { addEndDate(elt); }
+            lastElt = elt;
         }
     </script>
 

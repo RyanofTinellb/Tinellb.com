@@ -262,7 +262,7 @@ class EpisodeEditor(Tk.Frame):
             season=dict(season=Tk.StringVar(), number=Tk.IntVar()),
             episode=dict(article=Tk.StringVar(),
                          episode=Tk.StringVar(), number=Tk.IntVar()),
-            location=dict(disc=Tk.IntVar(), wallet=Wallet()),
+            location=dict(disc=Tk.IntVar(), wallet=Wallet(), space=Tk.IntVar()),
             miscellaneous=dict(type_=Type(),
                                parts=Tk.IntVar(), section=Tk.StringVar()),
             date=dict(day=Tk.IntVar(), month=Tk.IntVar(), year=Tk.IntVar())
@@ -346,6 +346,13 @@ class EpisodeEditor(Tk.Frame):
             value = 0
         self.set_var('location', 'disc', value)
 
+        value=entry.get('location')
+        try:
+            value = value.get('space', 0)
+        except AttributeError:
+            value = 0
+        self.set_var('location', 'space', value)
+
         value = entry.get('type', '')
         self.set_var('miscellaneous', 'type_', value)
 
@@ -384,6 +391,7 @@ class EpisodeEditor(Tk.Frame):
         sEpArt = self.get_var('episode', 'article')
         sEp = self.get_var('episode', 'episode')
         nDisc = self.get_var('location', 'disc')
+        nSpace = self.get_var('location', 'space')
         nMulti = self.get_var('miscellaneous', 'parts')
         sWallet = self.get_var('location', 'wallet')
         dDate = ''.join([pad(self.get_var('date', x), l)
@@ -437,12 +445,12 @@ class EpisodeEditor(Tk.Frame):
 
         if nDisc:
             if sWallet:
-                self.entry['location'] = dict(disc=nDisc, wallet=sWallet)
+                self.entry['location'] = dict(disc=nDisc, wallet=sWallet, space=nSpace)
             else:
                 self.entry['location'] = nDisc
         else:
             if sWallet:
-                self.entry['location'] = sWallet
+                self.entry['location'] = dict(wallet=sWallet, space=nSpace)
             else:
                 self.entry.pop('location', None)
 
@@ -547,7 +555,7 @@ class EpisodeAdder(Tk.Frame):
     def entry(self, page):
         output = {}
         series = {k: v.get() for k, v in self.series_info.items()}
-        output['meta'] = j = series['metaseries']
+        output['meta'] = series['metaseries']
         output['series'] = self._article_series(series)
         output['season'] = page['season']
         output['ep'] = self._article_episode(page)
@@ -574,6 +582,6 @@ class EpisodeAdder(Tk.Frame):
         return dict(article=article, name=name, number=number)
 
 
-f = 'c:/users/ryan/tinellbianlanguages/toplevel/eplist/eplist.json'
+f = 'C:/Users/Ryan/OneDrive/Desktop/Hopefully proper Eplist.json'
 g = ListEditor(f)
 g.mainloop()

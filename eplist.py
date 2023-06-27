@@ -47,7 +47,7 @@ class WalletBox(ttk.Combobox):
 class TypeBox(ttk.Combobox):
     def __init__(self, *args, **kwargs):
         values = ('', 'Premiere', 'Start', 'Hiatus', 'Movie',
-                  'Alone', 'Film', 'Back', 'End', 'Finale')
+                  'Alone', 'Film', 'Back', 'End', 'Finale', 'Gap', 'Special Features')
         super().__init__(*args, **kwargs, values=values)
 
 
@@ -215,9 +215,11 @@ class ListEditor(Tk.Frame):
             episode = ep.get('ep')
             number = episode.get('number', 0) if isinstance(
                 episode, dict) else 0
+            wallet = ep.get('location', {}).get('wallet')
+            space = ep.get('location', {}).get('space')
             if meta is None or nSeries is None or date is None or number is None:
                 print(ep, meta, nSeries, date, number)
-            return meta, nSeries, date, number
+            return meta, nSeries, date, number, wallet, space
 
         self.frames = [EpisodeEditor(
             self.master, self.eplist, move) for x in range(7)]
@@ -334,16 +336,10 @@ class EpisodeEditor(Tk.Frame):
         value = value if isinstance(value, int) else 0
         self.set_var('episode', 'number', value)
 
-        value = entry.get('location')
-        with ignored(AttributeError):
-            value = value.get('wallet')
+        value = entry.get('location', {}).get('wallet', "")
         self.set_var('location', 'wallet', value)
 
-        value = entry.get('location')
-        try:
-            value = value.get('disc')
-        except AttributeError:
-            value = 0
+        value = entry.get('location', {}).get('disc',0)
         self.set_var('location', 'disc', value)
 
         value=entry.get('location')
@@ -450,7 +446,7 @@ class EpisodeEditor(Tk.Frame):
                 self.entry['location'] = nDisc
         else:
             if sWallet:
-                self.entry['location'] = dict(wallet=sWallet, space=nSpace)
+                self.entry['location'] = dict(wallet=sWallet, space=nSpace, disc=0)
             else:
                 self.entry.pop('location', None)
 
@@ -582,6 +578,6 @@ class EpisodeAdder(Tk.Frame):
         return dict(article=article, name=name, number=number)
 
 
-f = 'C:/Users/Ryan/OneDrive/Desktop/Hopefully proper Eplist.json'
+f = 'C:/Users/Ryan/TinellbianLanguages/toplevel/eplist/eplist.json'
 g = ListEditor(f)
 g.mainloop()

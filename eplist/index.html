@@ -7499,19 +7499,17 @@
                         console.log(ep);
                     }
                     let wallet = ep.location.wallet || ep.location;
-                    let isBox = Number(!wallet.endsWith("Box"));
-                    wallet = WALLETS[wallet];
-                    ep.DISC = ep.location.disc || 0;
-                    ep.LOCATION = `${isBox}${wallet}`;
+                    ep.SPACE = ep.location.space || 0;
+                    ep.WALLET = WALLETS[wallet];
                 });
                 data.sort((a, b) => {
-                    if (a.LOCATION > b.LOCATION) {
+                    if (a.WALLET > b.WALLET) {
                         return 1
-                    } else if (a.LOCATION < b.LOCATION) {
+                    } else if (a.WALLET < b.WALLET) {
                         return -1
-                    } else if (a.DISC > b.DISC) {
+                    } else if (a.SPACE > b.SPACE) {
                         return 1
-                    } else if (a.DISC < b.DISC) {
+                    } else if (a.SPACE < b.SPACE) {
                         return -1
                     } else return 0;
                 });

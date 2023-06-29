@@ -59,6 +59,8 @@ class Spinbox(Tk.Spinbox):
 class Entry(Tk.Entry):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, width=20, **kwargs)
+        self.bind('<Control-Left>', self.master.master.AddToArticle)
+        self.bind('<Control-Right>', self.master.master.RemoveFromArticle)
 
 
 class Scale(ttk.Scale):
@@ -173,7 +175,7 @@ class ListEditor(Tk.Frame):
             for frame in self.frames:
                 frame.save_entry()
             sift()
-            sort() 
+            sort()
             try:
                 eps = ',\n'.join([jsonify(ep) for ep in self.eplist])
                 with open(filename, 'w', encoding='utf-8') as eplist:
@@ -242,7 +244,7 @@ class ListEditor(Tk.Frame):
         find()
 
 
-obj = {Tk.StringVar: Tk.Entry, Tk.IntVar: Spinbox,
+obj = {Tk.StringVar: Entry, Tk.IntVar: Spinbox,
        Wallet: WalletBox, Type: TypeBox}
 
 
@@ -264,7 +266,8 @@ class EpisodeEditor(Tk.Frame):
             season=dict(season=Tk.StringVar(), number=Tk.IntVar()),
             episode=dict(article=Tk.StringVar(),
                          episode=Tk.StringVar(), number=Tk.IntVar()),
-            location=dict(disc=Tk.IntVar(), wallet=Wallet(), space=Tk.IntVar()),
+            location=dict(disc=Tk.IntVar(), wallet=Wallet(),
+                          space=Tk.IntVar()),
             miscellaneous=dict(type_=Type(),
                                parts=Tk.IntVar(), section=Tk.StringVar()),
             date=dict(day=Tk.IntVar(), month=Tk.IntVar(), year=Tk.IntVar())
@@ -339,10 +342,10 @@ class EpisodeEditor(Tk.Frame):
         value = entry.get('location', {}).get('wallet', "")
         self.set_var('location', 'wallet', value)
 
-        value = entry.get('location', {}).get('disc',0)
+        value = entry.get('location', {}).get('disc', 0)
         self.set_var('location', 'disc', value)
 
-        value=entry.get('location')
+        value = entry.get('location')
         try:
             value = value.get('space', 0)
         except AttributeError:
@@ -441,12 +444,14 @@ class EpisodeEditor(Tk.Frame):
 
         if nDisc:
             if sWallet:
-                self.entry['location'] = dict(disc=nDisc, wallet=sWallet, space=nSpace)
+                self.entry['location'] = dict(
+                    disc=nDisc, wallet=sWallet, space=nSpace)
             else:
                 self.entry['location'] = nDisc
         else:
             if sWallet:
-                self.entry['location'] = dict(wallet=sWallet, space=nSpace, disc=0)
+                self.entry['location'] = dict(
+                    wallet=sWallet, space=nSpace, disc=0)
             else:
                 self.entry.pop('location', None)
 
@@ -461,6 +466,25 @@ class EpisodeEditor(Tk.Frame):
     def get_var(self, lat, long_):
         return self.directory[lat][long_].get()
 
+    def AddToArticle(self, event=None):
+        episode = self.get_var('episode', 'episode').split(' ')
+        article = self.get_var('episode', 'article').split(' ')
+        if article[0] == '':
+            article = [episode.pop(0)]
+        else:
+            article.append(episode.pop(0))
+        self.set_var('episode', 'episode', ' '.join(episode))
+        self.set_var('episode', 'article', ' '.join(article))
+
+    def RemoveFromArticle(self, event=None):
+        episode = self.get_var('episode', 'episode').split(' ')
+        article = self.get_var('episode', 'article').split(' ')
+        if episode[0] == '':
+            episode = [article.pop()]
+        else:
+            episode.insert(0, article.pop())
+        self.set_var('episode', 'episode', ' '.join(episode))
+        self.set_var('episode', 'article', ' '.join(article))
 
 col = [-1]
 

@@ -7463,11 +7463,23 @@
                 data = await fetch("eplist.json");
                 data = await data.json();
                 data = data.filter(ep => ep.type != "Gap" && ep.type != "Special Features");
+                EpNameSort();
+                console.log(data);
                 data.forEach((ep, index) => ep.index = index);
+                data.forEach(ep => ep.seriesName = SeriesName(ep));
+                console.log(data);
+                data = data.filter((ep, i, arr) => InARow(ep, i, arr));
                 makeList(a => {
                     return;
                 });
                 updateNumbers();
+            }
+
+            function InARow(ep, i, arr) {
+                return ((ep.seriesName == (arr[i - 1]?.seriesName || "beta")) && (ep.seriesName == (arr[i - 2]?.seriesName || "alpha"))) ||
+                ((ep.seriesName == (arr[i - 1]?.seriesName || "beta")) && (ep.seriesName == (arr[i +1]?.seriesName || "alpha"))) ||
+                ((ep.seriesName == (arr[i + 1]?.seriesName || "beta")) && (ep.seriesName == (arr[i + 2]?.seriesName || "alpha")));
+                  
             }
 
             function makeList(sortfn) {
@@ -7627,7 +7639,8 @@
                     if (series === undefined) {
                         return "";
                     } else {
-                        return The(series) + " ";
+                        // return The(series) + " ";
+                        return The(series);
                     }
                 } else {
                     if (series === undefined) {

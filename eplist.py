@@ -59,8 +59,9 @@ class Spinbox(Tk.Spinbox):
 class Entry(Tk.Entry):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, width=20, **kwargs)
-        self.bind('<Control-Left>', self.master.master.AddToArticle)
-        self.bind('<Control-Right>', self.master.master.RemoveFromArticle)
+        with ignored(AttributeError):
+            self.bind('<Control-Left>', self.master.master.AddToArticle)
+            self.bind('<Control-Right>', self.master.master.RemoveFromArticle)
 
 
 class Scale(ttk.Scale):
@@ -579,7 +580,7 @@ class EpisodeAdder(Tk.Frame):
         output['series'] = self._article_series(series)
         output['season'] = page['season']
         output['ep'] = self._article_episode(page)
-        output['location'] = dict(wallet=series['wallet'])
+        output['location'] = dict(wallet=series['wallet'], space=-1)
         output['date'] = page['airdate'].replace('-', '')
         return remove_empty_values(output)
 

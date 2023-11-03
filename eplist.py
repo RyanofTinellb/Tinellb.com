@@ -41,7 +41,7 @@ class WalletBox(ttk.Combobox):
                   'Black Box',
                   'Velcro Tabbed Black Wallet',
                   'Khaki Camoflage Covered Wallet')
-        super().__init__(*args, **kwargs, values=values, width=20)
+        super().__init__(*args, **kwargs, values=values, width=40)
 
 
 class TypeBox(ttk.Combobox):
@@ -58,7 +58,7 @@ class Spinbox(Tk.Spinbox):
 
 class Entry(Tk.Entry):
     def __init__(self, *args, **kwargs):
-        super().__init__(*args, width=20, **kwargs)
+        super().__init__(*args, width=40, **kwargs)
         with ignored(AttributeError):
             self.bind('<Control-Left>', self.master.master.AddToArticle)
             self.bind('<Control-Right>', self.master.master.RemoveFromArticle)
@@ -102,6 +102,7 @@ def pop_empty_values(dict_):
             if len(v) == 1:
                 dict_[k] = [t for t in v.values()][0]
 
+screenHeight = 12
 
 class ListEditor(Tk.Frame):
     def __init__(self, filename):
@@ -153,11 +154,11 @@ class ListEditor(Tk.Frame):
                         self.eplist += [{}]
 
         def up():
-            self.position.set(max(self.position.get()-7, 0))
+            self.position.set(max(self.position.get()-screenHeight, 0))
             move()
 
         def down(event=None):
-            self.position.set(min(self.position.get()+7, self.length))
+            self.position.set(min(self.position.get()+screenHeight, self.length))
             move()
 
         def shift(event=None):
@@ -225,13 +226,13 @@ class ListEditor(Tk.Frame):
             return meta, nSeries, date, number, wallet, space
 
         self.frames = [EpisodeEditor(
-            self.master, self.eplist, move) for x in range(7)]
+            self.master, self.eplist, move) for x in range(screenHeight)]
         for row, frame in enumerate(self.frames):
             frame.bind('<MouseWheel>', shift)
             frame.grid(row=row, column=0)
         self.position = Tk.IntVar()
         scale = Scale(self, move)
-        scale.grid(row=0, rowspan=7, column=1)
+        scale.grid(row=0, rowspan=screenHeight, column=1)
         scale.bind('<MouseWheel>', shift)
         frame = Tk.Frame(self.master)
         Tk.Button(frame, text='⬆', command=up).grid(row=0, column=0)
@@ -241,7 +242,7 @@ class ListEditor(Tk.Frame):
         Tk.Button(frame, text='Sort', command=sort).grid(
             row=4, column=0)
         Tk.Button(frame, text='Find', command=find).grid(row=5, column=0)
-        frame.grid(row=0, column=2, rowspan=7, sticky='n')
+        frame.grid(row=0, column=2, rowspan=screenHeight, sticky='n')
         find()
 
 

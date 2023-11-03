@@ -8730,6 +8730,7 @@
                 data = await fetch("eplist.json");
                 data = await data.json();
                 data = data.filter(ep => ep.type != "Gap" && ep.type != "Special Features");
+                data = data.filter(ep => ep.type == "End" || ep.type == "Finale")
                 console.log(data);
                 data.forEach((ep, index) => ep.index = index);
                 makeList(a => {

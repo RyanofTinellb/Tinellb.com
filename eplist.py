@@ -46,8 +46,8 @@ class WalletBox(ttk.Combobox):
 
 class TypeBox(ttk.Combobox):
     def __init__(self, *args, **kwargs):
-        values = ('', 'Premiere', 'Start', 'Hiatus', 'Movie',
-                  'Alone', 'Film', 'Back', 'End', 'Finale', 'Gap', 'Special Features')
+        values = ('', 'Premiere', 'Start', 'Movie',
+                  'Miniseries', 'Film', 'End', 'Finale', 'Gap', 'Special Features')
         super().__init__(*args, **kwargs, values=values)
 
 

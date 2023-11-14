@@ -1,5 +1,32 @@
+.Premiere, .Finale {
+    font-weight: bold;
+}
+
+.Miniseries {
+    font-size: xx-large;
+}
+
+.End, .Start {
+    font-style: italic;
+}
+
+.Movie {
+    font-size: smaller;
+    color: red;
+}
+
+.Film {
+    font-size: smaller;
+    color: blue;
+}
+
 .content h1 {
     font-size: 36pt;
+}
+
+body {
+    background-color: black;
+    color: white;
 }
 
 .content h2 {
@@ -11,7 +38,7 @@
 }
 
 .content h2 a {
-    color: black;
+    color: white;
     font-family: serif;
     font-weight: normal;
     text-decoration: overline;
@@ -46,7 +73,7 @@
 }
 
 .nav-pane ul li a {
-    color: black;
+    color: white;
 }
 
 .nav-pane form {
@@ -94,7 +121,7 @@
 }
 
 .sorts button.selected {
-    background-color: black;
+    background-color: white;
     color: white;
 }
 

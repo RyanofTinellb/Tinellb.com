@@ -4,13 +4,7 @@
 }
 
 .Miniseries {
-    font-size: xx-large;
     color: yellowgreen;
-}
-
-.Premiere, .Finale, .End, .Start {
-    font-size: x-large;
-    text-decoration: underline;
 }
 
 .End, .Start {
@@ -18,12 +12,10 @@
 }
 
 .Movie {
-    font-size: smaller;
     color: lightcoral;
 }
 
 .Film {
-    font-size: smaller;
     color: lightblue;
 }
 

@@ -8866,7 +8866,7 @@
             }
 
             function Name(ep, series, name) {
-                return name.length > 1 && series ?
+                return name.length > 0 && series ?
                     `${name} ${Numbers(ep)} ${Episode(ep)}` :
                     `<span class="hidden-info">${name} - </span>${Episode(ep)} ${Numbers(ep)}`
             }

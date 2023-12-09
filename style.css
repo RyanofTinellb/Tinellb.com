@@ -1,9 +1,16 @@
 .Premiere, .Finale {
     font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .Miniseries {
     font-size: xx-large;
+    color: yellowgreen;
+}
+
+.Premiere, .Finale, .End, .Start {
+    font-size: x-large;
+    text-decoration: underline;
 }
 
 .End, .Start {
@@ -12,12 +19,12 @@
 
 .Movie {
     font-size: smaller;
-    color: red;
+    color: lightcoral;
 }
 
 .Film {
     font-size: smaller;
-    color: blue;
+    color: lightblue;
 }
 
 .content h1 {

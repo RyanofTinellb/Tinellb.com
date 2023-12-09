@@ -20,6 +20,7 @@ The Girl From Tomorrow
 Red Dwarf
 Buffy, the Vampire Slayer
 Star Trek: The Next Generation
+Spellbinder
 Pushing Daisies
 Dollhouse
 Upstart Crow
@@ -28,9 +29,9 @@ Daria
 Black Books
 Futurama
 Game of Thrones
-The Venture Bros.
 Time Trax
 Becker
+The Venture Bros.
 Coupling
 Firefly
 Bewitched
@@ -47,6 +48,7 @@ Quantum Leap
 Heroes
 The Big Bang Theory
 Smallville
+Fringe
 The Outer Limits
 Star Trek: Strange New Worlds
 The Thin Blue Line
@@ -56,8 +58,6 @@ Charmed II
 The Adventures of Lano & Woodley
 The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television)
 
-Spellbinder
-Fringe
 Warehouse 13
 The Orville
 Angel

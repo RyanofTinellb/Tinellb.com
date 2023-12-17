@@ -5702,7 +5702,7 @@
 {"series": "Sandman (T)", "season": 1, "ep": {"number": 8, "name": "Playing House"}, "location": {"disc": 2, "wallet": "Red Covered Wallet", "space": 91}, "date": "20220805"},
 {"series": "Sandman (T)", "season": 1, "ep": {"number": 9, "name": "Collectors"}, "location": {"disc": 3, "wallet": "Red Covered Wallet", "space": 92}, "date": "20220805"},
 {"series": "Sandman (T)", "season": 1, "ep": {"number": 10, "name": "Lost Hearts"}, "location": {"disc": 3, "wallet": "Red Covered Wallet", "space": 92}, "date": "20220805"},
-{"series": "Sandman (T)", "season": 1, "ep": {"number": 11, "name": "Dream of a Thousand Cats"}, "location": {"disc": 3, "wallet": "Red Covered Wallet", "space": 92}, "date": "20220819"},
+{"series": "Sandman (T)", "season": 1, "ep": {"number": 11, "article": "A", "name": "Dream of a Thousand Cats"}, "location": {"disc": 3, "wallet": "Red Covered Wallet", "space": 92}, "date": "20220819"},
 {"series": "Sandman (T)", "season": 1, "ep": {"number": 11, "name": "Calliope"}, "location": {"disc": 3, "wallet": "Red Covered Wallet", "space": 92}, "date": "20220819", "type": "Finale"},
 {"series": "Sapphire & Steel", "season": 1, "multi": 6, "ep": "Escape Through a Crack in Time", "location": {"disc": 1, "wallet": "Red Covered Wallet", "space": 55}, "type": "Miniseries", "date": "19790710"},
 {"series": "Sapphire & Steel", "season": 2, "multi": 8, "ep": {"article": "The", "name": "Railway Station"}, "location": {"disc": 2, "wallet": "Red Covered Wallet", "space": 56}, "type": "Miniseries", "date": "19790731"},

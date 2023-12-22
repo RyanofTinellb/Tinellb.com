@@ -1,3 +1,5 @@
+# pylint: disable=all
+
 import json
 import tkinter.ttk as ttk
 import tkinter as Tk
@@ -24,31 +26,59 @@ class Type(Tk.StringVar):
         super().__init__()
 
 
-class WalletBox(ttk.Combobox):
+class FillBox(ttk.Combobox):
+    def __init__(self, *args, values=None, **kwargs):
+        super().__init__(*args, **kwargs)
+
+
+class WalletBox(FillBox):
     def __init__(self, *args, **kwargs):
-        values = ('Red Covered Wallet',
-                  'Big Black Box',
-                  'Pink and Light Grey Wallet',
-                  'Black Leather Wallet',
-                  'Yellow Wallet',
-                  'Silver Box',
-                  'Dark Blue Wallet',
-                  'Brown Leather Wallet',
-                  'Silver Wallet',
-                  'Brown Box',
-                  'Dark Blue Covered Wallet',
-                  'Blue and Dark Gray Wallet',
-                  'Black Box',
-                  'Velcro Tabbed Black Wallet',
-                  'Khaki Camoflage Covered Wallet')
-        super().__init__(*args, **kwargs, values=values, width=40)
+        wallets = {'A': 'Red Covered Wallet',
+                  'B': 'Big Black Box',
+                  'C': 'Pink and Light Grey Wallet',
+                  'D': 'Black Leather Wallet',
+                  'E': 'Yellow Wallet',
+                  'F': 'Silver Box',
+                  'G': 'Dark Blue Wallet',
+                  'H': 'Brown Leather Wallet',
+                  'L': 'Silver Wallet',
+                  'M': 'Brown Box',
+                  'P': 'Dark Blue Covered Wallet',
+                  'R': 'Blue and Dark Gray Wallet',
+                  'T': 'Black Box',
+                  'U': 'Velcro Tabbed Black Wallet',
+                  'W': 'Khaki Camoflage Covered Wallet'}
+        super().__init__(*args, **kwargs, values=wallets.values(), width=40)
+        self.wallets = wallets
+        self.bind('<KeyPress>', self.fill)
+    
+    def fill(self, event):
+        with ignored(KeyError):
+            wallet = self.wallets[event.keysym.upper()]
+            self.set(wallet)
+        return 'break'
 
 
-class TypeBox(ttk.Combobox):
+class TypeBox(FillBox):
     def __init__(self, *args, **kwargs):
         values = ('', 'Premiere', 'Start', 'Movie',
-                  'Miniseries', 'Film', 'End', 'Finale', 'Continuation', 'Gap', 'Special Features')
+                  'Miniseries', 'Film', 'End', 'Finale', 'Iso', 'Gap', 'Special Features')
         super().__init__(*args, **kwargs, values=values)
+        self.values = values
+        self._chars = ''
+        self.bind('<KeyPress>', self.fill)
+
+    def fill(self, event):
+        if event.keysym == 'BackSpace':
+            self._chars = self._chars[:-1]
+            return 'break'
+        self._chars += event.char.lower()
+        for value in self.values:
+            if value.lower().startswith(self._chars.lower()):
+                self.set(value)
+                return 'break'
+        self._chars = ''
+        return 'break'
 
 
 class Spinbox(Tk.Spinbox):
@@ -102,7 +132,9 @@ def pop_empty_values(dict_):
             if len(v) == 1:
                 dict_[k] = [t for t in v.values()][0]
 
+
 screenHeight = 12
+
 
 class ListEditor(Tk.Frame):
     def __init__(self, filename):
@@ -113,8 +145,8 @@ class ListEditor(Tk.Frame):
         top = self.winfo_toplevel()
         top.state('zoomed')
 
-        def find(event=None):
-            text = Tk.simpledialog.askstring(
+        def find(_event=None):
+            text = sd.askstring(
                 'Series Name', 'What series are you looking for?')
             if text is not None:
                 self.position.set(_find(text))
@@ -158,7 +190,8 @@ class ListEditor(Tk.Frame):
             move()
 
         def down(event=None):
-            self.position.set(min(self.position.get()+screenHeight, self.length))
+            self.position.set(
+                min(self.position.get()+screenHeight, self.length))
             move()
 
         def shift(event=None):
@@ -272,13 +305,12 @@ class EpisodeEditor(Tk.Frame):
         self.directory = dict(
             series=dict(meta=Tk.StringVar(),
                         series=Tk.StringVar(), number=Tk.IntVar()),
-            season=dict(season=Tk.StringVar(), number=Tk.IntVar()),
+            season=dict(season=Tk.StringVar(), number=Tk.IntVar(), type_=Type()),
             episode=dict(article=Tk.StringVar(),
                          episode=Tk.StringVar(), number=Tk.IntVar()),
             location=dict(disc=Tk.IntVar(), wallet=Wallet(),
                           space=Tk.IntVar()),
-            miscellaneous=dict(type_=Type(),
-                               parts=Tk.IntVar(), section=Tk.StringVar()),
+            parts=dict(cardinal=Tk.IntVar(), name=Tk.StringVar(), ordinal=Tk.IntVar()),
             date=dict(day=Tk.IntVar(), month=Tk.IntVar(), year=Tk.IntVar())
         )
         self.frames = {n: self.label_frame(n, f)
@@ -362,18 +394,24 @@ class EpisodeEditor(Tk.Frame):
         self.set_var('location', 'space', value)
 
         value = entry.get('type', '')
-        self.set_var('miscellaneous', 'type_', value)
+        self.set_var('season', 'type_', value)
 
         value = entry.get('multi', None)
-        if isinstance(value, int):
-            self.set_var('miscellaneous', 'parts', value)
-            self.set_var('miscellaneous', 'section', '')
-        elif isinstance(value, str):
-            self.set_var('miscellaneous', 'parts', 1)
-            self.set_var('miscellaneous', 'section', value)
-        else:
-            self.set_var('miscellaneous', 'parts', 1)
-            self.set_var('miscellaneous', 'section', '')
+        match type(value):
+            case int:
+                self.set_var('parts', 'cardinal', value)
+                self.set_var('parts', 'name', '')
+                self.set_var('parts', 'ordinal', 0)
+            case str:
+                self.set_var('parts', 'cardinal', 1)
+                self.set_var('parts', 'name', value)
+                self.set_var('parts', 'ordinal', value)
+            case dict:
+                self.set_vars('parts', value)
+            case _default:
+                self.set_var('parts', 'cardinal', 1)
+                self.set_var('parts', 'name', '')
+                self.set_var('parts', 'ordinal', 0)
 
         try:
             value = entry['date']
@@ -388,23 +426,28 @@ class EpisodeEditor(Tk.Frame):
     def set_var(self, lat, long_, value):
         self.directory[lat][long_].set(value)
 
+    def set_vars(self, lat, values):
+        for value, long_ in values.items():
+            self.set_var(lat, long_, value)
+
     def save_entry(self):
         sMeta = self.get_var('series', 'meta')
         sSeries = self.get_var('series', 'series')
         nSeries = self.get_var('series', 'number')
         nSeason = self.get_var('season', 'number')
         sSeason = self.get_var('season', 'season')
-        sMulti = self.get_var('miscellaneous', 'section')
+        sType = self.get_var('season', 'type_')
         nEp = self.get_var('episode', 'number')
         sEpArt = self.get_var('episode', 'article')
         sEp = self.get_var('episode', 'episode')
         nDisc = self.get_var('location', 'disc')
         nSpace = self.get_var('location', 'space')
-        nMulti = self.get_var('miscellaneous', 'parts')
+        nMulti = self.get_var('parts', 'cardinal')
+        sMulti = self.get_var('parts', 'name')
+        noMulti = self.get_var('parts', 'ordinal')
         sWallet = self.get_var('location', 'wallet')
         dDate = ''.join([pad(self.get_var('date', x), l)
                          for x, l in (('year', 4), ('month', 2), ('day', 2))])
-        sType = self.get_var('miscellaneous', 'type_')
 
         if sMeta == sSeries or not sMeta:
             self.entry.pop('meta', None)
@@ -412,7 +455,7 @@ class EpisodeEditor(Tk.Frame):
             self.entry['meta'] = sMeta
 
         def SEquals(sSeries, sEp):
-            return sSeries == sEp or sSeries == sEp + ' (T)'
+            return sSeries in (sEp, f'{sEp} (T)')
 
         if SEquals(sSeries, sEp):
             if nSeries:
@@ -433,7 +476,9 @@ class EpisodeEditor(Tk.Frame):
             else:
                 self.entry.pop('season', None)
 
-        if sMulti:
+        if noMulti:
+            self.entry['multi'] = {'cardinal': nMulti, 'ordinal': noMulti, 'name': sMulti}
+        elif sMulti:
             self.entry['multi'] = sMulti
         elif nMulti != 1:
             self.entry['multi'] = nMulti
@@ -494,6 +539,7 @@ class EpisodeEditor(Tk.Frame):
             episode.insert(0, article.pop())
         self.set_var('episode', 'episode', ' '.join(episode))
         self.set_var('episode', 'article', ' '.join(article))
+
 
 col = [-1]
 

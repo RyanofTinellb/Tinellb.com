@@ -16,6 +16,18 @@
     color: lightcoral;
 }
 
+.Iso {
+    font-size: smaller;
+}
+
+.Iso::before {
+    content: '['
+}
+
+.Iso::after {
+    content: ']'
+}
+
 .Film {
     color: lightblue;
 }

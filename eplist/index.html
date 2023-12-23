@@ -8744,7 +8744,7 @@
                 }
                 sortfn();
                 console.log(data);
-                eplist.innerHTML = "<ol style='list-style:none; text-align:center;'>" + data.map(ep => `<li style='color:hsl(${Colour(ep)} 100% 35%);'>${Names(ep)}<span class="hidden-info">,&nbsp;aired:&nbsp;${airdate(ep)}</span></li>`).join("\n") + "</ol>";
+                eplist.innerHTML = "<ol style='list-style:none; text-align:center;'>" + data.map(ep => `<li style='color:hsl(${Colour(ep)} 100% 35%);'>${Names(ep)}<span class="hidden-info">,&nbsp;aired:&nbsp;${airdate(...parseDate(ep))}</span></li>`).join("\n") + "</ol>";
             }
 
             Colour = ep => Math.floor(360 / data.length * ep.index)
@@ -8906,12 +8906,10 @@
             function Episode(ep) {
                 let article = ep.ep.article === undefined ? "" : `${ep.ep.article}&nbsp;`;
                 let episode = ep.ep.name === undefined ? ep.ep : `${article}${ep.ep.name}`;
-                return typeof episode === "string" ? episode.replace(/ /g, "&nbsp;") : episode;
+                return typeof episode === "string" ? episode.replace(/ /g, "&nbsp;").replace(/(\W)&nbsp;/, '$1 '): episode;
             }
 
-            function The(name) {
-                return name.endsWith("(T)") ? "The " + name.slice(0, -4) : name;
-            }
+            The = name => name.endsWith("(T)") ? "The " + name.slice(0, -4) : name;
 
             function SeriesName(ep) {
                 let meta = ep.meta;
@@ -8960,7 +8958,7 @@
                 }
                 season = Season(ep.season);
                 padx = season && number ? 'x' : '';
-                let section = Section(ep);
+                let section = Section(ep.multi);
                 let code = `${season}${padx}${number}${section}`;
                 let multi = typeof ep.multi === "number" ? ep.multi : '';
                 code += multi ? `\\${multi}` : '';
@@ -8976,44 +8974,11 @@
                 }
             }
 
-            function Section(ep) {
-                let multi = ep.multi;
-                if (multi === undefined) {
-                    return '';
-                }
-                if (typeof multi == "number") {
-                    return '';
-                }
-                return chr(multi.ordinal + asc('a') - 1);
-            }
-
-            function asc(character) {
-                return character.charCodeAt(0);
-            }
-
-            function chr(code) {
-                return String.fromCharCode(code)
-            }
-
-            function Season(season) {
-                /*  3 => 3
-                {number: 3, name='Circles'} => 3<Circles>
-                */
-                if (season === undefined) {
-                    return "";
-                }
-                if (typeof season === "number") {
-                    return season;
-                }
-                if (typeof season === "string") {
-                    return "";
-                }
-                return season.number
-            }
-
-            function pad(num) {
-                return (num < 10 ? "0" : "") + num;
-            }
+            Section = multi => (multi === undefined || typeof multi == "number") ? '' : chr(multi.ordinal + asc('a') - 1);
+            Season = season => (season === undefined || typeof season === "string") ? "" : (season.number || season);
+            asc = character => character.charCodeAt(0);
+            chr = code => String.fromCharCode(code);
+            pad = num => (num < 10 ? "0" : "") + num;
 
             function place(ep) {
                 let location = ep.location;
@@ -9040,10 +9005,7 @@
                 }
             }
 
-            function airdate(ep) {
-                let [year, month, day] = parseDate(ep);
-                return `${pad(day)}-${MONTHS[month]}-${year}`.replace(/-/g, "&#x2011;");
-            }
+            airdate = (year, month, day) => `${pad(day)}-${MONTHS[month]}-${year}`.replace(/-/g, "&#x2011;");
 
             function parseDate(ep) {
                 return [

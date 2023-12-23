@@ -149,7 +149,7 @@ class ListEditor(Tk.Frame):
             text = sd.askstring(
                 'Series Name', 'What series are you looking for?')
             if text is not None:
-                self.position.set(_find(text))
+                self.position.set(_find(text) - 1)
             move()
 
         def _find(text):
@@ -192,6 +192,14 @@ class ListEditor(Tk.Frame):
         def down(event=None):
             self.position.set(
                 min(self.position.get()+screenHeight, self.length))
+            move()
+        
+        def nudgeup():
+            self.position.set(max(self.position.get()-1, 0))
+            move()
+
+        def nudgedown():
+            self.position.set(min(self.position.get()+1, self.length))
             move()
 
         def shift(event=None):
@@ -277,13 +285,15 @@ class ListEditor(Tk.Frame):
         scale.grid(row=0, rowspan=screenHeight, column=1)
         scale.bind('<MouseWheel>', shift)
         frame = Tk.Frame(self.master)
-        Tk.Button(frame, text='⬆', command=up).grid(row=0, column=0)
-        Tk.Button(frame, text='⬇', command=down).grid(row=1, column=0)
-        Tk.Button(frame, text='Save', command=save).grid(row=2, column=0)
-        Tk.Button(frame, text='Add', command=add).grid(row=3, column=0)
+        Tk.Button(frame, text='⮝', command=up).grid(row=0, column=0)
+        Tk.Button(frame, text='⬆', command=nudgeup).grid(row=1, column=0)
+        Tk.Button(frame, text='⬇', command=nudgedown).grid(row=2, column=0)
+        Tk.Button(frame, text='⮟', command=down).grid(row=3, column=0)
+        Tk.Button(frame, text='Save', command=save).grid(row=4, column=0)
+        Tk.Button(frame, text='Add', command=add).grid(row=5, column=0)
         Tk.Button(frame, text='Sort', command=sort).grid(
-            row=4, column=0)
-        Tk.Button(frame, text='Find', command=find).grid(row=5, column=0)
+            row=6, column=0)
+        Tk.Button(frame, text='Find', command=find).grid(row=7, column=0)
         frame.grid(row=0, column=2, rowspan=screenHeight, sticky='n')
         find()
 

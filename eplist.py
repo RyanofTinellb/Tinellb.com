@@ -34,24 +34,24 @@ class FillBox(ttk.Combobox):
 class WalletBox(FillBox):
     def __init__(self, *args, **kwargs):
         wallets = {'A': 'Red Covered Wallet',
-                  'B': 'Big Black Box',
-                  'C': 'Pink and Light Grey Wallet',
-                  'D': 'Black Leather Wallet',
-                  'E': 'Yellow Wallet',
-                  'F': 'Silver Box',
-                  'G': 'Dark Blue Wallet',
-                  'H': 'Brown Leather Wallet',
-                  'L': 'Silver Wallet',
-                  'M': 'Brown Box',
-                  'P': 'Dark Blue Covered Wallet',
-                  'R': 'Blue and Dark Gray Wallet',
-                  'T': 'Black Box',
-                  'U': 'Velcro Tabbed Black Wallet',
-                  'W': 'Khaki Camoflage Covered Wallet'}
+                   'B': 'Big Black Box',
+                   'C': 'Pink and Light Grey Wallet',
+                   'D': 'Black Leather Wallet',
+                   'E': 'Yellow Wallet',
+                   'F': 'Silver Box',
+                   'G': 'Dark Blue Wallet',
+                   'H': 'Brown Leather Wallet',
+                   'L': 'Silver Wallet',
+                   'M': 'Brown Box',
+                   'P': 'Dark Blue Covered Wallet',
+                   'R': 'Blue and Dark Gray Wallet',
+                   'T': 'Black Box',
+                   'U': 'Velcro Tabbed Black Wallet',
+                   'W': 'Khaki Camoflage Covered Wallet'}
         super().__init__(*args, **kwargs, values=wallets.values(), width=40)
         self.wallets = wallets
         self.bind('<KeyPress>', self.fill)
-    
+
     def fill(self, event):
         with ignored(KeyError):
             wallet = self.wallets[event.keysym.upper()]
@@ -252,8 +252,10 @@ class ListEditor(Tk.Frame):
             if isinstance(season, dict):
                 season = season.get('number')
             elif isinstance(season, str):
-                print(ep, meta, series)
                 season = 0
+
+            multi = ep.get('multi')
+            ordinal = multi.get('ordinal', 0) if isinstance(multi, dict) else 0
 
             date = ep.get('date', '00000000')
             episode = ep.get('ep')
@@ -263,7 +265,7 @@ class ListEditor(Tk.Frame):
             space = ep.get('location', {}).get('space')
             if meta is None or nSeries is None or date is None or number is None or season is None:
                 print(ep, meta, nSeries, date, number, season)
-            return meta, nSeries, season, number, date, wallet, space
+            return meta, nSeries, season, number, ordinal, date, wallet, space
 
         self.frames = [EpisodeEditor(
             self.master, self.eplist, move) for x in range(screenHeight)]
@@ -305,12 +307,14 @@ class EpisodeEditor(Tk.Frame):
         self.directory = dict(
             series=dict(meta=Tk.StringVar(),
                         series=Tk.StringVar(), number=Tk.IntVar()),
-            season=dict(season=Tk.StringVar(), number=Tk.IntVar(), type_=Type()),
+            season=dict(season=Tk.StringVar(),
+                        number=Tk.IntVar(), type_=Type()),
             episode=dict(article=Tk.StringVar(),
                          episode=Tk.StringVar(), number=Tk.IntVar()),
             location=dict(disc=Tk.IntVar(), wallet=Wallet(),
                           space=Tk.IntVar()),
-            parts=dict(cardinal=Tk.IntVar(), name=Tk.StringVar(), ordinal=Tk.IntVar()),
+            parts=dict(cardinal=Tk.IntVar(),
+                       name=Tk.StringVar(), ordinal=Tk.IntVar()),
             date=dict(day=Tk.IntVar(), month=Tk.IntVar(), year=Tk.IntVar())
         )
         self.frames = {n: self.label_frame(n, f)
@@ -397,18 +401,18 @@ class EpisodeEditor(Tk.Frame):
         self.set_var('season', 'type_', value)
 
         value = entry.get('multi', None)
-        match type(value):
-            case int:
+        match value:
+            case str():
+                self.set_var('parts', 'cardinal', 1)
+                self.set_var('parts', 'name', value)
+                self.set_var('parts', 'ordinal', 0)
+            case int():
                 self.set_var('parts', 'cardinal', value)
                 self.set_var('parts', 'name', '')
                 self.set_var('parts', 'ordinal', 0)
-            case str:
-                self.set_var('parts', 'cardinal', 1)
-                self.set_var('parts', 'name', value)
-                self.set_var('parts', 'ordinal', value)
-            case dict:
+            case dict():
                 self.set_vars('parts', value)
-            case _default:
+            case _else:
                 self.set_var('parts', 'cardinal', 1)
                 self.set_var('parts', 'name', '')
                 self.set_var('parts', 'ordinal', 0)
@@ -424,10 +428,13 @@ class EpisodeEditor(Tk.Frame):
             self.set_var('date', 'year', 0)
 
     def set_var(self, lat, long_, value):
-        self.directory[lat][long_].set(value)
+        try:
+            self.directory[lat][long_].set(value)
+        except KeyError:
+            print(lat, long_, value)
 
     def set_vars(self, lat, values):
-        for value, long_ in values.items():
+        for long_, value in values.items():
             self.set_var(lat, long_, value)
 
     def save_entry(self):
@@ -477,7 +484,8 @@ class EpisodeEditor(Tk.Frame):
                 self.entry.pop('season', None)
 
         if noMulti:
-            self.entry['multi'] = {'cardinal': nMulti, 'ordinal': noMulti, 'name': sMulti}
+            self.entry['multi'] = {'cardinal': nMulti,
+                                   'ordinal': noMulti, 'name': sMulti}
         elif sMulti:
             self.entry['multi'] = sMulti
         elif nMulti != 1:

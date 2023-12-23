@@ -8861,14 +8861,46 @@
 
             function Names(ep) {
                 let series = window.location.href.indexOf("#noseries") == -1;
-                let name = SeriesName(ep);
-                return `<span class="${ep.type}">${Name(ep, series, name)}</span>`
+                return `<span class="${ep.type}">${Name(ep, series)}</span>`
+            }
+            
+            function Name(ep, series) {
+                let seriesname = SeriesName(ep);
+                let seasonname = SeasonName(ep);
+                punctuation = seriesname && !seasonname ? (series ? ' ' : ' - ') : '';
+                punct2 = seasonname ? ' - ' : ''
+                return series ?
+                    `${seriesname}${punctuation}${SeasonName(ep)}${Numbers(ep)} ${Multi(ep)}${Episode(ep)}` :
+                    `<span class="hidden-info">${seriesname}${punctuation}${SeasonName(ep)}${punct2}</span>${Episode(ep)} ${Numbers(ep)}`
             }
 
-            function Name(ep, series, name) {
-                return name.length > 0 && series ?
-                    `${name} ${Numbers(ep)} ${Episode(ep)}` :
-                    `<span class="hidden-info">${name} - </span>${Episode(ep)} ${Numbers(ep)}`
+            function Multi(ep) {
+                let multi = ep.multi;
+                if (multi === undefined) {
+                    return '';
+                }
+                if (typeof multi === "number") {
+                    return '';
+                }
+                if (typeof multi === "string") {
+                    return ` ${multi}: `;
+                }
+                return ` ${multi.name}: `
+
+            }
+
+            function SeasonName(ep) {
+                let season = ep.season;
+                if (season === undefined) {
+                    return '';
+                }
+                if (typeof season === "number") {
+                    return '';
+                }
+                if (typeof season === "string") {
+                    return ` - ${season} `;
+                }
+                return ` - ${season.name} `;
             }
 
             function Episode(ep) {
@@ -8921,24 +8953,16 @@
             }
 
             function Numbers(ep) {
-                let season = "";
-                if (ep.season === undefined) {
-                    season = "";
-                } else {
-                    if (ep.season.number === undefined) {
-                        season = ep.season + "x";
-                    } else {
-                        season = ep.season.number + "x";
-                    }
-                }
                 if (ep.ep.number === undefined) {
                     number = "";
-                    season = season.replace("x", "");
                 } else {
                     number = pad(ep.ep.number)
                 }
-                let code = `${season}${number}`;
-                let multi = typeof ep.multi === "number" ? ep.multi : undefined;
+                season = Season(ep.season);
+                padx = season && number ? 'x' : '';
+                let section = Section(ep);
+                let code = `${season}${padx}${number}${section}`;
+                let multi = typeof ep.multi === "number" ? ep.multi : '';
                 code += multi ? `\\${multi}` : '';
                 code = code.length >= 1 ? code : '';
                 if (place(ep)) {
@@ -8950,6 +8974,41 @@
                 } else {
                     return `(${code}) `
                 }
+            }
+
+            function Section(ep) {
+                let multi = ep.multi;
+                if (multi === undefined) {
+                    return '';
+                }
+                if (typeof multi == "number") {
+                    return '';
+                }
+                return chr(multi.ordinal + asc('a') - 1);
+            }
+
+            function asc(character) {
+                return character.charCodeAt(0);
+            }
+
+            function chr(code) {
+                return String.fromCharCode(code)
+            }
+
+            function Season(season) {
+                /*  3 => 3
+                {number: 3, name='Circles'} => 3<Circles>
+                */
+                if (season === undefined) {
+                    return "";
+                }
+                if (typeof season === "number") {
+                    return season;
+                }
+                if (typeof season === "string") {
+                    return "";
+                }
+                return season.number
             }
 
             function pad(num) {

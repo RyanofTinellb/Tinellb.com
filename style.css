@@ -41,6 +41,10 @@ body {
     color: white;
 }
 
+.eplist ol li {
+    margin: 0.5em auto;
+}
+
 .content h2 {
     font-family: serif;
     font-weight: normal;

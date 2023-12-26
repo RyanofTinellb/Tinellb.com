@@ -149,7 +149,7 @@ class ListEditor(Tk.Frame):
             text = sd.askstring(
                 'Series Name', 'What series are you looking for?')
             if text is not None:
-                self.position.set(_find(text) - 1)
+                self.position.set(_find(text))
             move()
 
         def _find(text):
@@ -169,11 +169,21 @@ class ListEditor(Tk.Frame):
 
         def _series(ep):
             series = ep.get('series', '')
-            if isinstance(series, str):
-                return series
-            elif isinstance(series, int):
+            match series:
+                case str():
+                    return series or _episode(ep)
+                case int():
+                    return '' or _episode(ep)
+                case _else:
+                    return series.get('name', '') or _episode(ep)
+        
+        def _episode(ep):
+            episode = ep.get('ep', '')
+            if isinstance(episode, str):
+                return episode
+            if isinstance(episode, int):
                 return ''
-            return series.get('name', '')
+            return episode.get('name', '')
 
         def move(num=None):
             num = self.position.get()
@@ -352,11 +362,26 @@ class EpisodeEditor(Tk.Frame):
         self.entry = entry
         self.set_var('series', 'meta', entry.get('meta', ''))
 
-        value = entry.get('series')
+        value = entry.get('ep')
         with ignored(AttributeError):
             value = value.get('name')
-        value = value if isinstance(value, str) else ''
-        self.set_var('series', 'series', value)
+        ep_name = value if isinstance(value, str) else ''
+        self.set_var('episode', 'episode', ep_name)
+
+        try:
+            ep_article = entry['ep']['article']
+        except:
+            ep_article = ''
+        self.set_var('episode', 'article', ep_article)
+
+        series_name = entry.get('series')
+        with ignored(AttributeError):
+            series_name = series_name.get('name')
+        series_name = series_name if isinstance(value, str) else ''
+        series_name = series_name or ep_name
+        if ep_article == 'The' and series_name == ep_name:
+            series_name += ' (T)'
+        self.set_var('series', 'series', series_name)
 
         value = entry.get('series')
         with ignored(AttributeError):
@@ -375,18 +400,6 @@ class EpisodeEditor(Tk.Frame):
             value = value.get('number')
         value = value if isinstance(value, int) else 0
         self.set_var('season', 'number', value)
-
-        try:
-            value = entry['ep']['article']
-        except:
-            value = ''
-        self.set_var('episode', 'article', value)
-
-        value = entry.get('ep')
-        with ignored(AttributeError):
-            value = value.get('name')
-        value = value if isinstance(value, str) else ''
-        self.set_var('episode', 'episode', value)
 
         value = entry.get('ep')
         with ignored(AttributeError):

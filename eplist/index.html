@@ -13,13 +13,6 @@
 
         <link rel="icon" type="image/png" href="../favicon.png">
 
-        <script type="text/javascript">
-            let href = window.location.href;
-            if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
-                let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
-                window.location.href = `search.html?${term}&andOr=and`;
-            }
-        </script>
         <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
 
     </head>
@@ -66,7 +59,7 @@
                             together. For instance, check episodes of <em>Scrubs</em> or <em>Day Break</em>, or Simpsons
                             episodes with character names in the title.</p>
                     </div>
-                    <p><a href="#noseries">Remove Series Name</a></p>
+                    <p><a href="?series=false">Remove Series Name</a></p>
                     <p><noscript></p>
                     <p>For a sortable list of episodes, please <a href="https://www.enable-javascript.com/">enable</a>
                         JavaScript or check out the JSON object <a href="eplist.json">here</a>.</p>
@@ -8678,6 +8671,19 @@
             }
         </script>
         <script>
+            const SORTS = {
+                'airdate': AirdateSort,
+                'calendar': CalendarSort,
+                'default': DefaultSort,
+                'title': EpNameSort,
+                'length': EpnameLengthSort,
+                'wallet': WalletSort,
+                'random': RandomSort
+            };
+
+            const ALLOWED_SORTS = ['airdate', 'calendar', 'default', 'title', 'length', 'wallet', 'random'];
+
+            const EmptySort = () => undefined;
             let eplist = document.getElementsByClassName("eplist")[0];
             let numEps = document.getElementById("numEps");
             let data;
@@ -8727,24 +8733,27 @@
             const MONTHS = [undefined, "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
             async function openEpList() {
+                searchParams = new URLSearchParams(window.location.search)
+                let series = searchParams.get('series');
+                series = series != 'false';
+                let sortType = searchParams.get('sort');
+                sortType = ALLOWED_SORTS.includes(sortType) ? SORTS[sortType] : EmptySort
                 data = await fetch("eplist.json");
                 data = await data.json();
                 data = data.filter(ep => ep.type != "Gap" && ep.type != "Special Features");
                 console.log(data);
                 data.forEach((ep, index) => ep.index = index);
-                makeList(a => {
-                    return;
-                });
+                makeList(sortType, series);
                 updateNumbers();
             }
 
-            function makeList(sortfn) {
+            function makeList(sortfn, series = true) {
                 for (btn of document.getElementsByTagName("button")) {
                     btn.classList.remove("selected");
                 }
                 sortfn();
                 console.log(data);
-                eplist.innerHTML = "<ol style='list-style:none; text-align:center;'>" + data.map(ep => `<li style='color:hsl(${Colour(ep)} 100% 35%);'>${Names(ep)}<span class="hidden-info">,&nbsp;aired:&nbsp;${airdate(...parseDate(ep))}</span></li>`).join("\n") + "</ol>";
+                eplist.innerHTML = "<ol style='list-style:none; text-align:center;'>" + data.map(ep => `<li style='color:hsl(${Colour(ep)} 100% 35%);'>${Names(ep, series)}<span class="hidden-info">,&nbsp;aired:&nbsp;${airdate(...parseDate(ep))}</span></li>`).join("\n") + "</ol>";
             }
 
             Colour = ep => Math.floor(360 / data.length * ep.index)
@@ -8846,7 +8855,6 @@
                 data.sort((a, b) => a.DATE - b.DATE);
                 counts = Object.entries(counts);
                 counts.sort((a, b) => a[1] - b[1]);
-                console.log(counts);
             }
 
             function WeekDay(year, month, day) {
@@ -8859,8 +8867,7 @@
                 return (century + year + leap + isleap + month + day + 700) % 7
             }
 
-            function Names(ep) {
-                let series = window.location.href.indexOf("#noseries") == -1;
+            function Names(ep, series) {
                 return `<span class="${ep.type}">${Name(ep, series)}</span>`
             }
 

@@ -3,6 +3,22 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+.Premiere {
+    border-top: double;
+}
+
+.Finale {
+    border-bottom: double;
+}
+
+.Start {
+    border-top: solid;
+}
+
+.End {
+    border-bottom: solid
+}
+
 .Miniseries {
     color: yellowgreen;
 }

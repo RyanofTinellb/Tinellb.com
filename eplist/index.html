@@ -59,7 +59,6 @@
                             together. For instance, check episodes of <em>Scrubs</em> or <em>Day Break</em>, or Simpsons
                             episodes with character names in the title.</p>
                     </div>
-                    <p><a href="?series=false">Remove Series Name</a></p>
                     <p><noscript></p>
                     <p>For a sortable list of episodes, please <a href="https://www.enable-javascript.com/">enable</a>
                         JavaScript or check out the JSON object <a href="eplist.json">here</a>.</p>
@@ -8602,42 +8601,54 @@
                     <div class="javascript">
 
                         <div class="sorts">
-                            <p>
-                                <button id="epname" title="Sort by Title" onClick="makeList(EpNameSort)">
-                                    T<span class="desktop">itle</span>
-                                </button>
-                            </p>
-                            <p>
-                                <button id="length" title="Sort by Episode Name Length"
-                                    onClick="makeList(EpnameLengthSort)">
-                                    L<span class="desktop">ength</span>
-                                </button>
-                            </p>
-                            <p>
-                                <button id="airdate" title="Sort by Airdate" onClick="makeList(AirdateSort)">
-                                    A<span class="desktop">irdate</span>
-                                </button>
-                            </p>
-                            <p>
-                                <button id="random" title="Random Sort" onClick="makeList(RandomSort)">
-                                    R<span class="desktop">andom</span>
-                                </button>
-                            </p>
-                            <p>
-                                <button id="calendar" title="Calendar Sort" onClick="makeList(CalendarSort)">
-                                    C<span class="desktop">alendar Sort</span>
-                                </button>
-                            </p>
-                            <p>
-                                <button id="wallet" title="Wallet Sort" onClick="makeList(WalletSort)">
-                                    W<span class="desktop">allet Sort</span>
-                                </button>
-                            </p>
-                            <p>
-                                <button id="default" title="Default Sort" onClick="makeList(DefaultSort)">
-                                    D<span class="desktop">efault Sort</span>
-                                </button>
-                            </p>
+                            <form>
+                                <p>
+                                    <input type="radio" id="series" name="series" value="true">
+                                    <label for="series">Show Series Name</label>
+                                </p>
+                                <p>
+                                    <input type="radio" id="noseries" name="series" value="false">
+                                    <label for="noseries">Hide Series Name</label>
+                                </p>
+                                <p>
+                                    <button type="submit" id="epname" name="sort" value="title" title="Sort by Title">
+                                        T<span class="desktop">itle</span>
+                                    </button>
+                                </p>
+                                <p>
+                                    <button type="submit" id="length" name="sort" value="length"
+                                        title="Sort by Episode Name Length">
+                                        L<span class="desktop">ength</span>
+                                    </button>
+                                </p>
+                                <p>
+                                    <button type="submit" id="airdate" name="sort" value="airdate"
+                                        title="Sort by Airdate">
+                                        A<span class="desktop">irdate</span>
+                                    </button>
+                                </p>
+                                <p>
+                                    <button type="submit" id="random" name="sort" value="random" title="Random Sort">
+                                        R<span class="desktop">andom</span>
+                                    </button>
+                                </p>
+                                <p>
+                                    <button type="submit" id="calendar" name="sort" value="calendar"
+                                        title="Calendar Sort">
+                                        C<span class="desktop">alendar</span>
+                                    </button>
+                                </p>
+                                <p>
+                                    <button type="submit" id="wallet" name="sort" value="wallet" title="Wallet Sort">
+                                        W<span class="desktop">allet</span>
+                                    </button>
+                                </p>
+                                <p>
+                                    <button type="submit" id="default" name="sort" value="default" title="Default Sort">
+                                        D<span class="desktop">efault</span>
+                                    </button>
+                                </p>
+                            </form>
                         </div>
 
                     </div>
@@ -8687,6 +8698,8 @@
             let eplist = document.getElementsByClassName("eplist")[0];
             let numEps = document.getElementById("numEps");
             let data;
+            let showSeriesName = document.getElementById('series');
+            let hideSeriesName = document.getElementById('noseries');
             openEpList();
 
             const NUMBERS = ["no", "one", "two", "three", "four", "five", "six", "seven", "eight",
@@ -8736,6 +8749,7 @@
                 searchParams = new URLSearchParams(window.location.search)
                 let series = searchParams.get('series');
                 series = series != 'false';
+                (series ? showSeriesName : hideSeriesName).checked = true;
                 let sortType = searchParams.get('sort');
                 sortType = ALLOWED_SORTS.includes(sortType) ? SORTS[sortType] : EmptySort
                 data = await fetch("eplist.json");

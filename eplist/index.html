@@ -8882,8 +8882,10 @@
             }
 
             function Names(ep, series) {
-                return `<span class="${ep.type}">${Name(ep, series)}</span>`
+                return `<span class="${ep.type}${Combo(ep)}">${Name(ep, series)}</span>`
             }
+
+            Combo = ep => ep.multi?.ordinal > 1 ? ' Iso' : '';
 
             function Name(ep, series) {
                 let seriesname = SeriesName(ep);

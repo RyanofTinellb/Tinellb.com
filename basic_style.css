@@ -1,19 +1,21 @@
 a:link {
-  color: #5555FF; /* light blue */
+  color: #5555FF;
+  /* light blue */
 }
 
 a:visited {
-  color: #95A; /* light violet */
+  color: #95A;
+  /* light violet */
 }
 
 .symbol {
-    font-family: serif;
-    font-style: italic;
-    font-size: larger;
+  font-family: serif;
+  font-style: italic;
+  font-size: larger;
 }
 
 .mobile {
-    display: none;
+  display: none;
 }
 
 ipa {
@@ -21,8 +23,8 @@ ipa {
 }
 
 ipa strong {
-    font-weight: 900;
-    color: red;
+  font-weight: 900;
+  color: red;
 }
 
 small-caps {
@@ -46,8 +48,8 @@ high-lulani {
 }
 
 high-lulani::after {
-    content: "\202c\00e8";
-    font-size: 0;
+  content: "\202c\00e8";
+  font-size: 0;
 }
 
 high-lulani:hover {
@@ -58,15 +60,16 @@ high-lulani:hover {
 }
 
 table high-lulani:hover {
-    font-size: larger;
-    font-weight: inherit;
-    padding: inherit;
-    cursor: inherit;
+  font-size: larger;
+  font-weight: inherit;
+  padding: inherit;
+  cursor: inherit;
 }
 
-h1 a:visited, h1 a:link {
-    color: black;
-    text-decoration: none;
+h1 a:visited,
+h1 a:link {
+  color: black;
+  text-decoration: none;
 }
 
 .flex {
@@ -81,15 +84,16 @@ h1 a:visited, h1 a:link {
 }
 
 .nav-pane input.menu {
-    display: none;
+  display: none;
 }
 
-.javascript, .hidden {
-    display: none;
+.javascript,
+.hidden {
+  display: none;
 }
 
 input[type='checkbox'] {
-    display: none;
+  display: none;
 }
 
 .content {
@@ -110,12 +114,13 @@ input[type='checkbox'] {
 }
 
 .content table {
-	border-collapse: collapse;
+  border-collapse: collapse;
 }
 
-.content td, .content th {
-	border: 1px solid darkgrey;
-    white-space: nowrap;
+.content td,
+.content th {
+  border: 1px solid darkgrey;
+  white-space: nowrap;
 }
 
 .content th {
@@ -123,8 +128,8 @@ input[type='checkbox'] {
 }
 
 .content th a {
-    color: inherit;
-    text-decoration: inherit;
+  color: inherit;
+  text-decoration: inherit;
 }
 
 .content th:first-child {
@@ -136,10 +141,10 @@ input[type='checkbox'] {
 }
 
 .content .message p {
-    margin-top: 1em;
-    margin-bottom: 1em;
-    font-size: smaller;
-    color: red;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-size: smaller;
+  color: red;
 }
 
 .content div.mobile-table {
@@ -152,28 +157,28 @@ input[type='checkbox'] {
 }
 
 .content .universe {
-    display: inline;
-    font-family: serif;
+  display: inline;
+  font-family: serif;
 }
 
 .content .results .title-results {
-    font-weight: bold;
-    padding-left: 5%;
-    padding-top: 1em;
+  font-weight: bold;
+  padding-left: 5%;
+  padding-top: 1em;
 }
 
 .content label.folder {
-    text-align: left;
+  text-align: left;
 }
 
 .content input.folder {
-    position: relative;
-    top: 3em;
-    left: 3%;
+  position: relative;
+  top: 3em;
+  left: 3%;
 }
 
-.content input.folder:checked + div.folding p {
-    display: inherit;
+.content input.folder:checked+div.folding p {
+  display: inherit;
 }
 
 .content div.folding p:not(:first-child):not(:last-child) {
@@ -181,23 +186,23 @@ input[type='checkbox'] {
 }
 
 .content div.folding div.literal {
-    display: none;
+  display: none;
 }
 
-.content input.folder:checked + div.folding div.literal p,
-.content input.folder:checked + div.folding div.literal {
-    display: inherit;
+.content input.folder:checked+div.folding div.literal p,
+.content input.folder:checked+div.folding div.literal {
+  display: inherit;
 }
 
 .content .literal p::before {
-    content: "lit.:\a0";
-    font-style: italic;
+  content: "lit.:\a0";
+  font-style: italic;
 }
 
 .content span.tooltip::after {
-    content: "?";
-    font-size: smaller;
-    vertical-align: super;
+  content: "?";
+  font-size: smaller;
+  vertical-align: super;
 }
 
 .content span.tooltip-text {
@@ -269,62 +274,60 @@ input[type='checkbox'] {
   }
 
   .nav-pane input.menu {
-      display: inherit;
+    display: inherit;
   }
 
-  input.menu + ul {
-      display: none;
+  input.menu+ul {
+    display: none;
   }
 
-  input.menu:checked + ul {
-      display: inherit;
+  input.menu:checked+ul {
+    display: inherit;
   }
 
-  .content input.folder:checked + div.folding .tooltip-text {
-      display: inline;
+  .content input.folder:checked+div.folding .tooltip-text {
+    display: inline;
   }
 
   .content span.tooltip:hover .tooltip-text {
     display: inline;
   }
-}
 
-@media screen and (max-width: 600px) {
-    table {
-      display: none;
-    }
+  table {
+    display: none;
+  }
 
-    .content div.mobile-table {
-      display: block;
-    }
+  .content div.mobile-table {
+    display: block;
+  }
 
-    .content div.mobile-table table {
-        display: block;
-        margin-left: 15%;
-    }
+  .content div.mobile-table table {
+    display: block;
+    margin-left: 15%;
+  }
 
-    .content div.mobile-table ul {
-        padding-left: 0;
-        margin-left: 10%;
-    }
+  .content div.mobile-table ul {
+    padding-left: 0;
+    margin-left: 10%;
+  }
 
-    .desktop {
-        display: none;
-    }
+  .desktop {
+    display: none;
+  }
 
-    .mobile {
-        display: initial;
-    }
+  .mobile {
+    display: initial;
+  }
 
-    .content input.folder:checked + div.folding .tooltip-text {
-        display: none;
-    }
+  .content input.folder:checked+div.folding .tooltip-text {
+    display: none;
+  }
 
-    .content span.tooltip:hover .tooltip-text {
-        display: none;
-    }
+  .content span.tooltip:hover .tooltip-text {
+    display: none;
+  }
 
-    .content span.tooltip::after {
-        content: none;
-    }
+  .content span.tooltip::after {
+    content: none;
+  }
 }

@@ -1,4 +1,5 @@
-.Premiere, .Finale {
+.Premiere,
+.Finale {
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -23,7 +24,8 @@
     color: yellowgreen;
 }
 
-.End, .Start {
+.End,
+.Start {
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -124,6 +126,18 @@ body {
     border-bottom: 20px solid #95A;
 }
 
+.box-middle {
+    position: fixed;
+    bottom: 5%;
+    left: 50%;
+    width: 0%;
+    height: 1rem;
+}
+
+.box-middle input {
+    display: none;
+}
+
 .arrow-right a {
     position: fixed;
     bottom: 5%;
@@ -157,48 +171,97 @@ body {
     color: white;
 }
 
+.content .centre {
+    text-align: center;
+    text-indent: 0%;
+}
+
+.seriesheader {
+    text-decoration: underline;
+}
+
+.content .seriesname {
+    display: flex;
+    justify-content: center;
+    font-size: smaller;
+    text-indent: 0%;
+}
+
 @media screen and (max-width: 800px) {
+
+
     .content {
         width: 100%;
         margin-left: 0.5em;
         margin-right: 0;
     }
+
     .sorts {
-        display: flex;
-        flex-direction: row-reverse;
         position: fixed;
-        bottom: 5%;
-        width: 90%;
+        left: 30%;
+        bottom: 10%;
+        background-color: black;
+        /* width: 50%; */
         justify-content: space-evenly;
+        display: none;
     }
+
+
+    .box-middle input {
+        display: block;
+    }
+
+    input:checked+div {
+        display: block;
+    }
+
     .sorts p {
         text-indent: 0;
     }
+
     .sorts p:last-child {
         order: -1;
     }
+
     .sorts button.selected {
         background-color: black !important;
         color: white !important;
     }
+
     button#airdate {
-        background-color: #3C0;
+        background-color: yellow;
     }
-    button#default {
-        background-color: #33F;
+
+    button#calendar {
+        background-color: turquoise;
+    }
+
+    button#wallet {
+        background-color: blue;
         color: white;
     }
+
+    button#default {
+        background-color: purple;
+        color: white;
+    }
+
+    button#length {
+        background-color: orange;
+    }
+
     button#random {
+        background-color: green;
+        color: white;
+    }
+
+    button#epname {
         background-color: red;
         color: white;
     }
-    button#epname {
-        background-color: #FD3;
-    }
+
     .sorts button {
-        border-radius: 50%;
         height: 20px;
-        width: 20px;
-        display: initial;
+        width: 200px;
     }
 }

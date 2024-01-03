@@ -134,7 +134,7 @@ body {
     height: 1rem;
 }
 
-.box-middle input {
+.box-middle input[type="checkbox"] {
     display: none;
 }
 

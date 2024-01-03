@@ -9046,9 +9046,9 @@
                 '' : ` - ${season.name || season} `;
 
             function Episode(ep) {
-                let article = ep.ep.article === undefined ? "" : `${ep.ep.article}`;
+                let article = ep?.ep?.article === undefined ? "" : `${ep.ep.article}`;
                 let pad = !article || article.match(/[^a-zA-Z0-9]$/g) ? "" : '&nbsp;';
-                let episode = ep.ep.name === undefined ? ep.ep : `${article}${pad}${ep.ep.name}`;
+                let episode = ep?.ep?.name === undefined ? (ep?.ep || "") : `${article}${pad}${ep.ep.name}`;
                 return typeof episode === "string" ? episode.replace(/ /g, "&nbsp;").replace(/(\W)&nbsp;/, '$1 ') : episode;
             }
 
@@ -9094,7 +9094,7 @@
             }
 
             function Numbers(ep) {
-                if (ep.ep.number === undefined) {
+                if (ep?.ep?.number === undefined) {
                     number = "";
                 } else {
                     number = pad(ep.ep.number)
@@ -9141,8 +9141,8 @@
                 }
                 if (location.wallet.includes('Box')) {
                     return `${space}${wallet}`;
-                } else if (disc) {
-                    return `${disc}${wallet}`;
+                } else if (space) {
+                    return `${space}${wallet}`;
                 } else {
                     return `${wallet}`;
                 }

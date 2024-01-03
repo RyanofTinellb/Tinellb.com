@@ -207,7 +207,7 @@ body {
     }
 
 
-    .box-middle input {
+    .box-middle input[type="checkbox"] {
         display: block;
     }
 

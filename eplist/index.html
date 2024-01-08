@@ -8887,8 +8887,7 @@
                 sortType = ALLOWED_SORTS.includes(sortType) ? SORTS[sortType] : EmptySort
                 data = await fetch("eplist.json");
                 data = await data.json();
-                // data = data.filter(ep => ep.type != "Gap" && ep.type != "Special Features");
-                data = data.filter(ep => ep.type == "Finale" && ep.type != "Special Features");
+                data = data.filter(ep => ep.type != "Gap" && ep.type != "Special Features");
                 console.log(data);
                 data.forEach((ep, index) => ep.index = index);
                 makeList(sortType, series);
@@ -9073,7 +9072,6 @@
                     if (series === undefined) {
                         return "";
                     } else {
-                        // return The(series) + " ";
                         return The(series);
                     }
                 } else {

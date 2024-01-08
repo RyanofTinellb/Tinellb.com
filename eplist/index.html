@@ -8887,7 +8887,8 @@
                 sortType = ALLOWED_SORTS.includes(sortType) ? SORTS[sortType] : EmptySort
                 data = await fetch("eplist.json");
                 data = await data.json();
-                data = data.filter(ep => ep.type != "Gap" && ep.type != "Special Features");
+                // data = data.filter(ep => ep.type != "Gap" && ep.type != "Special Features");
+                data = data.filter(ep => ep.type == "Finale" && ep.type != "Special Features");
                 console.log(data);
                 data.forEach((ep, index) => ep.index = index);
                 makeList(sortType, series);
@@ -9094,13 +9095,9 @@
             }
 
             function Numbers(ep) {
-                if (ep?.ep?.number === undefined) {
-                    number = "";
-                } else {
-                    number = pad(ep.ep.number)
-                }
-                season = Season(ep.season);
-                padx = season && number ? 'x' : '';
+                let season = Season(ep.season);
+                let number = pad(ep?.ep?.number, season);
+                let padx = season && number ? 'x' : '';
                 let section = Section(ep.multi);
                 let code = `${season}${padx}${number}${section}`;
                 let multi = typeof ep.multi === "number" ? ep.multi : '';
@@ -9121,7 +9118,7 @@
             Season = season => (season === undefined || typeof season === "string") ? "" : (season.number || season);
             asc = character => character.charCodeAt(0);
             chr = code => String.fromCharCode(code);
-            pad = num => (num < 10 ? "0" : "") + num;
+            pad = (num, req) => (req && num < 10 ? "0" : '') + num || '';
 
             function place(ep) {
                 let location = ep.location;

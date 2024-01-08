@@ -8888,6 +8888,7 @@
                 data = await fetch("eplist.json");
                 data = await data.json();
                 data = data.filter(ep => ep.type != "Gap" && ep.type != "Special Features");
+                
                 console.log(data);
                 data.forEach((ep, index) => ep.index = index);
                 makeList(sortType, series);

@@ -9035,7 +9035,7 @@
                 // article == space, no article == no space, article ending with “ == no space
                 let pad = !article || article.match(/[“…’#¡-]$/g) ? '' : '&nbsp;';
                 let episode = ep?.ep?.name === undefined ? (ep?.ep || "") : `${article}${pad}${ep.ep.name}`;
-                return typeof episode === "string" ? episode.replace(/ /g, "&nbsp;") : episode;
+                return typeof episode === "string" ? episode.replace(/(\w) /g, "$1&nbsp;") : episode;
             }
 
             The = name => name.endsWith("(T)") ? "The " + name.slice(0, -4) : name;

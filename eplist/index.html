@@ -8928,17 +8928,7 @@
                     ep.SPACE = ep.location.space || 0;
                     ep.WALLET = WALLETS[wallet];
                 });
-                data.sort((a, b) => {
-                    if (a.WALLET > b.WALLET) {
-                        return 1
-                    } else if (a.WALLET < b.WALLET) {
-                        return -1
-                    } else if (a.SPACE > b.SPACE) {
-                        return 1
-                    } else if (a.SPACE < b.SPACE) {
-                        return -1
-                    } else return 0;
-                });
+                data.sort((a, b) => subtract(a.WALLET, b.WALLET) || a.SPACE - b.SPACE)
             }
 
             function DefaultSort() {
@@ -8950,22 +8940,15 @@
                 document.getElementById("length").classList.add("selected");
                 data.forEach(ep => {
                     let article = ep.ep.article || '';
+                    let pad = article ? ' ' : ''
                     let epname = ep.ep.name || ep.ep;
-                    ep.EPNAME = `${article} ${epname}`.split('').reverse().join('');
+                    ep.EPNAME = `${article}${pad}${epname}`.split('').reverse().join('');
                     ep.LEN = ep.EPNAME.length;
                 });
-                data.sort((a, b) => {
-                    if (a.LEN > b.LEN) {
-                        return 1
-                    } else if (a.LEN < b.LEN) {
-                        return -1
-                    } else if (a.EPNAME > b.EPNAME) {
-                        return 1
-                    } else if (a.EPNAME < b.EPNAME) {
-                        return -1
-                    } else return 0;
-                });
+                data.sort((a, b) => (a.LEN - b.LEN) || subtract(a.EPNAME, b.EPNAME))
             }
+
+            subtract = (a, b) => a == b ? 0 : a > b ? 1 : -1;
 
             function reverseString(str) {
                 function reverseString(str) {
@@ -9048,9 +9031,11 @@
 
             function Episode(ep) {
                 let article = ep?.ep?.article === undefined ? "" : `${ep.ep.article}`;
-                let pad = !article || article.match(/[^a-zA-Z0-9]$/g) ? "" : '&nbsp;';
+
+                // article == space, no article == no space, article ending with “ == no space
+                let pad = !article || article.match(/[“…’#¡-]$/g) ? '' : '&nbsp;';
                 let episode = ep?.ep?.name === undefined ? (ep?.ep || "") : `${article}${pad}${ep.ep.name}`;
-                return typeof episode === "string" ? episode.replace(/ /g, "&nbsp;").replace(/(\W)&nbsp;/, '$1 ') : episode;
+                return typeof episode === "string" ? episode.replace(/ /g, "&nbsp;") : episode;
             }
 
             The = name => name.endsWith("(T)") ? "The " + name.slice(0, -4) : name;
@@ -9117,7 +9102,7 @@
             Season = season => (season === undefined || typeof season === "string") ? "" : (season.number || season);
             asc = character => character.charCodeAt(0);
             chr = code => String.fromCharCode(code);
-            pad = (num, req) => (req && num < 10 ? "0" : '') + num || '';
+            pad = (num, req) => (req && num < 10 ? "0" : '') + (num || '');
 
             function place(ep) {
                 let location = ep.location;

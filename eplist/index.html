@@ -8999,7 +8999,7 @@
             }
 
             function Names(ep, series) {
-                return `<span class="${ep.type}${Combo(ep)}">${Name(ep, series)}</span>`
+                return `<span class="${ep.type}${Combo(ep)}">${Name(ep, series)}</span>`;
             }
 
             Combo = ep => ep.multi?.ordinal > 1 ? ' Iso' : '';
@@ -9020,9 +9020,9 @@
                     return '';
                 }
                 if (typeof multi === "string") {
-                    return ` ${multi}: `;
+                    return `${multi}: `;
                 }
-                return ` ${multi.name}: `
+                return `${multi.name}: `
 
             }
 
@@ -9033,7 +9033,7 @@
                 let article = ep?.ep?.article === undefined ? "" : `${ep.ep.article}`;
 
                 // article == space, no article == no space, article ending with “ == no space
-                let pad = !article || article.match(/[“…’#¡-]$/g) ? '' : '&nbsp;';
+                let pad = !article || article.match(/[“…’#¡ -]$/) ? '' : '&nbsp;';
                 let episode = ep?.ep?.name === undefined ? (ep?.ep || "") : `${article}${pad}${ep.ep.name}`;
                 return typeof episode === "string" ? episode.replace(/(\w) /g, "$1&nbsp;") : episode;
             }

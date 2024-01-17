@@ -138,6 +138,14 @@ body {
     display: none;
 }
 
+.box-middle .sorts input[type="checkbox"] {
+    display: inline;
+}
+
+.box-middle .sorts p {
+    text-indent: 0%;
+}
+
 .arrow-right a {
     position: fixed;
     bottom: 5%;
@@ -188,7 +196,6 @@ body {
 }
 
 @media screen and (max-width: 800px) {
-
 
     .content {
         width: 100%;

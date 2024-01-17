@@ -8742,13 +8742,48 @@
                                 <input type="checkbox" id="showsorts" name="showsorts" checked="true">
                                 <div class="sorts">
                                     <form>
-                                        <p class="centre seriesheader">Series Name</p>
-                                        <p class="seriesname">
-                                            <input type="radio" id="series" name="series" value="true">
-                                            <label for="series">show</label>
-                                            <input type="radio" id="noseries" name="series" value="false">
-                                            <label for="noseries">hide</label>
+                                        <p>
+                                            <input type="checkbox" id="series" name="series">
+                                            <label for="series">Show Series Name</label>
                                         </p>
+                                        <p>&nbsp;</p>
+                                        <p>
+                                            <input type="checkbox" id="showFilm" name="films">
+                                            <label for="showFilms">Films</label>
+                                        </p>
+                                        <p>
+                                            <input type="checkbox" id="showMovie" name="movies">
+                                            <label for="showMovies">TV Movies</label>
+                                        </p>
+                                        <p>
+                                            <input type="checkbox" id="showMiniseries" name="miniseries">
+                                            <label for="showMiniseries">Miniseries</label>
+                                        </p>
+                                        <p>
+                                            <input type="checkbox" id="showPremiere" name="premieres">
+                                            <label for="showPremieres">Series Premieres</label>
+                                        </p>
+                                        <p>
+                                            <input type="checkbox" id="showFinale" name="finales">
+                                            <label for="showFinales">Series Finales</label>
+                                        </p>
+                                        <p>
+                                            <input type="checkbox" id="showStart" name="starts">
+                                            <label for="showStarts">Season Starts</label>
+                                        </p>
+                                        <p>
+                                            <input type="checkbox" id="showEnd" name="ends">
+                                            <label for="showEnds">Season Ends</label>
+                                        </p>
+                                        <p>
+                                            <input type="checkbox" id="showSpecial" name="specials">
+                                            <label for="showSpecials">Special Features</label>
+                                        </p>
+                                        <p>
+                                            <input type="checkbox" id="showGap" name="gaps">
+                                            <label for="showGaps">Gaps</label>
+                                        </p>
+                                        <p>&nbsp;</p>
                                         <p>
                                             <button type="submit" id="epname" name="sort" value="title"
                                                 title="Sort by Title">Title
@@ -8825,14 +8860,27 @@
                 'random': RandomSort
             };
 
+            const TYPES = {
+                'films': 'Film',
+                'movies': 'Movie',
+                'miniseries': 'Miniseries',
+                'premieres': 'Premiere',
+                'finales': 'Finale',
+                'starts': 'Start',
+                'ends': 'End',
+                'specials': 'Special Features',
+                'gaps': 'Gap'
+            }
+
             const ALLOWED_SORTS = ['airdate', 'calendar', 'default', 'title', 'length', 'wallet', 'random'];
 
-            const EmptySort = () => undefined;
+            const ALLOWED_TYPES = [
+                'films', 'movies', 'miniseries', 'premieres', 'finales', 'starts', 'ends', 'specials', 'gaps']
+
             let eplist = document.getElementsByClassName("eplist")[0];
             let numEps = document.getElementById("numEps");
             let data;
             let showSeriesName = document.getElementById('series');
-            let hideSeriesName = document.getElementById('noseries');
             openEpList();
 
             const NUMBERS = ["no", "one", "two", "three", "four", "five", "six", "seven", "eight",
@@ -8878,17 +8926,21 @@
 
             const MONTHS = [undefined, "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
+            defaultSelection = ep => ep.type != "Gap" && ep.type != "Special Features";
+            customSelection = items => ep => items.includes(ep.type);            
+
             async function openEpList() {
                 searchParams = new URLSearchParams(window.location.search)
-                let series = searchParams.get('series');
-                series = series != 'false';
-                (series ? showSeriesName : hideSeriesName).checked = true;
+                let series = searchParams.get('series') == 'on';
+                showSeriesName.checked = series;
                 let sortType = searchParams.get('sort');
-                sortType = ALLOWED_SORTS.includes(sortType) ? SORTS[sortType] : EmptySort
+                sortType = ALLOWED_SORTS.includes(sortType) ? SORTS[sortType] : DefaultSort
+                let displayedItems = ALLOWED_TYPES.map(type => searchParams.get(type) == 'on' ? TYPES[type] : false)
+                    .filter(item => item);
+                displayedItems.forEach(type => document.getElementById('show' + type).checked = true);
                 data = await fetch("eplist.json");
                 data = await data.json();
-                data = data.filter(ep => ep.type != "Gap" && ep.type != "Special Features");
-                
+                data = data.filter(displayedItems.length ? customSelection(displayedItems) : defaultSelection);
                 console.log(data);
                 data.forEach((ep, index) => ep.index = index);
                 makeList(sortType, series);

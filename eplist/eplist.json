@@ -5611,7 +5611,7 @@
 {"ep": {"number": 1, "name": "Shrek"}, "location": {"wallet": "Silver Box", "space": 177}, "type": "Film", "date": "20010422"},
 {"series": {"name": "Shrek", "number": 1}, "ep": {"number": 2, "name": "Far Far Away"}, "location": {"wallet": "Silver Box", "space": 178}, "type": "Film", "date": "20040515"},
 {"series": {"name": "Shrek", "number": 1}, "ep": {"number": 4, "name": "Forever After"}, "location": {"disc": 1, "wallet": "Big Black Box", "space": 236}, "type": "Film", "date": "20100421"},
-{"series": {"name": "2", "number": 2}, "ep": {"number": 1, "name": "Puss in Boots"}, "location": {"disc": 1, "wallet": "Big Black Box", "space": 244}, "type": "Film", "date": "20111023", "meta": "Shrek"},
+{"series": {"number": 2}, "ep": {"number": 1, "name": "Puss in Boots"}, "location": {"disc": 1, "wallet": "Big Black Box", "space": 244}, "type": "Film", "date": "20111023", "meta": "Shrek"},
 {"series": {"name": "Puss in Boots", "number": 2}, "ep": {"number": 2, "article": "The", "name": "Last Wish"}, "location": {"disc": 1, "wallet": "Black Leather Wallet", "space": 6}, "type": "Film", "date": "20221207", "meta": "Shrek"},
 {"series": "Simpsons (T)", "season": {"number": 1, "name": "Circles"}, "ep": {"number": 1, "article": "Simpsons", "name": "Roasting on an Open Fire"}, "location": {"disc": 1, "wallet": "Dark Blue Wallet", "space": 3}, "type": "Premiere", "date": "19891217"},
 {"series": "Simpsons (T)", "season": {"number": 1, "name": "Circles"}, "ep": {"number": 2, "article": "Bart the", "name": "Genius"}, "location": {"disc": 1, "wallet": "Dark Blue Wallet", "space": 3}, "date": "19900114"},

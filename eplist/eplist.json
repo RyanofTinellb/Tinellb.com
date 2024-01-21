@@ -7083,7 +7083,7 @@
 {"meta": "Star Trek", "series": {"name": "Lower Decks", "number": 8}, "season": 2, "ep": {"number": 8, "name": "I, Excretus"}, "location": {"disc": 2, "wallet": "Red Covered Wallet", "space": 62}, "date": "20210930"},
 {"meta": "Star Trek", "series": {"name": "Lower Decks", "number": 8}, "season": 2, "ep": {"number": 9, "name": "wej Duj"}, "location": {"disc": 2, "wallet": "Red Covered Wallet", "space": 62}, "date": "20211007"},
 {"meta": "Star Trek", "series": {"name": "Lower Decks", "number": 8}, "season": 2, "ep": {"number": 10, "name": "First First Contact"}, "location": {"disc": 2, "wallet": "Red Covered Wallet", "space": 62}, "type": "Finale", "date": "20211014"},
-{"meta": "Star Trek", "series": {"name": "9", "number": 9}, "ep": {"number": 1, "name": "Strange New Worlds"}, "location": {"disc": 1, "wallet": "Black Leather Wallet", "space": 3}, "type": "Premiere", "date": "20220505"},
+{"meta": "Star Trek", "series": {"number": 9}, "ep": {"number": 1, "name": "Strange New Worlds"}, "location": {"disc": 1, "wallet": "Black Leather Wallet", "space": 3}, "type": "Premiere", "date": "20220505"},
 {"meta": "Star Trek", "series": {"name": "Strange New Worlds", "number": 9}, "ep": {"number": 2, "name": "Children of the Comet"}, "location": {"disc": 1, "wallet": "Black Leather Wallet", "space": 3}, "date": "20220512"},
 {"meta": "Star Trek", "series": {"name": "Strange New Worlds", "number": 9}, "ep": {"number": 3, "name": "Ghost of Illyria"}, "location": {"disc": 1, "wallet": "Black Leather Wallet", "space": 3}, "date": "20220519"},
 {"meta": "Star Trek", "series": {"name": "Strange New Worlds", "number": 9}, "ep": {"number": 4, "name": "Memento Mori"}, "location": {"disc": 1, "wallet": "Black Leather Wallet", "space": 3}, "date": "20220526"},

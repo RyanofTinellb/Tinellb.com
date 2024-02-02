@@ -309,7 +309,7 @@ class ListEditor(Tk.Frame):
 
 
 obj = {Tk.StringVar: Entry, Tk.IntVar: Spinbox,
-       Wallet: WalletBox, Type: TypeBox}
+       Wallet: WalletBox, Type: TypeBox, Tk.DoubleVar: Entry}
 
 
 def clean(text):
@@ -319,6 +319,11 @@ def clean(text):
 def pad(number, length):
     number = str(number)
     return '0' * (length - len(number)) + number
+
+def integrate(number):
+    if number == int(number):
+        return int(number)
+    return number
 
 
 class EpisodeEditor(Tk.Frame):
@@ -331,7 +336,7 @@ class EpisodeEditor(Tk.Frame):
                         number=Tk.IntVar(), type_=Type()),
             episode=dict(article=Tk.StringVar(),
                          episode=Tk.StringVar(), number=Tk.IntVar()),
-            location=dict(disc=Tk.IntVar(), wallet=Wallet(),
+            location=dict(disc=Tk.DoubleVar(), wallet=Wallet(),
                           space=Tk.IntVar()),
             parts=dict(cardinal=Tk.IntVar(),
                        name=Tk.StringVar(), ordinal=Tk.IntVar()),
@@ -470,7 +475,7 @@ class EpisodeEditor(Tk.Frame):
         nEp = self.get_var('episode', 'number')
         sEpArt = self.get_var('episode', 'article')
         sEp = self.get_var('episode', 'episode')
-        nDisc = self.get_var('location', 'disc')
+        nDisc = integrate(self.get_var('location', 'disc'))
         nSpace = self.get_var('location', 'space')
         nMulti = self.get_var('parts', 'cardinal')
         sMulti = self.get_var('parts', 'name')

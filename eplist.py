@@ -382,7 +382,7 @@ class EpisodeEditor(Tk.Frame):
         series_name = entry.get('series')
         with ignored(AttributeError):
             series_name = series_name.get('name')
-        series_name = series_name if isinstance(value, str) else ''
+        series_name = series_name if isinstance(series_name, str) else ''
         series_name = series_name or ep_name
         if ep_article == 'The' and series_name == ep_name:
             series_name += ' (T)'
@@ -529,8 +529,10 @@ class EpisodeEditor(Tk.Frame):
         else:
             if sEpArt:
                 self.entry['ep'] = dict(article=sEpArt, name=sEp)
+            elif sEp:
+                self.entry['ep']
             else:
-                self.entry['ep'] = sEp
+                self.entry.pop('ep', None)
 
         if nDisc:
             if sWallet:

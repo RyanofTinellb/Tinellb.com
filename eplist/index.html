@@ -8777,7 +8777,7 @@
                                         </p>
                                         <p>
                                             <input type="checkbox" id="showSpecial" name="specials">
-                                            <label for="showSpecials">Special Features</label>
+                                            <label for="showSpecial">Special Features</label>
                                         </p>
                                         <p>
                                             <input type="checkbox" id="showGap" name="gaps">
@@ -8868,7 +8868,7 @@
                 'finales': 'Finale',
                 'starts': 'Start',
                 'ends': 'End',
-                'specials': 'Special Features',
+                'specials': 'Special',
                 'gaps': 'Gap'
             }
 
@@ -8926,7 +8926,7 @@
 
             const MONTHS = [undefined, "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
-            defaultSelection = ep => ep.type != "Gap" && ep.type != "Special Features";
+            defaultSelection = ep => ep.type != "Gap" && ep.type != "Special";
             customSelection = items => ep => items.includes(ep.type);
 
             async function openEpList() {
@@ -8937,6 +8937,7 @@
                 sortType = ALLOWED_SORTS.includes(sortType) ? SORTS[sortType] : DefaultSort
                 let displayedItems = ALLOWED_TYPES.map(type => searchParams.get(type) == 'on' ? TYPES[type] : false)
                     .filter(item => item);
+                console.log(displayedItems);
                 displayedItems.forEach(type => document.getElementById('show' + type).checked = true);
                 data = await fetch("eplist.json");
                 data = await data.json();

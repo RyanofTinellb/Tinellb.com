@@ -309,7 +309,7 @@ class ListEditor(Tk.Frame):
 
 
 obj = {Tk.StringVar: Entry, Tk.IntVar: Spinbox,
-       Wallet: WalletBox, Type: TypeBox, Tk.DoubleVar: Entry}
+       Wallet: WalletBox, Type: TypeBox, Tk.DoubleVar: Spinbox}
 
 
 def clean(text):

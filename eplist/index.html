@@ -8927,7 +8927,7 @@
             const MONTHS = [undefined, "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
             defaultSelection = ep => ep.type != "Gap" && ep.type != "Special Features";
-            customSelection = items => ep => items.includes(ep.type);            
+            customSelection = items => ep => items.includes(ep.type);
 
             async function openEpList() {
                 searchParams = new URLSearchParams(window.location.search)
@@ -9083,21 +9083,18 @@
 
             function Episode(ep) {
                 let article = ep?.ep?.article === undefined ? "" : `${ep.ep.article}`;
-
-                // article == space, no article == no space, article ending with “ == no space
                 let pad = !article || article.match(/[“…’#¡ -]$/) ? '' : '&nbsp;';
                 let episode = ep?.ep?.name === undefined ? (ep?.ep || "") : `${article}${pad}${ep.ep.name}`;
                 return typeof episode === "string" ? episode.replace(/(\w) /g, "$1&nbsp;") : episode;
             }
 
-            The = name => name.endsWith("(T)") ? "The " + name.slice(0, -4) : name;
+            The = name => name ? (name.endsWith("(T)") ? "The " + name.slice(0, -4) : name) : '';
 
             function SeriesName(ep) {
                 let meta = ep.meta;
                 let series = ep.series;
                 switch (typeof series) {
-                    case "string":
-                    case "undefined":
+                    case "string": case "undefined":
                         break;
                     case "number":
                         series = undefined;
@@ -9105,20 +9102,25 @@
                     default:
                         series = series.name;
                 }
-                if (meta === undefined || meta.endsWith("verse") || (series !== undefined && series.startsWith(meta)) ||
-                    series === "Yes, Prime Minister") {
-                    if (series === undefined) {
-                        return "";
-                    } else {
-                        return The(series);
-                    }
-                } else {
-                    if (series === undefined) {
-                        return The(meta);
-                    } else {
-                        return `${The(meta)}: ${The(series)}`;
-                    }
+                meta = meta === undefined || meta.endsWith("verse") || series === "Yes, Prime Minister" ? '' : The(meta);
+                series = The(series);
+                let pad = series && meta ? ': ' : '';
+                return meta + pad + series;
+            }
+
+            function BareSeriesName(ep) {
+                let series = ep.series;
+                switch (typeof series) {
+                    case "string": case "undefined":
+                        break;
+                    case "number":
+                        series = undefined;
+                        break;
+                    default:
+                        series = series.name;
                 }
+                return series || ep?.ep?.name;
+                
             }
 
             function shuffle(arr) {

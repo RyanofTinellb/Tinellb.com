@@ -2768,7 +2768,7 @@
 {"series": "Fringe", "season": 3, "ep": {"number": 17, "name": "Stowaway"}, "location": {"disc": 5, "wallet": "Big Black Box", "space": 643}, "date": "20110318"},
 {"series": "Fringe", "season": 3, "ep": {"number": 18, "name": "Bloodline"}, "location": {"disc": 5, "wallet": "Big Black Box", "space": 643}, "date": "20110325"},
 {"series": "Fringe", "season": 3, "ep": {"number": 19, "name": "Lysergic Acid Diethylamide"}, "location": {"disc": 5, "wallet": "Big Black Box", "space": 643}, "date": "20110415"},
-{"series": "Fringe", "season": 3, "ep": {"number": 20, "article": "6:02", "name": "AM EST"}, "location": {"disc": 6, "wallet": "Big Black Box", "space": 644}, "date": "20110422"},
+{"series": "Fringe", "season": 3, "ep": {"number": 20, "name": "6:02 AM EST"}, "location": {"disc": 5, "wallet": "Big Black Box", "space": 643}, "date": "20110422"},
 {"series": "Fringe", "season": 3, "ep": {"number": 21, "article": "The", "name": "Last Sam Weiss"}, "location": {"disc": 6, "wallet": "Big Black Box", "space": 644}, "date": "20110429"},
 {"series": "Fringe", "season": 3, "ep": {"number": 22, "article": "The", "name": "Day We Died"}, "location": {"disc": 6, "wallet": "Big Black Box", "space": 644}, "type": "End", "date": "20110506"},
 {"series": "Fringe", "season": 4, "ep": {"number": 1, "name": "Neither Here Nor There"}, "location": {"disc": 1, "wallet": "Big Black Box", "space": 645}, "type": "Start", "date": "20110923"},

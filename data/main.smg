@@ -1,10 +1,11 @@
 assets:
-  source: C:/Users/Ryan/TinellbianLanguages/toplevel/data/data.src
+  source: C:\Users\Ryan\TinellbianLanguages\toplevel\data\data.src
 entries:
-- []
-locations: {}
+- - Welcome to Tinellb!
+locations:
+  directory: c:\users\ryan\tinellbianlanguages\toplevel
 markdown: ''
-styles: c:/users/ryan/tinellbianlanguages/toplevel/data/assets/styles.tag
+styles: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\styles.tag
 templates:
-  main: C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/page.tpl
+  main: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\page.tpl
   sections: {}

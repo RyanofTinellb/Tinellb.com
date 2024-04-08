@@ -8,4 +8,11 @@
     name: h1
   props:
     font: Gadugi
-    size: 19
+    size: 120
+    underline: true
+    top: 15
+    background: '#ccccdd'
+- tags:
+    name: em
+  props:
+    italics: true

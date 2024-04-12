@@ -8954,7 +8954,7 @@
                 }
                 sortfn();
                 console.log(data);
-                eplist.innerHTML = "<ol style='list-style:none; text-align:center;'>" + data.map(ep => `<li style='color:hsl(${Colour(ep)} 100% 60%);'>${Names(ep, series)}<span class="hidden-info">,&nbsp;aired:&nbsp;${airdate(...parseDate(ep))}</span></li>`).join("\n") + "</ol>";
+                eplist.innerHTML = "<ol style='list-style:none; text-align:center;'>" + data.map(ep => `<li style='color:hsl(${Colour(ep)} 100% 50%);'>${Names(ep, series)}<span class="hidden-info">,&nbsp;aired:&nbsp;${airdate(...parseDate(ep))}</span></li>`).join("\n") + "</ol>";
             }
 
             Colour = ep => Math.floor(360 / data.length * ep.index)

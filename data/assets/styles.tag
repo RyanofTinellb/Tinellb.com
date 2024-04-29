@@ -4,7 +4,7 @@ default:
   props:
     font: Dubai
     size: 18
-h1:
+h2:
   tags: {}
   props:
     font: Gadugi

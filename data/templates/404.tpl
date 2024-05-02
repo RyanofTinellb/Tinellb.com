@@ -1,66 +1,63 @@
-{
-  "text": [
-    "<!DOCTYPE html>",
-    "<html>",
-    "",
-    "<head>",
-    "    <meta name=\"viewport\" content=\"width=device-width,",
-    "                                initial-scale=1.0, user-scalable=yes\">",
-    "    <meta charset=\"utf-8\">",
-    "    <title>",
-    "        404 - Tinellbian Languages",
-    "    </title>",
-    "    <link rel=\"stylesheet\" type=\"text/css\" href=\"/basic_style.css\">",
-    "    <link rel=\"stylesheet\" type=\"text/css\" href=\"/style.css\">",
-    "",
-    "    <link rel=\"icon\" type=\"image/png\" href=\"/favicon.png\">",
-    "",
-    "    <script type=\"text/javascript\">",
-    "        let href = window.location.href;",
-    "        if (href.indexOf(\"?\") != -1) {",
-    "            let term = href.replace(/(.*?\\?)(.*?)(#.*|$)/, \"$2\");",
-    "            window.location.href = `search.html?${term}&andOr=and`;",
-    "        }",
-    "    </script>",
-    "",
-    "</head>",
-    "",
-    "<body>",
-    "    <flex>",
-    "        <nav-pane>",
-    "            <label>",
-    "  <input type=\"checkbox\" class=\"menu\">",
-    "  <ul>",
-    "  <li><a href=\"/index.html\">Tinellb</a></li>",
-    "    <javascript>",
-    "      <form id=\"search\">",
-    "        <li class=\"search\">",
-    "          <input type=\"text\" name=\"term\">",
-    "          <button type=\"submit\">Search</button>",
-    "        </li>",
-    "      </form>",
-    "    </javascript>",
-    "   <links-root>  <ul class=\"level-1\"><li><a href=\"/about.html\">About</a></li>",
-    "<li><a href=\"/episodelist.html\">Episode List</a></li>",
-    "</ul>",
-    "   </links-root></ul></label>",
-    "        </nav-pane>",
-    "        <content>",
-    "            <h1>404 - Page Not Found</h1>",
-    "            <main-contents>",
-    "                <p>There is no page here.</p>",
-    "                <p>Please select an option from the navigation pane at left.</p>",
-    "            </main-contents>",
-    "        </content>",
-    "    </flex>",
-    "    <script type=\"text/javascript\">",
-    "        for (elt of document.getElementsByClassName('javascript')) {",
-    "            elt.style.display = \"block\";",
-    "        }",
-    "    </script>",
-    "</body>",
-    "",
-    "</html>"
-  ],
-  "styles": {}
-}
+text:
+- <!DOCTYPE html>
+- <html>
+- ''
+- <head>
+- '    <meta name="viewport" content="width=device-width,'
+- '                                initial-scale=1.0, user-scalable=yes">'
+- '    <meta charset="utf-8">'
+- '    <title>'
+- '        404 - Tinellbian Languages'
+- '    </title>'
+- '    <link rel="stylesheet" type="text/css" href="/basic_style.css">'
+- '    <link rel="stylesheet" type="text/css" href="/style.css">'
+- ''
+- '    <link rel="icon" type="image/png" href="/favicon.png">'
+- ''
+- '    <script type="text/javascript">'
+- '        let href = window.location.href;'
+- '        if (href.indexOf("?") != -1) {'
+- '            let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");'
+- '            window.location.href = `search.html?${term}&andOr=and`;'
+- '        }'
+- '    </script>'
+- ''
+- </head>
+- ''
+- <body>
+- '    <flex>'
+- '        <nav-pane>'
+- '            <label>'
+- '  <input type="checkbox" class="menu">'
+- '  <ul>'
+- '  <li><a href="/index.html">Tinellb</a></li>'
+- '    <javascript>'
+- '      <form id="search">'
+- '        <li class="search">'
+- '          <input type="text" name="term">'
+- '          <button type="submit">Search</button>'
+- '        </li>'
+- '      </form>'
+- '    </javascript>'
+- '   <links-root>  <ul class="level-1"><li><a href="/about.html">About</a></li>'
+- <li><a href="/episodelist.html">Episode List</a></li>
+- </ul>
+- '   </links-root></ul></label>'
+- '        </nav-pane>'
+- '        <main>'
+- '            <h1>404 - Page Not Found</h1>'
+- '            <main-contents>'
+- '                <p>There is no page here.</p>'
+- '                <p>Please select an option from the navigation pane at left.</p>'
+- '            </main-contents>'
+- '        </main>'
+- '    </flex>'
+- '    <script type="text/javascript">'
+- '        for (elt of document.getElementsByClassName(''javascript'')) {'
+- '            elt.style.display = "block";'
+- '        }'
+- '    </script>'
+- </body>
+- ''
+- </html>
+styles: {}

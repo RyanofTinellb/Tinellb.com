@@ -1,8 +1,8 @@
-.content h1 {
+main h1 {
     font-size: 36pt;
 }
 
-.content h2 {
+main h2 {
     font-family: serif;
     font-weight: normal;
     text-decoration: overline;
@@ -10,25 +10,25 @@
     margin-top: 0;
 }
 
-.content h2 a {
+main h2 a {
     color: black;
     font-family: serif;
     font-weight: normal;
     text-decoration: overline;
 }
 
-.content p,
-.content li {
+main p,
+main li {
     font-family: sans-serif;
     line-height: 1.5em;
     text-indent: 1em;
 }
 
-.content .eplist ol li .hidden-info {
+main .eplist ol li .hidden-info {
     display: none;
 }
 
-.content .eplist ol li:hover .hidden-info {
+main .eplist ol li:hover .hidden-info {
     display: inline;
 }
 
@@ -99,7 +99,7 @@
 }
 
 @media screen and (max-width: 800px) {
-    .content {
+    main {
         width: 100%;
         margin-left: 0.5em;
         margin-right: 0;

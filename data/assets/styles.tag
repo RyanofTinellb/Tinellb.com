@@ -1,11 +1,9 @@
 default:
-  tags:
-    block: default
   props:
     font: Dubai
     size: 18
+  block: default
 h2:
-  tags: {}
   props:
     font: Gadugi
     size: 120
@@ -13,6 +11,5 @@ h2:
     top: 15
     background: '#ccccdd'
 em:
-  tags: {}
   props:
     italics: true

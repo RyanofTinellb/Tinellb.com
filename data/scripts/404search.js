@@ -194,9 +194,9 @@ function display(pages, data, id, terms, andButton) {
          `<ol>${pages.map(page => {
             let pagenum = page.page;
             let link = data.urls[pagenum] + "?highlight=" + terms.join("+");;
-            let name = data.names[pagenum];
+            let name = data.pages[pagenum];
             let lines = page.lines.map(
-                linenum => highlight(regexes, data.sentences[linenum]));
+                linenum => highlight(regexes, data.lines[linenum]));
             return `<li><a href="/${link}">${name}</a>: ${
                 lines.join(' &hellip; ')}</li>`;
     }).join('')}</ol>`}`;
@@ -204,7 +204,7 @@ function display(pages, data, id, terms, andButton) {
 
 function highlight(terms, line) {
     terms.forEach(term => {
-        line = line.replace(term, '<strong>$1</strong>');
+        line = line.replace(term, '<b>$1</b>');
     });
     return line;
 }

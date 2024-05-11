@@ -47,8 +47,6 @@ styles:
   icon:
     start: <link rel="icon" type="image/png" href="
     end: '">'
-    hyperlink: true
   stylesheet:
     start: <link rel="stylesheet" type="text/css" href="
     end: '"'
-    hyperlink: true

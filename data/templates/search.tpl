@@ -1,58 +1,76 @@
+styles:
+  "!doctype":
+    type: complete
+  html:
+    type: block
+    language: true
+  head:
+    type: block
+  meta:
+    type: complete
+  title:
+    type: line
+  h1:
+    type: heading
+    param: ''
+    open: <h1>
+  entry-data:
+    type: data
+  data:
+    type: data
+  link:
+    type: complete
+  internal-link:
+    type: link
+  inline-script:
+    type: line
+    open: <script>
+    close: </script>
+  script:
+    type: complete
+    close: "></script>"
+  body:
+    type: block
+    start: <p>
+    end: </p>
+  main:
+    type: block
+  flex:
+    type: div
+  template:
+    type: template
+  content:
+    type: div
+  form:
+    type: block
+  javascript:
+    type: line
+  input:
+    type: complete
+  internal-script:
+    type: line
+    open: <script>
+    close: </script>
+  footer:
+    type: block
+  results:
+    open: <div class="results" id="results"> 
+    type: div
 text:
-- <!DOCTYPE html>
-- <html>
-- "\t<head>"
-- "\t\t<meta charset=\"UTF-8\">"
-- "\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">"
-- "\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">"
-- "\t\t<link rel=\"icon\" type=\"image/png\" href=\"favicon.png\">"
-- "\t\t<title>Search Tinellbian Languages</title>"
-- "\t</head>"
-- "\t<body>"
-- "\t\t<flex>"
-- "\t\t\t<nav-header>"
-- "\t\t\t\t<ul>"
-- "\t\t\t\t\t<li><a href=\"index.html\">The Tinellbian Languages</a></li>"
-- "\t\t\t\t\t<ul class=\"level-1\">"
-- "\t\t\t\t\t\t<li><a href=\"http://grammar.tinellb.com\">Grammar Guide</a></li>"
-- "\t\t\t\t\t\t<li><a href=\"http://dictionary.tinellb.com\">Tinellbian Dictionary</a></li>"
-- "\t\t\t\t\t</ul>"
-- "\t\t\t\t\t<li class=\"normal\">Search the Site</li>"
-- "\t\t\t\t\t<li><a href=\"about.html\">About / Contact</a></li>"
-- "\t\t\t\t</ul>"
-- ''
-- "\t\t\t</nav-header>"
-- "\t\t\t<main>"
-- "\t\t\t\t<h1>Search the Entire Site</h1>"
-- "\t\t\t\t<p>"
-- "\t\t\t\t\t<input type=\"radio\" name=\"section\" id=\"grammar\" value=\"grammar\"\
-  >Grammar"
-- "\t\t\t\t\t<input type=\"radio\" name=\"section\" id=\"dictionary\" value=\"dictionary\"\
-  \ checked=\"true\">Dictionary"
-- "\t\t\t\t\t<input type=\"text\" class=\"term\" id=\"term\" name=\"term\" placeholder=\"\
-  Search...\" onKeyDown=\"if(event.keyCode == 13) {search();}\"><br><br>"
-- "\t\t\t\t\t<input type=\"submit\" class=\"submit\" value=\"Search\" onClick=\"search()\"\
-  >"
-- "\t\t\t\t\t<input type=\"radio\" name=\"andor\" id=\"and\" value=\"and\" checked=\"\
-  true\">AND"
-- "\t\t\t\t\t<input type=\"radio\" name=\"andor\" id=\"or\" value=\"or\">OR"
-- "\t\t\t\t</p>"
-- "\t\t\t\t<script>"
-- ''
-- "\t\t\t\t\tfunction search() {"
-- "\t\t\t\t\t\tif (dictionary.checked) {section = \"dictionary\"}"
-- "\t\t\t\t\t\telse {section = \"grammar\"};"
-- "\t\t\t\t\t\tif (and.checked) {andor = \"and\"} else {andor = \"or\"};"
-- "\t\t\t\t\t\tterms = document.getElementById(\"term\").value.split(\" \").join(\"\
-  +\")"
-- "\t\t\t\t\t\taddress = \"http://\" + section + \".tinellb.com/search.html?term=\"\
-  \ + terms + \"&\""
-- "\t\t\t\t\t\taddress += \"andor=\" + andor;"
-- "\t\t\t\t\t\twindow.open(address, \"_self\", false);"
-- "\t\t\t\t\t}"
-- "\t\t\t\t</script>"
-- "\t\t\t</main>"
-- "\t\t</flex>"
-- "\t</body>"
-- </html>
-styles: {}
+  - <!doctype>html</!doctype>
+  - <html@en><head><meta>name="viewport" content="width=device-width/initial-scale=1.0"</meta>
+  - <meta>charset="utf-8"</meta>
+  - <title>Search - <entry-data>root</entry-data></title>
+  - <link>rel="stylesheet" type="text/css" href="<internal-link>data/stylesheets/basic_style.css</internal-link>"</link>
+  - <link>rel="stylesheet" type="text/css" href="<internal-link>data/stylesheets/style.css</internal-link>"</link>
+  - <link>rel="icon" type="image/png" href="<internal-link>data/assets/favicon.png</internal-link>"</link></head>
+  - <body><flex><template>navigation pane</template>
+  - <main><h1>Search – <entry-data>root</entry-data></h1>
+  - <form><input>type="text" class="term" id="term" name="term" placeholder="Search..."</input>
+  - <input>type="submit" class="submit" value="Search"</input></form>
+  - <results>Searching...</results></main></flex>
+  - <footer><template>copyright</template></footer>
+  - <script>src="<internal-link>data/scripts/search.js</internal-link>"</script>
+  - <inline-script>
+  - for (elt of document.getElementsByClassName('javascript')) {
+  - elt.style.display = "block";}</inline-script></body></html@en>

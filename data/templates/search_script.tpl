@@ -6,4 +6,4 @@ text:
 - '    window.location.href = `<link>/search.html</link>?${{term}}&andOr=and`;'
 - '}'
 - </script>
-styles: {}
+styles:

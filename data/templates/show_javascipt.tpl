@@ -4,4 +4,4 @@ text:
 - '            elt.style.display = "block";'
 - '        }        '
 - </script>
-styles: {}
+styles:

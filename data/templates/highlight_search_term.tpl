@@ -17,4 +17,4 @@ text:
 - '        loc = document.getElementsByTagName("h1")[0];'
 - '        loc.innerHTML += " <a href=\"#searchterm\">&rarr;</a>";        '
 - '    </script>'
-styles: {}
+styles:

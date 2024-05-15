@@ -4,7 +4,7 @@ if (window.location.href.indexOf("?") != -1) {
 
 function search() {
     document.getElementById("results").innerHTML = "Searching...";
-    var url = "searching.json";
+    var url = "/data/assets/searching.json";
     var xmlhttp = new XMLHttpRequest();
     var andButton = document.getElementById("and")
     xmlhttp.onreadystatechange = function() {
@@ -16,9 +16,9 @@ function search() {
             } else if (terms.length == 1) {
                 arr = oneTermSearch(text, terms);
             } else {
-                arr = multiTermSearch(text, terms, andButton.checked);
+                arr = multiTermSearch(text, terms, true);
             }
-            display(arr, text, "results", terms, andButton.checked);
+            display(arr, text, "results", terms, true);
         }
     };
     xmlhttp.open("GET", url, true);
@@ -31,38 +31,18 @@ function getTerms() {
     var url;
     var searchString;
     var text;
-    const MARKUP = ["%E2%80%99", "'",
-        "%c3%bb", "$u",
-        "%c9%a8", "\u0268",
-        "%C9%A8", "\u0268",
-        "%27", "'",
-        "\u0294", "''",
-        "\u00ec", "$e",
-        "%28", "(",
-        "%29", ")",
-        "%c5%97", ",r",
-        "%20", "+",
-        "%24", "$",
-        "%25", "%",
-        "%3b", " ",
-        "%26", "&",
-        "%2cr", ",r"
-    ];
     url = window.location.href;
     url = url.split("?");
-    searchString = url[1].split("&");
+    searchString = decodeURI(url[1]).split("&");
     try {
-        andOr = searchString[1].split("=")[1];
+        andOr = searchString.split("=")[1];
     } catch (err) {
         andOr = "and"
     }
     if (andOr == "or") {
         document.getElementById("or").checked = true
     }
-    text = searchString[0].split("=")[1];
-    for (i = 0; i < MARKUP.length; i += 2) {
-        text = text.split(MARKUP[i]).join(MARKUP[i + 1]).toLowerCase();
-    }
+    text = searchString[0].split("=")[1].toLowerCase();
     document.getElementById("term").value = text.split("+").join(" ");
     return text.split("+").filter(i => i != "");
 }
@@ -123,42 +103,9 @@ function capitalise(string) {
     }
 }
 
-function markdown(terms) {
-    const MARKING = [
-        ")a", "&agrave;",
-        "()e", "&ecirc;",
-        ")e", "&egrave;",
-        ")i", "&igrave;",
-        ")o", "&ograve;",
-        ")u", "&ugrave;",
-        "_o", "&#x14d;",
-        "+h", "&#x2b0;",
-        ",c", "&#x255;",
-        ",n", "&#x14b;",
-        "''", "&#x294;",
-        "'", "&rsquo;",
-        "$h", "&#x2b1;",
-        "-i", "&#x268;",
-        "=j", "&#x25f;",
-        "$l", "&#x28e;",
-        "$n", "&#x272;",
-        "$r", "&#x279;",
-        ",r", "&#x157;",
-        "!e", "&#x259;",
-        "-u", "&#x289;",
-        "_u", "&#x16b;",
-        ".", "&middot;"
-    ]
-    return terms.map(term => {
-        for (i = 0; i < MARKING.length; i++) {
-            term = term.split(MARKING[i]).join(MARKING[++i]);
-        }
-        return term;
-    });
-}
-
 function titleSearch(arr, terms, andButton) {
-    let names = arr.names.map((elt, i) => ({
+    console.log(arr);
+    let names = arr.pages.map((elt, i) => ({
         name: elt,
         url: arr.urls[i],
         count: 0,
@@ -178,7 +125,6 @@ function titleSearch(arr, terms, andButton) {
 }
 
 function display(pages, data, id, terms, andButton) {
-    terms = markdown(terms);
     let regexes = terms.map(term =>
             RegExp(`(${term}|${capitalise(term)})`, 'g'));
     document.getElementById(id).innerHTML = `${titleSearch(data, terms, andButton)}${
@@ -189,7 +135,7 @@ function display(pages, data, id, terms, andButton) {
             let name = data.pages[pagenum];
             let lines = page.lines.map(
                 linenum => highlight(regexes, data.lines[linenum]));
-            return `<li><a href="${link}">${name}</a>: ${
+            return `<li><a href="../${link}">${name}</a>: ${
                 lines.join(' &hellip; ')}</li>`;
     }).join('')}</ol>`}`;
 }

@@ -1,9 +1,11 @@
 a:link {
-  color: #5555FF; /* light blue */
+    color: #5555FF;
+    /* light blue */
 }
 
 a:visited {
-  color: #95A; /* light violet */
+    color: #95A;
+    /* light violet */
 }
 
 .symbol {
@@ -16,8 +18,16 @@ a:visited {
     display: none;
 }
 
+.multiline .tinellbian {
+    display: block;
+}
+
 ipa {
-  font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
+    font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
+}
+
+strong {
+    font-size: 0.95rem;
 }
 
 ipa strong {
@@ -25,66 +35,101 @@ ipa strong {
     color: red;
 }
 
-small-caps {
-  font-variant: small-caps;
-}
-
-overline {
-  text-decoration: overline;
+.overline {
+    text-decoration: overline;
 }
 
 @font-face {
-  font-family: tinellb;
-  src: url('tinellb.ttf');
+    font-family: tinellb;
+    src: url('../assets/tinellb.ttf');
 }
 
-high-lulani {
-  font-family: tinellbian, tinellb;
-  font-size: larger;
-  direction: rtl;
-  unicode-bidi: bidi-override;
+.tinellbian {
+    font-family: tinellbian, tinellb;
+    font-size: larger;
 }
 
-high-lulani::after {
+.tinellbian:lang(x-tlb-hl) {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+.tinellbian:lang(x-tlb-hl)::after {
     content: "\202c\00e8";
     font-size: 0;
 }
 
-high-lulani:hover {
-  font-size: xx-large;
-  font-weight: normal;
-  padding: 0em 0.5em;
-  cursor: none;
+.tinellbian:hover {
+    font-size: xx-large;
+    padding: 0em 0.5em;
+    cursor: none;
 }
 
-table high-lulani:hover {
+table .tinellbian:hover {
     font-size: larger;
     font-weight: inherit;
     padding: inherit;
     cursor: inherit;
 }
 
-h1 a:visited, h1 a:link {
+main abbr.glossary {
+	font-variant: small-caps;
+	font-style: normal;
+	text-decoration: none;
+}
+
+main abbr.glossary::after {
+	content: "?";
+	vertical-align: super;
+	font-size: smaller;
+}
+
+h1 a:visited,
+h1 a:link {
     color: black;
     text-decoration: none;
 }
 
 .flex {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
 
-.nav-pane {
-  text-align: left;
-  width: 25%;
+nav.main {
+    /* text-align: center; */
+    width: 25%;
+    margin-top: 2rem;
 }
 
-.nav-pane input.menu {
-    display: none;
+nav summary {
+    list-style-type: "☰";
+    text-align: center;
 }
 
-.javascript, .hidden {
+/* nav .javascript {
+    text-align: left;
+} */
+
+nav details[open] summary {
+    list-style-type: '✖';
+}
+
+nav details ul ul {
+    margin-left: 5%;
+    text-align: left;
+}
+
+nav details ul {
+    text-align: center;
+}
+
+nav .nav-links {
+    margin-left: 30%;
+}
+
+.javascript,
+.hidden {
     display: none;
 }
 
@@ -93,33 +138,32 @@ input[type='checkbox'] {
 }
 
 main {
-  display: flex;
-  flex-direction: column;
-  margin-left: 5%;
-  width: 60%;
+    margin-left: 5%;
+    width: 60%;
 }
 
 main p {
-  text-align: justify;
-  margin-top: 0;
-  margin-bottom: 0;
+    text-align: justify;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 main p.example {
-  margin-top: 1em;
+    margin-top: 1em;
 }
 
 main table {
-	border-collapse: collapse;
+    border-collapse: collapse;
 }
 
-main td, main th {
-	border: 1px solid darkgrey;
+main td,
+main th {
+    border: 1px solid darkgrey;
     white-space: nowrap;
 }
 
 main th {
-  padding: 0 1em;
+    padding: 0 1em;
 }
 
 main th a {
@@ -128,11 +172,11 @@ main th a {
 }
 
 main th:first-child {
-  text-align: right;
+    text-align: right;
 }
 
 main td {
-  text-align: center;
+    text-align: center;
 }
 
 main .message p {
@@ -142,13 +186,13 @@ main .message p {
     color: red;
 }
 
-main div.mobile-table {
-  display: none;
+main .wordlist {
+    border-left: 1px solid green;
+    border-bottom: 1px solid green;
 }
 
-main .wordlist {
-  border-left: 1px solid green;
-  border-bottom: 1px solid green;
+main .wordlist .block {
+    margin-top: 1rem;
 }
 
 main .universe {
@@ -162,140 +206,68 @@ main .results .title-results {
     padding-top: 1em;
 }
 
-main label.folder {
-    text-align: left;
+nav.mini {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
-main input.folder {
-    position: relative;
-    top: 3em;
-    left: 3%;
+footer {
+    margin-top: 2rem;
+    margin-left: 30%;
+    margin-right: 10%
 }
 
-main input.folder:checked + div.folding p {
-    display: inherit;
-}
-
-main div.folding p:not(:first-child):not(:last-child) {
-  display: none;
-}
-
-main div.folding div.literal {
-    display: none;
-}
-
-main input.folder:checked + div.folding div.literal p,
-main input.folder:checked + div.folding div.literal {
-    display: inherit;
-}
-
-main .literal p::before {
-    content: "lit.:\a0";
-    font-style: italic;
-}
-
-main span.tooltip::after {
-    content: "?";
+footer .copyright {
     font-size: smaller;
-    vertical-align: super;
+    font-family: serif;
+    text-align: right;
+    width: 85%;
+    line-height: 1.5;
 }
 
-main span.tooltip-text {
-  display: none;
+nav.mini p {
+    padding-left: 0;
+    margin-left: 0;
 }
 
-main span.tooltip-text::before {
-  content: "(";
-  padding-left: 0.5em;
-}
+/* 
+footer nav.mini {
 
-main span.tooltip-text::after {
-  content: ")"
-}
+} */
 
-main span.tooltip:active .tooltip-text,
-main div.folding span.tooltip:hover .tooltip-text {
-  display: inline;
-  cursor: none;
-}
-
-main span.tooltip .tooltip-text:hover {
-  display: inline;
-  cursor: none;
-}
-
-main .nav-footer {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
-
-main .copyright {
-  font-size: smaller;
-  font-family: serif;
-  text-align: right;
-  margin-top: 1em;
-}
 
 .no-breaks {
-  white-space: nowrap;
+    white-space: nowrap;
 }
 
 @media screen and (max-width: 800px) {
-
-  .flex {
-    flex-direction: column;
-  }
-
-  main {
-    width: 80%;
-    margin-left: 10%;
-    margin-right: 10%;
-  }
-
-  main p {
-    text-align: left;
-  }
-
-  .nav-pane {
-    width: 100%;
-  }
-
-  .nav-pane label::before {
-    content: "Menu";
-    font-weight: bold;
-  }
-
-  .nav-pane input.menu {
-      display: inherit;
-  }
-
-  input.menu + ul {
-      display: none;
-  }
-
-  input.menu:checked + ul {
-      display: inherit;
-  }
-
-  main input.folder:checked + div.folding .tooltip-text {
-      display: inline;
-  }
-
-  main span.tooltip:hover .tooltip-text {
-    display: inline;
-  }
-}
-
-@media screen and (max-width: 600px) {
-    table {
-      display: none;
+    .flex {
+        flex-direction: column;
     }
 
-    main div.mobile-table {
-      display: block;
+    main {
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    main p {
+        text-align: left;
+    }
+
+    nav.main{
+        width: 100%;
+    }
+
+    main table {
+        display: none;
+    }
+
+    main div.mobile table {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     main div.mobile-table table {
@@ -308,6 +280,25 @@ main .copyright {
         margin-left: 10%;
     }
 
+    main abbr.glossary::after {
+        content: "";
+        vertical-align: super;
+        font-size: smaller;
+    }
+
+    footer {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    footer .copyright {
+        width: 100%;
+    }
+
+    nav.mini p {
+        text-indent: 0;
+    }
+
     .desktop {
         display: none;
     }
@@ -316,7 +307,7 @@ main .copyright {
         display: initial;
     }
 
-    main input.folder:checked + div.folding .tooltip-text {
+    main input.folder:checked+div.folding .tooltip-text {
         display: none;
     }
 

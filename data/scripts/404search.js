@@ -2,7 +2,7 @@
 
 function search(fromFourOhFour) {
     document.getElementById("results").innerHTML = "Searching...";
-    let url = "/searching.json";
+    let url = "/data/assets/searching.json";
     let xmlhttp = new XMLHttpRequest();
     let andButton = document.getElementById("and")
     xmlhttp.onreadystatechange = function() {

@@ -2,6 +2,7 @@ assets:
   source: C:\Users\Ryan\TinellbianLanguages\toplevel\data\data.src
 entries:
 - - Welcome to Tinellb!
+files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 locations:
   directory: c:\users\ryan\tinellbianlanguages\toplevel
 markdown: ''

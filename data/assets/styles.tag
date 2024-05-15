@@ -3,6 +3,9 @@ default:
     font: Dubai
     size: 18
   block: default
+em:
+  props:
+    italics: true
 h2:
   props:
     font: Gadugi
@@ -10,6 +13,3 @@ h2:
     underline: true
     top: 15
     background: '#ccccdd'
-em:
-  props:
-    italics: true

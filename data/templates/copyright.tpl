@@ -1,14 +1,14 @@
 styles:
+  a:
+    type: anchor
+  br:
+    type: complete
   copyright:
     type: div
     start: <span class="no-breaks">
     end: </span>
-  a:
-    type: anchor
   date:
     type: data
-  br:
-    type: complete
   param:
     type: data
 text:

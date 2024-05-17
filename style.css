@@ -271,4 +271,18 @@ body {
         height: 20px;
         width: 200px;
     }
+
+    .content li {
+        text-indent: 0;
+        padding-left: 0;
+    }
+
+    ol {
+        margin-left: 0;
+        padding-left: 0;
+    }
+
+    .eplist ol li {
+        margin-left: 0;
+    }
 }

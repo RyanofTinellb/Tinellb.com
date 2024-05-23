@@ -1,7 +1,8 @@
 assets:
   searchindex: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\searching.json
   source: C:\Users\Ryan\TinellbianLanguages\toplevel\data\data.src
-entries: []
+entries:
+- - Welcome to Tinellb!
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
 links:

@@ -12,9 +12,73 @@ main {
 }
 
 main h1 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Premiere {
+    border-top: double;
+}
+
+.Finale {
+    border-bottom: double;
+}
+
+.Start {
+    border-top: solid;
+}
+
+.End {
+    border-bottom: solid
+}
+
+.Miniseries {
+    color: yellowgreen;
+}
+
+.End,
+.Start {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Movie {
+    color: lightcoral;
+}
+
+.Iso {
+    font-size: smaller;
+}
+
+.Iso::before {
+    content: '['
+}
+
+.Iso::after {
+    content: ']'
+}
+
+.Film {
+    color: lightblue;
+}
+
+.content h1 {
     font-size: 36pt;
     margin-top: 2rem;
     margin-bottom: 2rem;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.eplist ol li {
+    margin: 0.5em auto;
+}
+
+.eplist ol li {
+    margin: 0.5em auto;
 }
 
 main h2 {
@@ -25,7 +89,7 @@ main h2 {
     margin-top: 0;
 }
 
-main h2 a {
+.content h2 a {
     color: black;
     font-family: serif;
     font-weight: normal;
@@ -70,7 +134,7 @@ main ul {
 }
 
 .nav-pane ul li a {
-    color: black;
+    color: white;
 }
 
 .nav-pane form {
@@ -87,6 +151,26 @@ main ul {
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     border-bottom: 20px solid #95A;
+}
+
+.box-middle {
+    position: fixed;
+    bottom: 5%;
+    left: 50%;
+    width: 0%;
+    height: 1rem;
+}
+
+.box-middle input[type="checkbox"] {
+    display: none;
+}
+
+.box-middle .sorts input[type="checkbox"] {
+    display: inline;
+}
+
+.box-middle .sorts p {
+    text-indent: 0%;
 }
 
 .arrow-right a {
@@ -122,8 +206,24 @@ main ul {
 }
 
 .sorts button.selected {
-    background-color: black;
+    background-color: white;
     color: white;
+}
+
+.content .centre {
+    text-align: center;
+    text-indent: 0%;
+}
+
+.seriesheader {
+    text-decoration: underline;
+}
+
+.content .seriesname {
+    display: flex;
+    justify-content: center;
+    font-size: smaller;
+    text-indent: 0%;
 }
 
 @media screen and (max-width: 800px) {
@@ -132,42 +232,87 @@ main ul {
         margin-left: 0.5em;
         margin-right: 0;
     }
+
     .sorts {
-        display: flex;
-        flex-direction: row-reverse;
         position: fixed;
-        bottom: 5%;
-        width: 90%;
+        left: 30%;
+        bottom: 10%;
+        background-color: black;
+        /* width: 50%; */
         justify-content: space-evenly;
+        display: none;
     }
+
+
+    .box-middle input[type="checkbox"] {
+        display: block;
+    }
+
+    input:checked+div {
+        display: block;
+    }
+
     .sorts p {
         text-indent: 0;
     }
+
     .sorts p:last-child {
         order: -1;
     }
+
     .sorts button.selected {
         background-color: black !important;
         color: white !important;
     }
+
     button#airdate {
-        background-color: #3C0;
+        background-color: yellow;
     }
-    button#default {
-        background-color: #33F;
+
+    button#calendar {
+        background-color: turquoise;
+    }
+
+    button#wallet {
+        background-color: blue;
         color: white;
     }
+
+    button#default {
+        background-color: purple;
+        color: white;
+    }
+
+    button#length {
+        background-color: orange;
+    }
+
     button#random {
+        background-color: green;
+        color: white;
+    }
+
+    button#epname {
         background-color: red;
         color: white;
     }
-    button#epname {
-        background-color: #FD3;
-    }
+
     .sorts button {
-        border-radius: 50%;
         height: 20px;
-        width: 20px;
-        display: initial;
+        width: 200px;
+    }
+
+    .content li {
+        text-indent: 0;
+        padding-left: 0;
+    }
+
+    ol {
+        margin-left: 0;
+        padding-left: 0;
+    }
+
+    .eplist ol li {
+        margin-left: 0;
     }
 }

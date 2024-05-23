@@ -1,449 +1,129 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-    <title>Series Order</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/png" href="/favicon.png">
-    <style media="screen">
-        ul {
-            margin-left: 20%;
-            line-height: 1.5;
-        }
-        
-        #current {
-            font-weight: bold;
-        }
-    </style>
-    <style media="screen and (max-width:500px)">
-        ul {
-            margin-left: 0;
-            padding-left: 2em;
-        }
-    </style>
-</head>
-
-<body>
-    <p><a href='#current'>Current show &rarr;</a></p>
-    <ul id="origdate" origdate="2018-05-04" lastchangeddate="2021-09-25">
-        <li seasons="2">Yes, Minister</li>
-        <li seasons="6">Xena, Warrior Princess</li>
-        <li seasons="2.5">Warehouse 13</li>
-        <li seasons="7">Star Trek: Voyager</li>
-        <li seasons="1.5">The Venture Bros.</li>
-        <li seasons="2">Stargate Universe</li>
-        <li seasons="0.8">United States of Tara</li>
-        <li seasons="1">Tru Calling</li>
-        <li seasons="2">Time Trax</li>
-        <li seasons="1">Time Manipulation:
-            <select>
-          <option>Back to the Future</option>
-          <option>Time After Time</option>
-          <option>Timecop</option>
-          <option>Tenet</option>
-          <option>Bill and Ted</option>
-          <option>Groundhog Day</option>
-          <option>Click</option>
-          <option>The Time Traveller’s Wife</option>
-          <option>The Boy and the Pirates</option>
-        </select>
-        </li>
-        <li seasons="0.3">The Thin Blue Line</li>
-        <li seasons="4">Supergirl</li>
-        <li seasons="3.5">Star Trek</li>
-        <li seasons="0.5">Spellbinder</li>
-        <li seasons="1">Special Unit 2</li>
-        <li seasons="10">Smallville</li>
-        <li seasons="4">Sliders</li>
-        <li seasons="2">Six Feet Under</li>
-        <li seasons="0.1">The Sketch Show</li>
-        <li seasons="10">The Simpsons</li>
-        <li seasons="10">Stargate: SG-1</li>
-        <li seasons="3.4">Scrubs</li>
-        <li seasons="0.5">Sapphire & Steel</li>
-        <li seasons="2.5">Sanctuary</li>
-        <li seasons="2.8">Robots and Aliens:
-            <select>
-          <option>The Day the Earth Stood Still</option>
-          <option>V</option>
-          <option>District 9</option>
-          <option>Arrival</option>
-          <option>Evolution</option>
-          <option>Paul</option>
-          <option>Flight of the Navigator</option>
-          <option>Men in Black</option>
-          <option>The Hitchhiker’s Guide to the Galaxy</option>
-          <option>The Adventures of Buckaroo Banzai</option>
-          <option>The Fifth Element</option>
-          <option>Galaxy Quest</option>
-          <option>Star Trek</option>
-          <option>Stargate</option>
-          <option>Star Wars</option>
-          <option>Dark City</option>
-          <option>The Matrix</option>
-          <option>Moon</option>
-          <option>Short Circuit</option>
-        </select>
-        </li>
-        <li seasons="3">Red Dwarf</li>
-        <li seasons="1">Reaper</li>
-        <li seasons="1">Pushing Daisies</li>
-        <li seasons="1">Pixar
-            <select>
-          <option>Toy Story</option>
-          <option>Monsters, Inc.</option>
-          <option>Finding Nemo</option>
-          <option>The Incredibles</option>
-          <option>Ratatouille</option>
-          <option>Wall·E</option>
-          <option>Up</option>
-          <option>Inside Out</option>
-          <option>Coco</option>
-        </select>
-        </li>
-        <li seasons="0.5">Star Trek: Picard</li>
-        <li seasons="3.5">The Outer Limits</li>
-        <li seasons="2">Otherworld:
-            <select>
-          <option>Pan’s Labyrinth</option>
-          <option>The Wizard of Oz</option>
-          <option>The Chronicles of Narnia</option>
-          <option>The Never-Ending Story</option>
-          <option>Stardust</option>
-          <option>Hook</option>
-          <option>Last Action Hero</option>
-          <option>The Princess Bride</option>
-          <option>The Lego Movie</option>
-          <option>The Lord of the Rings</option>
-          <option>The Nightmare Before Christmas</option>
-          <option>Willow</option>
-          <option>Shrek</option>
-        </select>
-        </li>
-        <li seasons="1">The Orville</li>
-        <li seasons="7">Once Upon a Time</li>
-        <li seasons="1">Odyssey 5</li>
-        <li seasons="0.8">Ocean Girl</li>
-        <li seasons="7.3">Star Trek: The Next Generation</li>
-        <li seasons="0.5">My Hero</li>
-        <li seasons="1.3">Mortality: Ghosts, Spirits, Souls, and Gods:
-            <select>
-          <option>The Ring: リング</option>
-          <option>Night of the Shooting Stars: 星に願いを</option>
-          <option>Just Like Heaven</option>
-          <option>Ghost</option>
-          <option>Edward Scissorhands</option>
-          <option>Beetlejuice</option>
-          <option>Death Becomes Her</option>
-          <option>Ghostbusters</option>
-          <option>Casper</option>
-          <option>The Mummy</option>
-          <option>Pirates of the Caribbean</option>
-          <option>Clash of the Titans</option>
-          <option>Immortals</option>
-        </select>
-        </li>
-        <li seasons="5.5">M*A*S*H</li>
-        <li seasons="0.3">The Lost Room</li>
-        <li seasons="0.1">Look Around You</li>
-        <li seasons="4">Lois & Clark: The New Adventures of Superman</li>
-        <li seasons="3">Lexx</li>
-        <li seasons="1">Languorous:
-            <select>
-          <option>The Dressmaker</option>
-          <option>Cast Away</option>
-          <option>The Truman Show</option>
-          <option>Rain Man</option>
-          <option>Dead Poets Society</option>
-          <option>The Shawshank Redemption</option>
-          <option>Sliding Doors</option>
-          <option>Chocolat</option>
-          <option>Life is Beautiful: La vita è bella</option>
-          <option>Crouching Tiger, Hidden Dragon 臥虎藏龍</option>
-        </select>
-        </li>
-        <li seasons="0.3">The Adventures of Lano & Woodley</li>
-        <li seasons="0.5">Spellbinder 2: Land of the Dragon Lord</li>
-        <li seasons="1">Krypton</li>
-        <li seasons="1">Kids:
-            <select>
-          <option>Chicken Run</option>
-          <option>The Muppets</option>
-          <option>Willy Wonka and the Chocolate Factory</option>
-          <option>Bedknobs and Broomsticks</option>
-          <option>Mary Poppins</option>
-          <option>Crystalstone</option>
-          <option>Matilda</option>
-          <option>Jumanji</option>
-          <option>George of the Jungle</option>
-          <option>The Road to El Dorado</option>
-        </select>
-        </li>
-        <li seasons="10">JAG</li>
-        <li seasons="0.5">The IT Crowd</li>
-        <li seasons="1">History:
-            <select>
-          <option>Monty Python</option>
-          <option>Robin Hood: Prince of Thieves</option>
-          <option>The Three Musketeers</option>
-          <option>Yahoo Serious</option>
-          <option>The King’s Speech</option>
-          <option>The Imitation Game</option>
-          <option>Schindler’s List</option>
-          <option>Born Free</option>
-          <option>Saving Mr. Banks</option>
-          <option>Good Morning Vietnam</option>
-          <option>The Dish</option>
-          <option>Mask</option>
-        </select>
-        </li>
-        <li seasons="4">Heroes</li>
-        <li seasons="5.5">Hercules: The Legendary Journeys</li>
-        <li seasons="1">Graphic Novel:
-            <select>
-          <option>Superman</option>
-          <option>Batman</option>
-          <option>The Dark Knight</option>
-          <option>Deadpool</option>
-          <option>Megamind</option>
-          <option>Teenage Mutant Ninja Turtles</option>
-          <option>The Mask</option>
-          <option>Akira アキラ</option>
-          <option>Unbreakable</option>
-        </select>
-        </li>
-        <li seasons="1">The Good Place</li>
-        <li seasons="0.3">Good Omens</li>
-        <li seasons="0.5">The Girl From Tomorrow</li>
-        <li seasons="1">Ghibli Studio:
-            <select>
-          <option>Laputa: Castle in the Sky 天空の城ラピュタ</option>
-          <option>My Neighbor Totoro となりのトトロ</option>
-          <option>Kiki’s Delivery Service 魔女の宅急便</option>
-          <option>Princess Mononoke もののけ姫</option>
-          <option>Spirited Away 千と千尋の神隠し</option>
-          <option>Howl’s Moving Castle ハウルの動く城</option>
-          <option>Tales from Earthsea ゲド戦記</option>
-        </select>
-            <li seasons="2.5">Get Smart</li>
-            <li seasons="4">Game of Thrones</li>
-            <li seasons="3">Futurama</li>
-            <li seasons="2">Funny:
-                <select>
-          <option>Rowan Atkinson: Live</option>
-          <option>Mrs. Doubtfire</option>
-          <option>Sister Act</option>
-          <option>The Castle</option>
-          <option>Stripes</option>
-          <option>Tropic Thunder</option>
-          <option>Hot Shots</option>
-          <option>Austin Powers</option>
-          <option>Team America: World Police</option>
-          <option>Zoolander</option>
-          <option>Sorry to Bother You</option>
-          <option>Clue</option>
-          <option>The Invention of Lying</option>
-          <option>Idiocracy</option>
-          <option>Ted</option>
-          <option>Liar Liar</option>
-          <option>Bewitched</option>
-          <option>Dogma</option>
-          <option>What We Do in the Shadows</option>
-        </select>
-            </li>
-            <li seasons="4.5">Fringe</li>
-            <li seasons="0.5">Firefly</li>
-            <li seasons="4.1">Farscape</li>
-            <li seasons="1" current id="current">Euphony:
-                <select>
-          <option>This Is Spın̈al Tap</option>
-          <option>The Blues Brothers</option>
-          <option>Jesus Christ Superstar</option>
-          <option>Calamity Jane</option>
-          <option>Singin’ in the Rain</option>
-          <option>Evita</option>
-          <option>Phantom of the Opera</option>
-          <option>Dr. Horrible’s Sing-Along Blog</option>
-          <option>Daria: Daria!</option>
-          <option>Scrubs: My Musical</option>
-          <option>Sanctuary: Fugue</option>
-          <option>Xena, Warrior Princess: The Bitter Suite</option>
-          <option>Lexx: Brigadoom</option>
-          <option>Buffy, the Vampire Slayer: Once More, With Feeling</option>
-          <option>Once Upon a Time: The Song In Your Heart</option>
-        </select>
-            </li>
-            <li seasons="4">(Star Trek:) Enterprise</li>
-            <li seasons="0.5">The Dresden Files</li>
-            <li seasons="1">Dollhouse</li>
-            <li seasons="2">Disney:
-                <select>
-          <option>101 Dalmatians</option>
-          <option>The Little Mermaid</option>
-          <option>Beauty and the Beast</option>
-          <option>Aladdin</option>
-          <option>The Lion King</option>
-          <option>The Hunchback of Notre Dame</option>
-          <option>Hercules</option>
-          <option>Mulan</option>
-          <option>Tarzan</option>
-          <option>The Emperor’s New Groove</option>
-          <option>Lilo & Stitch</option>
-          <option>Bolt</option>
-          <option>Treasure Planet</option>
-          <option>Atlantis: The Lost Empire</option>
-          <option>Tangled</option>
-          <option>Enchanted</option>
-          <option>Wreck-It Ralph</option>
-          <option>Big Hero 6</option>
-          <option>Moana</option>
-          <option>Frozen</option>
-        </select>
-            </li>
-            <li seasons="1">Star Trek: Discovery</li>
-            <li seasons="7">Star Trek: Deep Space Nine</li>
-            <li seasons="0.5">Day Break</li>
-            <li seasons="3">Dark Matter</li>
-            <li seasons="2.7">Daria</li>
-            <li seasons="5">Crossing Jordan</li>
-            <li seasons="0.5">Coupling</li>
-            <li seasons="1">Classic:
-                <select>
-          <option>The Philadelphia Story</option>
-          <option>North by Northwest</option>
-          <option>The Maltese Falcon</option>
-          <option>Casablanca</option>
-          <option>12 Angry Men</option>
-          <option>The Manxman</option>
-          <option>Rebecca</option>
-          <option>Metropolis</option>
-        </select>
-            </li>
-            <li seasons="9">Charmed</li>
-            <li seasons="1">Charmed (2019)</li>
-            <li seasons="1">Charlie Jade</li>
-            <li seasons="7">Buffy, the Vampire Slayer</li>
-            <li seasons="0.5">Brooks:
-                <select>
-          <option>The Producers</option>
-          <option>Blazing Saddles</option>
-          <option>Young Frankenstein</option>
-          <option>The History of the World, Part I</option>
-          <option>Spaceballs</option>
-          <option>Robin Hood: Men in Tights</option>
-        </select>
-            </li>
-            <li seasons="2">Blakes 7</li>
-            <li seasons="0.5">Blackadder</li>
-            <li seasons="0.3">Black Books</li>
-            <li seasons="6">The Big Bang Theory</li>
-            <li seasons="4">Bewitched</li>
-            <li seasons="0.1">Believe Nothing</li>
-            <li seasons="2.7">Becker</li>
-            <li seasons="1">The Bard of Avon:
-                <select>
-          <option>Hamlet (1948) - Lawrence Olivier</option>
-          <option>A Midsummer Night’s Dream (1968) - Judi Dench</option>
-          <option>Julius Caesar (1970) - Charlton Heston</option>
-          <option>Antony and Cleopatra (1972) Charlton Heston</option>
-          <option>Macbeth (1978) - Ian McKellen </option>
-          <option>Othello (1995) - Lawrence Fishburne</option>
-          <option>Romeo + Juliet (1996) - Leonardo DiCaprio</option>
-          <option>10 Things I Hate About You (1999) - Julia Stiles</option>
-          <option>King of Texas (2002) - Patrick Stewart</option>
-          <option>The Tempest (2010) - Helen Mirren</option>
-        </select>
-            </li>
-            <li seasons="5.5">Babylon 5</li>
-            <li seasons="1.5">Avatar, the Last Airbender</li>
-            <li seasons="1">The Legend of Korra</li>
-            <li seasons="5">Atlantis</li>
-            <li seasons="5">Angel</li>
-            <li seasons="5">Andromeda</li>
-            <li seasons="1">American Gods</li>
-            <li seasons="1">Action / Adventure:
-                <select>
-          <option>The Librarian</option>
-          <option>Bulletproof Monk</option>
-          <option>Welcome to the Jungle</option>
-          <option>Jurassic Park</option>
-          <option>Night at the Museum</option>
-          <option>Shanghai Noon</option>
-          <option>Innerspace</option>
-          <option>Inception</option>
-          <option>Minority Report</option>
-        </select>
-            </li>
-            <li seasons="1">The 4400</li>
-            <li seasons="3">30 Rock</li>
-    </ul>
-</body>
-<script type="text/javascript">
-    function add(a, b) {
-        return rationalise([a[0] + b[0], a[1] + b[1]]);
-    }
-
-    function rationalise(number) {
-        integer = number[0];
-        mantissa = number[1];
-        integer += Math.floor(mantissa / 10);
-        mantissa %= 10;
-        return [integer, mantissa];
-    }
-
-    function toFloat(number) {
-        return number[0] + number[1] / 10;
-    }
-
-    function applyStrikeout(elt) {
-        let strike = document.createElement('s');
-        let text = elt.childNodes[0].data;
-        strike.innerHTML = elt.childNodes[0].data;
-        elt.childNodes[0].replaceWith(strike);
-    }
-
-    let timeperseason;
-    let total = [0, 0];
-    let origdate = new Date(document.getElementById("origdate").attributes.origdate.value);
-    let changedate = new Date(document.getElementById("origdate").attributes.lastchangeddate.value);
-    let months = [
-        "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
-    ]
-    let strikeout = true;
-    for (elt of document.getElementsByTagName("li")) {
-        let seasons = elt.attributes.seasons.value;
-        let integer = parseInt(seasons.split(".")[0]);
-        let mantissa = parseInt(seasons.split(".")[1]) || 0;
-        if (elt.attributes.current) {
-            strikeout = false;
-            timeperseason = (changedate - origdate) / toFloat(total);
-        }
-        if (strikeout) applyStrikeout(elt);
-        total = add(total, [integer, mantissa]);
-        if (total[1]) {
-            var fltotal = total.join(".");
-        } else {
-            var fltotal = total[0];
-        }
-        if (timeperseason) {
-            var thendate = new Date(Date.parse(origdate) + (toFloat(total) * timeperseason));
-            switch (Math.floor(thendate.getDate() / 10)) {
-                case 0:
-                    var period = "early";
-                    break;
-                case 1:
-                    var period = "mid";
-                    break;
-                default:
-                    var period = "late";
+    <head>
+        <title>Series Order</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/png" href="/favicon.png">
+        <style media="screen">
+            ol {
+                margin-left: 20%;
+                line-height: 1.5;
             }
-            thendate = ` &ndash; ends ${period} ${months[thendate.getMonth()]}, ${thendate.getFullYear()}.`;
-        } else {
-            var thendate = "";
-        }
-        elt.innerHTML += thendate;
-    }
-</script>
+
+            #current {
+                font-weight: bold;
+            }
+        </style>
+        <style media="screen and (max-width:500px)">
+            ul {
+                margin-left: 0;
+                padding-left: 2em;
+            }
+        </style>
+    </head>
+
+    <body>
+        <ol>
+            <li>The 4400</li>
+            <li>The Good Place</li>
+            <li>Day Break</li>
+            <li>Stargate: SG‑1</li>
+            <li>Once Upon a Time</li>
+            <li>Warehouse 13</li>
+            <li>Star Trek: Voyager</li>
+            <li>Avatar</li>
+            <li>The Simpsons</li>
+            <li>Lois & Clark: The New Adventures of Superman</li>
+            <li>Dark Matter</li>
+            <li>Charlie Jade</li>
+            <li>Babylon 5</li>
+            <li>Stargate Atlantis</li>
+            <li>Farscape</li>
+            <li>Tru Calling</li>
+            <li>Star Trek: Deep Space Nine</li>
+            <li>Blakes 7</li>
+            <li>Look Around You</li>
+            <li>Star Trek: Lower Decks</li>
+            <li>Angel</li>
+            <li>The Dresden Files</li>
+            <li>JAG</li>
+            <li>Star Trek: The Original Series</li>
+            <li>Lexx</li>
+            <li>Blackadder</li>
+            <li>The Girl From Tomorrow</li>
+            <li>Red Dwarf</li>
+            <li>Buffy, the Vampire Slayer</li>
+            <li>Star Trek: The Next Generation</li>
+            <li>Spellbinder</li>
+            <li>Pushing Daisies</li>
+            <li>Dollhouse</li>
+            <li>Upstart Crow</li>
+            <li>The Prisoner</li>
+            <li>30 Rock</li>
+            <li>Crossing Jordan</li>
+            <li>Daria</li>
+            <li>Black Books</li>
+            <li>Futurama</li>
+            <li>Yes, Minister</li>
+            <li>M*A*S*H</li>
+            <li>Sapphire & Steel</li>
+            <li>Special Unit 2</li>
+            <li>The Orville</li>
+            <li>Game of Thrones</li>
+            <li>Time Trax</li>
+            <li>Becker</li>
+            <li>United States of Tara</li>
+            <li>Star Trek: Picard</li>
+            <li>The Venture Bros.</li>
+            <li>Coupling</li>
+            <li>Firefly</li>
+            <li>Bewitched</li>
+            <li>Odyssey 5</li>
+            <li>Scrubs</li>
+            <li>Supergirl</li>
+            <li>Believe Nothing</li>
+            <li>Charmed</li>
+            <li>Sliders</li>
+            <li>Get Smart</li>
+            <li>Reaper</li>
+            <li>Cleverman</li>
+            <li>No Ordinary Family</li>
+            <li>Russian Doll</li>
+            <li>Good Omens</li>
+            <li>The IT Crowd</li>
+            <li>Murder, She Wrote</li>
+            <li>Star Trek: Enterprise</li>
+            <li>Lucifer</li>
+            <li>The Magicians</li>
+            <li>American Gods</li>
+            <li>My Hero</li>
+            <li>Sabrina, the Teenage Witch</li>
+            <li>Xena, Warrior Princess</li>
+            <li>Hercules: The Legendary Journeys</li>
+            <li>Seven (7) Days</li>
+            <li>Sanctuary</li>
+            <li>Stargate Universe</li>
+            <li>Andromeda</li>
+            <li>Krypton</li>
+            <li>Quantum Leap</li>
+            <li>Star Trek: Discovery</li>
+            <li>Heroes</li>
+            <li>The Big Bang Theory</li>
+            <li>Smallville</li>
+            <li>Fringe</li>
+            <li>Twin Peaks</li>
+            <li>The Outer Limits</li>
+            <li>Star Trek: Strange New Worlds</li>
+            <li>The Expanse</li>
+            <li>Frasier</li>
+            <li>Ocean Girl</li>
+            <li>The Adventures of Lano & Woodley</li>
+            <li>Charmed II</li>
+            <li>The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television)</li>
+            <li>The Thin Blue Line</li>
+        </ol>
+    </body>
 
 </html>

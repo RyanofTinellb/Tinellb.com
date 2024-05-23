@@ -11,8 +11,6 @@ let layout = [
   [6, 6, 6, 7, 7, 7, 8, 8, 8]
 ]
 
-let stringFilter = (val, ind) => val ? (ind + 1).toString() : '';
-
 class Cell {
   constructor(index) {
     this.row = Math.floor(index / 9);
@@ -30,13 +28,24 @@ class Cell {
     // this.ind = 3 * sqrrow + sqrcol;
 
     this.sid = 's' + index;
-    this.possibilities = Array(9).fill(true)
+
+    this.possibilities = [];
+    for (let i = 0; i < 9; i++) {
+      this.possibilities.push(true);
+    }
+
     this.cell = document.getElementById(this.sid);
     this.setup();
   }
 
   contents() {
-    return this.possibilities.map((v, i) => stringFilter(v, i)).join('');
+    content = '';
+    for (let i = 0; i < 9; i++) {
+      if (this.possibilities[i]) {
+        content += (i + 1).toString();
+      }
+    }
+    return content;
   };
 
   borders() {
@@ -87,7 +96,10 @@ class Cell {
   };
 
   set(number) {
-    this.possibilities = this.possibilities.map((_, i) => i == number-1);
+    number--;
+    for (let i = 0; i < 9; i++) {
+      this.possibilities[i] = (i == number);
+    }
   };
 
   select() {

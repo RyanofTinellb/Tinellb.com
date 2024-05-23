@@ -1,0 +1,31 @@
+assets:
+  searchindex: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\searching.json
+  source: C:\Users\Ryan\TinellbianLanguages\toplevel\data\data.src
+entries: []
+files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
+languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
+links:
+  external: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\external.glk
+  sorts: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\sorts.glk
+locations:
+  directory: c:\users\ryan\tinellbianlanguages\toplevel
+  page404: C:\Users\Ryan\TinellbianLanguages\toplevel\404.html
+  search: C:\Users\Ryan\TinellbianLanguages\toplevel\special\search.html
+  wholepage: C:\Users\Ryan\TinellbianLanguages\toplevel\special\wholepage.html
+port: 40460
+styles: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\styles.tag
+templates:
+  main: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\page.tpl
+  page404: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\404.tpl
+  search: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\search.tpl
+  sections:
+    copyright: c:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\copyright.tpl
+    eplist: C:\Users\Ryan\TinellbianLanguages\toplevel\data\sections\eplist.tpl
+    family links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\family_links.tpl
+    highlight search term: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\highlight_search_term.tpl
+    mini-nav: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\navigation arrows.tpl
+    navigation pane: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\navpane.tpl
+    search nav pane: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\search_navpane.tpl
+    search script: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\seach_script.tpl
+    show javascript: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\show_javascipt.tpl
+  wholepage: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\wholepage.tpl

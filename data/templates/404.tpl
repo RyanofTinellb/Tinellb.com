@@ -1,63 +1,77 @@
-text:
-- <!DOCTYPE html>
-- <html>
-- ''
-- <head>
-- '    <meta name="viewport" content="width=device-width,'
-- '                                initial-scale=1.0, user-scalable=yes">'
-- '    <meta charset="utf-8">'
-- '    <title>'
-- '        404 - Tinellbian Languages'
-- '    </title>'
-- '    <link rel="stylesheet" type="text/css" href="/basic_style.css">'
-- '    <link rel="stylesheet" type="text/css" href="/style.css">'
-- ''
-- '    <link rel="icon" type="image/png" href="/favicon.png">'
-- ''
-- '    <script type="text/javascript">'
-- '        let href = window.location.href;'
-- '        if (href.indexOf("?") != -1) {'
-- '            let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");'
-- '            window.location.href = `search.html?${term}&andOr=and`;'
-- '        }'
-- '    </script>'
-- ''
-- </head>
-- ''
-- <body>
-- '    <flex>'
-- '        <nav-pane>'
-- '            <label>'
-- '  <input type="checkbox" class="menu">'
-- '  <ul>'
-- '  <li><a href="/index.html">Tinellb</a></li>'
-- '    <javascript>'
-- '      <form id="search">'
-- '        <li class="search">'
-- '          <input type="text" name="term">'
-- '          <button type="submit">Search</button>'
-- '        </li>'
-- '      </form>'
-- '    </javascript>'
-- '   <links-root>  <ul class="level-1"><li><a href="/about.html">About</a></li>'
-- <li><a href="/episodelist.html">Episode List</a></li>
-- </ul>
-- '   </links-root></ul></label>'
-- '        </nav-pane>'
-- '        <main>'
-- '            <h1>404 - Page Not Found</h1>'
-- '            <main-contents>'
-- '                <p>There is no page here.</p>'
-- '                <p>Please select an option from the navigation pane at left.</p>'
-- '            </main-contents>'
-- '        </main>'
-- '    </flex>'
-- '    <script type="text/javascript">'
-- '        for (elt of document.getElementsByClassName(''javascript'')) {'
-- '            elt.style.display = "block";'
-- '        }'
-- '    </script>'
-- </body>
-- ''
-- </html>
 styles:
+  '!doctype':
+    type: complete
+  body:
+    type: block
+    start: <p>
+    end: </p>
+  content:
+    type: div
+  data:
+    type: data
+  entry-data:
+    type: data
+  flex:
+    type: div
+  footer:
+    type: block
+  form:
+    type: block
+  h1:
+    type: heading
+    param: ''
+    open: <h1>
+  head:
+    type: block
+  html:
+    type: block
+    language: true
+  inline-script:
+    type: line
+    open: <script>
+    close: </script>
+  input:
+    type: complete
+  internal-link:
+    type: link
+  internal-script:
+    type: line
+    open: <script>
+    close: </script>
+  javascript:
+    type: line
+  link:
+    type: complete
+  main:
+    type: block
+  meta:
+    type: complete
+  results:
+    open: <div class="results" id="results">
+    type: div
+  script:
+    type: complete
+    close: '></script>'
+  template:
+    type: template
+  title:
+    type: line
+text:
+- <!doctype>html</!doctype>
+- <html@en><head><meta>name="viewport" content="width=device-width/initial-scale=1.0"</meta>
+- <meta>charset="utf-8"</meta>
+- <title>Search - <entry-data>root</entry-data></title>
+- <link>rel="stylesheet" type="text/css" href="/data/stylesheets/basic_style.css"</link>
+- <link>rel="stylesheet" type="text/css" href="/data/stylesheets/style.css"</link>
+- <link>rel="icon" type="image/png" href="/data/assets/favicon.png"</link></head>
+- <body><flex><template>navigation pane</template>
+- <main><h1>Search – <entry-data>root</entry-data></h1>
+- <form><input>type="text" class="term" id="term" name="term" placeholder="Search..."</input>
+- <input>type="submit" class="submit" value="Search"</input></form>
+- <results>Searching...</results></main></flex>
+- <footer><template>copyright</template></footer>
+- <script>src="/data/scripts/search.js"</script>
+- <script>src="/data/scripts/404search.js"</script>
+- <inline-script>
+- for (elt of document.getElementsByClassName('javascript')) {
+- elt.style.display = "block";}</inline-script></body></html@en>

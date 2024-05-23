@@ -1,4 +1,4 @@
-if (window.location.href.indexOf("?") != -1) {
+if (window.location.href.indexOf("?term=") != -1) {
     search();
 }
 
@@ -120,7 +120,7 @@ function titleSearch(arr, terms, andButton) {
     filter = name => (andButton ? name.count === terms.length : name.count);
     names = names.filter(filter);
     return `<div class="title-results"><ul>${names.map(
-        name => `<a href="${name.url}">${name.name}</a></li>`
+        name => `<a href="/${name.url}">${name.name}</a></li>`
     ).join(';<br> ')}</ul></div>`;
 }
 

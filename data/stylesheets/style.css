@@ -1,5 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+a:visited {
+    color: #f3f;
+}
+
+main {
+    width: 55%;
+}
+
 main h1 {
     font-size: 36pt;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 main h2 {
@@ -22,6 +37,7 @@ main li {
     font-family: sans-serif;
     line-height: 1.5em;
     text-indent: 1em;
+    padding-bottom: 0.5em;
 }
 
 main .eplist ol li .hidden-info {
@@ -30,6 +46,14 @@ main .eplist ol li .hidden-info {
 
 main .eplist ol li:hover .hidden-info {
     display: inline;
+}
+
+main .toc {
+    display: none;
+}
+
+main ul {
+    margin-left: 5%;
 }
 
 .nav-pane ul {
@@ -76,10 +100,14 @@ main .eplist ol li:hover .hidden-info {
     border-top: 20px solid #95A;
 }
 
-.sorts {
-    position: fixed;
-    bottom: 15%;
-    left: 5%;
+.sorts p {
+    margin-left: 15%;
+    line-height: 1.2;
+}
+
+.sorts p:first-of-type,
+.sorts p:last-of-type {
+    padding-bottom: 1rem;
 }
 
 .sorts button {

@@ -39,6 +39,13 @@ ipa strong {
     text-decoration: overline;
 }
 
+.highlight {
+    border: 1px solid red;
+    padding: 4px 5px;
+    border-radius: 15px;
+    line-height: 2;
+}
+
 @font-face {
     font-family: tinellb;
     src: url('../assets/tinellb.ttf');
@@ -73,15 +80,15 @@ table .tinellbian:hover {
 }
 
 main abbr.glossary {
-	font-variant: small-caps;
-	font-style: normal;
-	text-decoration: none;
+    font-variant: small-caps;
+    font-style: normal;
+    text-decoration: none;
 }
 
 main abbr.glossary::after {
-	content: "?";
-	vertical-align: super;
-	font-size: smaller;
+    content: "?";
+    vertical-align: super;
+    font-size: smaller;
 }
 
 h1 a:visited,
@@ -130,10 +137,6 @@ nav .nav-links {
 
 .javascript,
 .hidden {
-    display: none;
-}
-
-input[type='checkbox'] {
     display: none;
 }
 
@@ -195,6 +198,10 @@ main .wordlist .block {
     margin-top: 1rem;
 }
 
+main .wordlist .block:first-child {
+    margin-top: 0;
+}
+
 main .universe {
     display: inline;
     font-family: serif;
@@ -241,7 +248,302 @@ footer nav.mini {
     white-space: nowrap;
 }
 
+nav a {
+    text-decoration: none;
+    color: #4444EE;
+}
+
+nav .random {
+    text-align: center;
+}
+
+nav .random:hover,
+nav li:hover {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+nav p {
+    font-family: sans-serif;
+    margin: 0;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+nav ul {
+    list-style-type: none;
+    list-style-position: inside;
+    text-align: center;
+    padding: 0;
+    line-height: 1.5;
+}
+
+nav li.normal,
+nav li.normal a {
+    /* Top-level folder of current page */
+    font-weight: bold;
+    letter-spacing: 0;
+    text-decoration: underline;
+}
+
+nav li.link a {
+    text-decoration: none;
+}
+
+nav button {
+    display: block;
+    margin: auto;
+}
+
+nav form#search {
+    margin-top: 1em;
+}
+
+
+main summary.folding {
+    font-family: sans-serif;
+    margin-left: 20%;
+    margin-top: 0.2rem;
+}
+
+main summary.folding {
+    margin-left: calc(20% - 1rem);
+}
+
+details.folding+p {
+    padding-left: 1em;
+    margin: 0;
+}
+
+main ul,
+main ol {
+    margin-left: 20%;
+    margin-bottom: 0;
+}
+
+main table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+}
+
+main table td {
+    padding: 2px 6px;
+}
+
+main table th {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+main .also p {
+    margin-left: 5%;
+}
+
+main .wordlist {
+    margin-left: 17%;
+    margin-top: 1em;
+    padding-bottom: 0.5em;
+}
+
+main .gloss {
+    font-style: italic;
+}
+
+main .wordlist p {
+    margin-left: 3%;
+    margin-top: 0;
+    line-height: 1.5;
+}
+
+main textarea {
+    font-family: "Arial";
+}
+
+main textarea#rules {
+    width: 80%;
+    height: 10em;
+    font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
+}
+
+main textarea#words {
+    width: 100%;
+    height: 5em;
+}
+
+footer {
+    margin-top: 1rem;
+    font-size: smaller;
+    font-family: serif;
+    text-align: right;
+    width: 75%;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0.5rem;
+}
+
+h1 {
+    /* headword */
+    font-family: "gentium plus", serif;
+}
+
+h2 {
+    /* language */
+    font-family: andika, sans-serif;
+}
+
+.ipa {
+    font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
+}
+
+.ipa strong {
+    font-weight: 900;
+    color: red;
+}
+
+.native-script p {
+    /* Tinellbian script */
+    font-size: x-large;
+    font-weight: normal;
+    margin-left: 4%;
+}
+
+.native-script .tinellbian:hover {
+    padding: revert;
+    font-size: larger;
+    cursor: auto;
+}
+
+main .pronunciation p {
+    margin-left: 7%;
+}
+
+main .pronunciation a {
+    text-decoration: none;
+    color: black;
+    font-weight: normal;
+    font-size: larger;
+    letter-spacing: 2px;
+}
+
+h3 {
+    /* part of speech */
+    font-size: large;
+    font-family: garamond, serif;
+    margin-left: 10%;
+    margin-bottom: 0;
+    margin-top: 1em;
+}
+
+main h3 a {
+    color: black;
+    text-decoration-style: dashed;
+}
+
+main h3 a:hover {
+    text-decoration-style: dotted;
+}
+
+main .definition p {
+    font-size: medium;
+    font-family: sans-serif;
+    font-weight: normal;
+    margin-left: 13%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+main .definition .note {
+    font-style: italic;
+}
+
+main .definition .note::before {
+    content: "("
+}
+
+main .definition .note::after {
+    content: ")"
+}
+
+
+h4 {
+    /* subheadings */
+    font-family: sans-serif;
+    text-decoration: overline;
+    margin-left: 15%;
+    margin-top: 1em;
+    font-variant: small-caps;
+    font-family: serif;
+    font-size: large;
+    font-weight: normal;
+}
+
+main .results ol,
+main .results ul {
+    margin-left: 0;
+}
+
+main p a,
+main .results a {
+    text-decoration: none;
+}
+
+main .transliteration {
+    font-weight: bold;
+}
+
 @media screen and (max-width: 800px) {
+    input#wordsearch {
+        width: 80%;
+    }
+
+    main div.mobile-table p:not(:first-child) {
+        display: none;
+    }
+
+    main div.mobile-table p:first-child::before {
+        content: "(Show All)\A";
+        white-space: pre;
+        color: #5555FF;
+    }
+
+    main div.mobile-table p:first-child::after {
+        content: " \2026";
+    }
+
+    main div.mobile-table:hover p {
+        display: block;
+    }
+
+    main div.mobile-table:hover p:first-child::before {
+        content: "";
+    }
+
+    main div.mobile ul {
+        margin-top: 0em;
+    }
+
+    main div.mobile-table:hover p:first-child::after {
+        content: "";
+    }
+
+    main h5 a {
+        color: black;
+        text-decoration-style: dotted;
+    }
+
+    footer {
+        text-align: right;
+        width: 95%;
+    }
+
     .flex {
         flex-direction: column;
     }
@@ -256,11 +558,11 @@ footer nav.mini {
         text-align: left;
     }
 
-    nav.main{
+    nav.main {
         width: 100%;
     }
 
-    main table {
+    main div.desktop table {
         display: none;
     }
 
@@ -305,6 +607,20 @@ footer nav.mini {
 
     .mobile {
         display: initial;
+    }
+
+    .mobile p {
+        margin-left: 10%;
+    }
+
+    .mobile ul {
+        list-style: none;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .mobile ul li {
+        line-height: 1.5;
     }
 
     main input.folder:checked+div.folding .tooltip-text {

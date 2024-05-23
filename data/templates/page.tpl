@@ -65,11 +65,12 @@ text:
 - <link>rel="stylesheet" type="text/css" href="<internal-link>data/stylesheets/style.css</internal-link>"</link>
 - <link>rel="icon" type="image/png" href="<internal-link>data/assets/favicon.png</internal-link>"</link>
 - <inline-script>let href = window.location.href;
-- if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
+- if (href.indexOf("?term") != -1) {
 - let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
-- window.location.href = `<internal-link>special/search</internal-link>?${term}&andOr=and`;
-- '}</inline-script>'
-- <script>src="<internal-link>data/scripts/search.js</internal-link>"</script>
+- window.location.href = `<internal-link>special/search</internal-link>?${term}`;
+- '}'
+- '</inline-script>'
+- <script>src="<internal-link>data/scripts/search.js</internal-link>"</script></head>
 - <body><flex><template>navigation pane</template>
 - <main><template>mini-nav</template><h1><data>name</data></h1>
 - <data>contents</data><table-of-contents>children</table-of-contents></main></flex>

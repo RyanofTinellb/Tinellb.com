@@ -14,4 +14,4 @@ styles:
     param: $link:previous$|$text$
 text:
 - <nav><previous>← Previous Page<error><a>http://www.tinellb.com|↑ Back to Main</a></error></previous>
-- <next>Next Page →</next></nav>
+- <next>Next Page →<error><a>/index.html|↑ Back to Index</a></error></next></nav>

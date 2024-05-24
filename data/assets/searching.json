@@ -135,7 +135,6 @@
       ],
       "4": [
         49,
-        52,
         53
       ]
     },
@@ -386,7 +385,6 @@
         49,
         50,
         51,
-        52,
         54,
         56,
         57,
@@ -1566,8 +1564,7 @@
         41
       ],
       "4": [
-        49,
-        52
+        49
       ]
     },
     "dvd": {
@@ -3787,45 +3784,14 @@
         83
       ]
     },
-    "round": {
-      "4": [
-        52
-      ]
-    },
-    "buttons": {
-      "4": [
-        52
-      ]
-    },
-    "left-hand": {
-      "4": [
-        52
-      ]
-    },
-    "sidebottom": {
-      "4": [
-        52
-      ]
-    },
-    "screen": {
-      "4": [
-        52
-      ]
-    },
     "can": {
       "4": [
         52
       ]
     },
-    "used": {
+    "sorted": {
       "4": [
         52
-      ]
-    },
-    "sort": {
-      "4": [
-        52,
-        59
       ]
     },
     "r": {
@@ -3989,6 +3955,11 @@
       "4": [
         59,
         80
+      ]
+    },
+    "sort": {
+      "4": [
+        59
       ]
     },
     "groups": {
@@ -4202,7 +4173,7 @@
     "This list contains every film and television episode I own on physical media. I have neither cable television nor a subscription to a streaming service, but I do have numEps|over six years of normal viewing here.",
     "Idiosyncratic, and often arbitrary, decisions abound here. I categorised films the way I felt like. Sorting by episode names ignores articles, as you might expect, but also ignores most anything that would otherwise result in too large a batch of the same series appearing together. For instance, check episodes of Scrubs or Day Break, or Simpsons episodes with character names in the title.",
     " For a sortable list of episodes, please enable JavaScript or check out the JSON object /data/assets/eplist.json|here.",
-    "The round buttons on the left-hand sidebottom of the screen can be used to sort the episodes in different ways.",
+    "The episodes can be sorted in different ways.",
     "R: Random – Shuffles the list. Press again to get a new viewing order.",
     "A: Airdate – Sorts by the date of the original broadcast or release.",
     "T: Title – Sorts by film title or TV episode name, ignoring articles.",

@@ -58,14 +58,14 @@ entries:
               - <em>“I swear to remain true as a citizen of this town, this country, this world.”</em> Remain true. As easy as that. Remain true to what, though? Her mother had taught her about remaining true. She recalled the unshed tears in her mother’s eyes as she was taken away from their home and brought to this school. Her mother had remained true to the lost ways and the lost people, and had been lost, too. Remain true…
               - …to herself. She was the only one left, now. Who else was there to be true to? With a single motion, she erased her slate and began again. With shaking hands, she formed the glyphs for her <em>real</em> name, D‑E‑T‑S‑O‑R‑A.
             Episode List:
-              date: '2024-05-23'
+              date: '2024-05-24'
               position: '1.0'
               text:
               - <span>top</span>
               - This list contains every film and television episode I own on physical media. I have neither cable television nor a subscription to a streaming service, but I do have <slot>numEps|over six years</slot> of normal viewing here.
               - <message>Idiosyncratic, and often arbitrary, decisions abound here. I categorised films the way I felt like. Sorting by episode names ignores articles, as you might expect, but also ignores most anything that would otherwise result in too large a batch of the same series appearing together. For instance, check episodes of <cite>Scrubs</cite> or <cite>Day Break</cite>, or <cite>Simpsons</cite> episodes with character names in the title.</message>
               - <noscript> For a sortable list of episodes, please <a>enable JavaScript</a> or check out the JSON object <anchor>/data/assets/eplist.json|here</anchor>.</noscript>
-              - <javascript>The <mobile>round </mobile>buttons on the <desktop>left-hand side</desktop><mobile>bottom</mobile> of the screen can be used to sort the episodes in different ways.
+              - <javascript>The episodes can be sorted in different ways.
               - '<ul><mobile>R: </mobile>Random – Shuffles the list. Press again to get a new viewing order.'
               - '<mobile>A: </mobile>Airdate – Sorts by the date of the original broadcast or release.'
               - '<mobile>T: </mobile>Title – Sorts by film title or TV episode name, ignoring articles.'

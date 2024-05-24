@@ -104,6 +104,10 @@ main li {
     padding-bottom: 0.5em;
 }
 
+main .eplist ol {
+    margin-left: 0;
+}
+
 main .eplist ol li .hidden-info {
     display: none;
 }
@@ -118,28 +122,6 @@ main .toc {
 
 main ul {
     margin-left: 5%;
-}
-
-.nav-pane ul {
-    list-style: none;
-    line-height: 1.6;
-}
-
-.nav-pane ul li {
-    font-size: larger;
-}
-
-.nav-pane ul li.normal {
-    font-weight: bold;
-}
-
-.nav-pane ul li a {
-    color: white;
-}
-
-.nav-pane form {
-    margin: 1em;
-    display: none;
 }
 
 .arrow-left a {
@@ -184,7 +166,7 @@ main ul {
     border-top: 20px solid #95A;
 }
 
-.sorts p {
+nav.main form.sorts p {
     margin-left: 15%;
     line-height: 1.2;
 }
@@ -206,8 +188,8 @@ main ul {
 }
 
 .sorts button.selected {
-    background-color: white;
     color: white;
+    background-color: blue;
 }
 
 .content .centre {

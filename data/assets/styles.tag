@@ -47,7 +47,7 @@ em:
 eplist:
   type: div
   open: <slot class="eplist">
-  close: <slot>
+  close: </slot>
   props:
     background: '#ff9999'
 h2:

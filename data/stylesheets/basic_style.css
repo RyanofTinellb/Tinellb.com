@@ -263,7 +263,7 @@ nav li:hover {
     text-decoration: underline;
 }
 
-nav p {
+nav.main p {
     font-family: sans-serif;
     margin: 0;
     padding-left: 15%;

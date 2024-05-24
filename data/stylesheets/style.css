@@ -4,7 +4,7 @@ body {
 }
 
 a:visited {
-    color: #f3f;
+    color: #93f;
 }
 
 main {
@@ -228,9 +228,9 @@ main ul {
 
 @media screen and (max-width: 800px) {
     main {
-        width: 100%;
-        margin-left: 0.5em;
-        margin-right: 0;
+        width: calc(100% - 2rem);
+        margin-left: 1rem;
+        margin-right: 1rem;
     }
 
     .sorts {
@@ -307,7 +307,7 @@ main ul {
         padding-left: 0;
     }
 
-    ol {
+    main ol {
         margin-left: 0;
         padding-left: 0;
     }

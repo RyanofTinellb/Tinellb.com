@@ -1,19 +1,118 @@
 body {
     background-color: black;
     color: white;
+    font-family: sans-serif;
 }
 
 a:visited {
     color: #93f;
 }
 
-main {
-    width: 55%;
-}
-
 main h1 {
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
+}
+
+main h2 {
+    margin-top: 2rem;
+    margin-left: 5%;
+    margin-bottom: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    text-decoration: overline;
+}
+
+main h2 a {
+    text-decoration: none;
+}
+
+main li {
+    line-height: 1.5em;
+    text-indent: 1em;
+    padding-bottom: 0.5em;
+}
+
+main p {
+    text-align: justify;
+    text-indent: 1.5rem;
+    line-height: 1.5;
+    padding: 0.5rem 0;
+}
+
+main .eplist ol {
+    margin-left: -25%;
+    padding-left: 0;
+    list-style: none;
+    text-align: center;
+}
+
+
+main .eplist ol li {
+    margin: 0.5em auto;
+}
+
+main .eplist ol li .hidden-info {
+    display: none;
+}
+
+main .eplist ol li:hover .hidden-info {
+    display: inline;
+}
+
+main .toc {
+    display: none;
+}
+
+main ul {
+    margin-left: 5%;
+}
+
+.arrow-left a {
+    position: fixed;
+    bottom: 5%;
+    left: 20%;
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 20px solid #95A;
+}
+
+.arrow-right a {
+    position: fixed;
+    bottom: 5%;
+    right: 20%;
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 20px solid #95A;
+}
+
+nav.main form.sorts p {
+    margin-left: 15%;
+    line-height: 1.2;
+}
+
+.sorts p:first-of-type,
+.sorts p:last-of-type {
+    padding-bottom: 1rem;
+}
+
+.sorts button {
+    background-color: white;
+    height: 20px;
+    width: 10em;
+    display: block;
+    margin-top: 5px;
+    font-size: 15px;
+    padding: 0;
+    text-align: center;
+}
+
+.sorts button.selected {
+    color: white;
+    background-color: blue;
 }
 
 .Premiere {
@@ -62,157 +161,20 @@ main h1 {
     color: lightblue;
 }
 
-.content h1 {
-    font-size: 36pt;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-}
-
-body {
-    background-color: black;
-    color: white;
-}
-
-.eplist ol li {
-    margin: 0.5em auto;
-}
-
-.eplist ol li {
-    margin: 0.5em auto;
-}
-
-main h2 {
-    font-family: serif;
-    font-weight: normal;
-    text-decoration: overline;
-    padding-top: 1em;
-    margin-top: 0;
-}
-
-.content h2 a {
-    color: black;
-    font-family: serif;
-    font-weight: normal;
-    text-decoration: overline;
-}
-
-main p,
-main li {
-    font-family: sans-serif;
-    line-height: 1.5em;
-    text-indent: 1em;
-    padding-bottom: 0.5em;
-}
-
-main .eplist ol {
-    margin-left: 0;
-}
-
-main .eplist ol li .hidden-info {
-    display: none;
-}
-
-main .eplist ol li:hover .hidden-info {
-    display: inline;
-}
-
-main .toc {
-    display: none;
-}
-
-main ul {
-    margin-left: 5%;
-}
-
-.arrow-left a {
-    position: fixed;
-    bottom: 5%;
-    left: 10%;
-    width: 0;
-    height: 0;
-    border-left: 10px solid transparent;
-    border-right: 10px solid transparent;
-    border-bottom: 20px solid #95A;
-}
-
-.box-middle {
-    position: fixed;
-    bottom: 5%;
-    left: 50%;
-    width: 0%;
-    height: 1rem;
-}
-
-.box-middle input[type="checkbox"] {
-    display: none;
-}
-
-.box-middle .sorts input[type="checkbox"] {
-    display: inline;
-}
-
-.box-middle .sorts p {
-    text-indent: 0%;
-}
-
-.arrow-right a {
-    position: fixed;
-    bottom: 5%;
-    right: 10%;
-    width: 0;
-    height: 0;
-    border-left: 10px solid transparent;
-    border-right: 10px solid transparent;
-    border-top: 20px solid #95A;
-}
-
-nav.main form.sorts p {
-    margin-left: 15%;
-    line-height: 1.2;
-}
-
-.sorts p:first-of-type,
-.sorts p:last-of-type {
-    padding-bottom: 1rem;
-}
-
-.sorts button {
-    background-color: white;
-    height: 20px;
-    width: 10em;
-    display: block;
-    margin-top: 5px;
-    font-size: 15px;
-    padding: 0;
-    text-align: center;
-}
-
-.sorts button.selected {
-    color: white;
-    background-color: blue;
-}
-
-.content .centre {
-    text-align: center;
-    text-indent: 0%;
-}
-
-.seriesheader {
-    text-decoration: underline;
-}
-
-.content .seriesname {
-    display: flex;
-    justify-content: center;
-    font-size: smaller;
-    text-indent: 0%;
-}
-
 @media screen and (max-width: 800px) {
+    .flex {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
     main {
         width: calc(100% - 2rem);
         margin-left: 1rem;
         margin-right: 1rem;
+    }
+
+    .main-page {
+        width: 100%;
     }
 
     input:checked+div {
@@ -237,12 +199,22 @@ nav.main form.sorts p {
         padding-left: 0;
     }
 
-    main ol {
+    main .eplist ol {
         margin-left: 0;
         padding-left: 0;
     }
 
     .eplist ol li {
         margin-left: 0;
+    }
+
+    .arrow-left a {
+        left: 5%;
+        bottom: 10%;
+    }
+    
+    .arrow-right a {
+        right: 5%;
+        bottom: 10%;
     }
 }

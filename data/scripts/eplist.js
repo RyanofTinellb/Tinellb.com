@@ -111,7 +111,7 @@ function makeList(sortfn, series = true) {
     }
     sortfn();
     console.log(data);
-    eplist.innerHTML = "<ol style='list-style:none; text-align:center;'>" + data.map(ep => `<li style='color:hsl(${Colour(ep)} 100% 55%);'>${Names(ep, series)}<span class="hidden-info">,&nbsp;aired:&nbsp;${airdate(...parseDate(ep))} space: ${ep.location.space}</span></li>`).join("\n") + "</ol>";
+    eplist.innerHTML = "<ol>" + data.map(ep => `<li style='color:hsl(${Colour(ep)} 100% 55%);'>${Names(ep, series)}<span class="hidden-info">,&nbsp;aired:&nbsp;${airdate(...parseDate(ep))} space: ${ep.location.space}</span></li>`).join("\n") + "</ol>";
 }
 
 Colour = ep => Math.floor(360 / data.length * ep.index)

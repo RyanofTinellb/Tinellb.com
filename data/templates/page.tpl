@@ -42,6 +42,8 @@ styles:
     type: block
   meta:
     type: complete
+  main-page:
+    type: div
   script:
     type: complete
     close: '></script>'
@@ -54,6 +56,7 @@ styles:
     param: <a href="$link$">$name$</a>
   template:
     type: template
+    rank: -50
   title:
     type: line
 text:
@@ -72,10 +75,10 @@ text:
 - '</inline-script>'
 - <script>src="<internal-link>data/scripts/search.js</internal-link>"</script></head>
 - <body><flex><template>navigation pane</template>
-- <main><template>mini-nav</template><h1><data>name</data></h1>
-- <data>contents</data><table-of-contents>children</table-of-contents></main></flex>
-- <footer><template>mini-nav</template>
-- <template>copyright</template></footer>
+- <main-page><template>mini-nav</template><main><h1><data>name</data></h1>
+- <data>contents</data><table-of-contents>children</table-of-contents></main>
+- <template>mini-nav</template></main-page></flex>
+- <footer><template>copyright</template></footer>
 - <inline-script>
 - for (elt of document.getElementsByClassName('javascript')) {
 - elt.style.display = "block";}</inline-script></body></html@en>

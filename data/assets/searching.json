@@ -29,6 +29,7 @@
       "0": [
         0,
         2,
+        3,
         4
       ],
       "2": [
@@ -53,8 +54,7 @@
         49,
         50,
         51,
-        53,
-        54
+        56
       ]
     },
     "fictional": {
@@ -135,7 +135,7 @@
       ],
       "4": [
         49,
-        53
+        56
       ]
     },
     "chronicle": {
@@ -204,6 +204,7 @@
         0,
         1,
         2,
+        3,
         4,
         8
       ],
@@ -237,8 +238,8 @@
         50,
         51,
         52,
-        53,
         54,
+        55,
         56,
         57,
         58,
@@ -357,6 +358,7 @@
     "of": {
       "0": [
         2,
+        3,
         8
       ],
       "2": [
@@ -386,7 +388,7 @@
         50,
         51,
         54,
-        56,
+        55,
         57,
         60
       ]
@@ -421,7 +423,7 @@
         2
       ],
       "4": [
-        53
+        56
       ]
     },
     "home": {
@@ -440,9 +442,24 @@
         14
       ]
     },
-    "guide": {
+    "tinellbian": {
       "0": [
         3,
+        5,
+        7
+      ]
+    },
+    "languages": {
+      "0": [
+        3
+      ],
+      "2": [
+        14,
+        19
+      ]
+    },
+    "guide": {
+      "0": [
         4
       ]
     },
@@ -474,12 +491,6 @@
       "2": [
         12,
         16
-      ]
-    },
-    "tinellbian": {
-      "0": [
-        5,
-        7
       ]
     },
     "dictionary": {
@@ -682,7 +693,7 @@
         47
       ],
       "4": [
-        55,
+        53,
         64
       ]
     },
@@ -1421,12 +1432,6 @@
         19
       ]
     },
-    "languages": {
-      "2": [
-        14,
-        19
-      ]
-    },
     "different": {
       "2": [
         14
@@ -1598,7 +1603,7 @@
         15
       ],
       "4": [
-        53
+        56
       ]
     },
     "by": {
@@ -1610,9 +1615,9 @@
       ],
       "4": [
         50,
+        53,
         54,
         55,
-        56,
         57,
         58
       ]
@@ -1622,7 +1627,7 @@
         15
       ],
       "4": [
-        54,
+        55,
         76
       ]
     },
@@ -1643,7 +1648,7 @@
       "4": [
         49,
         51,
-        53
+        56
       ]
     },
     "early": {
@@ -2224,7 +2229,7 @@
         47
       ],
       "4": [
-        53
+        56
       ]
     },
     "practice": {
@@ -2872,7 +2877,7 @@
         43
       ],
       "4": [
-        53
+        56
       ]
     },
     "teaching": {
@@ -3492,7 +3497,7 @@
     "film": {
       "4": [
         49,
-        55
+        53
       ]
     },
     "television": {
@@ -3504,7 +3509,7 @@
       "4": [
         49,
         50,
-        55,
+        53,
         57
       ]
     },
@@ -3566,7 +3571,7 @@
     "viewing": {
       "4": [
         49,
-        53
+        56
       ]
     },
     "idiosyncratic": {
@@ -3623,7 +3628,7 @@
     "articles": {
       "4": [
         50,
-        55
+        53
       ]
     },
     "might": {
@@ -3715,7 +3720,7 @@
       "4": [
         50,
         51,
-        54,
+        53,
         55
       ]
     },
@@ -3737,8 +3742,8 @@
     "title": {
       "4": [
         50,
-        55,
-        56,
+        53,
+        54,
         74
       ]
     },
@@ -3794,17 +3799,6 @@
         52
       ]
     },
-    "r": {
-      "4": [
-        53
-      ]
-    },
-    "random": {
-      "4": [
-        53,
-        77
-      ]
-    },
     "–": {
       "4": [
         53,
@@ -3816,82 +3810,72 @@
         59
       ]
     },
-    "shuffles": {
-      "4": [
-        53
-      ]
-    },
-    "press": {
-      "4": [
-        53
-      ]
-    },
     "sorts": {
       "4": [
+        53,
         54,
         55,
-        56,
         57,
         58
       ]
     },
-    "date": {
-      "4": [
-        54,
-        57
-      ]
-    },
-    "original": {
-      "4": [
-        54
-      ]
-    },
-    "broadcast": {
-      "4": [
-        54
-      ]
-    },
-    "release": {
-      "4": [
-        54
-      ]
-    },
-    "t": {
-      "4": [
-        55
-      ]
-    },
     "tv": {
       "4": [
-        55,
+        53,
         59,
         66
       ]
     },
     "ignoring": {
       "4": [
-        55
-      ]
-    },
-    "l": {
-      "4": [
-        56
+        53
       ]
     },
     "length": {
       "4": [
-        56,
+        54,
         75
       ]
     },
     "full": {
       "4": [
+        54
+      ]
+    },
+    "date": {
+      "4": [
+        55
+      ]
+    },
+    "original": {
+      "4": [
+        55
+      ]
+    },
+    "broadcast": {
+      "4": [
+        55
+      ]
+    },
+    "release": {
+      "4": [
+        55
+      ]
+    },
+    "random": {
+      "4": [
+        56,
+        77
+      ]
+    },
+    "shuffles": {
+      "4": [
         56
       ]
     },
-    "c": {
+    "press": {
       "4": [
-        57
+        56
       ]
     },
     "calendar": {
@@ -3903,11 +3887,6 @@
     "aired": {
       "4": [
         57
-      ]
-    },
-    "w": {
-      "4": [
-        58
       ]
     },
     "wallet": {
@@ -3946,20 +3925,10 @@
         58
       ]
     },
-    "d": {
-      "4": [
-        59
-      ]
-    },
     "default": {
       "4": [
         59,
         80
-      ]
-    },
-    "sort": {
-      "4": [
-        59
       ]
     },
     "groups": {
@@ -4124,7 +4093,7 @@
     "Tinellb is a fictional universe. This site seeks to chronicle everything known about this realm and the Guozu who live there.",
     "The Coelacanth Quartet",
     "A novel in four parts, detailing the adventures of Corla in her attempt to get home.",
-    "Grammar Guide",
+    "A Grammar of the Tinellbian Languages",
     "A guide to the High Lulani language.",
     "Tinellbian Dictionary",
     "Pronunciations, spellings, etymologies and usage notes for over 1000 vocabulary items, and growing.",
@@ -4174,13 +4143,13 @@
     "Idiosyncratic, and often arbitrary, decisions abound here. I categorised films the way I felt like. Sorting by episode names ignores articles, as you might expect, but also ignores most anything that would otherwise result in too large a batch of the same series appearing together. For instance, check episodes of Scrubs or Day Break, or Simpsons episodes with character names in the title.",
     " For a sortable list of episodes, please enable JavaScript or check out the JSON object /data/assets/eplist.json|here.",
     "The episodes can be sorted in different ways.",
-    "R: Random – Shuffles the list. Press again to get a new viewing order.",
-    "A: Airdate – Sorts by the date of the original broadcast or release.",
-    "T: Title – Sorts by film title or TV episode name, ignoring articles.",
-    "L: Title length – Sorts by the length of the full title.",
-    "C: Calendar Date – Sorts by the day of the year the episode first aired.",
-    "W: Wallet – Sorts by the location in my collection. Unless you’re in my house, this won’t help you much.",
-    "D: Default sort – Groups TV series set in the same universe together.",
+    "Title – Sorts by film title or TV episode name, ignoring articles.",
+    "Length – Sorts by the length of the full title.",
+    "Airdate – Sorts by the date of the original broadcast or release.",
+    "Random – Shuffles the list. Press again to get a new viewing order.",
+    "Calendar – Sorts by the day of the year the episode first aired.",
+    "Wallet – Sorts by the location in my collection. Unless you’re in my house, this won’t help you much.",
+    "Default – Groups TV series set in the same universe together.",
     "Episodes of Stuff I’ve Got",
     "put here",
     "eplist",

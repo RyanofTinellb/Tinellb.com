@@ -1,3 +1,8 @@
+@font-face {
+    font-family: tinellb;
+    src: url('../assets/tinellb.ttf');
+}
+
 a:link {
     color: #5555FF;
     /* light blue */
@@ -8,12 +13,8 @@ a:visited {
     /* light violet */
 }
 
-.symbol {
-    font-family: serif;
-    font-style: italic;
-    font-size: larger;
-}
-
+.javascript,
+.hidden,
 .mobile {
     display: none;
 }
@@ -22,7 +23,17 @@ a:visited {
     display: block;
 }
 
-ipa {
+.nextline {
+    display: block;
+}
+
+.symbol {
+    font-family: serif;
+    font-style: italic;
+    font-size: larger;
+}
+
+.ipa {
     font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
 }
 
@@ -30,7 +41,7 @@ strong {
     font-size: 0.95rem;
 }
 
-ipa strong {
+.ipa strong {
     font-weight: 900;
     color: red;
 }
@@ -44,11 +55,6 @@ ipa strong {
     padding: 4px 5px;
     border-radius: 15px;
     line-height: 2;
-}
-
-@font-face {
-    font-family: tinellb;
-    src: url('../assets/tinellb.ttf');
 }
 
 .tinellbian {
@@ -72,20 +78,13 @@ ipa strong {
     cursor: none;
 }
 
-table .tinellbian:hover {
-    font-size: larger;
-    font-weight: inherit;
-    padding: inherit;
-    cursor: inherit;
-}
-
-main abbr.glossary {
+abbr.glossary {
     font-variant: small-caps;
     font-style: normal;
     text-decoration: none;
 }
 
-main abbr.glossary::after {
+abbr.glossary::after {
     content: "?";
     vertical-align: super;
     font-size: smaller;
@@ -99,8 +98,9 @@ h1 a:link {
 
 .flex {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     flex-direction: row;
+    width: 95%;
 }
 
 nav.main {
@@ -109,7 +109,7 @@ nav.main {
     margin-top: 2rem;
 }
 
-nav summary {
+nav.main summary {
     list-style-type: "☰";
     text-align: center;
 }
@@ -118,31 +118,25 @@ nav summary {
     text-align: left;
 } */
 
-nav details[open] summary {
+nav.main details[open] summary {
     list-style-type: '✖';
 }
 
-nav details ul ul {
+nav.main details ul ul {
     margin-left: 5%;
     text-align: left;
 }
 
-nav details ul {
+nav.main details ul {
     text-align: center;
 }
 
-nav .nav-links {
+nav.main .nav-links {
     margin-left: 30%;
 }
 
-.javascript,
-.hidden {
-    display: none;
-}
-
-main {
-    margin-left: 5%;
-    width: 60%;
+.main-page {
+    width: 75%;
 }
 
 main p {
@@ -238,12 +232,6 @@ nav.mini p {
     margin-left: 0;
 }
 
-/* 
-footer nav.mini {
-
-} */
-
-
 .no-breaks {
     white-space: nowrap;
 }
@@ -302,12 +290,7 @@ nav form#search {
 
 main summary.folding {
     font-family: sans-serif;
-    margin-left: 20%;
     margin-top: 0.2rem;
-}
-
-main summary.folding {
-    margin-left: calc(20% - 1rem);
 }
 
 details.folding+p {
@@ -376,7 +359,7 @@ footer {
     font-size: smaller;
     font-family: serif;
     text-align: right;
-    width: 75%;
+    width: 70%;
 }
 
 
@@ -472,19 +455,6 @@ main .definition .note::after {
     content: ")"
 }
 
-
-h4 {
-    /* subheadings */
-    font-family: sans-serif;
-    text-decoration: overline;
-    margin-left: 15%;
-    margin-top: 1em;
-    font-variant: small-caps;
-    font-family: serif;
-    font-size: large;
-    font-weight: normal;
-}
-
 main .results ol,
 main .results ul {
     margin-left: 0;
@@ -500,52 +470,16 @@ main .transliteration {
 }
 
 @media screen and (max-width: 800px) {
-    input#wordsearch {
-        width: 80%;
+    .flex {
+        flex-direction: column;
     }
 
-    main div.mobile-table p:not(:first-child) {
+    .desktop {
         display: none;
     }
 
-    main div.mobile-table p:first-child::before {
-        content: "(Show All)\A";
-        white-space: pre;
-        color: #5555FF;
-    }
-
-    main div.mobile-table p:first-child::after {
-        content: " \2026";
-    }
-
-    main div.mobile-table:hover p {
-        display: block;
-    }
-
-    main div.mobile-table:hover p:first-child::before {
-        content: "";
-    }
-
-    main div.mobile ul {
-        margin-top: 0em;
-    }
-
-    main div.mobile-table:hover p:first-child::after {
-        content: "";
-    }
-
-    main h5 a {
-        color: black;
-        text-decoration-style: dotted;
-    }
-
-    footer {
-        text-align: right;
-        width: 95%;
-    }
-
-    .flex {
-        flex-direction: column;
+    .mobile {
+        display: initial;
     }
 
     main {
@@ -588,6 +522,11 @@ main .transliteration {
         font-size: smaller;
     }
 
+    main div.mobile ul {
+        /* Dictionary and Grammar tables, i.e.: list of auxiliaries */
+        margin-top: 0em;
+    }
+
     footer {
         margin-left: 5%;
         margin-right: 5%;
@@ -601,13 +540,7 @@ main .transliteration {
         text-indent: 0;
     }
 
-    .desktop {
-        display: none;
-    }
 
-    .mobile {
-        display: initial;
-    }
 
     .mobile p {
         margin-left: 10%;
@@ -631,7 +564,17 @@ main .transliteration {
         display: none;
     }
 
+    input#wordsearch {
+        width: 80%;
+    }
+
     main span.tooltip::after {
         content: none;
     }
+
+    footer {
+        text-align: right;
+        width: 95%;
+    }
+
 }

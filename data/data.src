@@ -58,7 +58,7 @@ entries:
               - <em>“I swear to remain true as a citizen of this town, this country, this world.”</em> Remain true. As easy as that. Remain true to what, though? Her mother had taught her about remaining true. She recalled the unshed tears in her mother’s eyes as she was taken away from their home and brought to this school. Her mother had remained true to the lost ways and the lost people, and had been lost, too. Remain true…
               - …to herself. She was the only one left, now. Who else was there to be true to? With a single motion, she erased her slate and began again. With shaking hands, she formed the glyphs for her <em>real</em> name, D‑E‑T‑S‑O‑R‑A.
             Episode List:
-              date: '2024-05-24'
+              date: '2024-05-25'
               position: '1.0'
               text:
               - <span>top</span>
@@ -66,13 +66,13 @@ entries:
               - <message>Idiosyncratic, and often arbitrary, decisions abound here. I categorised films the way I felt like. Sorting by episode names ignores articles, as you might expect, but also ignores most anything that would otherwise result in too large a batch of the same series appearing together. For instance, check episodes of <cite>Scrubs</cite> or <cite>Day Break</cite>, or <cite>Simpsons</cite> episodes with character names in the title.</message>
               - <noscript> For a sortable list of episodes, please <a>enable JavaScript</a> or check out the JSON object <anchor>/data/assets/eplist.json|here</anchor>.</noscript>
               - <javascript>The episodes can be sorted in different ways.
-              - '<ul><mobile>R: </mobile>Random – Shuffles the list. Press again to get a new viewing order.'
-              - '<mobile>A: </mobile>Airdate – Sorts by the date of the original broadcast or release.'
-              - '<mobile>T: </mobile>Title – Sorts by film title or TV episode name, ignoring articles.'
-              - '<mobile>L: </mobile>Title length – Sorts by the length of the full title.'
-              - '<mobile>C: </mobile>Calendar Date – Sorts by the day of the year the episode first aired.'
-              - '<mobile>W: </mobile>Wallet – Sorts by the location in my collection. Unless you’re in my house, this won’t help you much.'
-              - '<mobile>D: </mobile>Default sort – Groups TV series set in the same universe together.</ul></javascript>'
+              - <ul>Title – Sorts by film title or TV episode name, ignoring articles.
+              - Length – Sorts by the length of the full title.
+              - Airdate – Sorts by the date of the original broadcast or release.
+              - Random – Shuffles the list. Press again to get a new viewing order.
+              - Calendar – Sorts by the day of the year the episode first aired.
+              - Wallet – Sorts by the location in my collection. Unless you’re in my house, this won’t help you much.
+              - Default – Groups TV series set in the same universe together.</ul></javascript>
               - <h2>Episodes of Stuff I’ve Got</h2>
               - <eplist>put here</eplist>
               - <noscript><ul>eplist</ul></noscript>
@@ -99,13 +99,13 @@ entries:
               - <script>src="<internal-link>data/scripts/eplist.js</internal-link>"</script>
           date: null
           text: []
-      date: '2024-05-24'
+      date: '2024-05-26'
       position: '1.0'
       text:
       - Tinellb is a fictional universe. This site seeks to chronicle everything known about this realm and the Guozu who live there.
       - <h2-links><cite>The Coelacanth Quartet</cite></h2-links>
       - A novel in four parts, detailing the adventures of Corla in her attempt to get home.
-      - <h2-links>Grammar Guide</h2-links>
+      - <h2-links>A Grammar of the Tinellbian Languages</h2-links>
       - A guide to the High Lulani language.
       - <h2-links>Tinellbian Dictionary</h2-links>
       - Pronunciations, spellings, etymologies and usage notes for over 1000 vocabulary items, and growing.

@@ -67,18 +67,13 @@ text:
 - <link>rel="stylesheet" type="text/css" href="<internal-link>data/stylesheets/basic_style.css</internal-link>"</link>
 - <link>rel="stylesheet" type="text/css" href="<internal-link>data/stylesheets/style.css</internal-link>"</link>
 - <link>rel="icon" type="image/png" href="<internal-link>data/assets/favicon.png</internal-link>"</link>
-- <inline-script>let href = window.location.href;
-- if (href.indexOf("?term") != -1) {
-- let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
-- window.location.href = `<internal-link>special/search</internal-link>?${term}`;
-- '}'
-- '</inline-script>'
 - <script>src="<internal-link>data/scripts/search.js</internal-link>"</script></head>
 - <body><flex><template>navigation pane</template>
 - <main-page><template>mini-nav</template><main><h1><data>name</data></h1>
 - <data>contents</data><table-of-contents>children</table-of-contents></main>
 - <template>mini-nav</template></main-page></flex>
 - <footer><template>copyright</template></footer>
+- <script>src="<internal-link>data/scripts/parse_href.js</internal-link>"</script>
 - <inline-script>
 - for (elt of document.getElementsByClassName('javascript')) {
 - elt.style.display = "block";}</inline-script></body></html@en>

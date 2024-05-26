@@ -44,6 +44,8 @@ styles:
     type: complete
   main:
     type: block
+    open: <div class="main-page"><main>
+    close: </main></div>
   meta:
     type: complete
   results:

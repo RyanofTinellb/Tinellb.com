@@ -44,6 +44,8 @@ styles:
     type: complete
   main:
     type: block
+  main-page:
+    type: div
   meta:
     type: complete
   results:
@@ -65,10 +67,10 @@ text:
 - <link>rel="stylesheet" type="text/css" href="<internal-link>data/stylesheets/style.css</internal-link>"</link>
 - <link>rel="icon" type="image/png" href="<internal-link>data/assets/favicon.png</internal-link>"</link></head>
 - <body><flex><template>navigation pane</template>
-- <main><h1>Search – <entry-data>root</entry-data></h1>
+- <main-page><main><h1>Search – <entry-data>root</entry-data></h1>
 - <form><input>type="text" class="term" id="term" name="term" placeholder="Search..."</input>
 - <input>type="submit" class="submit" value="Search"</input></form>
-- <results>Searching...</results></main></flex>
+- <results>Searching...</results></main></main-page></flex>
 - <footer><template>copyright</template></footer>
 - <script>src="<internal-link>data/scripts/search.js</internal-link>"</script>
 - <inline-script>

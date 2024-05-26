@@ -162,20 +162,6 @@ nav.main form.sorts p {
 }
 
 @media screen and (max-width: 800px) {
-    .flex {
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    main {
-        width: calc(100% - 2rem);
-        margin-left: 1rem;
-        margin-right: 1rem;
-    }
-
-    .main-page {
-        width: 100%;
-    }
 
     input:checked+div {
         display: block;
@@ -212,7 +198,7 @@ nav.main form.sorts p {
         left: 5%;
         bottom: 10%;
     }
-    
+
     .arrow-right a {
         right: 5%;
         bottom: 10%;

@@ -1,13 +1,13 @@
 searchParams = new URLSearchParams(window.location.search);
 console.log(searchParams);
-let highlight = searchParams.get('highlight');
-if (highlight) {
+let text = searchParams.get('highlight');
+if (text) {
     let h1 = document.getElementsByTagName('h1')[0];
     h1.innerHTML += ' <a href="#highlight">→</a>'
 
     let main = document.getElementsByTagName('main')[0];
     console.log(main);
-    let reg = RegExp('(\\W)(' + `${highlight}` + ')(\\W)', 'gi');
+    let reg = RegExp('(\\W)(' + `${text}` + ')(\\W)', 'gi');
     console.log(reg);
     main.innerHTML = main.innerHTML.replace(reg, `$1<span id="highlight" class="highlight">$2</span>$3`);
 }

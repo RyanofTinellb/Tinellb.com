@@ -386,9 +386,9 @@ main .results a {
     }
 
     main {
-        width: 80%;
-        margin-left: 10%;
-        margin-right: 10%;
+        width: calc(100% - 4ch);
+        margin-left: 2ch;
+        margin-right: 2ch;
     }
 
     main div.desktop table {

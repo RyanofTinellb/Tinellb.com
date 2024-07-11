@@ -98,7 +98,7 @@ h1 a:link {
     display: flex;
     flex-wrap: nowrap;
     flex-direction: row;
-    width: 95%;
+    /* width: 95%;              Removing for now, becuase I think it's not needed   */
 }
 
 nav.main {

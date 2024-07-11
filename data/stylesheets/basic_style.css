@@ -27,12 +27,6 @@ a:visited {
     display: block;
 }
 
-.symbol {
-    font-family: serif;
-    font-style: italic;
-    font-size: larger;
-}
-
 .ipa {
     font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
 }
@@ -78,6 +72,10 @@ strong {
     cursor: none;
 }
 
+.no-breaks {
+    white-space: nowrap;
+}
+
 abbr.glossary {
     font-variant: small-caps;
     font-style: normal;
@@ -119,7 +117,7 @@ nav.main details[open] summary {
     list-style-type: '✖';
 }
 
-nav.main details ul ul {
+nav.main details ul ul ul {
     margin-left: 5%;
     text-align: left;
 }
@@ -386,9 +384,9 @@ main .results a {
     }
 
     main {
-        width: 80%;
-        margin-left: 10%;
-        margin-right: 10%;
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
     }
 
     main div.desktop table {
@@ -396,13 +394,12 @@ main .results a {
     }
 
     main div.mobile table {
-        display: block;
         margin-left: auto;
         margin-right: auto;
     }
 
     main div.mobile-table table {
-        display: block;
+        display: initial;
         margin-left: 15%;
     }
 

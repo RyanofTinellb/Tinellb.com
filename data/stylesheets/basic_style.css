@@ -101,10 +101,14 @@ h1 a:link {
     /* width: 95%;              Removing for now, becuase I think it's not needed   */
 }
 
+nav a {                         /* both types of nav */
+    text-decoration: none;      /* colour does nothing because of 'a:link' in `basic_style.css` */
+}
+
 nav.main {
-    /* text-align: center; */
     width: 25%;
     margin-top: 2rem;
+    text-align: center;
 }
 
 nav.main summary {
@@ -115,19 +119,68 @@ nav.main summary {
 /* nav .javascript {    text-align: left;} */
 nav.main details[open] summary {
     list-style-type: '✖';
-}
-
-nav.main details ul ul ul {
-    margin-left: 5%;
-    text-align: left;
-}
-
-nav.main details ul {
-    text-align: center;
+    margin-bottom: 2em;
 }
 
 nav.main .nav-links {
-    margin-left: 30%;
+    margin-inline: auto;
+    width: fit-content;
+    text-align: left;
+}
+
+nav.main ul {
+    list-style-type: none;
+    list-style-position: inside;
+    padding: 0;
+    line-height: 1.5;
+}
+
+nav.main ul ul {
+    margin-left: 3ch;
+    text-align: left;
+}
+
+
+nav .random {
+    text-align: center;
+}
+
+nav .random:hover,
+nav li:hover {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+nav.main p {
+    font-family: sans-serif;
+    margin: 0;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+nav li.normal,
+nav li.normal a {
+    /* Top-level folder of current page */
+    font-weight: bold;
+    letter-spacing: 0;
+    text-decoration: underline;
+}
+
+nav li.link a {
+    text-decoration: none;
+}
+
+nav button {
+    display: block;
+    margin: auto;
+}
+
+nav form#search {
+    margin-top: 1em;
+}
+
+nav form#search p {
+    padding-bottom: 0;
 }
 
 .main-page {
@@ -229,57 +282,6 @@ nav.mini p {
 
 .no-breaks {
     white-space: nowrap;
-}
-
-nav a {
-    text-decoration: none;
-    color: #4444EE;
-}
-
-nav .random {
-    text-align: center;
-}
-
-nav .random:hover,
-nav li:hover {
-    font-weight: bold;
-    text-decoration: underline;
-}
-
-nav.main p {
-    font-family: sans-serif;
-    margin: 0;
-    padding-left: 15%;
-    padding-right: 15%;
-}
-
-nav ul {
-    list-style-type: none;
-    list-style-position: inside;
-    text-align: center;
-    padding: 0;
-    line-height: 1.5;
-}
-
-nav li.normal,
-nav li.normal a {
-    /* Top-level folder of current page */
-    font-weight: bold;
-    letter-spacing: 0;
-    text-decoration: underline;
-}
-
-nav li.link a {
-    text-decoration: none;
-}
-
-nav button {
-    display: block;
-    margin: auto;
-}
-
-nav form#search {
-    margin-top: 1em;
 }
 
 main summary.folding {

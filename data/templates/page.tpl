@@ -75,5 +75,9 @@ text:
 - <footer><template>copyright</template></footer>
 - <script>src="<internal-link>data/scripts/parse_href.js</internal-link>"</script>
 - <inline-script>
+- 'let mql = window.matchMedia("(min-width: 800px)");'
+- 'let details = document.getElementById("menu");'
+- if(mql.matches) {
+    details.open = true;}
 - for (elt of document.getElementsByClassName('javascript')) {
 - elt.style.display = "block";}</inline-script></body></html@en>

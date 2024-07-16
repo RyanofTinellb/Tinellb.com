@@ -6,10 +6,10 @@
 <link rel="stylesheet" type="text/css" href="../data/stylesheets/style.css">
 <link rel="icon" type="image/png" href="../data/assets/favicon.png">
 <script src="../data/scripts/search.js"></script></head>
-<body><div class="flex"><nav class="main"><details open><summary> Menu </summary>
-<ul><li><a href="../index.html">Welcome to Tinellb!</a></li>
-<div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
-<li class="search"><button>Search</button></li></form></div><div class="nav-links"><ul><li><a href="detsora’sdiary.html">Detsora’s Diary</a></li><li>About</li><li><a href="episodelist.html">Episode List</a></li></ul></div></ul></details></nav>
+<body><div class="flex"><nav class="main"><details id="menu"><summary> Menu </summary>
+<p><a href="../index.html">Welcome to Tinellb!</a></p>
+<div class="javascript"><form id="search"><p><input type="text" name="term"></p>
+<p><button>Search</button></p></form></div><div class="nav-links"><ul><li><a href="detsora’sdiary.html">Detsora’s Diary</a></li><li>About</li><li><a href="episodelist.html">Episode List</a></li></ul></div></details></nav>
 
 <div class="main-page"><nav class="mini"><p><a href="detsora’sdiary.html">← Previous Page</a></p>
 <p><a href="episodelist.html">Next Page →</a></p></nav>
@@ -50,5 +50,8 @@
 </footer>
 <p><script src="../data/scripts/parse_href.js"></script></p>
 <script>
+ let mql = window.matchMedia("(min-width: 800px)"); 
+ let details = document.getElementById("menu"); 
+ if(mql.matches) { details.open = true;} 
  for (elt of document.getElementsByClassName('javascript')) { 
  elt.style.display = "block";} </script></body></html>

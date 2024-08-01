@@ -1,5 +1,4 @@
 searchParams = new URLSearchParams(window.location.search);
-console.log(searchParams);
 let text = searchParams.get('highlight');
 if (text) {
     let h1 = document.getElementsByTagName('h1')[0];

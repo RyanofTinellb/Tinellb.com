@@ -53,4 +53,4 @@ text:
 - <nav><details><summary>Menu</summary>
 - <a><link>index</link>|<entry-data>root</entry-data></a>
 - <javascript><search-form><input>type="text" name="term"</input>
-- <button>Search</button></search-form></javascript><nav-links><toc>matriarchs-siblings-heirs-lineage-children</toc></nav-links></details></nav>
+- <button>Search</button></search-form></javascript><nav-links><toc>aunts-siblings-heirs-lineage-children</toc></nav-links></details></nav>

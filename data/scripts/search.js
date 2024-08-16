@@ -6,7 +6,7 @@ function search() {
     document.getElementById("results").innerHTML = "Searching...";
     var url = "/data/assets/searching.json";
     var xmlhttp = new XMLHttpRequest();
-    var andButton = document.getElementById("and")
+    // var andButton = document.getElementById("and")
     xmlhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
             let text = JSON.parse(this.responseText);
@@ -31,8 +31,7 @@ function getTerms() {
     var url;
     var searchString;
     var text;
-    url = window.location.href;
-    url = url.split("?");
+    url = window.location.href.split('?');
     searchString = decodeURI(url[1]).split("&");
     try {
         andOr = searchString.split("=")[1];

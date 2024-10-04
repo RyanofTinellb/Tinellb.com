@@ -186,13 +186,15 @@ nav form#search p {
 }
 
 .main-page {
-    width: 70%;
+    width: min(95%, 80ch);
+    margin-inline-end: min(5ch,5%);
 }
 
 main p {
-    text-align: justify;
+    text-align: left;
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 0.8lh;
+    line-height: 1.6;
 }
 
 main p.example {

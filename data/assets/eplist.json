@@ -2179,7 +2179,7 @@
 {"series": "Daria", "season": 5, "ep": {"number": 13, "name": "Boxing Daria"}, "location": {"disc": 8, "wallet": "Pink and Light Grey Wallet", "space": 18}, "type": "Finale", "date": "20010625"},
 {"series": "Daria", "ep": {"number": 14, "article": "Is It", "name": "College Yet?"}, "location": {"disc": 8, "wallet": "Pink and Light Grey Wallet", "space": 18}, "type": "Movie", "date": "20020121", "season": 5},
 {"series": "Dark", "season": 1, "ep": {"number": 1, "article": "Geheimnisse (", "name": "Secrets)"}, "location": {"disc": 1, "wallet": "Red Covered Wallet", "space": 99}, "date": "20171201", "type": "Premiere"},
-{"series": "Dark", "season": 1, "ep": {"number": 2, "article": "Lügen (", "name": "Lies)"}, "location": {"disc": 1, "wallet": "Red Covered Wallet", "space": 99}, "date": "20171201", "type": "Finale"},
+{"series": "Dark", "season": 1, "ep": {"number": 2, "article": "Lügen (", "name": "Lies)"}, "location": {"disc": 1, "wallet": "Red Covered Wallet", "space": 99}, "date": "20171201"},
 {"series": "Dark", "season": 1, "ep": {"number": 3, "article": "Gestern und Heute (", "name": "Past and Present)"}, "location": {"disc": 1, "wallet": "Red Covered Wallet", "space": 99}, "date": "20171201"},
 {"series": "Dark", "season": 1, "ep": {"number": 4, "article": "Doppelleben (", "name": "Double Lives)"}, "location": {"disc": 1, "wallet": "Red Covered Wallet", "space": 99}, "date": "20171201"},
 {"series": "Dark", "season": 1, "ep": {"number": 5, "article": "Wahrheiten (", "name": "Truths)"}, "location": {"disc": 1, "wallet": "Red Covered Wallet", "space": 99}, "date": "20171201"},

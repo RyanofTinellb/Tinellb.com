@@ -249,6 +249,7 @@ function Multi(ep) {
 
 function Episode(ep, seriesname) {
     let article = ep?.ep?.article === undefined ? "" : `${ep.ep.article}`;
+    let aka = ep?.ep?.aka === undefined ? "" : `${ep.ep.aka}`;
     let pad = !article || article.match(/[“…’#¡ -(]$/) ? '' : ' ';
     let episode;
     switch (seriesname) {
@@ -260,10 +261,12 @@ function Episode(ep, seriesname) {
             episode = `in “${article}${pad}${ep.ep.name}”`;
             break;
         default:
-            episode = ep?.ep?.name === undefined ? (ep?.ep || "") : `${article}${pad}${ep.ep.name}`;
+            episode = ep?.ep?.name === undefined ? (ep?.ep || "") : `${article}${pad}${ep.ep.name}${Aka(aka)}`;
     }
     return typeof episode === "string" ? episode.replace(/(\w) /g, "$1&nbsp;") : episode;
 }
+
+Aka = aka => aka ? ` (${aka})` : '';
 
 The = name => name ? (name.endsWith("(T)") ? "The " + name.slice(0, -4) : name) : '';
 

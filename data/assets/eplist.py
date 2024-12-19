@@ -176,7 +176,7 @@ class ListEditor(Tk.Frame):
                     return '' or _episode(ep)
                 case _else:
                     return series.get('name', '') or _episode(ep)
-        
+
         def _episode(ep):
             episode = ep.get('ep', '')
             if isinstance(episode, str):
@@ -203,7 +203,7 @@ class ListEditor(Tk.Frame):
             self.position.set(
                 min(self.position.get()+screenHeight, self.length))
             move()
-        
+
         def nudgeup():
             self.position.set(max(self.position.get()-1, 0))
             move()
@@ -320,6 +320,7 @@ def pad(number, length):
     number = str(number)
     return '0' * (length - len(number)) + number
 
+
 def integrate(number):
     if number == int(number):
         return int(number)
@@ -336,10 +337,10 @@ class EpisodeEditor(Tk.Frame):
                         number=Tk.IntVar(), type_=Type()),
             episode=dict(article=Tk.StringVar(),
                          episode=Tk.StringVar(), number=Tk.IntVar()),
-            location=dict(disc=Tk.DoubleVar(), wallet=Wallet(),
-                          space=Tk.IntVar()),
-            parts=dict(cardinal=Tk.IntVar(),
-                       name=Tk.StringVar(), ordinal=Tk.IntVar()),
+            location=dict(numbers=dict(disc=Tk.DoubleVar(), space=Tk.IntVar()),
+                          wallet=Wallet()),
+            parts=dict(numbers=dict(cardinal=Tk.IntVar(), ordinal=Tk.IntVar()),
+                       name=Tk.StringVar(), aka=Tk.StringVar()),
             date=dict(day=Tk.IntVar(), month=Tk.IntVar(), year=Tk.IntVar())
         )
         self.frames = {n: self.label_frame(n, f)
@@ -352,10 +353,17 @@ class EpisodeEditor(Tk.Frame):
     def label_frame(self, name, shape):
         frame = Tk.LabelFrame(self, text=clean(name))
         for row, (name, var) in enumerate(shape.items()):
-            Tk.Label(frame, text=clean(name)).grid(
-                row=row, column=0, sticky='w')
-            obj[type(var)](frame, textvariable=var).grid(
-                row=row, column=1, sticky='w')
+            if isinstance(var, dict):
+                for column, (name, var) in enumerate(var.items()):
+                    Tk.Label(frame, text=clean(name)).grid(
+                        row=row, column=2*column, sticky='w')
+                    obj[type(var)](frame, textvariable=var).grid(
+                        row=row, column=2*column+1, sticky='w')
+            else:
+                Tk.Label(frame, text=clean(name)).grid(
+                    row=row, column=0, sticky='w')
+                obj[type(var)](frame, textvariable=var).grid(
+                    row=row, column=1, sticky='w', columnspan=3)
         return frame
 
     def del_entry(self):
@@ -378,6 +386,12 @@ class EpisodeEditor(Tk.Frame):
         except:
             ep_article = ''
         self.set_var('episode', 'article', ep_article)
+
+        try:
+            aka = entry['ep']['aka']
+        except:
+            aka = ''
+        self.set_var('parts', 'aka', aka)
 
         series_name = entry.get('series')
         with ignored(AttributeError):
@@ -416,14 +430,14 @@ class EpisodeEditor(Tk.Frame):
         self.set_var('location', 'wallet', value)
 
         value = entry.get('location', {}).get('disc', 0)
-        self.set_var('location', 'disc', value)
+        self.set_var('location', 'numbers', value, 'disc')
 
         value = entry.get('location')
         try:
             value = value.get('space', 0)
         except AttributeError:
             value = 0
-        self.set_var('location', 'space', value)
+        self.set_var('location', 'numbers', value, 'space')
 
         value = entry.get('type', '')
         self.set_var('season', 'type_', value)
@@ -431,19 +445,23 @@ class EpisodeEditor(Tk.Frame):
         value = entry.get('multi', None)
         match value:
             case str():
-                self.set_var('parts', 'cardinal', 1)
+                self.set_var('parts', 'numbers', 1, 'cardinal')
                 self.set_var('parts', 'name', value)
-                self.set_var('parts', 'ordinal', 0)
+                self.set_var('parts', 'numbers', 0, 'ordinal')
             case int():
-                self.set_var('parts', 'cardinal', value)
+                self.set_var('parts', 'numbers', value, 'cardinal')
                 self.set_var('parts', 'name', '')
-                self.set_var('parts', 'ordinal', 0)
+                self.set_var('parts', 'numbers', 0, 'ordinal')
             case dict():
-                self.set_vars('parts', value)
+                self.set_var('parts', 'numbers', value.get(
+                    'cardinal', 1), 'cardinal')
+                self.set_var('parts', 'name', value.get('name', ''))
+                self.set_var('parts', 'numbers', value.get(
+                    'ordinal', 0), 'ordinal')
             case _else:
-                self.set_var('parts', 'cardinal', 1)
+                self.set_var('parts', 'numbers', 1, 'cardinal')
                 self.set_var('parts', 'name', '')
-                self.set_var('parts', 'ordinal', 0)
+                self.set_var('parts', 'numbers', 0, 'ordinal')
 
         try:
             value = entry['date']
@@ -455,34 +473,36 @@ class EpisodeEditor(Tk.Frame):
             self.set_var('date', 'month', 0)
             self.set_var('date', 'year', 0)
 
-    def set_var(self, lat, long_, value):
+    def set_var(self, lat, long_, value, alt=None):
         try:
-            self.directory[lat][long_].set(value)
-        except KeyError:
-            print(lat, long_, value)
-
-    def set_vars(self, lat, values):
-        for long_, value in values.items():
-            self.set_var(lat, long_, value)
+            self.directory[lat][long_][alt].set(value)
+        except (TypeError, KeyError):
+            try:
+                self.directory[lat][long_].set(value)
+            except KeyError:
+                print(lat, long_, value, alt)
 
     def save_entry(self):
         sMeta = self.get_var('series', 'meta')
         sSeries = self.get_var('series', 'series')
         nSeries = self.get_var('series', 'number')
-        nSeason = self.get_var('season', 'number')
+        nSeason = integrate(self.get_var('season', 'number'))
         sSeason = self.get_var('season', 'season')
         sType = self.get_var('season', 'type_')
         nEp = self.get_var('episode', 'number')
         sEpArt = self.get_var('episode', 'article')
         sEp = self.get_var('episode', 'episode')
-        nDisc = integrate(self.get_var('location', 'disc'))
-        nSpace = self.get_var('location', 'space')
-        nMulti = self.get_var('parts', 'cardinal')
+        sAka = self.get_var('parts', 'aka')
+        nDisc = integrate(self.get_var('location', 'numbers', 'disc'))
+        nSpace = self.get_var('location', 'numbers', 'space')
+        nMulti = self.get_var('parts', 'numbers', 'cardinal')
         sMulti = self.get_var('parts', 'name')
-        noMulti = self.get_var('parts', 'ordinal')
+        noMulti = self.get_var('parts', 'numbers', 'ordinal')
         sWallet = self.get_var('location', 'wallet')
+
+        date = self.get_var('date', 'day')
         dDate = ''.join([pad(self.get_var('date', x), l)
-                         for x, l in (('year', 4), ('month', 2), ('day', 2))])
+                         for x, l in (('year', 4), ('month', 2), ('day', 2))]) if date else '0' * 8
 
         if sMeta == sSeries or not sMeta:
             self.entry.pop('meta', None)
@@ -521,18 +541,11 @@ class EpisodeEditor(Tk.Frame):
         else:
             self.entry.pop('multi', None)
 
-        if nEp:
-            if sEpArt:
-                self.entry['ep'] = dict(number=nEp, article=sEpArt, name=sEp)
-            else:
-                self.entry['ep'] = dict(number=nEp, name=sEp)
-        else:
-            if sEpArt:
-                self.entry['ep'] = dict(article=sEpArt, name=sEp)
-            elif sEp:
-                self.entry['ep']
-            else:
-                self.entry.pop('ep', None)
+        ep = {k: v for k, v in dict(
+            number=nEp, article=sEpArt, name=sEp, aka=sAka).items() if v}
+        self.entry.pop('ep', None)
+        if ep:
+            self.entry['ep'] = ep if len(ep) >= 1 else ep
 
         if nDisc:
             if sWallet:
@@ -555,7 +568,9 @@ class EpisodeEditor(Tk.Frame):
         self.entry['date'] = dDate
         pop_empty_values(self.entry)
 
-    def get_var(self, lat, long_):
+    def get_var(self, lat, long_, alt=None):
+        if alt:
+            return self.directory[lat][long_][alt].get()
         return self.directory[lat][long_].get()
 
     def AddToArticle(self, event=None):

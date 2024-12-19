@@ -5491,7 +5491,7 @@
 {"series": "Red Dwarf", "season": 12, "ep": {"number": 6, "name": "Skipper"}, "location": {"disc": 1, "wallet": "Big Black Box", "space": 261}, "date": "20171116", "type": "Finale"},
 {"series": "Red Dwarf", "season": 13, "ep": {"article": "The", "name": "Promised Land"}, "location": {"disc": 1, "wallet": "Big Black Box", "space": 313}, "type": "Movie", "date": "20200409"},
 {"location": {"disc": 1, "wallet": "Big Black Box", "space": 304}, "type": "Film", "date": "19551213", "ep": "Richard III"},
-{"location": {"disc": 1, "wallet": "Big Black Box", "space": 682}, "type": "Film", "date": "19980131", "ep": {"article": "The", "name": "Ring", "aka": "リング "}},
+{"location": {"disc": 1, "wallet": "Big Black Box", "space": 682}, "type": "Film", "date": "19980131", "ep": {"article": "The", "name": "Ring", "aka": "リング"}},
 {"location": {"disc": 1, "wallet": "Big Black Box", "space": 735}, "type": "Film", "date": "20000331", "ep": {"article": "The", "name": "Road to El Dorado"}},
 {"location": {"disc": 1, "wallet": "Big Black Box", "space": 307}, "type": "Film", "date": "19910614", "meta": "Robin Hood", "ep": "Prince of Thieves"},
 {"location": {"wallet": "Silver Box", "space": 112}, "type": "Film", "date": "19930728", "meta": "Robin Hood", "ep": "Men in Tights"},

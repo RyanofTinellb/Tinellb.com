@@ -212,16 +212,27 @@ function Names(ep, series) {
     return `<span class="${ep.type}${Combo(ep)}">${Name(ep, series)}</span>`;
 }
 
-Combo = ep => ep.multi?.ordinal > 1 ? ' Iso' : '';
+let Combo = ep => ep.multi?.ordinal > 1 ? ' Iso' : '';
 
-function Name(ep, series) {
+let Name = (ep, series) => series ? NameWithSeries(ep) : NameWithoutSeries(ep);
+
+let SeasonName = season => (season === undefined || typeof season === "number") ?
+    '' : ` - ${season.name || season} `;
+
+function NameWithSeries(ep) {
     let seriesname = SeriesName(ep);
     let seasonname = SeasonName(ep.season);
-    punctuation = seriesname && !seasonname ? (series ? ' ' : ' - ') : '';
-    punct2 = seasonname ? ' - ' : ''
-    return series ?
-        `${seriesname}${punctuation}${seasonname}${Numbers(ep)} ${Multi(ep)}${Episode(ep)}` :
-        `<span class="hidden-info">${seriesname}${punctuation}${seasonname}${punct2}</span>${Episode(ep)} ${Numbers(ep)}`
+    let punctuation = seriesname && !seasonname ? (series ? ' ' : ' - ') : '';
+    return `${seriesname}${punctuation}${seasonname}${Numbers(ep)} ${Multi(ep)}${Episode(ep, seriesname)}`
+}
+
+function NameWithoutSeries(ep) {
+    let seriesname = SeriesName(ep);
+    let seasonname = SeasonName(ep.season);
+    let punctuation = seriesname && !seasonname ? (series ? ' ' : ' - ') : '';
+    let punct2 = seasonname ? ' - ' : ''
+    return `<span class="hidden-info">${seriesname}${punctuation}${seasonname}${punct2}</span>${Episode(ep)} ${Numbers(ep)}`
+
 }
 
 function Multi(ep) {
@@ -236,15 +247,26 @@ function Multi(ep) {
 
 }
 
-SeasonName = season => (season === undefined || typeof season === "number") ?
-    '' : ` - ${season.name || season} `;
-
-function Episode(ep) {
+function Episode(ep, seriesname) {
     let article = ep?.ep?.article === undefined ? "" : `${ep.ep.article}`;
-    let pad = !article || article.match(/[“…’#¡ &-]$/) ? '' : ' ';
-    let episode = ep?.ep?.name === undefined ? (ep?.ep || "") : `${article}${pad}${ep.ep.name}`;
+    let aka = ep?.ep?.aka === undefined ? "" : `${ep.ep.aka}`;
+    let pad = !article || article.match(/[“…’#¡ (-]$/) ? '' : ' ';
+    let episode;
+    switch (seriesname) {
+        case 'The Librarians':
+            article = article ? article[0].toLowerCase() + article.slice(1) : '';
+            episode = `and ${article}${pad}${ep.ep.name}`;
+            break;
+        case 'Daria':
+            episode = `in “${article}${pad}${ep.ep.name}”`;
+            break;
+        default:
+            episode = ep?.ep?.name === undefined ? (ep?.ep || "") : `${article}${pad}${ep.ep.name}${Aka(aka)}`;
+    }
     return typeof episode === "string" ? episode.replace(/(\w) /g, "$1&nbsp;") : episode;
 }
+
+Aka = aka => aka ? ` (${aka})` : '';
 
 The = name => name ? (name.endsWith("(T)") ? "The " + name.slice(0, -4) : name) : '';
 

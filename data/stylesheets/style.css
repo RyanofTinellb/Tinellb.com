@@ -117,10 +117,12 @@ nav.main form.sorts p {
 
 .Premiere {
     border-top: double;
+    font-weight: bold;
 }
 
 .Finale {
     border-bottom: double;
+    font-weight: bold;
 }
 
 .Start {

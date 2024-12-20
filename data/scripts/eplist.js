@@ -241,7 +241,7 @@ SeasonName = season => (season === undefined || typeof season === "number") ?
 
 function Episode(ep) {
     let article = ep?.ep?.article === undefined ? "" : `${ep.ep.article}`;
-    let pad = !article || article.match(/[“…’#¡ -]$/) ? '' : ' ';
+    let pad = !article || article.match(/[“…’#¡ &-]$/) ? '' : ' ';
     let episode = ep?.ep?.name === undefined ? (ep?.ep || "") : `${article}${pad}${ep.ep.name}`;
     return typeof episode === "string" ? episode.replace(/(\w) /g, "$1&nbsp;") : episode;
 }

@@ -98,7 +98,7 @@ async function openEpList() {
     displayedItems.forEach(type => document.getElementById('show' + type).checked = true);
     data = await fetch("/data/assets/eplist.json");
     data = await data.json();
-    // data = data.filter(displayedItems.length ? customSelection(displayedItems) : defaultSelection);
+    data = data.filter(displayedItems.length ? customSelection(displayedItems) : defaultSelection);
     console.log(data);
     data.forEach((ep, index) => ep.index = index);
     makeList(sortType, series);

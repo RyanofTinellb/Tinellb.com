@@ -2961,7 +2961,7 @@
 {"series": "Futurama", "season": 6, "ep": {"number": 13, "name": "Colorama"}, "location": {"disc": 2, "wallet": "Big Black Box", "space": 760}, "type": "End", "date": "20110908", "multi": {"cardinal": 3, "ordinal": 1, "name": "Reincarnation"}},
 {"series": "Futurama", "season": 6, "ep": {"number": 13, "name": "Future Challenge 3000"}, "location": {"disc": 2, "wallet": "Big Black Box", "space": 760}, "type": "End", "date": "20110908", "multi": {"cardinal": 3, "ordinal": 2, "name": "Reincarnation"}},
 {"series": "Futurama", "season": 6, "ep": {"number": 13, "name": "Action Delivery Force"}, "location": {"disc": 2, "wallet": "Big Black Box", "space": 760}, "type": "End", "date": "20110908", "multi": {"cardinal": 3, "ordinal": 3, "name": "Reincarnation"}},
-{"series": "Futurama", "season": 7, "ep": {"number": 1, "article": "The", "name": "Bots and the Bees"}, "location": {"disc": 2, "wallet": "Big Black Box", "space": 762}, "type": "Start", "date": "20120620"},
+{"series": "Futurama", "season": 7, "ep": {"number": 1, "article": "The", "name": "Bots and the Bees"}, "location": {"disc": 1, "wallet": "Big Black Box", "space": 761}, "type": "Start", "date": "20120620"},
 {"series": "Futurama", "season": 7, "ep": {"number": 2, "article": "A", "name": "Farewell to Arms"}, "location": {"disc": 1, "wallet": "Big Black Box", "space": 761}, "date": "20120620"},
 {"series": "Futurama", "season": 7, "ep": {"number": 3, "name": "Decision 3012"}, "location": {"disc": 1, "wallet": "Big Black Box", "space": 761}, "date": "20120627"},
 {"series": "Futurama", "season": 7, "ep": {"number": 4, "article": "The", "name": "Thief of Baghead"}, "location": {"disc": 1, "wallet": "Big Black Box", "space": 761}, "date": "20120704"},

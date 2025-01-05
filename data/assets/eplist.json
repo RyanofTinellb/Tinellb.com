@@ -7232,7 +7232,7 @@
 {"meta": "Star Trek", "series": {"name": "Enterprise", "number": 5}, "season": 2, "ep": {"number": 22, "name": "Cogenitor"}, "location": {"disc": 6, "wallet": "Black Box", "space": 194}, "date": "20030430"},
 {"meta": "Star Trek", "series": {"name": "Enterprise", "number": 5}, "season": 2, "ep": {"number": 23, "name": "Regeneration"}, "location": {"disc": 6, "wallet": "Black Box", "space": 194}, "date": "20030507"},
 {"meta": "Star Trek", "series": {"name": "Enterprise", "number": 5}, "season": 2, "ep": {"number": 24, "name": "First Flight"}, "location": {"disc": 6, "wallet": "Black Box", "space": 194}, "date": "20030514"},
-{"meta": "Star Trek", "series": {"name": "Enterprise", "number": 5}, "season": 2, "ep": {"number": 25, "name": "Bounty"}, "location": {"disc": 6, "wallet": "Black Box", "space": 194}, "date": "20030514"},
+{"meta": "Star Trek", "series": {"name": "Enterprise", "number": 5}, "season": 2, "ep": {"number": 25, "name": "Bounty"}, "location": {"disc": 7, "wallet": "Black Box", "space": 195}, "date": "20030514"},
 {"meta": "Star Trek", "series": {"name": "Enterprise", "number": 5}, "season": 2, "ep": {"number": 26, "article": "The", "name": "Expanse"}, "location": {"disc": 7, "wallet": "Black Box", "space": 195}, "type": "End", "date": "20030521"},
 {"meta": "Star Trek", "series": {"name": "Enterprise", "number": 5}, "season": 3, "ep": {"article": "The", "name": "Xindi Saga Begins"}, "location": {"disc": 1, "wallet": "Black Box", "space": 202}, "type": "Special", "date": "20040526"},
 {"meta": "Star Trek", "series": {"name": "Enterprise", "number": 5}, "season": 3, "ep": {"number": 1, "article": "The", "name": "Xindi"}, "location": {"disc": 1, "wallet": "Black Box", "space": 196}, "type": "Start", "date": "20030910"},

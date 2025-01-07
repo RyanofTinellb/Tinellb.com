@@ -4004,7 +4004,7 @@
 {"series": "Lost Room (T)", "ep": {"number": 3, "article": "The", "name": "Comb"}, "location": {"disc": 1, "wallet": "Dark Blue Covered Wallet", "space": 103}, "type": "Miniseries", "date": "20061212", "multi": 0},
 {"series": "Lost Room (T)", "ep": {"number": 4, "article": "The", "name": "Box"}, "location": {"disc": 1, "wallet": "Dark Blue Covered Wallet", "space": 103}, "type": "Miniseries", "date": "20061212", "multi": 0},
 {"series": "Lost Room (T)", "ep": {"number": 5, "article": "The", "name": "Eye"}, "location": {"disc": 2, "wallet": "Dark Blue Covered Wallet", "space": 104}, "type": "Miniseries", "date": "20061213", "multi": 0},
-{"series": "Lost Room (T)", "ep": {"number": 6, "article": "The", "name": "Prime Object"}, "location": {"disc": 2, "wallet": "Dark Blue Covered Wallet", "space": 104}, "type": "Miniseries", "date": "20061213", "multi": 0},
+{"series": "Lost Room (T)", "ep": {"number": 6, "article": "The", "name": "Occupant"}, "location": {"disc": 2, "wallet": "Dark Blue Covered Wallet", "space": 104}, "type": "Miniseries", "date": "20061213", "multi": 0},
 {"location": {"wallet": "Dark Blue Covered Wallet", "space": 89}, "type": "Film", "date": "19980403", "ep": "Lost in Space"},
 {"season": 1, "ep": {"number": 1, "name": "Lucifer"}, "location": {"disc": 1, "wallet": "Big Black Box", "space": 489}, "date": "20160125", "type": "Premiere"},
 {"series": "Lucifer", "season": 1, "ep": {"number": 2, "name": "Lucifer, Stay. Good Devil."}, "location": {"disc": 1, "wallet": "Big Black Box", "space": 489}, "date": "20160201"},

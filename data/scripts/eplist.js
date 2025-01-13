@@ -250,7 +250,8 @@ function Multi(ep) {
 function Episode(ep, seriesname) {
     let article = ep?.ep?.article === undefined ? "" : `${ep.ep.article}`;
     let aka = ep?.ep?.aka === undefined ? "" : `${ep.ep.aka}`;
-    let pad = !article || article.match(/[“…’#¡ (-]$/) ? '' : ' ';
+    let pad = !article ? '' :
+        article.match(/[“…’#¡ (-]$/) ? '&NoBreak;' : ' ';
     let episode;
     switch (seriesname) {
         case 'The Librarians':

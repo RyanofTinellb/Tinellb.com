@@ -1,66 +1,122 @@
 <!doctype html>
-<html lang="en"><head><meta name="viewport" content="width=device-width/initial-scale=1.0">
-<meta charset="utf-8">
-<title>Episode List</title>
-<link rel="stylesheet" type="text/css" href="/data/stylesheets/basic_style.css">
-<link rel="stylesheet" type="text/css" href="/data/stylesheets/style.css">
-<link rel="icon" type="image/png" href="/data/assets/favicon.png">
-<script src="/data/scripts/search.js"></script></head>
-<body><div class="flex"><nav class="main"><details id="menu"><summary>Menu</summary>
-<p><a href="/index.html">Welcome to Tinellb!</a></p>
-<div class="javascript"><form id="search"><p><input type="text" name="term"></p>
-<p><button>Search</button></p></form></div><div class="nav-links"><ul><li><a href="/sections/detsora’sdiary.html">Detsora’s Diary</a></li><li><a href="/sections/about.html">About</a></li><li>Episode List</li></ul></div></details></nav>
+<html lang="en">
 
-<div class="main-page"><nav class="mini"><p><a href="/sections/about.html">← Previous Page</a></p>
-<p><a href="/index.html">↑ Back to Index</a></p></nav>
-<main><h1>Episode List</h1>
-<spanid="top"></span>
-<p>This list contains every film and television episode I own on physical media. I have neither cable television nor a subscription to a streaming service, but I do have <slot id="numEps">over six years</slot> of normal viewing here.</p>
-<div class="message"><p>Idiosyncratic, and often arbitrary, decisions abound here. I categorised films the way I felt like. Sorting by episode names ignores articles, as you might expect, but also ignores most anything that would otherwise result in too large a batch of the same series appearing together. For instance, check episodes of <cite>Scrubs</cite> or <cite>Day Break</cite>, or <cite>Simpsons</cite> episodes with character names in the title.</p></div>
-<noscript><p> For a sortable list of episodes, please <a href="https://www.enable-javascript.com">enable JavaScript</a> or check out the JSON object <a href="/data/assets/eplist.json">here</a>.</p></noscript>
-<div class="javascript"><p>The episodes can be sorted in different ways.</p>
-<ul><li>Title – Sorts by film title or TV episode name, ignoring articles.</li>
-<li>Length – Sorts by the length of the full title.</li>
-<li>Airdate – Sorts by the date of the original broadcast or release.</li>
-<li>Random – Shuffles the list. Press again to get a new viewing order.</li>
-<li>Calendar – Sorts by the day of the year the episode first aired.</li>
-<li>Wallet – Sorts by the location in my collection. Unless you’re in my house, this won’t help you much.</li>
-<li>Default – Groups TV series set in the same universe together.</li></ul></div>
-<h2 id="episodesofstuffi’vegot">Episodes of Stuff I’ve Got</h2>
-<slot class="eplist"><p>put here</p></slot>
-<noscript><ul><li>eplist</li></ul></noscript>
-<div class="arrow-left"><a href="#top"></a></div><div class="javascript">
-<form id="sorts" class="sorts"><p><input type="checkbox" id="series" name="series"> <label for="series">Show Series Name</label></p>
-<p><input type="checkbox" id="showFilm" name="films"> <label for="showFilm">Films</label></p>
-<p><input type="checkbox" id="showMovie" name="movies"> <label for="showMovie">TV Movies</label></p>
-<p><input type="checkbox" id="showMiniseries" name="miniseries"> <label for="showMiniseries">Miniseries</label></p>
-<p><input type="checkbox" id="showPremiere" name="premieres"> <label for="showPremiere">Series Premieres</label></p>
-<p><input type="checkbox" id="showFinale" name="finales"> <label for="showFinale">Series Finales</label></p>
-<p><input type="checkbox" id="showStart" name="starts"> <label for="showStart">Season Starts</label></p>
-<p><input type="checkbox" id="showEnd" name="ends"> <label for="showEnd">Season Ends</label></p>
-<p><input type="checkbox" id="showSpecial" name="specials"> <label for="showSpecial">Special Features</label></p>
-<p><input type="checkbox" id="showGap" name="gaps"> <label for="showGap">Gaps</label></p>
-<button type="submit" name="sort" id="title" value="title" title="Sort by Title">Title</button>
-<button type="submit" name="sort" id="length" value="length" title="Sort by Episode Name Length">Length</button>
-<button type="submit" name="sort" id="airdate" value="airdate" title="Sort by airdate">Airdate</button>
-<button type="submit" name="sort" id="random" value="random" title="Random Sort">Random</button>
-<button type="submit" name="sort" id="calendar" value="calendar" title="Sort by Day of the Year">Calendar</button>
-<button type="submit" name="sort" id="wallet" value="wallet" title="Sort by Location">Wallet</button>
-<button type="submit" name="sort" id="default" value="default" title="Sort by Series">Default</button></form></div>
-<div class="arrow-right"><a href="#bottom"></a></div>
-<spanid="bottom"></span>
-<scriptsrc="/data/scripts/eplist.js"></script>
-</main>
-<nav class="mini"><p><a href="/sections/about.html">← Previous Page</a></p>
-<p><a href="/index.html">↑ Back to Index</a></p></nav>
-</div></div>
-<footer><div class="copyright"><span class="no-breaks">&copy;2017-2025 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
-<span class="no-breaks">Last updated: Saturday, May 25th, 2024</span></div>
-</footer>
-<p><script src="/data/scripts/parse_href.js"></script></p>
-<script>
-let mql = window.matchMedia("(min-width: 800px)");
-let details = document.getElementById("menu");
-if(mql.matches) { details.open = true;}
-for (elt of document.getElementsByClassName('javascript')) {
-elt.style.display = "block";}</script></body></html>
+<head>
+  <meta name="viewport" content="width=device-width/initial-scale=1.0">
+  <meta charset="utf-8">
+  <title>Episode List</title>
+  <link rel="stylesheet" type="text/css" href="/data/stylesheets/basic_style.css">
+  <link rel="stylesheet" type="text/css" href="/data/stylesheets/style.css">
+  <link rel="icon" type="image/png" href="/data/assets/favicon.png">
+  <script src="/data/scripts/search.js"></script>
+</head>
+
+<body>
+  <div class="flex">
+    <nav class="main">
+      <details id="menu">
+        <summary>Menu</summary>
+        <p><a href="/index.html">Welcome to Tinellb!</a></p>
+        <div class="javascript">
+          <form id="search">
+            <p><input type="text" name="term"></p>
+            <p><button>Search</button></p>
+          </form>
+        </div>
+        <div class="nav-links">
+          <ul>
+            <li><a href="/sections/detsora’sdiary.html">Detsora’s Diary</a></li>
+            <li><a href="/sections/about.html">About</a></li>
+            <li>Episode List</li>
+          </ul>
+        </div>
+      </details>
+    </nav>
+
+    <div class="main-page">
+      <nav class="mini">
+        <p><a href="/sections/about.html">← Previous Page</a></p>
+        <p><a href="/index.html">↑ Back to Index</a></p>
+      </nav>
+      <main>
+        <h1>Episode List</h1>
+        <spanid="top"></span>
+          <p>This list contains every film and television episode I own on physical media. I have neither cable television nor a subscription to a streaming service, but I do have <slot id="numEps">over six years</slot> of normal viewing here.</p>
+          <div class="message">
+            <p>Idiosyncratic, and often arbitrary, decisions abound here. I categorised films the way I felt like. Sorting by episode names ignores articles, as you might expect, but also ignores most anything that would otherwise result in too large a batch of the same series appearing together. For instance, check episodes of <cite>Scrubs</cite> or <cite>Day Break</cite>, or <cite>Simpsons</cite> episodes with character names in the title.</p>
+          </div>
+          <noscript>
+            <p> For a sortable list of episodes, please <a href="https://www.enable-javascript.com">enable JavaScript</a> or check out the JSON object <a href="/data/assets/eplist.json">here</a>.</p>
+          </noscript>
+          <div class="javascript">
+            <p>The episodes can be sorted in different ways.</p>
+            <ul>
+              <li>Title – Sorts by film title or TV episode name, ignoring articles.</li>
+              <li>Length – Sorts by the length of the full title.</li>
+              <li>Airdate – Sorts by the date of the original broadcast or release.</li>
+              <li>Random – Shuffles the list. Press again to get a new viewing order.</li>
+              <li>Calendar – Sorts by the day of the year the episode first aired.</li>
+              <li>Wallet – Sorts by the location in my collection. Unless you’re in my house, this won’t help you much.</li>
+              <li>Default – Groups TV series set in the same universe together.</li>
+            </ul>
+          </div>
+          <h2 id="episodesofstuffi’vegot">Episodes of Stuff I’ve Got</h2>
+          <slot class="eplist">
+            <p>put here</p>
+          </slot>
+          <noscript>
+            <ul>
+              <li>eplist</li>
+            </ul>
+          </noscript>
+          <div class="arrow-left"><a href="#top"></a></div>
+          <div class="javascript">
+            <form id="sorts" class="sorts">
+              <p><input type="checkbox" id="series" name="series"> <label for="series">Show Series Name</label></p>
+              <p><input type="checkbox" id="showFilm" name="films"> <label for="showFilm">Films</label></p>
+              <p><input type="checkbox" id="showMovie" name="movies"> <label for="showMovie">TV Movies</label></p>
+              <p><input type="checkbox" id="showMiniseries" name="miniseries"> <label for="showMiniseries">Miniseries</label></p>
+              <p><input type="checkbox" id="showPremiere" name="premieres"> <label for="showPremiere">Series Premieres</label></p>
+              <p><input type="checkbox" id="showFinale" name="finales"> <label for="showFinale">Series Finales</label></p>
+              <p><input type="checkbox" id="showStart" name="starts"> <label for="showStart">Season Starts</label></p>
+              <p><input type="checkbox" id="showEnd" name="ends"> <label for="showEnd">Season Ends</label></p>
+              <p><input type="checkbox" id="showSpecial" name="specials"> <label for="showSpecial">Special Features</label></p>
+              <p><input type="checkbox" id="showGap" name="gaps"> <label for="showGap">Gaps</label></p>
+              <button type="submit" name="sort" id="title" value="title" title="Sort by Title">Title</button>
+              <button type="submit" name="sort" id="length" value="length" title="Sort by Episode Name Length">Length</button>
+              <button type="submit" name="sort" id="airdate" value="airdate" title="Sort by airdate">Airdate</button>
+              <button type="submit" name="sort" id="random" value="random" title="Random Sort">Random</button>
+              <button type="submit" name="sort" id="calendar" value="calendar" title="Sort by Day of the Year">Calendar</button>
+              <button type="submit" name="sort" id="wallet" value="wallet" title="Sort by Location">Wallet</button>
+              <button type="submit" name="sort" id="default" value="default" title="Sort by Series">Default</button>
+            </form>
+          </div>
+          <div class="arrow-right"><a href="#bottom"></a></div>
+          <span id="bottom"></span>
+            <script src="/data/scripts/eplist.js">
+              </script>
+      </main>
+      <nav class="mini">
+        <p><a href="/sections/about.html">← Previous Page</a></p>
+        <p><a href="/index.html">↑ Back to Index</a></p>
+      </nav>
+    </div>
+  </div>
+  <footer>
+    <div class="copyright"><span class="no-breaks">&copy;2017-2025 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
+      <span class="no-breaks">Last updated: Saturday, May 25th, 2024</span>
+    </div>
+  </footer>
+  <p>
+    <script src="/data/scripts/parse_href.js"></script>
+  </p>
+  <script>
+    let mql = window.matchMedia("(min-width: 800px)");
+    let details = document.getElementById("menu");
+    if (mql.matches) { details.open = true; }
+    for (elt of document.getElementsByClassName('javascript')) {
+      elt.style.display = "block";
+    }</script>
+</body>
+
+</html>

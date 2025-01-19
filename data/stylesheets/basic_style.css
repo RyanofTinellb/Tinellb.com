@@ -1,6 +1,29 @@
+:root {
+    --folding-padding: 10%;
+}
+
+body {
+    font-family: sans-serif;
+}
+
 @font-face {
     font-family: tinellb;
     src: url('../assets/tinellb.ttf');
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0.5rem;
+}
+
+h1 a:visited,
+h1 a:link {
+    color: black;
+    text-decoration: none;
 }
 
 a:link {
@@ -13,10 +36,59 @@ a:visited {
     /* light violet */
 }
 
+abbr.glossary {
+    font-variant: small-caps;
+    font-style: normal;
+    text-decoration: none;
+}
+
+abbr.glossary::after {
+    content: "?";
+    vertical-align: super;
+    font-size: smaller;
+}
+
+details {
+    cursor: pointer;
+}
+
+strong {
+    font-size: 0.95rem;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    /* width: 95%;              Removing for now, becuase I think it's not needed   */
+}
+
+.main-page {
+    width: min(95%, 90ch);
+    margin-inline-end: max(5ch, 5%);
+}
+
 .javascript,
 .hidden,
 .mobile {
     display: none;
+}
+
+.highlight {
+    border: 1px solid red;
+    padding: 4px 5px;
+    border-radius: 15px;
+    line-height: 2;
+}
+
+.ipa {
+    font: normal larger 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Trebuchet MS', 'Segoe UI', Arial, sans-serif;
+    white-space: nowrap;
+}
+
+.ipa strong {
+    font-weight: 900;
+    color: red;
 }
 
 .multiline .tinellbian {
@@ -27,28 +99,22 @@ a:visited {
     display: block;
 }
 
-.ipa {
-    font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
-}
-
-strong {
-    font-size: 0.95rem;
-}
-
-.ipa strong {
-    font-weight: 900;
-    color: red;
+.no-breaks {
+    white-space: nowrap;
 }
 
 .overline {
     text-decoration: overline;
 }
 
-.highlight {
-    border: 1px solid red;
-    padding: 4px 5px;
-    border-radius: 15px;
-    line-height: 2;
+.stars p {
+    text-align: center;
+    margin-block: 1em;
+    letter-spacing: 2vw;
+}
+
+.symbol {
+    font: italic larger serif;
 }
 
 .tinellbian {
@@ -66,98 +132,15 @@ strong {
     font-size: 0;
 }
 
-.tinellbian:hover {
-    font-size: xx-large;
-    padding: 0em 0.5em;
-    cursor: none;
-}
-
-.no-breaks {
-    white-space: nowrap;
-}
-
-abbr.glossary {
-    font-variant: small-caps;
-    font-style: normal;
-    text-decoration: none;
-}
-
-abbr.glossary::after {
-    content: "?";
-    vertical-align: super;
-    font-size: smaller;
-}
-
-h1 a:visited,
-h1 a:link {
-    color: black;
-    text-decoration: none;
-}
-
-.flex {
-    display: flex;
-    flex-wrap: nowrap;
-    flex-direction: row;
-    /* width: 95%;              Removing for now, becuase I think it's not needed   */
+.transliteration {
+    font-weight: bold;
+    font-size: 0.95rem;
 }
 
 nav a {
     /* both types of nav */
     text-decoration: none;
     /* colour does nothing because of 'a:link' in `basic_style.css` */
-}
-
-nav.main {
-    width: 25%;
-    margin-top: 2rem;
-    text-align: center;
-}
-
-nav.main summary {
-    list-style-type: "☰";
-    text-align: center;
-}
-
-/* nav .javascript {    text-align: left;} */
-nav.main details[open] summary {
-    list-style-type: '✖';
-    margin-bottom: 2em;
-}
-
-nav.main .nav-links {
-    margin-inline: auto;
-    width: fit-content;
-    text-align: left;
-}
-
-nav.main ul {
-    list-style-type: none;
-    list-style-position: inside;
-    padding: 0;
-    line-height: 1.5;
-}
-
-nav.main ul ul {
-    margin-left: 3ch;
-    text-align: left;
-}
-
-
-nav .random {
-    text-align: center;
-}
-
-nav .random:hover,
-nav li:hover {
-    font-weight: bold;
-    text-decoration: underline;
-}
-
-nav.main p {
-    font-family: sans-serif;
-    margin: 0;
-    padding-left: 15%;
-    padding-right: 15%;
 }
 
 nav li.normal,
@@ -178,31 +161,96 @@ nav button {
 }
 
 nav form#search {
-    margin-top: 1em;
+    margin-block-start: 1em;
 }
 
 nav form#search p {
-    padding-bottom: 0;
+    padding-block-end: 0;
 }
 
-.main-page {
-    width: min(95%, 80ch);
-    margin-inline-end: min(5ch,5%);
+nav .random {
+    text-align: center;
+}
+
+nav .random:hover,
+nav li:hover {
+    text-shadow: 0px 0px 1px currentColor;
+    text-decoration: underline;
+}
+
+nav.main {
+    width: 25%;
+    margin-block-start: 2rem;
+    text-align: center;
+}
+
+nav.main details summary {
+    list-style-type: "☰ ";
+}
+
+/* nav .javascript {    text-align: left;} */
+nav.main details[open] summary {
+    list-style-type: '✖ ';
+    margin-block-end: 2em;
+}
+
+nav.main .nav-links {
+    margin-inline: auto;
+    width: fit-content;
+    text-align: left;
+    line-height: 1.7;
+}
+
+nav.main ul {
+    list-style-type: none;
+    list-style-position: inside;
+    padding: 0;
+    line-height: 1.9;
+}
+
+nav.main ul ul {
+    margin-inline-start: 4ch;
+    text-align: left;
+}
+
+nav.main p {
+    font-family: sans-serif;
+    margin: 0;
+    padding-inline-start: 15%;
+    padding-right: 15%;
+}
+
+nav.mini {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+nav.mini p {
+    padding-inline-start: 0;
+    margin-inline-start: 0;
 }
 
 main p {
     text-align: left;
-    margin-top: 0;
-    margin-bottom: 0.8lh;
-    line-height: 1.6;
+    margin-block-start: 0;
+    margin-block-end: 1.2rem;
+    line-height: 2;
+}
+
+main p a {
+    text-decoration: none;
 }
 
 main p.example {
-    margin-top: 1em;
+    margin-block-start: 1em;
 }
 
 main table {
     border-collapse: collapse;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    margin-block-start: 1em;
 }
 
 main td,
@@ -212,6 +260,8 @@ main th {
 }
 
 main th {
+    padding-block-start: 4px;
+    padding-block-end: 4px;
     padding: 0 1em;
 }
 
@@ -225,27 +275,112 @@ main th:first-child {
 }
 
 main td {
+    padding: 2px 6px;
     text-align: center;
 }
 
+main ul,
+main ol {
+    margin-inline-start: 20%;
+    margin-block-end: 0;
+}
+
+main details {
+    padding-inline-start: var(--folding-padding);
+}
+
+main details:first-child {
+    padding-block-start: 0.4lh;
+}
+
+main details:not(:first-child) {
+    padding-block-start: 0.8lh;
+}
+
+main details p {
+    padding-inline-start: 0;
+    margin-inline-start: 1.5ch;
+    margin-block: 0.4lh;
+    line-height: 1.6;
+}
+
+main details+p {
+    padding-inline-start: calc(var(--folding-padding) + 1.5ch);
+    margin-block-start: 0;
+}
+
+main summary {
+    padding-block-start: 0.2rem;
+    line-height: 2;
+}
+
+main .also p {
+    margin-inline-start: 5%;
+}
+
+main .gloss {
+    font-style: italic;
+}
+
 main .message p {
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
     font-size: smaller;
     color: red;
 }
 
-main .wordlist {
-    border-left: 1px solid green;
-    border-bottom: 1px solid green;
+main .results a {
+    text-decoration: none;
 }
 
-main .wordlist .block {
-    margin-top: 0.75lh;
+main .results ol,
+main .results ul {
+    margin-inline-start: 0;
 }
 
-main .wordlist .block:first-child {
-    margin-top: 0;
+main .results .title-results {
+    font-weight: bold;
+    padding-inline-start: 5%;
+    padding-block-start: 1em;
+}
+
+main .toc {
+    border-left: 2px solid purple;
+    border-bottom: 2px solid purple;
+    margin-block-start: 2rem;
+    margin-inline-start: 10%;
+    padding-block: 2rem;
+    padding-inline-start: 2rem;
+}
+
+main .toc::before {
+    content: 'Continue with:';
+    font-size: larger;
+    font-style: italic;
+    position: relative;
+    top: -0.5em;
+    left: 5%;
+}
+
+main .toc p {
+    line-height: 2.5;
+    margin-inline-start: 10%;
+    margin-block: 0.2lh 0;
+}
+
+main .toc p:first-child {
+    margin-block-start: 0.5lh;
+}
+
+main .toc p::before {
+    content: '\227b'; /* (greater-than sign) */
+    font-size: large;
+    line-height: 1;
+    padding-right: 2em;
+}
+
+main .toc a {
+    color: black;
 }
 
 main .universe {
@@ -253,22 +388,43 @@ main .universe {
     font-family: serif;
 }
 
-main .results .title-results {
-    font-weight: bold;
-    padding-left: 5%;
-    padding-top: 1em;
+main .wordlist {
+    margin-inline: 20% 15%;
+    margin-block-start: 2lh;
+    padding-block: 0.5lh 1lh;
+    padding-inline-start: 4ch;
+    border-left: 1px solid green;
+    border-bottom: 1px solid green;
+    overflow: visible;
+    --folding-padding: 0;
 }
 
-nav.mini {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+main .wordlist p {
+    padding-inline-start: var(--folding-padding);
+    margin: 0;
+}
+
+main .wordlist details+p {
+    margin-inline-start: 1.5ch;
+}
+
+main .wordlist .block {
+    margin-block-start: 0.75lh;
+}
+
+main .wordlist .block:first-child {
+    margin-block-start: 0;
 }
 
 footer {
-    margin-top: 2rem;
-    margin-left: 30%;
-    margin-right: 10%
+    margin-block-start: 2rem;
+    margin-inline-start: 30%;
+    margin-inline-end: 10%;
+    margin-block-start: 1rem;
+    font-size: smaller;
+    font-family: serif;
+    text-align: right;
+    width: 70%;
 }
 
 footer .copyright {
@@ -279,102 +435,15 @@ footer .copyright {
     line-height: 1.5;
 }
 
-nav.mini p {
-    padding-left: 0;
-    margin-left: 0;
-}
-
-.no-breaks {
-    white-space: nowrap;
-}
-
-main summary.folding {
-    font-family: sans-serif;
-    margin-top: 0.2rem;
-}
-
-main details.folding+p {
-    padding-left: 1em;
-    margin: 0;
-}
-
-main ul,
-main ol {
-    margin-left: 20%;
-    margin-bottom: 0;
-}
-
-main table {
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 1em;
-}
-
-main table td {
-    padding: 2px 6px;
-}
-
-main table th {
-    padding-top: 4px;
-    padding-bottom: 4px;
-}
-
-main .also p {
-    margin-left: 5%;
-}
-
-main .wordlist {
-    margin-left: 17%;
-    margin-top: 1em;
-    padding-bottom: 0.5em;
-}
-
-main .wordlist p {
-    margin-left: 3%;
-    margin-top: 0;
-    line-height: 1.5;
-}
-
-main .gloss {
-    font-style: italic;
-}
-
-footer {
-    margin-top: 1rem;
-    font-size: smaller;
-    font-family: serif;
-    text-align: right;
-    width: 70%;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    margin: 0.5rem;
-}
-
-main .results ol,
-main .results ul {
-    margin-left: 0;
-}
-
-main p a,
-main .results a {
-    text-decoration: none;
-}
-
 @media screen and (max-width: 800px) {
-    .flex {
-        margin-left: auto;
-        margin-right: auto;
-        flex-direction: column;
+    input#wordsearch {
+        width: 80%;
     }
 
-    nav.main {
-        width: 100%;
+    .flex {
+        margin-inline-start: auto;
+        margin-inline-end: auto;
+        flex-direction: column;
     }
 
     .main-page {
@@ -385,33 +454,55 @@ main .results a {
         display: none;
     }
 
+    .desktop table {
+        display: none;
+    }
+
     .mobile {
         display: initial;
     }
 
+    .mobile p {
+        margin-inline-start: 10%;
+    }
+
+    .mobile table {
+        margin-inline-start: auto;
+        margin-inline-end: auto;
+    }
+
+    .mobile ul {
+        list-style: none;
+        margin-block-start: 0;
+        margin-block-end: 0;
+    }
+
+    .mobile ul li {
+        line-height: 1.5;
+    }
+
+    .mobile-table table {
+        display: initial;
+        margin-inline-start: 15%;
+    }
+
+    .mobile-table ul {
+        padding-inline-start: 0;
+        margin-inline-start: 10%;
+    }
+
+    nav.main {
+        width: 100%;
+    }
+
+    nav.mini p {
+        text-indent: 0;
+    }
+
     main {
         width: calc(100% - 4ch);
-        margin-left: 2ch;
-        margin-right: 2ch;
-    }
-
-    main div.desktop table {
-        display: none;
-    }
-
-    main div.mobile table {
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    main div.mobile-table table {
-        display: initial;
-        margin-left: 15%;
-    }
-
-    main div.mobile-table ul {
-        padding-left: 0;
-        margin-left: 10%;
+        margin-inline-start: 2ch;
+        margin-inline-end: 2ch;
     }
 
     main abbr.glossary::after {
@@ -420,44 +511,14 @@ main .results a {
         font-size: smaller;
     }
 
-    main div.mobile ul {
-        /* Dictionary and Grammar tables, i.e.: list of auxiliaries */
-        margin-top: 0em;
-    }
-
     footer {
-        margin-left: 5%;
-        margin-right: 5%;
+        margin-inline-start: 5%;
+        margin-inline-end: 5%;
+        text-align: right;
+        width: 95%;
     }
 
     footer .copyright {
         width: 100%;
-    }
-
-    nav.mini p {
-        text-indent: 0;
-    }
-
-    .mobile p {
-        margin-left: 10%;
-    }
-
-    .mobile ul {
-        list-style: none;
-        margin-top: 0;
-        margin-bottom: 0;
-    }
-
-    .mobile ul li {
-        line-height: 1.5;
-    }
-
-    input#wordsearch {
-        width: 80%;
-    }
-
-    footer {
-        text-align: right;
-        width: 95%;
     }
 }

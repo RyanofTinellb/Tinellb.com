@@ -17,15 +17,15 @@ anchor:
 arrow-left:
   type: div
   param: <a href="#$text$"></a>
-  start: ' '
-  end: ' '
+  start: ''
+  end: ''
   props:
     colour: '#ff00dd'
 arrow-right:
   type: div
   param: <a href="#$text$"></a>
-  start: ' '
-  end: ' '
+  start: ''
+  end: ''
   props:
     colour: '#ff00dd'
 button:
@@ -124,8 +124,8 @@ span:
   type: block
   open: <span
   param: id="$text$">
-  start: ' '
-  end: ' '
+  start: ''
+  end: ''
   props:
     colour: '#339933'
     underline: true

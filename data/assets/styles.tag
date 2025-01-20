@@ -101,7 +101,7 @@ noscript:
   rank: 110
 script:
   type: line
-  open: <script
+  open: '<script '
   close: '></script>'
 slot:
   open: <slot id="
@@ -122,7 +122,7 @@ sorts:
     left: 25
 span:
   type: block
-  open: <span
+  open: '<span '
   param: id="$text$">
   start: ''
   end: ''

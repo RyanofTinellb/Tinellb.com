@@ -60,7 +60,7 @@ strong {
     display: flex;
     flex-wrap: nowrap;
     flex-direction: row;
-    /* width: 95%;              Removing for now, becuase I think it's not needed   */
+    /* width: 95%;              Removing for now, because I think it's not needed   */
 }
 
 .main-page {

@@ -70,7 +70,8 @@ strong {
 
 .javascript,
 .hidden,
-.mobile {
+.mobile,
+.portrait {
     display: none;
 }
 
@@ -105,6 +106,10 @@ strong {
 
 .overline {
     text-decoration: overline;
+}
+
+.self-link {
+    font-weight: bold;
 }
 
 .stars p {
@@ -373,7 +378,8 @@ main .toc p:first-child {
 }
 
 main .toc p::before {
-    content: '\227b'; /* (greater-than sign) */
+    content: '\227b';
+    /* (greater-than sign) */
     font-size: large;
     line-height: 1;
     padding-right: 2em;
@@ -390,7 +396,7 @@ main .universe {
 
 main .wordlist {
     margin-inline: 20% 15%;
-    margin-block-start: 2lh;
+    margin-block: 2lh 2.5lh;
     padding-block: 0.5lh 1lh;
     padding-inline-start: 4ch;
     border-left: 1px solid green;
@@ -450,45 +456,23 @@ footer .copyright {
         width: 100%;
     }
 
-    .desktop {
+    .desktop,
+    .landscape {
         display: none;
     }
 
-    .desktop table {
+    .landscape table {
         display: none;
     }
 
-    .mobile {
+    .mobile,
+    .portrait {
         display: initial;
     }
 
-    .mobile p {
-        margin-inline-start: 10%;
-    }
-
-    .mobile table {
+    .portrait table {
         margin-inline-start: auto;
         margin-inline-end: auto;
-    }
-
-    .mobile ul {
-        list-style: none;
-        margin-block-start: 0;
-        margin-block-end: 0;
-    }
-
-    .mobile ul li {
-        line-height: 1.5;
-    }
-
-    .mobile-table table {
-        display: initial;
-        margin-inline-start: 15%;
-    }
-
-    .mobile-table ul {
-        padding-inline-start: 0;
-        margin-inline-start: 10%;
     }
 
     nav.main {

@@ -1,5 +1,6 @@
 :root {
     --folding-padding: 10%;
+    --details-lineheight: 1.5;
 }
 
 body {
@@ -46,10 +47,6 @@ abbr.glossary::after {
     content: "?";
     vertical-align: super;
     font-size: smaller;
-}
-
-details {
-    cursor: pointer;
 }
 
 strong {
@@ -142,10 +139,21 @@ strong {
     font-size: 0.95rem;
 }
 
+nav {
+    font-weight: bold;
+}
+
 nav a {
     /* both types of nav */
     text-decoration: none;
+    cursor: pointer;
+    font-weight: initial;
     /* colour does nothing because of 'a:link' in `basic_style.css` */
+}
+
+nav a:hover {
+    text-shadow: 0px 0px 1px currentColor;
+    text-decoration: underline;
 }
 
 nav li.normal,
@@ -175,12 +183,6 @@ nav form#search p {
 
 nav .random {
     text-align: center;
-}
-
-nav .random:hover,
-nav li:hover {
-    text-shadow: 0px 0px 1px currentColor;
-    text-decoration: underline;
 }
 
 nav.main {
@@ -275,7 +277,7 @@ main th a {
     text-decoration: inherit;
 }
 
-main th:first-child {
+main tbody th {
     text-align: right;
 }
 
@@ -292,6 +294,7 @@ main ol {
 
 main details {
     padding-inline-start: var(--folding-padding);
+    cursor: pointer;
 }
 
 main details:first-child {
@@ -305,18 +308,25 @@ main details:not(:first-child) {
 main details p {
     padding-inline-start: 0;
     margin-inline-start: 1.5ch;
-    margin-block: 0.4lh;
-    line-height: 1.6;
+    margin-block: 0lh;
+    line-height: var(--details-lineheight);
 }
 
 main details+p {
     padding-inline-start: calc(var(--folding-padding) + 1.5ch);
     margin-block-start: 0;
+    line-height: var(--details-lineheight);
 }
 
 main summary {
     padding-block-start: 0.2rem;
-    line-height: 2;
+    line-height: var(--details-lineheight);
+}
+
+main textarea {
+    margin-inline-start: 15%;
+    width: 40ch;
+    height: 10lh;
 }
 
 main .also p {
@@ -407,11 +417,16 @@ main .wordlist {
 
 main .wordlist p {
     padding-inline-start: var(--folding-padding);
-    margin-block: 0;
+    margin: 0;
+}
+
+main .wordlist details p {
+    margin-inline-start: 1.5ch;
 }
 
 main .wordlist details+p {
     margin-inline-start: 1.5ch;
+    margin-block: 0;
 }
 
 main .wordlist .block {
@@ -428,7 +443,7 @@ main .wordlist-caption {
     font-weight: bolder;
 }
 
-main .wordlist-caption + .wordlist {
+main .wordlist-caption+.wordlist {
     margin-block-start: -0.5lh;
 }
 

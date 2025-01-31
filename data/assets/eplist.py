@@ -133,7 +133,7 @@ def pop_empty_values(dict_):
                 dict_[k] = [t for t in v.values()][0]
 
 
-screenHeight = 12
+screenHeight = 10
 
 
 class ListEditor(Tk.Frame):

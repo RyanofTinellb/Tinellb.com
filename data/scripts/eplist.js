@@ -247,9 +247,11 @@ function Multi(ep) {
 
 }
 
+const Aka = aka => aka ? ` (${aka})` : '';
+
 function Episode(ep, seriesname) {
-    let article = ep?.ep?.article === undefined ? "" : `${ep.ep.article}`;
-    let aka = ep?.ep?.aka === undefined ? "" : `${ep.ep.aka}`;
+    let article = ep.ep?.article === undefined ? "" : `${ep.ep.article}`;
+    let aka = ep.ep?.aka === undefined ? "" : `${ep.ep.aka}`;
     let pad = !article ? '' :
         article.match(/[“…’#¡ (-]$/) ? '&NoBreak;' : ' ';
     let episode;
@@ -262,14 +264,23 @@ function Episode(ep, seriesname) {
             episode = `in “${article}${pad}${ep.ep.name}”`;
             break;
         default:
-            episode = ep?.ep?.name === undefined ? (ep?.ep || "") : `${article}${pad}${ep.ep.name}${Aka(aka)}`;
+            episode = ep.ep?.name === undefined ? (ep.ep || "") : `${article}${pad}${ep.ep.name}${Aka(aka)}`;
     }
+    if (ep.meta == 'Star Trek') {
+        episode = episode.replace(/(Enterprise|Voyager)/, '<i>$1</i>');
+    }
+    if (ep.meta == 'Stargate') {
+        episode = episode.replace(/(Prometheus|Daedalus)/, '<i>$1</i>')
+    }
+    if (ep.series == 'Dark Matter') {
+        episode = episode.replace(/(Raza)/, '<i>$1</i>')
+    }
+    episode = episode.replace(/^<i>(.*?)<\/i>$/, '$1')
     return typeof episode === "string" ? episode.replace(/(\w) /g, "$1&nbsp;") : episode;
 }
 
-Aka = aka => aka ? ` (${aka})` : '';
-
-The = name => name ? (name.endsWith("(T)") ? "The " + name.slice(0, -4) : name) : '';
+const The = name => name ?
+    (name.endsWith("(T)") ? "The " + name.slice(0, -4) : name) : '';
 
 function SeriesName(ep) {
     let meta = ep.meta;

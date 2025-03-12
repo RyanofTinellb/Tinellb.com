@@ -4,14 +4,14 @@ styles:
   error:
     type: error
   nav:
-    type: block
     open: <nav class="mini">
+    type: block
   next:
-    type: anchor
     param: $link:next$|$text$
-  previous:
     type: anchor
+  previous:
     param: $link:previous$|$text$
+    type: anchor
 text:
 - <nav><previous>← Previous Page<error><a>http://www.tinellb.com|↑ Back to Main</a></error></previous>
 - <next>Next Page →<error><a>/index.html|↑ Back to Index</a></error></next></nav>

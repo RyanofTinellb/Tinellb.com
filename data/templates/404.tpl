@@ -2,9 +2,9 @@ styles:
   '!doctype':
     type: complete
   body:
-    type: block
-    start: <p>
     end: </p>
+    start: <p>
+    type: block
   content:
     type: div
   data:
@@ -18,42 +18,42 @@ styles:
   form:
     type: block
   h1:
-    type: heading
-    param: ''
     open: <h1>
+    param: ''
+    type: heading
   head:
     type: block
   html:
-    type: block
     language: true
+    type: block
   inline-script:
-    type: line
-    open: <script>
     close: </script>
+    open: <script>
+    type: line
   input:
     type: complete
   internal-link:
     type: link
   internal-script:
-    type: line
-    open: <script>
     close: </script>
+    open: <script>
+    type: line
   javascript:
     type: line
   link:
     type: complete
   main:
-    type: block
-    open: <div class="main-page"><main>
     close: </main></div>
+    open: <div class="main-page"><main>
+    type: block
   meta:
     type: complete
   results:
     open: <div class="results" id="results">
     type: div
   script:
-    type: complete
     close: '></script>'
+    type: complete
   template:
     type: template
   title:
@@ -76,7 +76,7 @@ text:
 - <script>src="/data/scripts/404search.js"</script>
 - <inline-script>
 - 'let mql = window.matchMedia("(min-width: 800px)");'
-- 'let details = document.getElementById("menu");'
+- let details = document.getElementById("menu");
 - if (mql.matches) {details.open = true;}
 - for (elt of document.getElementsByClassName('javascript')) {
 - elt.style.display = "block";}</inline-script></body></html@en>

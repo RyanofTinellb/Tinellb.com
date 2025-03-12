@@ -18,37 +18,37 @@ styles:
   links:
     type: div
   nav:
-    type: block
     open: <nav class="main">
+    type: block
   nav-links:
     type: div
   random:
     type: div
   search-form:
-    type: block
-    open: <form id="search">
     close: </form>
+    open: <form id="search">
+    type: block
   strong:
     props:
       bold: true
   submit-button:
-    type: inline
-    open: <button type="button">
     close: </button>
+    open: <button type="button">
+    type: inline
   summary:
     type: line
   toc:
-    type: toc
-    open: <ul>
     close: </ul>
-    start: <li>
     end: </li>
-    pipe: '">'
+    open: <ul>
     param: <a href="$link$">$name$</a>
-  ul:
-    type: block
+    pipe: '">'
     start: <li>
+    type: toc
+  ul:
     end: </li>
+    start: <li>
+    type: block
 text:
 - <nav><details><summary>Menu</summary>
 - <a><link>index</link>|<entry-data>root</entry-data></a>

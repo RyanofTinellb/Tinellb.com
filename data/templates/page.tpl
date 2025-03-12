@@ -2,9 +2,9 @@ styles:
   '!doctype':
     type: complete
   body:
-    type: block
-    start: <p>
     end: </p>
+    start: <p>
+    type: block
   content:
     type: div
   data:
@@ -16,20 +16,20 @@ styles:
   footer:
     type: block
   h1:
-    type: heading
-    param: null
-    open: <h1>
-    start: ' '
     end: ' '
+    open: <h1>
+    param: null
+    start: ' '
+    type: heading
   head:
     type: block
   html:
-    type: block
     language: true
+    type: block
   inline-script:
-    type: line
-    open: <script>
     close: </script>
+    open: <script>
+    type: line
   input:
     type: complete
   internal-link:
@@ -40,23 +40,23 @@ styles:
     type: complete
   main:
     type: block
-  meta:
-    type: complete
   main-page:
     type: div
-  script:
+  meta:
     type: complete
+  script:
     close: '></script>'
+    type: complete
   table-of-contents:
-    type: toc
-    open: <div class="toc">
     close: </div>
-    start: <p>
     end: </p>
+    open: <div class="toc">
     param: <a href="$link$">$name$</a>
+    start: <p>
+    type: toc
   template:
-    type: template
     rank: -50
+    type: template
   title:
     type: line
 text:
@@ -76,8 +76,7 @@ text:
 - <script>src="<internal-link>data/scripts/parse_href.js</internal-link>"</script>
 - <inline-script>
 - 'let mql = window.matchMedia("(min-width: 800px)");'
-- 'let details = document.getElementById("menu");'
-- if(mql.matches) {
-    details.open = true;}
+- let details = document.getElementById("menu");
+- if(mql.matches) { details.open = true;}
 - for (elt of document.getElementsByClassName('javascript')) {
 - elt.style.display = "block";}</inline-script></body></html@en>

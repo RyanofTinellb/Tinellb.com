@@ -1,73 +1,73 @@
-default:
-  props:
-    font: Dubai
-    size: 18
-  block: default
 a:
-  type: anchor
   param: $lookup:external$|$text$
   props:
-    underline: true
     colour: '#0000ff'
-anchor:
+    underline: true
   type: anchor
+anchor:
   close: </a>
   props:
     colour: '#3366ff'
+  type: anchor
 arrow-left:
-  type: div
-  param: <a href="#$text$"></a>
-  start: ''
   end: ''
+  param: <a href="#$text$"></a>
   props:
     colour: '#ff00dd'
+  start: ''
+  type: div
 arrow-right:
-  type: div
-  param: <a href="#$text$"></a>
-  start: ''
   end: ''
+  param: <a href="#$text$"></a>
   props:
     colour: '#ff00dd'
+  start: ''
+  type: div
 button:
   type: complete
 checkbox:
-  open: '<input type="checkbox" id="'
-  pipe: '" name="'
   close: '">'
+  open: <input type="checkbox" id="
+  pipe: '" name="'
   props:
     background: '#ccffff'
 cite:
   props:
     italics: true
+default:
+  block: default
+  props:
+    font: Dubai
+    size: 18
 desktop:
   type: span
 em:
   props:
     italics: true
 eplist:
-  type: div
-  open: <slot class="eplist">
   close: </slot>
+  open: <slot class="eplist">
   props:
     background: '#ff9999'
+  type: div
 h2:
-  type: heading
   props:
-    size: 120
-    top: 15
     bottom: 15
     left: 50
-h2-links:
+    size: 120
+    top: 15
   type: heading
-  open: <h2>
+h2-links:
   close: </h2>
+  open: <h2>
   param: <a href="$link:lookup:external$">$node$</a>
   props:
+    background: '#ccccdd'
     font: Gadugi
     size: 120
-    underline: true
     top: 15
-    background: '#ccccdd'
+    underline: true
+  type: heading
 internal-link:
   type: link
 javascript:
@@ -75,65 +75,65 @@ javascript:
 label:
   type: block
 label-for:
+  close: </label>
   open: <label for="
   pipe: '">'
-  close: </label>
   props:
     background: '#ffccff'
 mailto:
-  type: anchor
-  open: <a href="
-  pipe: '">' 
   close: </a>
+  open: <a href="
   param: mailto:$text$|$text$
+  pipe: '">'
   props:
-    underline: true
     colour: '#339933'
+    underline: true
+  type: anchor
 message:
-  type: div
   props:
     colour: '#ff0000'
     size: 95
+  type: div
 mobile:
   type: span
 noscript:
-  type: block
   rank: 110
+  type: block
 script:
-  type: line
-  open: '<script '
   close: '></script>'
+  open: '<script '
+  type: line
 slot:
   open: <slot id="
   pipe: '">'
   props:
     colour: '#999933'
 sort-button:
-  type: line
-  open: '<button type="submit" name="sort" '
-  pipe: '>'
   close: </button>
+  open: '<button type="submit" name="sort" '
   param: id="$url(text)$" value="$url(text)$" title="$lookup:sorts$"|$node$
+  pipe: '>'
+  type: line
 sorts:
-  type: block
-  open: <form id="sorts" class="sorts">
   close: </form>
+  open: <form id="sorts" class="sorts">
   props:
     left: 25
-span:
   type: block
+span:
+  end: ''
   open: '<span '
   param: id="$text$">
-  start: ''
-  end: ''
   props:
     colour: '#339933'
     underline: true
+  start: ''
+  type: block
 template:
   type: template
 ul:
-  type: block
-  start: <li>
   end: </li>
   props:
     left: 15
+  start: <li>
+  type: block

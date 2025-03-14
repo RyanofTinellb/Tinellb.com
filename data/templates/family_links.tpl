@@ -1,2 +1,2 @@
-styles:
+styles: null
 text: {}

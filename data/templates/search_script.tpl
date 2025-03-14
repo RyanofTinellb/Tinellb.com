@@ -1,3 +1,4 @@
+styles: null
 text:
 - <script type="text/javascript">
 - let href = window.location.href;
@@ -6,4 +7,3 @@ text:
 - '    window.location.href = `<link>/search.html</link>?${{term}}`;'
 - '}'
 - </script>
-styles:

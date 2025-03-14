@@ -1,3 +1,25 @@
+styles:
+  content:
+    end: </div
+    start: <div class="content">
+  doctype:
+    end: '>'
+    start: '<!DOCTYPE '
+  flex:
+    end: </div>
+    start: <div class="flex">
+  icon:
+    end: '">'
+    start: <link rel="icon" type="image/png" href="
+  meta:
+    end: '>'
+    start: '<meta '
+  nav-pane:
+    end: </div>
+    start: <div class="nav-pane">
+  stylesheet:
+    end: '"'
+    start: <link rel="stylesheet" type="text/css" href="
 text:
 - <doctype>html</doctype>
 - <html>
@@ -28,25 +50,3 @@ text:
 - </flex>
 - </body>
 - </html>
-styles:
-  content:
-    start: <div class="content">
-    end: </div
-  doctype:
-    start: '<!DOCTYPE '
-    end: '>'
-  flex:
-    start: <div class="flex">
-    end: </div>
-  icon:
-    start: <link rel="icon" type="image/png" href="
-    end: '">'
-  meta:
-    start: '<meta '
-    end: '>'
-  nav-pane:
-    start: <div class="nav-pane">
-    end: </div>
-  stylesheet:
-    start: <link rel="stylesheet" type="text/css" href="
-    end: '"'

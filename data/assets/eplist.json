@@ -8668,7 +8668,7 @@
 {"series": "Warehouse 13", "season": 5, "ep": {"number": 2, "name": "Secret Services"}, "location": {"disc": 1, "wallet": "Big Black Box", "space": 342}, "date": "20140421"},
 {"series": "Warehouse 13", "season": 5, "location": {"disc": 1, "wallet": "Big Black Box", "space": 342}, "date": "20140428", "ep": {"number": 3, "article": "A", "name": "Faire to Remember"}},
 {"series": "Warehouse 13", "season": 5, "location": {"disc": 2, "wallet": "Big Black Box", "space": 343}, "date": "20140505", "ep": {"number": 4, "name": "Savage Seduction"}},
-{"series": "Warehouse 13", "season": 5, "location": {"disc": 2, "wallet": "Big Black Box", "space": 343}, "date": "20140512", "ep": {"number": 5, "name": "Cangku Shisi", "aka": "倉庫十四"}},
+{"series": "Warehouse 13", "season": 5, "location": {"disc": 2, "wallet": "Big Black Box", "space": 343}, "date": "20140512", "ep": {"number": 5, "name": "Cāngkù Shísì", "aka": "倉庫十四"}},
 {"series": "Warehouse 13", "season": 5, "location": {"disc": 2, "wallet": "Big Black Box", "space": 343}, "type": "Finale", "date": "20140519", "ep": {"number": 6, "name": "Endless"}},
 {"location": {"wallet": "Silver Box", "space": 56}, "type": "Film", "date": "20030922", "ep": "Welcome to the Jungle"},
 {"location": {"disc": 1, "wallet": "Big Black Box", "space": 270}, "date": "20140119", "type": "Film", "ep": "What We Do in the Shadows"},

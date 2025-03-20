@@ -174,11 +174,53 @@ nav button {
 }
 
 nav form#search {
-    margin-block-start: 1em;
+    --search-color: none;
+    margin-block: 2em;
+    margin-inline: auto;
+    display: flex;
+    width: 60%;
+    min-width: min-content;
+    justify-content: center;
+    background-color: var(--search-color);
+    border: 1px solid black;
+}
+
+nav form#search label {
+    background-color: none;
+    margin-block: auto;
+    padding-block: auto;
+    padding-inline-start: 2ch;
+    font-weight: 100;
+}
+
+nav form#search input {
+    border: none;
+    background-color: var(--search-color);
+    padding-inline-start: 2ch;
+    flex-grow: 1;
+    width: 20%;
+}
+
+nav form#search input:focus-within {
+    outline: none;
+}
+
+nav form#search button {
+    background-color: var(--search-color);
+    border: none;
+    outline: none;
+    cursor: pointer;
 }
 
 nav form#search p {
     padding-block-end: 0;
+}
+
+nav form#search svg {
+    height: 33px;
+    min-width: 24px;
+    padding: 0 7px;
+    width: 24px;
 }
 
 nav .random {
@@ -225,6 +267,12 @@ nav.main p {
     margin-block: 0;
     padding-inline-start: 15%;
     padding-right: 15%;
+}
+
+nav.main p:first-of-type {
+    font-weight: bold;
+    font-size: larger;
+    text-wrap: balance;
 }
 
 nav.mini {

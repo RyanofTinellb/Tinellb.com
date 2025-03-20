@@ -24,6 +24,7 @@ templates:
     eplist: C:\Users\Ryan\TinellbianLanguages\toplevel\data\sections\eplist.tpl
     family links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\family_links.tpl
     highlight search term: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\highlight_search_term.tpl
+    magnifying glass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying glass.tpl
     mini-nav: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\navigation arrows.tpl
     navigation pane: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\navpane.tpl
     search nav pane: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\search_navpane.tpl

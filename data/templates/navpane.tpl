@@ -1,42 +1,38 @@
 styles:
   a:
     type: anchor
-  button: {}
-  details:
-    open: <details id="menu">
+  button:
+    open: <button type="submit">
+  details#menu:
     type: block
   entry-data:
     type: data
+  form#search:
+    type: line
   input:
     type: complete
   javascript:
     type: div
   label:
     type: line
+    open: <label for="term">
   link:
     type: link
   links:
     type: div
-  nav:
-    open: <nav class="main">
+  nav|main:
     type: block
   nav-links:
     type: div
   random:
     type: div
-  search-form:
-    close: </form>
-    open: <form id="search">
-    type: block
   strong:
     props:
       bold: true
-  submit-button:
-    close: </button>
-    open: <button type="button">
-    type: inline
   summary:
     type: line
+  svg:
+    type: template
   toc:
     close: </ul>
     end: </li>
@@ -46,11 +42,10 @@ styles:
     start: <li>
     type: toc
   ul:
-    end: </li>
-    start: <li>
-    type: block
+    type: ul
+templates:
+  magnifying glass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying glass.tpl
 text:
-- <nav><details><summary>Menu</summary>
-- <a><link>index</link>|<entry-data>root</entry-data></a>
-- <javascript><search-form><input>type="text" name="term"</input>
-- <button>Search</button></search-form></javascript><nav-links><toc>aunts-siblings-heirs-lineage-children</toc></nav-links></details></nav>
+  - <nav|main><details#menu><summary>Menu</summary>
+  - <a><link>index</link>|<entry-data>root</entry-data></a>
+  - '<javascript><form#search><label>Search: </label><input>type="text" name="term"</input><button><svg>magnifying glass</svg></button></form#search></javascript><nav-links><toc>aunts-siblings-heirs-lineage-children</toc></nav-links></details#menu></nav|main>'

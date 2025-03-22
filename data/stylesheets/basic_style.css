@@ -186,7 +186,7 @@ nav form#search {
     min-width: min-content;
     justify-content: center;
     background-color: var(--search-color);
-    border: 1px solid black;
+    border: 1px solid light-dark(black, grey);
 }
 
 nav form#search label {
@@ -216,6 +216,10 @@ nav form#search button {
     cursor: pointer;
 }
 
+nav form#search button:focus {
+    --search-color: green;
+}
+
 nav form#search p {
     padding-block-end: 0;
 }
@@ -225,6 +229,7 @@ nav form#search svg {
     min-width: 24px;
     padding: 0 7px;
     width: 24px;
+    fill: light-dark(black, white)
 }
 
 nav .random {
@@ -516,16 +521,6 @@ footer .copyright {
     text-align: right;
     width: 85%;
     line-height: 1.5;
-}
-
-@media (prefers-color-scheme: dark) {
-    nav form#search {
-        border: 1px solid grey;
-    }
-
-    nav form#search svg {
-        fill: white;
-    }
 }
 
 @media screen and (max-width: 800px) {

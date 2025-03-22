@@ -3,6 +3,10 @@
     --details-lineheight: 1.5;
 }
 
+html {
+    color-scheme: light dark;
+}
+
 body {
     font-family: sans-serif;
 }
@@ -512,6 +516,30 @@ footer .copyright {
     text-align: right;
     width: 85%;
     line-height: 1.5;
+}
+
+@media (prefers-color-scheme: dark) {
+    a:link {
+        color: #59f;
+        /* light blue */
+    }
+
+    a:visited {
+        color: #85f;
+        /* light violet */
+    }
+
+    main .toc a {
+        color: white;
+    }
+
+    nav form#search {
+        border: 1px solid grey;
+    }
+
+    nav form#search svg {
+        fill: white;
+    }
 }
 
 @media screen and (max-width: 800px) {

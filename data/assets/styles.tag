@@ -1,5 +1,5 @@
 a:
-  param: $lookup:external$|$text$
+  param: $link:lookup:external$|$text$
   props:
     colour: '#0000ff'
     underline: true

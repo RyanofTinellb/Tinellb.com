@@ -412,8 +412,8 @@ main .results .title-results {
 }
 
 main .toc {
-    border-left: 2px solid purple;
-    border-bottom: 2px solid purple;
+    border-left: 2px solid light-dark(purple, mediumpurple);
+    border-bottom: 2px solid light-dark(purple, mediumpurple);
     margin-block-start: 2rem;
     margin-inline-start: 10%;
     padding-block: 2rem;

@@ -27,17 +27,17 @@ h6 {
 
 h1 a:visited,
 h1 a:link {
-    color: black;
+    color: light-dark(black, white);
     text-decoration: none;
 }
 
 a:link {
-    color: #5555FF;
+    color: light-dark(#55F, #59F);
     /* light blue */
 }
 
 a:visited {
-    color: #95A;
+    color: light-dark(#95A, #85F);
     /* light violet */
 }
 
@@ -448,7 +448,7 @@ main .toc p::before {
 }
 
 main .toc a {
-    color: black;
+    color: light-dark(black, white);
 }
 
 main .universe {
@@ -519,20 +519,6 @@ footer .copyright {
 }
 
 @media (prefers-color-scheme: dark) {
-    a:link {
-        color: #59f;
-        /* light blue */
-    }
-
-    a:visited {
-        color: #85f;
-        /* light violet */
-    }
-
-    main .toc a {
-        color: white;
-    }
-
     nav form#search {
         border: 1px solid grey;
     }

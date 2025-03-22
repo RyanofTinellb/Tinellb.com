@@ -96,6 +96,7 @@ nav.main form.sorts p {
 
 .sorts button {
     background-color: white;
+    color: black;
     height: 20px;
     width: 10em;
     display: block;
@@ -106,8 +107,8 @@ nav.main form.sorts p {
 }
 
 .sorts button.selected {
-    color: white;
-    background-color: blue;
+    color: light-dark(black);
+    background-color: light-dark(lightskyblue, blue);
 }
 
 .Premiere {

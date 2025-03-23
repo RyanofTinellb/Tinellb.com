@@ -2,7 +2,7 @@ styles:
   a:
     type: anchor
   button:
-    open: <button type="submit">
+    open: <button type="submit" aria-label="search">
   details#menu:
     type: block
   entry-data:

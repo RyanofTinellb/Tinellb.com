@@ -3,6 +3,8 @@ assets:
   source: C:\Users\Ryan\TinellbianLanguages\toplevel\data\data.src
 entries:
 - - Welcome to Tinellb!
+  - Sections
+  - Episode List
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
 links:

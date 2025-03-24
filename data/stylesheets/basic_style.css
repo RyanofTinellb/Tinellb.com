@@ -5,6 +5,7 @@
 
 html {
     color-scheme: light dark;
+    background-color: light-dark(white, #0F0E12);
 }
 
 body {

@@ -60,7 +60,7 @@ text:
 - <!doctype>html</!doctype>
 - <html@en><head><meta>name="viewport" content="width=device-width/initial-scale=1.0"</meta>
 - <meta>charset="utf-8"</meta>
-- <title>A Grammar of the Tinellbian Languages</title>
+- <title><entry-data>root</entry-data></title>
 - <link>rel="stylesheet" type="text/css" href="<internal-link>data/stylesheets/basic_style.css</internal-link>"</link>
 - <link>rel="stylesheet" type="text/css" href="<internal-link>data/stylesheets/style.css</internal-link>"</link>
 - <link>rel="icon" type="image/png" href="<internal-link>data/assets/favicon.png</internal-link>"</link>

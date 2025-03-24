@@ -1,6 +1,7 @@
 styles:
   path:
     type: complete
+    close: ' />'
   svg:
     type: line
     open: <svg viewbox="0 0 24 24" aria-label="search" alt>

@@ -54,10 +54,6 @@ abbr.glossary::after {
     font-size: smaller;
 }
 
-strong {
-    font-size: 0.95rem;
-}
-
 .flex {
     display: flex;
     flex-wrap: nowrap;
@@ -296,15 +292,16 @@ nav.mini p {
     margin-inline-start: 0;
 }
 
+main p a,
+main li a {
+    text-decoration: none;
+}
+
 main p {
     text-align: left;
     margin-block-start: 0;
     margin-block-end: 1.2rem;
     line-height: 2;
-}
-
-main p a {
-    text-decoration: none;
 }
 
 main p.example {
@@ -342,12 +339,6 @@ main tbody th {
 main td {
     padding: 2px 6px;
     text-align: center;
-}
-
-main ul,
-main ol {
-    margin-inline-start: 20%;
-    margin-block-end: 0;
 }
 
 main details {
@@ -471,11 +462,7 @@ main .wordlist {
     border-bottom: 1px solid green;
     overflow: visible;
     --folding-padding: 0;
-}
-
-main .wordlist p {
-    padding-inline-start: var(--folding-padding);
-    margin: 0;
+    list-style: none;
 }
 
 main .wordlist details p {
@@ -488,13 +475,23 @@ main .wordlist details+p {
 }
 
 main .wordlist .block {
-    margin-block-start: 0.75lh;
+    padding-inline: 0;
+    margin-block: 0.75lh;
+    list-style: none;
 }
 
-main .wordlist .block:first-child {
+main .wordlist .block li {
+    padding-inline-start: var(--folding-padding);
+    line-height: 2;
+}
+
+main .wordlist li:first-child .block {
     margin-block-start: 0;
 }
 
+main .wordlist li:last-child .block {
+    margin-block-end: 0;
+}
 
 main .wordlist-caption {
     /* margin-inline-start: 3ch; */

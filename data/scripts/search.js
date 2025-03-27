@@ -1,9 +1,17 @@
-if (window.location.href.indexOf("?term=") != -1) {
-    search();
+const TERM = document.getElementById('term');
+const SEARCH = document.getElementById('search');
+const RESULTS = document.getElementById('results');
+
+searchParams = new URLSearchParams(window.location.search);
+let terms = searchParams.get('term');
+if (terms) {
+    RESULTS.innerHTML = 'Searching...';
+    SEARCH.value = terms;
+    TERM.value = terms;
+    search(terms.split(' '));
 }
 
 function search() {
-    document.getElementById("results").innerHTML = "Searching...";
     var url = "/data/assets/searching.json";
     var xmlhttp = new XMLHttpRequest();
     // var andButton = document.getElementById("and")

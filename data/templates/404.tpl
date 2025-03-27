@@ -70,7 +70,7 @@ text:
 - <main><h1>Search – <entry-data>root</entry-data></h1>
 - <form><input>type="text" class="term" id="term" name="term" placeholder="Search..."</input>
 - <input>type="submit" class="submit" value="Search"</input></form>
-- <results>Searching...</results></main></flex>
+- <results></results></main></flex>
 - <footer><template>copyright</template></footer>
 - <script>src="/data/scripts/search.js"</script>
 - <script>src="/data/scripts/404search.js"</script>

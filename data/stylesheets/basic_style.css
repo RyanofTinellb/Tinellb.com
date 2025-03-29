@@ -174,7 +174,7 @@ nav button {
     margin: auto;
 }
 
-nav form#search {
+nav form.search {
     --search-color: none;
     margin-block: 2em;
     margin-inline: auto;
@@ -186,7 +186,7 @@ nav form#search {
     border: 1px solid light-dark(black, grey);
 }
 
-nav form#search label {
+nav form.search label {
     background-color: none;
     margin-block: auto;
     padding-block: auto;
@@ -194,7 +194,7 @@ nav form#search label {
     font-weight: 100;
 }
 
-nav form#search input {
+nav form.search input {
     border: none;
     background-color: var(--search-color);
     padding-inline-start: 2ch;
@@ -202,22 +202,22 @@ nav form#search input {
     width: 20%;
 }
 
-nav form#search input:focus-within {
+nav form.search input:focus-within {
     outline: none;
 }
 
-nav form#search button {
+nav form.search button {
     background-color: var(--search-color);
     border: none;
     outline: none;
     cursor: pointer;
 }
 
-nav form#search button:focus {
+nav form.search button:focus {
     --search-color: green;
 }
 
-nav form#search p {
+nav form.search p {
     padding-block-end: 0;
 }
 

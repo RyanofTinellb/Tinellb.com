@@ -1,28 +1,15 @@
 styles:
-  '!doctype':
-    type: complete
+  '!doctype': complete
   body:
-    end: </p>
-    start: <p>
     type: block
-  content:
-    type: div
-  data:
-    type: data
-  entry-data:
-    type: data
-  flex:
-    type: div
-  footer:
-    type: block
-  h1:
-    end: ' '
-    open: <h1>
-    param: null
-    start: ' '
-    type: heading
-  head:
-    type: block
+    sep: p
+  content: page
+  data: data
+  entry-data: data
+  flex: div
+  footer: block
+  h1: heading
+  head: block
   html:
     language: true
     type: block
@@ -30,35 +17,26 @@ styles:
     close: </script>
     open: <script>
     type: line
-  input:
-    type: complete
-  internal-link:
-    type: link
-  javascript:
-    type: line
-  link:
-    type: complete
-  main:
-    type: block
-  main-page:
-    type: div
-  meta:
-    type: complete
+  input: complete
+  internal-link: link
+  javascript: line
+  link: complete
+  main: block
+  main-page: div
+  meta: complete
   script:
     close: '></script>'
     type: complete
   table-of-contents:
-    close: </div>
-    end: </p>
     open: <div class="toc">
+    close: </div>
+    sep: p
     param: <a href="$link$">$name$</a>
-    start: <p>
     type: toc
   template:
     rank: -50
     type: template
-  title:
-    type: line
+  title: line
 text:
 - <!doctype>html</!doctype>
 - <html@en><head><meta>name="viewport" content="width=device-width/initial-scale=1.0"</meta>
@@ -69,8 +47,7 @@ text:
 - <link>rel="icon" type="image/png" href="<internal-link>data/assets/favicon.png</internal-link>"</link>
 - <script>src="<internal-link>data/scripts/search.js</internal-link>"</script></head>
 - <body><flex><template>navigation pane</template>
-- <main-page><template>mini-nav</template><main><h1><data>name</data></h1>
-- <data>contents</data><table-of-contents>children</table-of-contents></main>
+- <main-page><template>mini-nav</template><main><content>here</content></main>
 - <template>mini-nav</template></main-page></flex>
 - <footer><template>copyright</template></footer>
 - <script>src="<internal-link>data/scripts/parse_href.js</internal-link>"</script>

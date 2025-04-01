@@ -221,7 +221,7 @@ nav form.search p {
     padding-block-end: 0;
 }
 
-nav form#search svg {
+nav form.search svg {
     height: 33px;
     min-width: 24px;
     padding: 0 7px;

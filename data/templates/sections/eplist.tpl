@@ -4785,7 +4785,7 @@ text:
 - The Simpsons (10x01:1G) Lard of the Dance
 - The Simpsons (10x02:1G) The Wizard of Evergreen Terrace
 - The Simpsons (10x03:1G) Bart the Mother
-- The Simpsons (10x04:1G) Treehouse of Horror IX - Hell Toup?e / The Terror of Tiny Toon / Starship Poopers
+- The Simpsons (10x04:1G) Treehouse of Horror IX - Hell Toupé / The Terror of Tiny Toon / Starship Poopers
 - The Simpsons (10x05:1G) When You Dish Upon a Star
 - The Simpsons (10x06:1G) D’oh-in’ in the Wind
 - The Simpsons (10x07:2G) Lisa Gets an ?A?

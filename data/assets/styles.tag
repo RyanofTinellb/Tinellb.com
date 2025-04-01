@@ -23,8 +23,7 @@ arrow-right:
     colour: '#ff00dd'
   start: ''
   type: div
-button:
-  type: complete
+button: complete
 checkbox:
   close: '">'
   open: <input type="checkbox" id="
@@ -39,8 +38,7 @@ default:
   props:
     font: Dubai
     size: 18
-desktop:
-  type: span
+desktop: span
 em:
   props:
     italics: true
@@ -68,12 +66,9 @@ h2-links:
     top: 15
     underline: true
   type: heading
-internal-link:
-  type: link
-javascript:
-  type: div
-label:
-  type: block
+internal-link: link
+javascript: div
+label: block
 label-for:
   close: </label>
   open: <label for="
@@ -94,8 +89,7 @@ message:
     colour: '#ff0000'
     size: 95
   type: div
-mobile:
-  type: span
+mobile: span
 noscript:
   rank: 110
   type: block
@@ -129,8 +123,7 @@ span:
     underline: true
   start: ''
   type: block
-template:
-  type: template
+template: template
 ul:
   end: </li>
   props:

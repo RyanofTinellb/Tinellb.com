@@ -48,6 +48,15 @@ eplist:
   props:
     background: '#ff9999'
   type: div
+h1:
+  type: heading
+  keys:
+    'on': 1
+    'off': Return
+  props:
+    bold: true
+    underline: true
+    size: 150
 h2:
   props:
     bottom: 15

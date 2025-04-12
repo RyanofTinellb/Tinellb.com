@@ -1,7 +1,8 @@
 styles:
   data: data
   h1: heading
-  table-of-contents: toc
+  toc: toc
+title:
+- <data>entry-title</data>
 text:
-- <h1><data>name</data></h1>
-- <data>contents</data><table-of-contents>children</table-of-contents>
+- <data>contents</data><toc>children</toc>

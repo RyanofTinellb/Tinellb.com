@@ -3,12 +3,9 @@ styles:
   body:
     type: block
     sep: p
-  content: page
   data: data
-  entry-data: data
   flex: div
   footer: block
-  h1: heading
   head: block
   html:
     language: true
@@ -22,33 +19,25 @@ styles:
   javascript: line
   link: complete
   main: block
-  main-page: div
   meta: complete
+  primary: div
   script:
     close: '></script>'
     type: complete
-  table-of-contents:
-    open: <div class="toc">
-    close: </div>
-    sep: p
-    param: <a href="$link$">$name$</a>
-    type: toc
-  template:
-    rank: -50
-    type: template
-  title: line
+  template: template
+  title: block
 text:
 - <!doctype>html</!doctype>
 - <html@en><head><meta>name="viewport" content="width=device-width/initial-scale=1.0"</meta>
 - <meta>charset="utf-8"</meta>
-- <title><entry-data>name</entry-data></title>
+- <title><data>title</data></title>
 - <link>rel="stylesheet" type="text/css" href="<internal-link>data/stylesheets/basic_style.css</internal-link>"</link>
 - <link>rel="stylesheet" type="text/css" href="<internal-link>data/stylesheets/style.css</internal-link>"</link>
 - <link>rel="icon" type="image/png" href="<internal-link>data/assets/favicon.png</internal-link>"</link>
 - <script>src="<internal-link>data/scripts/search.js</internal-link>"</script></head>
 - <body><flex><template>navigation pane</template>
-- <main-page><template>mini-nav</template><main><content>here</content></main>
-- <template>mini-nav</template></main-page></flex>
+- <primary><template>mini-nav</template><main><template>main</template><template>jump to entry</template></main>
+- <template>mini-nav</template></primary></flex>
 - <footer><template>copyright</template></footer>
 - <script>src="<internal-link>data/scripts/parse_href.js</internal-link>"</script>
 - <script>src="<internal-link>data/scripts/localise_links.js</internal-link>"</script>

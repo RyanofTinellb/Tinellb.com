@@ -4,6 +4,8 @@ styles:
   h1: heading
   input: complete
   results#results: div
+title:
+- Search – <data>root</data>
 text:
 - <h1>Search – <data>root</data></h1>
 - <form|searchpage><input>type="text" class="term" id="term" name="term" placeholder="Search..."</input>

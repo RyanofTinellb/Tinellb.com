@@ -2,6 +2,8 @@ styles:
   data: data
   h1: heading
   repeat: repeat
+title:
+- <data>root</data>
 text:
-- <repeat><h1><data>name</data></h1>
-- <data>contents</data></repeat>
+- <h1><data>root</data></h1>
+- <repeat><data>contents</data></repeat>

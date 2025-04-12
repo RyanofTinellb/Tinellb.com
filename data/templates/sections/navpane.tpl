@@ -13,24 +13,26 @@ styles:
     type: line
   link: link
   links: div
+  nav|sidebar: block
   nav-links: div
-  nav|main: block
   random: div
   strong: {}
   summary: line
   svg: template
+  template: template
   toc:
-    close: </ul>
-    end: </li>
     open: <ul>
+    close: </ul>
+    start: <li>
+    end: </li>
     param: <a href="$link$">$name$</a>
     pipe: '">'
-    start: <li>
     type: toc
   ul: ul
 templates:
   magnifying glass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying glass.tpl
 text:
-- <nav|main><details#menu><summary>Menu</summary>
+- <nav|sidebar><details#menu><summary>Menu</summary>
 - <a><link>index</link>|<entry-data>root</entry-data></a>
-- '<javascript><form|search><label>search|Search: </label><input>type="text" name="term" id="search"</input><button><svg>magnifying glass</svg></button></form|search></javascript><nav-links><toc>aunts-siblings-heirs-lineage-children</toc></nav-links></details#menu></nav|main>'
+- '<javascript><form|search><label>search|Search: </label><input>type="text" name="query" id="search"</input><button><svg>magnifying glass</svg></button></form|search></javascript>'
+- '<nav-links><toc>aunts-siblings-heirs-lineage-children</toc><template>random entry</template></nav-links></details#menu></nav|main>'

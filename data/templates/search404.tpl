@@ -4,6 +4,8 @@ styles:
   h1: heading
   input: complete
   results#results: div
+title:
+- Page Not Found – <data>root</data>
 text:
 - <h1>Search – <data>root</data></h1>
 - <form|searchpage><input>type="text" class="term" id="term" name="term" placeholder="Search..."</input>

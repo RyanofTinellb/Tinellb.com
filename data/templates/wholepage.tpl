@@ -5,5 +5,4 @@ styles:
 title:
 - <data>root</data>
 text:
-- <h1><data>root</data></h1>
 - <repeat><data>contents</data></repeat>

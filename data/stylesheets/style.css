@@ -82,7 +82,7 @@ main ul {
     border-top: 20px solid #95A;
 }
 
-nav.main form.sorts p {
+nav.sidebar form.sorts p {
     margin-inline-start: 15%;
     line-height: 1.6;
     text-align: left;

@@ -14,6 +14,7 @@ entries:
               date: '2024-05-21'
               position: '27.110'
               text:
+              - <h1>About</h1>
               - Questions, comments, suggestions? Why not send me an email at <mailto>ryanoftinellb@gmail.com</mailto>?
               - <h2>Who</h2>
               - My name is Ryan Eakins. From a young age, my parents instilled in me an enjoyment of letters, numbers and computers. With the help of some very supportive teachers, that enjoyment blossomed throughout my education, culminating in two degrees from Monash University. While I had started in a double degree (BA / BSc), I ended up finishing them each separately.
@@ -41,10 +42,12 @@ entries:
               - <h2>How</h2>
               - This site is hosted at GitHub Pages, with the associated repositories held at <a>GitHub</a>.
               - I write most of this site in a personal markdown, and I created my own markdown translation program in Python.
+              title: About
             Detsora’s Diary:
-              date: '2024-05-23'
-              position: '16.4'
+              date: '2025-04-12'
+              position: '11.719'
               text:
+              - <h1>Detsora’s Diary</h1>
               - The classroom was quiet, the only sound the scratching of styli across slate and the soft sussurus of cloth as the teacher circulated the room.
               - A shadow appeared above Detsora’s work, followed by a finger seemingly from the sky.
               - “What is this scribble here?” said the owner of the finger.
@@ -57,10 +60,12 @@ entries:
               - <em>“I swear to uphold the traditions of this town, and to assist the administrators whenever I am required.”</em> Just a few years ago, her grandparents had taken her to the annual harvest bonfire festival. Being related to the mayor had its advantages. Detsora had been the first one that year to be allowed to place her wishing scroll among the flames. The embers had risen to join the newly visible stars as dusk fell, carrying her wish with them. It had come true, too, although she was never quite able to believe it. If she’d known what was to happen, though, she wouldn’t have wasted that wish. Her grandparents were displayed for two whole days,  so that the townspeople would know the penalty for defying the invaders.
               - <em>“I swear to remain true as a citizen of this town, this country, this world.”</em> Remain true. As easy as that. Remain true to what, though? Her mother had taught her about remaining true. She recalled the unshed tears in her mother’s eyes as she was taken away from their home and brought to this school. Her mother had remained true to the lost ways and the lost people, and had been lost, too. Remain true…
               - …to herself. She was the only one left, now. Who else was there to be true to? With a single motion, she erased her slate and began again. With shaking hands, she formed the glyphs for her <em>real</em> name, D‑E‑T‑S‑O‑R‑A.
+              title: Detsora’s Diary
             Episode List:
               date: '2025-03-25'
               position: '12.61'
               text:
+              - <h1>Episodes of Stuff I’ve Got</h1>
               - <span>top</span>
               - This list contains every film and television episode I own on physical media. I have neither cable television nor a subscription to a streaming service, but I do have <slot>numEps|over six years</slot> of normal viewing here.
               - <message>Idiosyncratic, and often arbitrary, decisions abound here. I categorised films the way I felt like. Sorting by episode names ignores articles, as you might expect, but also ignores most anything that would otherwise result in too large a batch of the same series appearing together. For instance, check episodes of <cite>Scrubs</cite> or <cite>Day Break</cite>, or <cite>Simpsons</cite> episodes with character names in the title.</message>
@@ -97,11 +102,14 @@ entries:
               - <arrow-right>bottom</arrow-right>
               - <span>bottom</span>
               - <script>src="<internal-link>data/scripts/eplist.js</internal-link>"</script>
+              title: Episode List
           date: null
           text: []
+          title: ''
       date: '2025-03-23'
       position: '10.0'
       text:
+      - <h1>Welcome to Tinellb!</h1>
       - Tinellb is a fictional universe. This site seeks to chronicle everything known about this realm and the guozu who live there.
       - <h2-links><cite>The Coelacanth Quartet</cite></h2-links>
       - A novel in four parts, detailing the adventures of Corla in her attempt to get home.
@@ -111,3 +119,4 @@ entries:
       - Pronunciations, spellings, etymologies and usage notes for over 1000 vocabulary items, and growing.
       - <h2-links>Tinellbian Encyclopedia</h2-links>
       - An exploration of the universe of Tinellb.
+      title: Welcome to Tinellb!

@@ -1,31 +1,33 @@
 assets:
-  searchindex: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\searching.json
-  source: C:\Users\Ryan\TinellbianLanguages\toplevel\data\data.src
+  searchindex: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\searching.json
+  source: c:\users\ryan\tinellbianlanguages\toplevel\data\data.src
 entries:
 - - Welcome to Tinellb!
   - Sections
   - Detsora’s Diary
-files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
-languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
+files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
+languages: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\languages.yml
 links:
-  external: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\external.glk
-  sorts: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\sorts.glk
+  external: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\external.glk
+  sorts: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\sorts.glk
 locations:
   directory: c:\users\ryan\tinellbianlanguages\toplevel
-  page404: C:\Users\Ryan\TinellbianLanguages\toplevel\404.html
-  search: C:\Users\Ryan\TinellbianLanguages\toplevel\special\search.html
-  wholepage: C:\Users\Ryan\TinellbianLanguages\toplevel\special\wholepage.html
+  page404: c:\users\ryan\tinellbianlanguages\toplevel\404.html
+  search: c:\users\ryan\tinellbianlanguages\toplevel\special\search.html
+  wholepage: c:\users\ryan\tinellbianlanguages\toplevel\special\wholepage.html
 port: 40460
 styles: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\styles.tag
 templates:
-  entry: c:\users\ryan\tinellbianlanguages\top!level\data\templates\entry.tpl
+  entry: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\entry.tpl
   main: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\page.tpl
-  page404: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\page.tpl
-  search: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\page.tpl
   sections:
-    copyright: c:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\sections\copyright.tpl
-    eplist: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\sections\eplist.tpl
+    copyright: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\copyright.tpl
+    eplist: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\eplist.tpl
     magnifying glass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying glass.tpl
-    mini-nav: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\sections\navigation arrows.tpl
-    navigation pane: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\sections\navpane.tpl
-  wholepage: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\wholepage.tpl
+    magnifyingglass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying glass.tpl
+    mini-nav: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\navigation arrows.tpl
+    navigationpane: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\navpane.tpl
+  special:
+    page404: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\search404.tpl
+    search: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\search.tpl
+    wholepage: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\wholepage.tpl

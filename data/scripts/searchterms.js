@@ -14,7 +14,7 @@ function display(arr, id) {
         `<ol>${entries.sort().map(
                 entry => `${entry[0]} ${
                     Object.keys(entry[1]).map(
-                        page => `<a href="${urls[page]}">${page}</a>`
+                        page => `<a href="/${urls[page]}">${page}</a>`
                     ).join(', ')
                 }`
             ).join('<br>')}</ol>`;

@@ -61,7 +61,7 @@ abbr.glossary::after {
     /* width: 95%;              Removing for now, because I think it's not needed   */
 }
 
-.main-page {
+.primary {
     width: min(95%, 90ch);
     margin-inline-end: max(5ch, 5%);
 }
@@ -233,49 +233,49 @@ nav .random {
     text-align: center;
 }
 
-nav.main {
+nav.sidebar {
     width: max(25%, 200px);
     margin-block-start: 2rem;
     text-align: center;
 }
 
-nav.main details summary {
+nav.sidebar details summary {
     list-style-type: "☰ ";
 }
 
 /* nav .javascript {    text-align: left;} */
-nav.main details[open] summary {
+nav.sidebar details[open] summary {
     list-style-type: '✖ ';
     margin-block-end: 2em;
 }
 
-nav.main .nav-links {
+nav.sidebar .nav-links {
     margin-inline: auto;
     width: fit-content;
     text-align: left;
     line-height: 1.7;
 }
 
-nav.main ul {
+nav.sidebar ul {
     list-style-type: none;
     list-style-position: inside;
     padding: 0;
     line-height: 1.9;
 }
 
-nav.main ul ul {
-    margin-inline-start: 4ch;
+nav.sidebar ul ul {
+    margin-inline-start: 2ch;
     text-align: left;
 }
 
-nav.main p {
+nav.sidebar p {
     font-family: sans-serif;
     margin-block: 0;
     padding-inline-start: 15%;
     padding-right: 15%;
 }
 
-nav.main p:first-of-type {
+nav.sidebar p:first-of-type {
     font-weight: bold;
     font-size: larger;
     text-wrap: balance;
@@ -521,6 +521,10 @@ footer .copyright {
     line-height: 1.5;
 }
 
+footer .copyright p {
+    display: inline;
+}
+
 @media screen and (max-width: 800px) {
     input#wordsearch {
         width: 80%;
@@ -532,7 +536,7 @@ footer .copyright {
         flex-direction: column;
     }
 
-    .main-page {
+    .primary {
         width: 100%;
     }
 
@@ -555,7 +559,7 @@ footer .copyright {
         margin-inline-end: auto;
     }
 
-    nav.main {
+    nav.sidebar {
         width: 100%;
     }
 

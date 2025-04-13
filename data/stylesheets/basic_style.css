@@ -408,6 +408,10 @@ main .results .title-results {
     padding-block-start: 1em;
 }
 
+main .searchbox {
+    margin-block-start: 2lh;
+}
+
 main .toc {
     border-left: 2px solid light-dark(purple, mediumpurple);
     border-bottom: 2px solid light-dark(purple, mediumpurple);

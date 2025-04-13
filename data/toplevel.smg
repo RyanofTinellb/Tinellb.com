@@ -21,11 +21,12 @@ templates:
   entry: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\entry.tpl
   main: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\page.tpl
   sections:
+    basesearch: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\base_search.tpl
     copyright: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\copyright.tpl
     eplist: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\eplist.tpl
     magnifying glass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying glass.tpl
-    magnifyingglass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying glass.tpl
-    mini-nav: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\navigation arrows.tpl
+    magnifyingglass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying_glass.tpl
+    mini-nav: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\navigation_arrows.tpl
     navigationpane: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\navpane.tpl
   special:
     page404: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\search404.tpl

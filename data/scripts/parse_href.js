@@ -1,35 +1,22 @@
-searchParams = new URLSearchParams(window.location.search);
-let firsttime = true
-let bolden;
+let searchParams = new URLSearchParams(window.location.search);
 
-function circle(_match, p1, p2, p3) {
-    id = firsttime ? ' id="highlight"' : '';
-    firsttime = false;
-    return `${p1}<span${id} class="highlight">${p2}</span>${p3}`
-}
+const mapString = (str, fn) =>
+    str.split('')
+        .map((c, i) => fn(c, i, str))
+        .join('');
 
-function bold(elt, details_flag) {
-    if (!elt.childElementCount) {
-        if (details_flag && elt.tagName != 'SUMMARY') return;
-        if (elt.tagName == 'DETAILS') details_flag = true;
-        elt.innerHTML = elt.innerHTML.replace(bolden, circle);
-        return;
-    }
-    Array.from(elt.children).forEach(child => bold(child, details_flag));
-}
+// Changes space to period, and adds dollar-signs before capitals
+const sellLetterCaps = letter =>
+    letter == letter.toLowerCase() ? 
+    letter == ' ' ? '.' : letter : `$${letter.toLowerCase()}`
 
-let highlight = searchParams.get('highlight');
-if (highlight) {
-    let h1 = document.getElementsByTagName('h1')[0];
-    h1.innerHTML += ' <a href="#highlight">→</a>'
-    let main = document.getElementsByTagName('main')[0];
-    bolden = RegExp('(\\W|^)(' + `${highlight}` + ')(\\W|$)', 'ig');
-    bold(main);
+function sellCaps(text) {
+    return mapString(text, sellLetterCaps);
 }
 
 let term = searchParams.get('term')
 if (term) {
-    window.location.href = `/special/search.html?term=${term}`;
+    window.location.href = `/special/search.html?query=${term}`;
 }
 let word = searchParams.get('word')
 if (word) {

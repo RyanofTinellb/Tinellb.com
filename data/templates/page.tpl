@@ -34,12 +34,12 @@ text:
 - <link>rel="stylesheet" type="text/css" href="<internal-link>data/stylesheets/basic_style.css</internal-link>"</link>
 - <link>rel="stylesheet" type="text/css" href="<internal-link>data/stylesheets/style.css</internal-link>"</link>
 - <link>rel="icon" type="image/png" href="<internal-link>data/assets/favicon.png</internal-link>"</link>
-- <script>src="<internal-link>data/scripts/search.js</internal-link>"</script></head>
+- <script>src="<internal-link>data/scripts/parse_href.js</internal-link>"</script></head>
 - <body><flex><template>navigation pane</template>
 - <primary><template>mini-nav</template><main><template>main</template><template>jump to entry</template></main>
 - <template>mini-nav</template></primary></flex>
 - <footer><template>copyright</template></footer>
-- <script>src="<internal-link>data/scripts/parse_href.js</internal-link>"</script>
+- <script>src="<internal-link>data/scripts/search.js</internal-link>"</script>
 - <script>src="<internal-link>data/scripts/localise_links.js</internal-link>"</script>
 - <inline-script>
 - 'let mql = window.matchMedia("(min-width: 800px)");'

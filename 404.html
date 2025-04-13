@@ -6,10 +6,12 @@
 <link rel="stylesheet" type="text/css" href="/data/stylesheets/basic_style.css">
 <link rel="stylesheet" type="text/css" href="/data/stylesheets/style.css">
 <link rel="icon" type="image/png" href="/data/assets/favicon.png">
-<script src="/data/scripts/search.js"></script></head>
+<script src="/data/scripts/parse_href.js"></script></head>
 <body><div class="flex"><nav class="sidebar"><details id="menu"><summary>Menu</summary>
 <p><a href="/index.html">Welcome to Tinellb!</a></p>
-<div class="javascript"><form class="search"><label for="search">Search: </label><input type="text" name="query" id="search"><button type="submit" aria-label="search"><svg viewbox="0 0 24 24" aria-label="search" alt><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z" />
+<div class="javascript"><form class="search"><label for="search">Search: </label>
+<input type="text" class="search" name="term" id="search">
+<button type="submit" aria-label="search"><svg viewbox="0 0 24 24" aria-label="search" alt><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z" />
 <path d="M0 0h24v24H0z" fill="none" /></svg>
 </button></form></div>
 <div class="nav-links"><ul><li><a href="/sections/detsora’sdiary.html">Detsora’s Diary</a></li><li><a href="/sections/about.html">About</a></li><li><a href="/sections/episodelist.html">Episode List</a></li></ul></div></details></nav>
@@ -17,9 +19,11 @@
 <div class="primary"><nav class="mini"><p><a href="http://www.tinellb.com">↑ Back to Main</a></p>
 <p><a href="/sections/detsora’sdiary.html">Next Page →</a></p></nav>
 <main><h1 id="search–root">Search – Welcome to Tinellb!</h1>
-<form class="searchpage"><p><input type="text" class="term" id="term" name="term" placeholder="Search..."></p>
-<p><input type="submit" class="submit" value="Search"></p></form>
+<form class="searchpage"><label for="searchbox">Run Advanced Search: </label>
+<input type="text" class="searchbox" id="searchbox" name="term" placeholder="Search...">
+<input type="submit" class="submit" value="Search"></form>
 <div class="results" id="results"><p>Searching...</p></div>
+
 </main>
 <nav class="mini"><p><a href="http://www.tinellb.com">↑ Back to Main</a></p>
 <p><a href="/sections/detsora’sdiary.html">Next Page →</a></p></nav>
@@ -27,7 +31,7 @@
 <footer><div class="copyright"><p>&copy;2017-2025 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</p>
 <p>Last updated: Sunday, March 23rd, 2025</p></div>
 </footer>
-<p><script src="/data/scripts/parse_href.js"></script></p>
+<p><script src="/data/scripts/search.js"></script></p>
 <p><script src="/data/scripts/localise_links.js"></script></p>
 <script>
 let mql = window.matchMedia("(min-width: 800px)");

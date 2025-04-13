@@ -1,57 +1,38 @@
-const TERM = document.getElementById('term');
+const SEARCHBOX = document.getElementById('searchbox');
 const SEARCH = document.getElementById('search');
-const RESULTS = document.getElementById('results');
+const WORDSEARCH = document.getElementById('wordsearch');
+const RESULTS = document.getElementById('results')
 
-searchParams = new URLSearchParams(window.location.search);
-let terms = searchParams.get('term');
-if (terms) {
+const len = arr => arr.length;
+
+if (RESULTS) {
     RESULTS.innerHTML = 'Searching...';
-    SEARCH.value = terms;
-    TERM.value = terms;
-    search(terms.split(' '));
+    let query = decodeURI(getTerms());
+    if (SEARCHBOX) SEARCHBOX.value = query;
+    if (SEARCH) SEARCH.value = query;
+    search(query.split(' '));
 }
 
-function search() {
-    var url = "/data/assets/searching.json";
-    var xmlhttp = new XMLHttpRequest();
-    // var andButton = document.getElementById("and")
-    xmlhttp.onreadystatechange = function() {
-        if (this.readyState == 4 && this.status == 200) {
-            let text = JSON.parse(this.responseText);
-            let terms = getTerms();
-            if (!terms.length) {
-                arr = [];
-            } else if (terms.length == 1) {
-                arr = oneTermSearch(text, terms);
-            } else {
-                arr = multiTermSearch(text, terms, true);
-            }
-            display(arr, text, "results", terms, true);
-        }
-    };
-    xmlhttp.open("GET", url, true);
-    xmlhttp.send();
-}
-
-// returns array of terms
 function getTerms() {
-    var andOr;
-    var url;
-    var searchString;
-    var text;
-    url = window.location.href.split('?');
-    searchString = decodeURI(url[1]).split("&");
-    try {
-        andOr = searchString.split("=")[1];
-    } catch (err) {
-        andOr = "and"
+    let query = searchParams.get('query');
+    if (query) return query;
+    let url = window.location.pathname.split('/');
+    if (url[len(url) - 1] == 'index.html') return url[len(url) - 2]
+    return url[len(url) - 1].replace('.html', '')
+}
+
+
+async function search(terms) {
+    let data = await fetch("/data/assets/searching.json");
+    data = await data.json();
+    if (!terms.length) {
+        arr = [];
+    } else if (terms.length == 1) {
+        arr = oneTermSearch(data, terms);
+    } else {
+        arr = multiTermSearch(data, terms, true);
     }
-    if (andOr == "or") {
-        document.getElementById("or").checked = true
-    }
-    text = searchString[0].split("=")[1].toLowerCase();
-    document.getElementById("term").value = text.split("+").join(" ");
-    return text.split("+").filter(i => i != "");
+    display(arr, data, "results", terms, true);
 }
 
 function unique(arr) {
@@ -78,7 +59,7 @@ function multiTermSearch(arr, terms, andButton) {
             current.count++;
         } else {
             if (current) { output.push(current); }
-            current = {page: page.page, lines: page.lines, count: 1};
+            current = { page: page.page, lines: page.lines, count: 1 };
         }
     }
     output = uniquePageNumbers(output);
@@ -133,18 +114,16 @@ function titleSearch(arr, terms, andButton) {
 
 function display(pages, data, id, terms, andButton) {
     let regexes = terms.map(term =>
-            RegExp(`(${term}|${capitalise(term)})`, 'g'));
-    document.getElementById(id).innerHTML = `${titleSearch(data, terms, andButton)}${
-    !arr.length ? terms.join(' ') + " not found" :
-         `<ol>${pages.map(page => {
+        RegExp(`(${term}|${capitalise(term)})`, 'g'));
+    document.getElementById(id).innerHTML = `${titleSearch(data, terms, andButton)}${!arr.length ? terms.join(' ') + " not found" :
+        `<ol>${pages.map(page => {
             let pagenum = page.page;
             let link = data.urls[pagenum] + "?highlight=" + terms.join("+");
             let name = data.pages[pagenum];
             let lines = page.lines.map(
                 linenum => embolden(regexes, data.lines[linenum]));
-            return `<li><a href="../${link}">${name}</a>: ${
-                lines.join(' &hellip; ')}</li>`;
-    }).join('')}</ol>`}`;
+            return `<li><a href="../${link}">${name}</a>: ${lines.join(' &hellip; ')}</li>`;
+        }).join('')}</ol>`}`;
 }
 
 function embolden(terms, line) {
@@ -152,4 +131,33 @@ function embolden(terms, line) {
         line = line.replace(term, '<b>$1</b>');
     });
     return line;
+}
+
+let firsttime = true
+let bolden;
+
+function circle(_match, p1, p2, p3) {
+    id = firsttime ? ' id="highlight"' : '';
+    firsttime = false;
+    return `${p1}<span${id} class="highlight">${p2}</span>${p3}`
+}
+
+function bold(elt, details_flag) {
+    if (!elt.childElementCount) {
+        if (details_flag && elt.tagName != 'SUMMARY') return;
+        if (elt.tagName == 'DETAILS') details_flag = true;
+        elt.innerHTML = elt.innerHTML.replace(bolden, circle);
+        return;
+    }
+    Array.from(elt.children).forEach(child => bold(child, details_flag));
+}
+
+
+let highlight = searchParams.get('highlight');
+if (highlight) {
+    let h1 = document.getElementsByTagName('h1')[0];
+    h1.innerHTML += ' <a href="#highlight">→</a>'
+    let main = document.getElementsByTagName('main')[0];
+    bolden = RegExp('(\\W|^)(' + `${highlight}` + ')(\\W|$)', 'ig');
+    bold(main);
 }

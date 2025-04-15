@@ -21,7 +21,7 @@ main h2 a {
 }
 
 main li {
-    line-height: 1.5em;
+    line-height: 1.5;
     text-indent: 1em;
     padding-block-end: 0.5em;
 }
@@ -82,11 +82,18 @@ main ul {
     border-top: 20px solid #95A;
 }
 
-nav.sidebar form.sorts p {
-    margin-inline-start: 15%;
-    line-height: 1.6;
-    text-align: left;
-    padding-block: auto;
+nav.sidebar form.sorts {
+    p {
+        margin-inline-start: 15%;
+        line-height: 1.6;
+        text-align: left;
+        padding-block: auto;
+        font-weight: normal;
+
+        label {
+            padding-inline-start: 0.2rem;
+        }
+    }
 }
 
 .sorts p:first-of-type,

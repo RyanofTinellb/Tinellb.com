@@ -1,6 +1,6 @@
 :root {
-    --folding-padding: 10%;
-    --details-lineheight: 1.5;
+    --wordlist-sep: 0.8lh;
+    --default-left: 2lh;
 }
 
 html {
@@ -275,7 +275,7 @@ nav.sidebar p {
     padding-right: 15%;
 }
 
-nav.sidebar p:first-of-type {
+nav.sidebar details > p:first-of-type {
     font-weight: bold;
     font-size: larger;
     text-wrap: balance;
@@ -299,8 +299,6 @@ main li a {
 
 main p {
     text-align: left;
-    margin-block-start: 0;
-    margin-block-end: 1.2rem;
     line-height: 2;
 }
 
@@ -339,37 +337,6 @@ main tbody th {
 main td {
     padding: 2px 6px;
     text-align: center;
-}
-
-main details {
-    padding-inline-start: var(--folding-padding);
-    cursor: pointer;
-}
-
-main details:first-child {
-    padding-block-start: 0.4lh;
-}
-
-main details:not(:first-child) {
-    padding-block-start: 0.8lh;
-}
-
-main details p {
-    padding-inline-start: 0;
-    margin-inline-start: 1.5ch;
-    margin-block: 0lh;
-    line-height: var(--details-lineheight);
-}
-
-main details+p {
-    padding-inline-start: calc(var(--folding-padding) + 1.5ch);
-    margin-block-start: 0;
-    line-height: var(--details-lineheight);
-}
-
-main summary {
-    padding-block-start: 0.2rem;
-    line-height: var(--details-lineheight);
 }
 
 main textarea {
@@ -467,45 +434,112 @@ main .universe {
     font-family: serif;
 }
 
+main details {
+    cursor: pointer;
+
+    p,
+    +p,
+    li,
+    +li {
+        line-height: 1.5;
+        margin-block: 0;
+    }
+
+    summary {
+        margin-inline-start: -1.5ch;
+    }
+}
+
+
 main .wordlist {
-    margin-inline: 20% 15%;
-    margin-block: 2lh 2.5lh;
+    margin-inline: 0% 15%;
+    margin-block: var(--default-left) 2.5lh;
     padding-block: 0.5lh 1lh;
-    padding-inline-start: 4ch;
+    padding-inline-start: 10%;
     border-left: 1px solid green;
     border-bottom: 1px solid green;
     overflow: visible;
     --folding-padding: 0;
     list-style: none;
+
+    >li,
+    >ul {
+        margin-block: var(--wordlist-sep);
+
+        &:first-child {
+            margin-block-start: 0;
+        }
+
+        &:last-child {
+            margin-block-end: 0;
+        }
+    }
+
+    >details {
+        margin-block-start: var(--wordlist-sep);
+
+        &:first-child {
+            margin-block-start: 0;
+        }
+
+        &:last-child {
+            margin-block-end: 0;
+        }
+
+    }
+
+    >li {
+        &:first-child .block {
+            margin-block-start: 0;
+        }
+
+        &:last-child .block {
+            margin-block-end: 0;
+        }
+
+        .block {
+            padding-inline: 0;
+            margin-block: calc(2.5 *var(--wordlist-sep));
+
+            >li,
+            >ul {
+                margin-block: var(--wordlist-sep);
+
+                &:first-child {
+                    margin-block-start: 0;
+                }
+
+                &:last-child {
+                    margin-block-end: 0;
+                }
+
+            }
+        }
+
+        >details {
+            margin-block-start: var(--wordlist-sep);
+
+            &:first-child {
+                margin-block-start: 0;
+            }
+
+            &:last-child {
+                margin-block-end: 0;
+            }
+        }
+    }
+
+    ul {
+        list-style: none;
+    }
+
+    .block details+li,
+    details li,
+    details+li {
+        margin-block: 0;
+    }
 }
 
-main .wordlist details p {
-    margin-inline-start: 1.5ch;
-}
-
-main .wordlist details+p {
-    margin-inline-start: 1.5ch;
-    margin-block: 0;
-}
-
-main .wordlist .block {
-    padding-inline: 0;
-    margin-block: 0.75lh;
-    list-style: none;
-}
-
-main .wordlist .block li {
-    padding-inline-start: var(--folding-padding);
-    line-height: 2;
-}
-
-main .wordlist li:first-child .block {
-    margin-block-start: 0;
-}
-
-main .wordlist li:last-child .block {
-    margin-block-end: 0;
-}
 
 main .wordlist-caption {
     /* margin-inline-start: 3ch; */

@@ -34,7 +34,7 @@ openEpList();
 
 function appendControlsToNavPane() {
     let sorts = document.getElementById('sorts');
-    let navMenu = document.getElementsByClassName('main')[0].children[0];
+    let navMenu = document.getElementById('menu');
     navMenu.innerHTML += sorts.outerHTML;
     sorts.innerHTML = '';
 }
@@ -88,18 +88,15 @@ customSelection = items => ep => items.includes(ep.type);
 async function openEpList() {
     searchParams = new URLSearchParams(window.location.search)
     let series = searchParams.get('series') == 'on';
-    console.log(showSeriesName, series);
     showSeriesName.checked = series;
     let sortType = searchParams.get('sort');
     sortType = ALLOWED_SORTS.includes(sortType) ? SORTS[sortType] : DefaultSort
     let displayedItems = ALLOWED_TYPES.map(type => searchParams.get(type) == 'on' ? TYPES[type] : false)
         .filter(item => item);
-    console.log(displayedItems);
     displayedItems.forEach(type => document.getElementById('show' + type).checked = true);
     data = await fetch("/data/assets/eplist.json");
     data = await data.json();
     data = data.filter(displayedItems.length ? customSelection(displayedItems) : defaultSelection);
-    console.log(data);
     data.forEach((ep, index) => ep.index = index);
     makeList(sortType, series);
     updateNumbers();
@@ -110,7 +107,6 @@ function makeList(sortfn, series = true) {
         btn.classList.remove("selected");
     }
     sortfn();
-    console.log(data);
     eplist.innerHTML = "<ol>" + data.map(ep => `<li style='color:hsl(${Colour(ep)} 100% 55%);'>${Names(ep, series)}<span class="hidden-info">,&nbsp;aired:&nbsp;${airdate(...parseDate(ep))} space: ${ep.location.space}</span></li>`).join("\n") + "</ol>";
 }
 

@@ -1562,7 +1562,7 @@
 {"meta": "Buffyverse", "series": {"name": "Buffy, the Vampire Slayer", "number": 1}, "season": 7, "ep": {"number": 20, "name": "Touched"}, "location": {"disc": 6, "wallet": "Brown Box", "space": 39}, "date": "20030506"},
 {"meta": "Buffyverse", "series": {"name": "Buffy, the Vampire Slayer", "number": 1}, "season": 7, "ep": {"number": 21, "name": "End of Days"}, "location": {"disc": 6, "wallet": "Brown Box", "space": 39}, "date": "20030513"},
 {"meta": "Buffyverse", "series": {"name": "Buffy, the Vampire Slayer", "number": 1}, "season": 7, "ep": {"number": 22, "name": "Chosen"}, "location": {"disc": 6, "wallet": "Brown Box", "space": 39}, "type": "Finale", "date": "20030520"},
-{"meta": "Buffyverse", "series": {"name": "Angel", "number": 2}, "season": 1, "ep": {"number": 1, "name": "City Of Angels"}, "location": {"disc": 1, "wallet": "Brown Box", "space": 40}, "type": "Premiere", "date": "19991005"},
+{"meta": "Buffyverse", "series": {"name": "Angel", "number": 2}, "season": 1, "ep": {"number": 1, "name": "City of…"}, "location": {"disc": 1, "wallet": "Brown Box", "space": 40}, "type": "Premiere", "date": "19991005"},
 {"meta": "Buffyverse", "series": {"name": "Angel", "number": 2}, "season": 1, "ep": {"number": 2, "name": "Lonely Hearts"}, "location": {"disc": 1, "wallet": "Brown Box", "space": 40}, "date": "19991012"},
 {"meta": "Buffyverse", "series": {"name": "Angel", "number": 2}, "season": 1, "ep": {"number": 3, "name": "In the Dark"}, "location": {"disc": 1, "wallet": "Brown Box", "space": 40}, "date": "19991019"},
 {"meta": "Buffyverse", "series": {"name": "Angel", "number": 2}, "season": 1, "ep": {"number": 4, "name": "I Fall to Pieces"}, "location": {"disc": 1, "wallet": "Brown Box", "space": 40}, "date": "19991026"},

@@ -98,6 +98,7 @@ async function openEpList() {
     data = await data.json();
     data = data.filter(displayedItems.length ? customSelection(displayedItems) : defaultSelection);
     data.forEach((ep, index) => ep.index = index);
+    console.log(data);
     makeList(sortType, series);
     updateNumbers();
 }
@@ -157,9 +158,7 @@ function EpnameLengthSort() {
 subtract = (a, b) => a == b ? 0 : a > b ? 1 : -1;
 
 function reverseString(str) {
-    function reverseString(str) {
-        return str.split("").reverse().join("");
-    }
+    return str.split("").reverse().join("");
 }
 
 function RandomSort() {
@@ -292,8 +291,18 @@ function SeriesName(ep) {
     }
     meta = meta === undefined || meta.endsWith("verse") || series === "Yes, Prime Minister" ? '' : The(meta);
     series = The(series);
+    series = series == "The Last Airbender" && ep.season.number == 1 ? "The Legend of Aang" : series
+    if (series == "Enterprise" && meta == "Star Trek" && (ep.season < 3 || (ep.season == 3 && ep.ep.number < 3))) {
+        return series;
+    }
     let pad = series && meta ? ': ' : '';
     return meta + pad + series;
+}
+
+function FullSeriesName(ep) {
+    let series = SeriesName(ep);
+    series = series == "" ? Episode(ep) : series;
+    return series.replaceAll('&nbsp;', ' ');
 }
 
 function BareSeriesName(ep) {

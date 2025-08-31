@@ -2,8 +2,14 @@ let box = document.getElementById("actors");
 let roles = document.getElementById("roles");
 let seriesOne = document.getElementById("showOne");
 let seriesTwo = document.getElementById("showTwo");
+let textShows = document.getElementById("textShows");
+let textOne = document.getElementById("textOne");
+let textTwo = document.getElementById("textTwo");
 let serieses = new Set();
 let data;
+let namesList = [];
+let showOneList = [];
+let showTwoList = [];
 
 async function fillCombos() {
     data = await fetch("dups.json");
@@ -28,7 +34,7 @@ function getSurname(name) {
 function addName(name) {
     let option = document.createElement("option");
     option.text = name
-    box.add(option)
+    namesList.push(option);
 }
 
 function addSeries(name) {
@@ -41,10 +47,10 @@ function addSerieses() {
     for (let series of serieses) {
         let option = document.createElement("option");
         option.text = series;
-        seriesOne.add(option);
+        showOneList.push(option);
         option = document.createElement("option");
         option.text = series;
-        seriesTwo.add(option);
+        showTwoList.push(option);
     }
 }
 
@@ -64,6 +70,30 @@ function createTable(term, definition) {
     dt.innerHTML = definition;
     roles.append(dd);
     roles.append(dt);
+}
+
+function filterShows() {
+    box.innerHTML = "";
+    let value = textShows.value;
+    let list = namesList.filter(a => a.text.toLowerCase().includes(value));
+    list.forEach(a => box.add(a));
+    select();
+}
+
+function filterOne() {
+    seriesOne.innerHTML = "";
+    let value = textOne.value;
+    let list = showOneList.filter(a => a.text.toLowerCase().includes(value));
+    list.forEach(a => seriesOne.add(a));
+    shows();
+}
+
+function filterTwo() {
+    seriesTwo.innerHTML = "";
+    let value = textTwo.value;
+    let list = showTwoList.filter(a => a.text.toLowerCase().includes(value));
+    list.forEach(a => seriesTwo.add(a));
+    shows();
 }
 
 function shows() {

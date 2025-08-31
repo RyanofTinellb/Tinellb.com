@@ -55,19 +55,20 @@
 
                 <select name="actors" id="actors" onchange="select();">
 
-                </select>
+                </select><input id="textShows" onchange="filterShows();">
 <br><br>
 
                 <label for="showOne">Choose a show:</label>
 
                 <select name="showOne" id="showOne" onchange="shows();">
 
-                </select>
+                </select> <input id="textOne" onchange="filterOne();">
                 <br>
                 <label for="showTwo">Choose another:</label>
                 <select name="showTwo" id="showTwo" onchange="shows();">
 
                 </select>
+                <input id="textTwo" onchange="filterTwo();">
                 <dl id="roles"></dl>
             </main>
             <nav class="mini">

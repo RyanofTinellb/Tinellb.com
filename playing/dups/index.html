@@ -4,12 +4,18 @@
 <head>
     <meta name="viewport" content="width=device-width/initial-scale=1.0">
     <meta charset="utf-8">
-    <title>Welcome to Tinellb!
+    <title>Duplicate Actors
     </title>
     <link rel="stylesheet" type="text/css" href="/data/stylesheets/basic_style.css">
     <link rel="stylesheet" type="text/css" href="/data/stylesheets/style.css">
     <link rel="icon" type="image/png" href="/data/assets/favicon.png">
     <script src="/data/scripts/parse_href.js"></script>
+    <style>
+        dt {
+            font-weight: bold;
+            padding-block-start: 1rem;
+        }
+    </style>
 </head>
 
 <body>
@@ -42,33 +48,38 @@
         <div class="primary">
             <nav class="mini">
                 <p><a href="http://www.tinellb.com">↑ Back to Main</a></p>
-                <p><a href="/sections/detsora’sdiary.html">Next Page →</a></p>
             </nav>
             <main>
-                <h1 id="welcometotinellb!">Welcome to Tinellb!</h1>
-                <p>Tinellb is a fictional universe. This site seeks to chronicle everything known about this realm and
-                    the guozu who live there.</p>
-                <h2><a href="http://coelacanthquartet.tinellb.com"><cite>The Coelacanth Quartet</cite></a></h2>
-                <p>A novel in four parts, detailing the adventures of Corla in her attempt to get home.</p>
-                <h2><a href="http://grammar.tinellb.com">A Grammar of the Tinellbian Languages</a></h2>
-                <p>A guide to the High Lulani language.</p>
-                <h2><a href="http://dictionary.tinellb.com">Tinellbian Dictionary</a></h2>
-                <p>Pronunciations, spellings, etymologies and usage notes for over 1000 vocabulary items, and growing.
-                </p>
-                <h2><a href="http://universe.tinellb.com">Tinellbian Encyclopedia</a></h2>
-                <p>An exploration of the universe of Tinellb.</p>
-                <toc></toc>
+                <h1>Dups</h1>
+                <label for="actor">Choose an actor:</label>
+
+                <select name="actors" id="actors" onchange="select();">
+
+                </select><input id="textShows" onchange="filterShows();">
+<br><br>
+
+                <label for="showOne">Choose a show:</label>
+
+                <select name="showOne" id="showOne" onchange="shows();">
+
+                </select> <input id="textOne" onchange="filterOne();">
+                <br>
+                <label for="showTwo">Choose another:</label>
+                <select name="showTwo" id="showTwo" onchange="shows();">
+
+                </select>
+                <input id="textTwo" onchange="filterTwo();">
+                <dl id="roles"></dl>
             </main>
             <nav class="mini">
                 <p><a href="http://www.tinellb.com">↑ Back to Main</a></p>
-                <p><a href="/sections/detsora’sdiary.html">Next Page →</a></p>
             </nav>
         </div>
     </div>
     <footer>
         <div class="copyright">
             <p>&copy;2017-2025 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</p>
-            <p>Last updated: Sunday, March 23rd, 2025</p>
+            <p>Last updated: Saturday, August 30th, 2025</p>
         </div>
     </footer>
     <p>
@@ -77,6 +88,8 @@
     <p>
         <script src="/data/scripts/localise_links.js"></script>
     </p>
+    <script src="dups.js"></script>
+    <script>fillCombos();</script>
     <script>
         let mql = window.matchMedia("(min-width: 800px)");
         let details = document.getElementById("menu");

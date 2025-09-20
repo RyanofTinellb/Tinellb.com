@@ -1,3 +1,5 @@
+let seen;
+
 const SORTS = {
     'airdate': AirdateSort,
     'calendar': CalendarSort,
@@ -98,8 +100,15 @@ async function openEpList() {
     data = await data.json();
     data = data.filter(displayedItems.length ? customSelection(displayedItems) : defaultSelection);
     data.forEach((ep, index) => ep.index = index);
-    console.log(data);
     makeList(sortType, series);
+    // data.forEach(ep => ep.seriesname = FullSeriesName(ep));
+    // seen = data.slice(0, 1435);
+    // seen = new Map(Object.entries(Object.groupBy(seen, ep => ep.seriesname)));
+    // allofthem = new Array(Object.entries(Object.groupBy(data, ep => ep.seriesname)))[0];
+    // console.log(allofthem);
+    // allofthem.forEach(a => a[2] = Math.round(100*(seen.get(a[0])?.length || 0) / a[1].length)/100);
+    // allofthem.sort((a,b) => a[2] - b[2]);
+    // console.log(allofthem.filter(a => a[2] > 0 && a[2] < 1));
     updateNumbers();
 }
 

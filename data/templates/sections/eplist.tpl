@@ -1,162 +1,387 @@
+styles:
+  i: {}
 text:
-- The 4400 (1x01:A)
-- The 4400 (1x02:A) The New and Improved Carl Morrissey
-- The 4400 (1x03:A) Becoming
-- The 4400 (1x04:A) Trial By Fire
-- The 4400 (1x05:A) White Light
-- The 4400 (2x01:A) Wake Up Call
-- The 4400 (2x02:A) Voices Carry
-- The 4400 (2x04:A) Weight of the World
-- The 4400 (2x05:A) Suffer the Children
-- The 4400 (2x06:A) As Fate Would Have It
-- The 4400 (2x07:A) Life Interrupted
-- The 4400 (2x08:A) Carrier
-- The 4400 (2x09:A) Rebirth
-- The 4400 (2x10:A) Hidden
-- The 4400 (2x11:A) Lockdown
-- The 4400 (2x12:A) The Fifth Page
-- The 4400 (2x13:A) Mommy’s Bosses
-- The 4400 (3x01:A) The New World
-- The 4400 (3x02:A) Being Tom Baldwin
-- The 4400 (3x04:A) Gone
-- The 4400 (3x06:A) Graduation Day
-- The 4400 (3x07:A) The Home Front
-- The 4400 (3x08:A) Blink
-- The 4400 (3x09:A) The Ballad of Kevin and Tess
-- The 4400 (3x10:A) The Starzl Mutation
-- The 4400 (3x11:A) The Gospel According to Collier
-- The 4400 (3x12:A) Terrible Swift Sword
-- The 4400 (3x13:A) Fifty-Fifty
-- The 4400 (4x01:A) The Wrath of Graham
-- The 4400 (4x02:A) Fear Itself
-- The 4400 (4x03:A) Audrey Parker’s Come and Gone
-- The 4400 (4x04:A) The Truth and Nothing But the Truth
-- The 4400 (4x05:A) Try the Pie
-- The 4400 (4x06:A) The Marked
-- The 4400 (4x07:A) Till We Have Built Jerusalem
-- The 4400 (4x08:A) No Exit
-- The 4400 (4x09:A) Daddy’s Little Girl
-- The 4400 (4x10:A) One of Us
-- The 4400 (4x11:A) Ghost in the Machine
-- The 4400 (4x12:A) Tiny Machines
-- The 4400 (4x13:A) The Great Leap Forward
-- 'Action / Adventure: The Librarian (105F) Quest for the Spear'
-- 'Action / Adventure: The Librarian (106F) Return to King Solomon’s Mines'
-- Action / Adventure (8F) Bulletproof Monk
-- Action / Adventure (56F) Welcome to the Jungle
-- Action / Adventure (172F) Jurassic Park
-- Action / Adventure (107F) Night at the Museum
-- 'Action / Adventure: Night at the Museum (108F) Battle of the Smithsonian'
-- 'Action / Adventure: Shanghai Noon (109F) Shanghai Noon'
-- 'Action / Adventure: Shanghai Noon (110F) Shanghai Knights'
-- Action / Adventure (58F) The Three Musketeers
-- Action / Adventure (36F) Innerspace
-- Action / Adventure (39F) Inception
-- Action / Adventure (73F) Minority Report
-- The Adventures of Lano & Woodley (1x01:C) The Girlfriend
-- The Adventures of Lano & Woodley (1x02:C) One Simple Task
-- The Adventures of Lano & Woodley (1x03:C) Tonight You Die
-- The Adventures of Lano & Woodley (1x04:C) The Wall
-- The Adventures of Lano & Woodley (1x05:C) Starquest
-- The Adventures of Lano & Woodley (1x06:C) The Two Men
-- The Adventures of Lano & Woodley (2x07:C) Primal Warrior
-- The Adventures of Lano & Woodley (2x08:C) The Pool
-- The Adventures of Lano & Woodley (2x09:C) The Easter Story
-- The Adventures of Lano & Woodley (2x10:C) Game Show God
-- The Adventures of Lano & Woodley (2x11:C) Mother
-- The Adventures of Lano & Woodley (2x12:C) I Love You Baby
-- Andromeda (1x01:R) Under the Night
-- Andromeda (1x02:R) An Affirming Flame
-- Andromeda (1x03:R) To Loose the Fateful Lightning
-- Andromeda (1x04:R) D Minus Zero
-- Andromeda (1x05:R) Double Helix
-- Andromeda (1x06:R) Angel Dark, Demon Bright
-- Andromeda (1x07:R) The Ties That Blind
-- Andromeda (1x08:R) The Banks of the Lethe
-- Andromeda (1x09:R) A Rose in the Ashes
-- Andromeda (1x10:R) All Great Neptune’s Ocean
-- Andromeda (1x11:R) The Pearls That Were His Eyes
-- Andromeda (1x12:R) The Mathematics of Tears
-- Andromeda (1x13:R) Music of a Distant Drum
-- Andromeda (1x14:R) Harper 2.0
-- Andromeda (1x15:R) Forced Perspective
-- Andromeda (1x16:R) The Sum of Its Parts
-- Andromeda (1x17:R) Fear and Loathing in the Milky Way
-- Andromeda (1x18:R) The Devil Take the Hindmost
-- Andromeda (1x19:R) The Honey Offering
-- Andromeda (1x20:R) Star-Crossed
-- Andromeda (1x21:R) It Makes a Lovely Light
-- Andromeda (1x22:R) Its Hour Come ?Round at Last
-- Andromeda (2x01:R) The Widening Gyre
-- Andromeda (2x02:R) Exit Strategies
-- Andromeda (2x03:R) Heart for Falsehood Framed
-- Andromeda (2x04:R) Pitiless as the Sun
-- Andromeda (2x05:R) Last Call at the Broken Hammer
-- Andromeda (2x06:R) All Too Human
-- Andromeda (2x07:R) Una Salus Victus
-- Andromeda (2x08:R) Home Fires
-- Andromeda (2x09:R) Into the Labyrinth
-- Andromeda (2x10:R) The Prince
-- Andromeda (2x11:R) Bunker Hill
-- Andromeda (2x12:R) Ouroboros
-- Andromeda (2x13:R) Lava and Rockets
-- Andromeda (2x14:R) Be All My Sins Remembered
-- Andromeda (2x15:R) Dance of the Mayflies
-- Andromeda (2x16:R) In Heaven Now Are Three
-- Andromeda (2x17:R) The Things We Cannot Change
-- Andromeda (2x18:R) Fair Unknown
-- Andromeda (2x19:R) Belly of the Beast
-- Andromeda (2x20:R) The Knight, Death, and the Devil
-- Andromeda (2x21:R) Immaculate Perception
-- Andromeda (2x22:R) Tunnel at the End of the Light
-- Andromeda (3x01:R) If the Wheel is Fixed
-- Andromeda (3x02:R) The Shards of Rimni
-- Andromeda (3x03:R) Mad To Be Saved
-- Andromeda (3x04:R) Cui Bono
-- Andromeda (3x05:R) The Lone and Level Sands
-- 'Andromeda (3x06:R) Slipfighter: the Dogs of War'
-- Andromeda (3x07:R) The Leper’s Kiss
-- Andromeda (3x08:R) For Whom the Bell Tolls
-- Andromeda (3x09:R) And Your Heart Will Fly Away
-- Andromeda (3x10:R) The Unconquerable Man
-- Andromeda (3x11:R) Delenda Est
-- Andromeda (3x12:R) The Dark Backward
-- Andromeda (3x13:R) The Risk All Point
-- Andromeda (3x14:R) The Right Horse
-- Andromeda (3x15:R) What Happens to a Rev Deferred?
-- Andromeda (3x16:R) Point of the Spear
-- Andromeda (3x17:R) Vault of the Heavens
-- Andromeda (3x18:R) Deep Midnight’s Voice
-- Andromeda (3x19:R) The Illusion of Majesty
-- Andromeda (3x20:R) Twilight of the Idols
-- Andromeda (3x21:R) Day of Judgment, Day of Wrath
-- Andromeda (3x22:R) Shadows Cast by a Final Salute
-- Andromeda (4x01:R) Answers Given To Questions Never Asked
-- Andromeda (4x02:R) Pieces of Eight
-- Andromeda (4x03:R) Waking the Tyrant’s Device
-- Andromeda (4x04:R) Double Or Nothingness
-- Andromeda (4x05:R) Harper/Delete
-- Andromeda (4x06:R) Soon the Nearing Vortex
-- Andromeda (4x07:R) The World Turns All Around Her
-- Andromeda (4x08:R) Conduit to Destiny
-- Andromeda (4x09:R) Machinery of the Mind
-- Andromeda (4x10:R) Exalted Reason, Resplendent Daughter
-- Andromeda (4x11:R) The Torment, the Release
-- Andromeda (4x12:R) The Spider’s Stratagem
-- Andromeda (4x13:R) The Warmth of an Invisible Light
-- Andromeda (4x14:R) The Others
-- Andromeda (4x15:R) Fear Burns Down To Ashes
-- Andromeda (4x16:R) Lost in a Space That Isn’t There
-- Andromeda (4x17:R) Abridging the Devil’s Divide
-- Andromeda (4x18:R) Trusting the Gordian Maze
-- Andromeda (4x19:R) A Symmetry of Imperfection
-- Andromeda (4x20:R) Time Out of Mind
-- Andromeda (4x21:R) The Dissonant Interval
-- Andromeda (5x01:1R) The Weight
+- (134F) 10 Things I Hate About You
+- (142F) 101 Dalmatians
+- (238B) 12 Angry Men
+- (1x01:509B) 30 Rock
+- 30 Rock (1x02:509B) The Aftermath
+- 30 Rock (1x03:509B) Blind Date
+- 30 Rock (1x04:509B) Jack the Writer
+- 30 Rock (1x05:509B) Jack-Tor
+- 30 Rock (1x06:509B) Jack Meets Dennis
+- 30 Rock (1x07:509B) Tracy Does Conan
+- 30 Rock (1x08:509B) The Break-Up
+- 30 Rock (1x09:510B) The Baby Show
+- 30 Rock (1x10:510B) The Rural Juror
+- 30 Rock (1x11:510B) The Head and the Hair
+- 30 Rock (1x12:510B) Black Tie
+- 30 Rock (1x13:510B) Up All Night
+- 30 Rock (1x14:510B) The C Word
+- 30 Rock (1x15:511B) Hard Ball
+- 30 Rock (1x16:511B) The Source Awards
+- 30 Rock (1x17:511B) The Fighting Irish
+- 30 Rock (1x18:511B) Fireworks
+- 30 Rock (1x19:511B) Corporate Crush
+- 30 Rock (1x20:511B) Cleveland
+- 30 Rock (1x21:511B) Hiatus
+- 30 Rock (2x01:512B) Seinfeld Vision
+- 30 Rock (2x02:512B) Jack Gets in the Game
+- 30 Rock (2x03:512B) The Collection
+- 30 Rock (2x04:512B) Rosemary’s Baby
+- 30 Rock (2x05:512B) Greenzo
+- 30 Rock (2x06:513B) Somebody to Love
+- 30 Rock (2x07:513B) Cougars
+- 30 Rock (2x08:513B) Secrets and Lies
+- 30 Rock (2x09:513B) Ludachristmas
+- 30 Rock (2x10:514B) Episode 210
+- 30 Rock (2x11:514B) MILF Island
+- 30 Rock (2x12:514B) Subway Hero
+- 30 Rock (2x13:514B) Succession
+- 30 Rock (2x14:514B) Sandwich Day
+- 30 Rock (2x15:514B) Cooter
+- 30 Rock (3x01:515B) Do-Over
+- 30 Rock (3x02:515B) Believe in the Stars
+- 30 Rock (3x03:515B) The One with the Cast of ‘Night Court’
+- 30 Rock (3x04:515B) Gavin Volure
+- 30 Rock (3x05:515B) Reunion
+- 30 Rock (3x06:515B) Christmas Special
+- 30 Rock (3x07:515B) Senor Macho Solo
+- 30 Rock (3x08:515B) Flu Shot
+- 30 Rock (3x09:516B) Retreat to Move Forward
+- 30 Rock (3x10:516B) Generalissimo
+- 30 Rock (3x11:516B) St. Valentine’s Day
+- 30 Rock (3x12:516B) Larry King
+- 30 Rock (3x13:516B) Goodbye, My Friend
+- 30 Rock (3x14:516B) The Funcooker
+- 30 Rock (3x15:516B) The Bubble
+- 30 Rock (3x16:516B) Apollo, Apollo
+- 30 Rock (3x17:517B) Cutbacks
+- 30 Rock (3x18:517B) Jackie Jormp-Jomp
+- 30 Rock (3x19:517B) The Ones
+- 30 Rock (3x20:517B) The Natural Order
+- 30 Rock (3x21:517B) Mamma Mia
+- 30 Rock (3x22:517B) Kidney Now!
+- 30 Rock (4x01:518B) Season 4
+- 30 Rock (4x02:518B) Into the Crevasse
+- 30 Rock (4x03:518B) Stone Mountain
+- 30 Rock (4x04:518B) Audition Day
+- 30 Rock (4x05:518B) The Problem Solvers
+- 30 Rock (4x06:518B) Sun Tea
+- '30 Rock (4x07:518B) Dealbreakers Talk Show #0001'
+- 30 Rock (4x08:519B) Secret Santa
+- 30 Rock (4x09:519B) Klaus and Greta
+- 30 Rock (4x10:519B) Black Light Attack!
+- 30 Rock (4x11:519B) Winter Madness
+- 30 Rock (4x12:519B) Verna
+- 30 Rock (4x13:519B) Anna Howard Shaw Day
+- 30 Rock (4x14:519B) Future Husband
+- 30 Rock (4x15:520B) Don Geiss, America and Hope
+- 30 Rock (4x16:520B) Floyd
+- 30 Rock (4x17:520B) Lee Marvin vs. Derek Jeter
+- 30 Rock (4x18:520B) Khonani
+- 30 Rock (4x19:520B) Argus
+- 30 Rock (4x20:520B) The Moms
+- 30 Rock (4x21:520B) Emmanuel Goes to Dinosaur Land
+- 30 Rock (4x22:520B) I Do Do
+- 30 Rock (5x01:521B) The Fabian Strategy
+- 30 Rock (5x02:521B) When It Rains, It Pours
+- 30 Rock (5x03:521B) Let’s Stay Together
+- 30 Rock (5x04:521B) Live Show
+- 30 Rock (5x05:521B) Reaganing
+- 30 Rock (5x06:521B) Gentleman’s Intermission
+- 30 Rock (5x07:521B) Brooklyn Without Limits
+- 30 Rock (5x08:521B) College
+- 30 Rock (5x09:522B) Chain Reaction of Mental Anguish
+- 30 Rock (5x10:522B) Christmas Attack Zone
+- 30 Rock (5x11:522B) Mrs. Donaghy
+- 30 Rock (5x12:522B) Operation Righteous Cowboy Lightning
+- 30 Rock (5x13:522B) ¡⁠Qué Sorpresa!
+- 30 Rock (5x14:522B) Double-Edged Sword
+- 30 Rock (5x15:522B) It’s Never Too Late for Now
+- 30 Rock (5x16:522B) TGS Hates Women
+- 30 Rock (5x17:523B) Queen of Jordan
+- 30 Rock (5x18:523B) Plan B
+- 30 Rock (5x19:523B) I Heart Connecticut
+- 30 Rock (5x20:523B) 100
+- 30 Rock (5x22:523B) Everything Sunny All the Time Always
+- 30 Rock (5x23:523B) Respawn
+- 30 Rock (6x01:524B) Dance Like Nobody’s Watching
+- 30 Rock (6x02:524B) Idiots Are People Two!
+- 30 Rock (6x03:524B) Idiots Are People Three!
+- 30 Rock (6x04:524B) The Ballad of Kenneth Parcell
+- 30 Rock (6x05:524B) Today You Are a Man
+- 30 Rock (6x06\2:524B) Hey, Baby, What’s Wrong?
+- 30 Rock (6x08:525B) The Tuxedo Begins
+- 30 Rock (6x09:525B) Leap Day
+- 30 Rock (6x10:525B) Alexis Goodlooking and the Case of the Missing Whisky
+- 30 Rock (6x11:525B) Standards and Practises
+- 30 Rock (6x12:525B) St. Patrick’s Day
+- 30 Rock (6x13:525B) Grandmentor
+- 30 Rock (6x14:525B) Kidnapped by Danger
+- 30 Rock (6x15:526B) The Shower Principle
+- 30 Rock (6x16:526B) Nothing Left to Lose
+- 30 Rock (6x17:526B) Meet the Woggels
+- 30 Rock (6x18:526B) Murphy Brown Lied to Us
+- 30 Rock (6x19:526B) Live from Studio 6H
+- '30 Rock (6x20:526B) Queen of Jordan 2: The Mystery of the Phantom Pooper'
+- 30 Rock (6x21:526B) The Return of Avery Jessup
+- 30 Rock (6x22:526B) What Will Happen to the Gang Next Year?
+- 30 Rock (7x01:527B) The Beginning of the End
+- 30 Rock (7x02:527B) Governor Dunston
+- 30 Rock (7x03:527B) Stride of Pride
+- 30 Rock (7x04:527B) Unwindulax
+- 30 Rock (7x05:527B) There’s No I in America
+- 30 Rock (7x06:527B) Aunt Phatso vs. Jack Donaghy
+- 30 Rock (7x07:528B) Mazel Tov, Dummies!
+- 30 Rock (7x08:528B) My Whole Life Is Thunder
+- 30 Rock (7x09:528B) Game Over
+- 30 Rock (7x10:528B) Florida
+- 30 Rock (7x11:528B) A Goon’s Deed in a Weary World
+- 30 Rock (7x12:528B) Hogcock!
+- 30 Rock (7x13:528B) Last Lunch
+- (1x01:1A) The 4400
+- The 4400 (1x02:1A) The New and Improved Carl Morrissey
+- The 4400 (1x03:2A) Becoming
+- The 4400 (1x04:1A) Trial By Fire
+- The 4400 (1x05:1A) White Light
+- The 4400 (2x01\2:1A) Wake Up Call
+- The 4400 (2x02:1A) Voices Carry
+- The 4400 (2x04:1A) Weight of the World
+- The 4400 (2x05:2A) Suffer the Children
+- The 4400 (2x06:2A) As Fate Would Have It
+- The 4400 (2x07:2A) Life Interrupted
+- The 4400 (2x08:3A) Carrier
+- The 4400 (2x09:3A) Rebirth
+- The 4400 (2x10:3A) Hidden
+- The 4400 (2x11:4A) Lockdown
+- The 4400 (2x12:4A) The Fifth Page
+- The 4400 (2x13:4A) Mommy’s Bosses
+- The 4400 (3x01\2:4A) The New World
+- The 4400 (3x02:1A) Being Tom Baldwin
+- The 4400 (3x04\2:2A) Gone
+- The 4400 (3x06:1A) Graduation Day
+- The 4400 (3x07:1A) The Home Front
+- The 4400 (3x08:3A) Blink
+- The 4400 (3x09:3A) The Ballad of Kevin and Tess
+- The 4400 (3x10:3A) The Starzl Mutation
+- The 4400 (3x11:3A) The Gospel According to Collier
+- The 4400 (3x12:4A) Terrible Swift Sword
+- The 4400 (3x13:4A) Fifty‑Fifty
+- The 4400 (4x01:4A) The Wrath of Graham
+- The 4400 (4x02:1A) Fear Itself
+- The 4400 (4x03:1A) Audrey Parker’s Come and Gone
+- The 4400 (4x04:1A) The Truth and Nothing But the Truth
+- The 4400 (4x05:2A) Try the Pie
+- The 4400 (4x06:2A) The Marked
+- The 4400 (4x07:2A) Till We Have Built Jerusalem
+- The 4400 (4x08:2A) No Exit
+- The 4400 (4x09:3A) Daddy’s Little Girl
+- The 4400 (4x10:3A) One of Us
+- The 4400 (4x11:3A) Ghost in the Machine
+- The 4400 (4x12:3A) Tiny Machines
+- The 4400 (4x13:4A) The Great Leap Forward
+- (1x01\2:553B) 7 Days
+- 7 Days (1x03:553B) The Gettysburg Virus
+- 7 Days (1x04:553B) Come Again?
+- 7 Days (1x05:553B) Vows
+- 7 Days (1x06\2:554B) Doppleganger
+- 7 Days (1x08:554B) Shadow Play
+- 7 Days (1x09:554B) As Time Goes By
+- 7 Days (1x10:554B) Sleepers
+- 7 Days (1x11:555B) HAARP Attack
+- 7 Days (1x12:555B) Last Card Up
+- 7 Days (1x13:555B) Last Breath
+- 7 Days (1x14:555B) Parkergeist
+- 7 Days (1x15:555B) Daddy’s Girl
+- 7 Days (1x16:556B) There’s Something About Olga
+- 7 Days (1x17:556B) A Dish Best Served Cold
+- 7 Days (1x18:556B) Vegas Heist
+- 7 Days (1x19:556B) EBE’s
+- 7 Days (1x20:556B) Walter
+- 7 Days (1x21:556B) Lifeboat
+- 7 Days (2x01:557B) The Football
+- 7 Days (2x02:557B) Pinball Wizard
+- 7 Days (2x03:557B) Parker.com
+- 7 Days (2x04:557B) For the Children
+- 7 Days (2x05:557B) Two Weddings and a Funeral
+- 7 Days (2x06:558B) Walk Away
+- 7 Days (2x07:558B) Sister’s Keeper
+- 7 Days (2x08:558B) The Collector
+- 7 Days (2x09:558B) Love and Other Disasters
+- 7 Days (2x10:558B) The Devil and the Deep Blue Sea
+- 7 Days (2x11:558B) Time Gremlin
+- 7 Days (2x12:559B) Buried Alive
+- 7 Days (2x13:559B) The Backstepper’s Apprentice
+- 7 Days (2x14:559B) Deja Vu All Over Again
+- 7 Days (2x15:559B) Space Station Down
+- 7 Days (2x16:559B) The Cuban Missile
+- 7 Days (2x17:559B) X-35 Needs Changing
+- 7 Days (2x18:560B) Brother, Can You Spare a Bomb?
+- 7 Days (2x19:560B) Pope Parker
+- 7 Days (2x20:560B) Witch Way to the Prom
+- 7 Days (2x21:560B) Mr. Donovan’s Neighborhood
+- 7 Days (2x22:560B) Playmates and Presidents
+- 7 Days (2x23:560B) The Cure
+- 7 Days (3x01:561B) Stairway to Heaven
+- 7 Days (3x02:561B) Peacekeepers
+- 7 Days (3x03:561B) Rhino
+- 7 Days (3x04:561B) The Dunwych Madness
+- 7 Days (3x05:561B) Olga’s Excellent Vacation
+- 7 Days (3x06:562B) Deloris Demands
+- 7 Days (3x07:562B) The Fire Last Time
+- 7 Days (3x08:562B) Tracker
+- 7 Days (3x09:562B) Top Dog
+- 7 Days (3x10:562B) Adam &amp; Eve &amp; Adam
+- 7 Days (3x11:563B) Head Case
+- 7 Days (3x12:563B) Raven
+- 7 Days (3x13:563B) The First Freshman
+- 7 Days (3x14:563B) Revelation
+- 7 Days (3x15:563B) Crystal Blue Persuasion
+- 7 Days (3x16:563B) Empty Quiver
+- 7 Days (3x17:564B) Kansas
+- 7 Days (3x18:564B) The Final Countdown
+- 7 Days (3x19:564B) The Brink
+- 7 Days (3x20:564B) Sugar Mountain
+- 7 Days (3x21:564B) Born in the USSR
+- '7 Days (3x22:564B) Live: From Death Row'
+- The Adventures of Buckaroo Banzai (25F) Across the 8th Dimension
+- The Adventures of Lano &amp; Woodley (1x01:1C) The Girlfriend
+- The Adventures of Lano &amp; Woodley (1x02:1C) One Simple Task
+- The Adventures of Lano &amp; Woodley (1x03:1C) Tonight You Die
+- The Adventures of Lano &amp; Woodley (1x04:1C) The Wall
+- The Adventures of Lano &amp; Woodley (1x05:1C) Starquest
+- The Adventures of Lano &amp; Woodley (1x06:1C) The Two Men
+- The Adventures of Lano &amp; Woodley (2x07:2C) Primal Warrior
+- The Adventures of Lano &amp; Woodley (2x08:2C) The Pool
+- The Adventures of Lano &amp; Woodley (2x09:2C) The Easter Story
+- The Adventures of Lano &amp; Woodley (2x10:2C) Game Show God
+- The Adventures of Lano &amp; Woodley (2x11:2C) Mother
+- The Adventures of Lano &amp; Woodley (2x12\2:2C) I Love You Baby
+- (239B) Airplane!
+- Airplane! (2:240B) The Sequel
+- (176F) Akira (アキラ)
+- (1:165F) Aladdin
+- Aladdin (2:166F) The Return of Jafar
+- Aladdin (3:167F) and the King of Thieves
+- American Gods (1x01:713B) The Bone Orchard
+- American Gods (1x02:713B) The Secret of Spoons
+- American Gods (1x03:713B) Head Full of Snow
+- American Gods (1x04:713B) Git Gone
+- American Gods (1x05:713B) Lemon Scented You
+- American Gods (1x06:714B) A Murder of Gods
+- American Gods (1x07:714B) A Prayer for Mad Sweeney
+- American Gods (1x08:714B) Come to Jesus
+- American Gods (2x01:715B) House on the Rock
+- American Gods (2x02:715B) The Beguiling Man
+- American Gods (2x03:715B) Muninn
+- American Gods (2x04:715B) The Greatest Story Ever Told
+- American Gods (2x05:716B) The Ways of the Dead
+- American Gods (2x06:716B) Donar the Great
+- American Gods (2x07:716B) Treasure of the Sun
+- American Gods (2x08:716B) Moon Shadow
+- American Gods (3x01:225T) A Winter’s Tale
+- American Gods (3x02:225T) Serious Moonlight
+- American Gods (3x03:225T) Ashes and Demons
+- American Gods (3x04:225T) The Unseen
+- American Gods (3x05:225T) Sister Rising
+- American Gods (3x06:226T) Conscience of the King
+- American Gods (3x07:226T) Fire and Ice
+- American Gods (3x08:226T) The Rapture of Burning
+- American Gods (3x09:226T) The Lake Effect
+- American Gods (3x10:226T) Tears of the Wrath-Bearing Tree
+- Andromeda (1x01:1R) Under the Night
+- Andromeda (1x02:1R) An Affirming Flame
+- Andromeda (1x03:2R) To Loose the Fateful Lightning
+- Andromeda (1x04:2R) D Minus Zero
+- Andromeda (1x05:3R) Double Helix
+- Andromeda (1x06:3R) Angel Dark, Demon Bright
+- Andromeda (1x07:4R) The Ties That Blind
+- Andromeda (1x08:4R) The Banks of the Lethe
+- Andromeda (1x09:5R) A Rose in the Ashes
+- Andromeda (1x10:5R) All Great Neptune’s Ocean
+- Andromeda (1x11:6R) The Pearls That Were His Eyes
+- Andromeda (1x12:6R) The Mathematics of Tears
+- Andromeda (1x13:7R) Music of a Distant Drum
+- Andromeda (1x14:7R) Harper 2.0
+- Andromeda (1x15:8R) Forced Perspective
+- Andromeda (1x16:8R) The Sum of Its Parts
+- Andromeda (1x17:9R) Fear and Loathing in the Milky Way
+- Andromeda (1x18:9R) The Devil Take the Hindmost
+- Andromeda (1x19:10R) The Honey Offering
+- Andromeda (1x20:10R) Star‑Crossed
+- Andromeda (1x21:11R) It Makes a Lovely Light
+- Andromeda (1x22:11R) Its Hour Come ’round at Last
+- Andromeda (2x01:1R) The Widening Gyre
+- Andromeda (2x02:1R) Exit Strategies
+- Andromeda (2x03:2R) A Heart for Falsehood Framed
+- Andromeda (2x04:2R) Pitiless as the Sun
+- Andromeda (2x05:3R) Last Call at the Broken Hammer
+- Andromeda (2x06:3R) All Too Human
+- Andromeda (2x07:4R) Una Salus Victus
+- Andromeda (2x08:4R) Home Fires
+- Andromeda (2x09:5R) Into the Labyrinth
+- Andromeda (2x10:5R) The Prince
+- Andromeda (2x11:6R) Bunker Hill
+- Andromeda (2x12:6R) Ouroboros
+- Andromeda (2x13:7R) Lava and Rockets
+- Andromeda (2x14:7R) Be All My Sins Remembered
+- Andromeda (2x15:8R) Dance of the Mayflies
+- Andromeda (2x16:8R) In Heaven Now Are Three
+- Andromeda (2x17:9R) The Things We Cannot Change
+- Andromeda (2x18:9R) Fair Unknown
+- Andromeda (2x19:10R) Belly of the Beast
+- Andromeda (2x20:10R) The Knight, Death, and the Devil
+- Andromeda (2x21:11R) Immaculate Perception
+- Andromeda (2x22:11R) Tunnel at the End of the Light
+- Andromeda (3x01:1R) If the Wheel is Fixed
+- Andromeda (3x02:1R) The Shards of Rimni
+- Andromeda (3x03:2R) Mad To Be Saved
+- Andromeda (3x04:2R) Cui Bono
+- Andromeda (3x05:3R) The Lone and Level Sands
+- 'Andromeda (3x06:3R) Slipfighter: the Dogs of War'
+- Andromeda (3x07:4R) The Leper’s Kiss
+- Andromeda (3x08:4R) For Whom the Bell Tolls
+- Andromeda (3x09:5R) And Your Heart Will Fly Away
+- Andromeda (3x10:5R) The Unconquerable Man
+- Andromeda (3x11:6R) Delenda Est
+- Andromeda (3x12:6R) The Dark Backward
+- Andromeda (3x13:7R) The Risk All Point
+- Andromeda (3x14:7R) The Right Horse
+- Andromeda (3x15:8R) What Happens to a Rev Deferred?
+- Andromeda (3x16:8R) Point of the Spear
+- Andromeda (3x17:9R) Vault of the Heavens
+- Andromeda (3x18:9R) Deep Midnight’s Voice
+- Andromeda (3x19:10R) The Illusion of Majesty
+- Andromeda (3x20:10R) Twilight of the Idols
+- Andromeda (3x21:11R) Day of Judgment, Day of Wrath
+- Andromeda (3x22:11R) Shadows Cast by a Final Salute
+- Andromeda (4x01:1R) Answers Given To Questions Never Asked
+- Andromeda (4x02:1R) Pieces of Eight
+- Andromeda (4x03:2R) Waking the Tyrant’s Device
+- Andromeda (4x04:2R) Double Or Nothingness
+- Andromeda (4x05:3R) Harper/Delete
+- Andromeda (4x06:3R) Soon the Nearing Vortex
+- Andromeda (4x07:4R) The World Turns All Around Her
+- Andromeda (4x08:4R) Conduit to Destiny
+- Andromeda (4x09:5R) Machinery of the Mind
+- Andromeda (4x10:5R) Exalted Reason, Resplendent Daughter
+- Andromeda (4x11:6R) The Torment, the Release
+- Andromeda (4x12:6R) The Spider’s Stratagem
+- Andromeda (4x13:7R) The Warmth of an Invisible Light
+- Andromeda (4x14:7R) The Others
+- Andromeda (4x15:8R) Fear Burns Down To Ashes
+- Andromeda (4x16:8R) Lost in a Space That Isn’t There
+- Andromeda (4x17:9R) Abridging the Devil’s Divide
+- Andromeda (4x18:9R) Trusting the Gordian Maze
+- Andromeda (4x19:10R) A Symmetry of Imperfection
+- Andromeda (4x20:10R) Time Out of Mind
+- Andromeda (4x21\2:11R) The Dissonant Interval
+- Andromeda (5x01\2:1R) The Weight
 - Andromeda (5x02:2R) Phear Phactor Phenom
 - Andromeda (5x04:2R) Decay of the Angel
 - Andromeda (5x05:3R) The Eschatology of Our Present
-- Andromeda (5x06:3R) When Goes Around?
+- Andromeda (5x06:3R) When Goes Around…
 - Andromeda (5x07:4R) Attempting Screed
 - Andromeda (5x08:4R) So Burn the Untamed Lands
 - Andromeda (5x09:5R) What Will Be Was Not
@@ -171,230 +396,249 @@ text:
 - Andromeda (5x18:9R) Quantum Tractate Delirium
 - Andromeda (5x19:10R) One More Day’s Light
 - Andromeda (5x20:10R) Chaos and the Stillness of It
-- Andromeda (5x21:11R) The Heart of the Journey
-- Avatar, the Last Airbender (1x01:1C) The Boy in the Iceberg
-- Avatar, the Last Airbender (1x02:1C) The Avatar Returns
-- Avatar, the Last Airbender (1x03:1C) The Southern Air Temple
-- Avatar, the Last Airbender (1x04:1C) The Warriors of Kyoshi
-- Avatar, the Last Airbender (1x05:2C) The King of Omashu
-- Avatar, the Last Airbender (1x06:2C) Imprisoned
-- Avatar, the Last Airbender (1x07:2C) The Spirit World
-- Avatar, the Last Airbender (1x08:2C) Avatar Roku
-- Avatar, the Last Airbender (1x09:3C) The Waterbending Scroll
-- Avatar, the Last Airbender (1x10:3C) Jet
-- Avatar, the Last Airbender (1x11:3C) The Great Divide
-- Avatar, the Last Airbender (1x12:3C) The Storm
-- Avatar, the Last Airbender (1x13:4C) The Blue Spirit
-- Avatar, the Last Airbender (1x14:4C) The Fortuneteller
-- Avatar, the Last Airbender (1x15:4C) Bato of the Water Tribe
-- Avatar, the Last Airbender (1x16:4C) The Deserter
-- Avatar, the Last Airbender (1x17:5C) The Northern Air Temple
-- Avatar, the Last Airbender (1x18:5C) The Waterbending Master
-- Avatar, the Last Airbender (1x19:5C) The Siege of the North
-- Avatar, the Last Airbender (2x01:1C) The Avatar State
-- Avatar, the Last Airbender (2x02:1C) The Cave of Two Lovers
-- Avatar, the Last Airbender (2x03:1C) Return to Omashu
-- Avatar, the Last Airbender (2x04:1C) The Swamp
-- Avatar, the Last Airbender (2x05:1C) Avatar Day
-- Avatar, the Last Airbender (2x06:2C) The Blind Bandit
-- Avatar, the Last Airbender (2x07:2C) Zuko Alone
-- Avatar, the Last Airbender (2x08:2C) The Chase
-- Avatar, the Last Airbender (2x09:2C) Bitter Work
-- Avatar, the Last Airbender (2x10:2C) The Library
-- Avatar, the Last Airbender (2x11:2C) The Desert
-- Avatar, the Last Airbender (2x12:3C) The Serpent’s Pass
-- Avatar, the Last Airbender (2x13:3C) The Drill
-- Avatar, the Last Airbender (2x14:3C) City of Walls and Secrets
-- Avatar, the Last Airbender (2x15:3C) Tales of Ba Sing Se
-- Avatar, the Last Airbender (2x16:4C) Appa’s Lost Days
-- Avatar, the Last Airbender (2x17:4C) Lake Laogai
-- Avatar, the Last Airbender (2x18:4C) The Earth King
-- Avatar, the Last Airbender (2x19:4C) The Guru
-- Avatar, the Last Airbender (2x20:4C) The Crossroads of Destiny
-- Avatar, the Last Airbender (3x01:1C) The Awakening
-- Avatar, the Last Airbender (3x02:1C) The Headband
-- Avatar, the Last Airbender (3x03:1C) The Painted Lady
-- Avatar, the Last Airbender (3x04:1C) Sokka’s Master
-- Avatar, the Last Airbender (3x05:1C) The Beach
-- Avatar, the Last Airbender (3x06:2C) The Avatar and the Firelord
-- Avatar, the Last Airbender (3x07:2C) The Runaway
-- Avatar, the Last Airbender (3x08:2C) The Puppetmaster
-- Avatar, the Last Airbender (3x09:2C) Nightmares and Daydreams
-- Avatar, the Last Airbender (3x10:2C) The Invasion
-- Avatar, the Last Airbender (3x11:2C) The Eclipse
-- Avatar, the Last Airbender (3x12:3C) The Western Air Temple
-- Avatar, the Last Airbender (3x13:3C) The Firebending Masters
-- Avatar, the Last Airbender (3x14:3C) The Boiling Rock
-- Avatar, the Last Airbender (3x15:4C) The Southern Raiders
-- Avatar, the Last Airbender (3x17:4C) The Ember Island Players
-- Avatar, the Last Airbender (3x18:4C) The Phoenix King
-- Avatar, the Last Airbender (3x19:4C) The Old Masters
-- Avatar, the Last Airbender (3x20:4C) Into the Inferno
-- Avatar, the Last Airbender (3x21:4C) Avatar Aang
-- 'Avatar: The Legend of Korra (1x01:2B) Welcome to Republic City'
-- 'Avatar: The Legend of Korra (1x02:2B) A Leaf in the Wind'
-- 'Avatar: The Legend of Korra (1x03:2B) The Revelation'
-- 'Avatar: The Legend of Korra (1x04:2B) The Voice in the Night'
-- 'Avatar: The Legend of Korra (1x05:2B) The Spirit of Competition'
-- 'Avatar: The Legend of Korra (1x06:2B) And the Winner is?'
-- 'Avatar: The Legend of Korra (1x07:2B) The Aftermath'
-- 'Avatar: The Legend of Korra (1x08:2B) When Extremes Meet'
-- 'Avatar: The Legend of Korra (1x09:2B) Out of the Past'
-- 'Avatar: The Legend of Korra (1x10:2B) Turning the Tides'
-- 'Avatar: The Legend of Korra (1x11:2B) Skeletons in the Closet'
-- 'Avatar: The Legend of Korra (1x12:2B) Endgame'
-- 'Avatar: The Legend of Korra (2x01:1B) Rebel Spirit'
-- 'Avatar: The Legend of Korra (2x02:1B) The Southern Lights'
-- 'Avatar: The Legend of Korra (2x03:1B) Civil Wars'
-- 'Avatar: The Legend of Korra (2x05:1B) Peacekeepers'
-- 'Avatar: The Legend of Korra (2x06:1B) The Sting'
-- 'Avatar: The Legend of Korra (2x07:1B) Beginnings'
-- 'Avatar: The Legend of Korra (2x09:1B) The Guide'
-- 'Avatar: The Legend of Korra (2x10:1B) A New Spiritual Age'
-- 'Avatar: The Legend of Korra (2x11:1B) Night of a Thousand Stars'
-- 'Avatar: The Legend of Korra (2x12:1B) Harmonic Convergence'
-- 'Avatar: The Legend of Korra (2x13:1B) Darkness Falls'
-- 'Avatar: The Legend of Korra (2x14:1B) Light in the Dark'
-- 'Avatar: The Legend of Korra (3x01:1B) A Breath of Fresh Air'
-- 'Avatar: The Legend of Korra (3x02:1B) Rebirth'
-- 'Avatar: The Legend of Korra (3x03:1B) The Earth Queen'
-- 'Avatar: The Legend of Korra (3x04:1B) In Harm’s Way'
-- 'Avatar: The Legend of Korra (3x05:1B) The Metal Clan'
-- 'Avatar: The Legend of Korra (3x06:1B) Old Wounds'
-- 'Avatar: The Legend of Korra (3x07:1B) Original Airbenders'
-- 'Avatar: The Legend of Korra (3x08:1B) The Terror Within'
-- 'Avatar: The Legend of Korra (3x09:1B) The Stakeout'
-- 'Avatar: The Legend of Korra (3x10:1B) Long Live the Queen'
-- 'Avatar: The Legend of Korra (3x11:1B) The Ultimatum'
-- 'Avatar: The Legend of Korra (3x12:1B) Enter the Void'
-- 'Avatar: The Legend of Korra (3x13:1B) Venom of the Red Lotus'
-- 'Avatar: The Legend of Korra (4x01:1B) After All These Years'
-- 'Avatar: The Legend of Korra (4x02:1B) Korra Alone'
-- 'Avatar: The Legend of Korra (4x03:1B) The Coronation'
-- 'Avatar: The Legend of Korra (4x04:1B) The Calling'
-- 'Avatar: The Legend of Korra (4x05:1B) Enemy at the Gates'
-- 'Avatar: The Legend of Korra (4x06:1B) The Battle of Zaofu'
-- 'Avatar: The Legend of Korra (4x07:1B) Reunion'
-- 'Avatar: The Legend of Korra (4x08:1B) Remembrances'
-- 'Avatar: The Legend of Korra (4x09:1B) Beyond the Wilds'
-- 'Avatar: The Legend of Korra (4x10:1B) Operation Beifong'
-- 'Avatar: The Legend of Korra (4x11:1B) Kuvira’s Gambit'
-- 'Avatar: The Legend of Korra (4x12:1B) Day of the Colossus'
-- 'Avatar: The Legend of Korra (4x13:1B) The Last Stand'
-- Babylon 5 (1x01:1U) Midnight on the Firing Line
-- Babylon 5 (1x02:1U) Soul Hunter
-- Babylon 5 (1x03:1U) Born to the Purple
-- Babylon 5 (1x04:1U) Infection
-- Babylon 5 (1x05:2U) The Parliament of Dreams
-- Babylon 5 (1x06:2U) Mind War
-- Babylon 5 (1x07:2U) The War Prayer
-- Babylon 5 (1x08:2U) And the Sky Full of Stars
-- Babylon 5 (1x09:3U) Deathwalker
-- Babylon 5 (1x10:3U) Believers
-- Babylon 5 (1x11:3U) Survivors
-- Babylon 5 (1x12:3U) By Any Means Necessary
-- Babylon 5 (1x13:4U) Signs and Portents
-- Babylon 5 (1x14:4U) TKO
-- Babylon 5 (1x15:4U) Grail
-- Babylon 5 (1x16:4U) Eyes
-- Babylon 5 (1x17:5U) Legacies
-- Babylon 5 (1x18:5U) A Voice in the Wilderness
-- Babylon 5 (1x19:5U) Babylon Squared
-- Babylon 5 (1x21:6U) The Quality of Mercy
-- Babylon 5 (1x22:6U) Chrysalis
-- Babylon 5 (2x01:1U) Points of Departure
-- Babylon 5 (2x02:1U) Revelations
-- Babylon 5 (2x03:1U) The Geometry of Shadows
-- Babylon 5 (2x04:1U) A Distant Star
-- Babylon 5 (2x05:2U) The Long Dark
-- Babylon 5 (2x06:2U) Spider in the Web
-- Babylon 5 (2x07:2U) Soul Mates
-- Babylon 5 (2x08:2U) A Race Through Dark Places
-- Babylon 5 (2x09:3U) The Coming of Shadows
-- Babylon 5 (2x10:3U) GROPOS
-- Babylon 5 (2x11:3U) All Alone in the Night
-- Babylon 5 (2x12:3U) Acts of Sacrifice
-- Babylon 5 (2x13:4U) Hunter, Prey
-- Babylon 5 (2x14:4U) There All the Honor Lies
-- Babylon 5 (2x15:4U) And Now For a Word
-- Babylon 5 (2x16:4U) In the Shadow of Z’Ha’Dum
-- Babylon 5 (2x17:5U) Knives
-- Babylon 5 (2x18:5U) Confessions and Lamentations
-- Babylon 5 (2x19:5U) Divided Loyalties
-- Babylon 5 (2x20:5U) The Long, Twilight Struggle
-- Babylon 5 (2x21:6U) Comes the Inquisitor
-- Babylon 5 (2x22:6U) The Fall of Night
-- Babylon 5 (3x01:1U) Matters of Honor
-- Babylon 5 (3x02:1U) Convictions
-- Babylon 5 (3x03:1U) A Day in the Strife
-- Babylon 5 (3x04:1U) Passing Through Gethsemane
-- Babylon 5 (3x05:2U) Voices of Authority
-- Babylon 5 (3x06:2U) Dust to Dust
-- Babylon 5 (3x07:2U) Exogenesis
-- Babylon 5 (3x08:2U) Messages From Earth
-- Babylon 5 (3x09:3U) Point of No Return
-- Babylon 5 (3x10:3U) Severed Dreams
-- Babylon 5 (3x11:3U) Ceremonies of Light and Dark
-- Babylon 5 (3x12:3U) Sic Transit Vir
-- Babylon 5 (3x13:4U) A Late Delivery from Avalon
-- Babylon 5 (3x14:4U) Ship of Tears
-- Babylon 5 (3x15:4U) Interludes and Examinations
-- Babylon 5 (3x16:4U) War Without End
-- Babylon 5 (3x17:5U) Walkabout
-- Babylon 5 (3x19:5U) Grey 17 Is Missing
-- Babylon 5 (3x20:5U) And the Rock Cried Out, No Hiding Place
-- Babylon 5 (3x21:6U) Shadow Dancing
-- Babylon 5 (3x22:6U) Z’Ha’Dum
-- Babylon 5 (4x01:1U) The Hour of the Wolf
-- Babylon 5 (4x02:1U) Whatever Happened to Mr. Garibaldi?
-- Babylon 5 (4x03:1U) The Summoning
-- Babylon 5 (4x04:1U) Falling Toward Apotheosis
-- Babylon 5 (4x05:2U) The Long Night
-- Babylon 5 (4x06:2U) Into the Fire
-- Babylon 5 (4x07:2U) Epiphanies
-- Babylon 5 (4x08:2U) The Illusion of Truth
-- Babylon 5 (4x09:3U) Atonement
-- Babylon 5 (4x10:3U) Racing Mars
-- Babylon 5 (4x11:3U) Lines of Communication
-- Babylon 5 (4x12:3U) Conflicts of Interest
-- Babylon 5 (4x13:4U) Rumors, Bargains and Lies
-- Babylon 5 (4x14:4U) Moments of Transition
-- Babylon 5 (4x15:4U) No Surrender, No Retreat
-- Babylon 5 (4x16:4U) The Exercise of Vital Powers
-- Babylon 5 (4x17:5U) The Face of the Enemy
-- Babylon 5 (4x18:5U) Intersections in Real Time
-- Babylon 5 (4x19:5U) Between the Darkness and the Light
-- Babylon 5 (4x20:5U) Endgame
-- Babylon 5 (4x21:6U) Rising Star
-- Babylon 5 (4x22:6U) The Deconstruction of Falling Stars
-- Babylon 5 (5x01:1U) No Compromises
-- Babylon 5 (5x02:1U) The Very Long Night of Londo Mollari
-- Babylon 5 (5x03:1U) The Paragon of Animals
-- Babylon 5 (5x04:1U) A View from the Gallery
-- Babylon 5 (5x05:2U) Learning Curve
-- Babylon 5 (5x06:2U) Strange Relations
-- Babylon 5 (5x07:2U) Secrets of the Soul
-- Babylon 5 (5x08:2U) Day of the Dead
-- Babylon 5 (5x09:3U) In the Kingdom of the Blind
-- Babylon 5 (5x10:3U) A Tragedy of Telepaths
-- Babylon 5 (5x11:3U) Phoenix Rising
-- Babylon 5 (5x12:3U) The Ragged Edge
-- Babylon 5 (5x13:4U) The Corps is Mother, the Corps is Father
-- Babylon 5 (5x14:4U) Meditations on the Abyss
-- Babylon 5 (5x15:4U) Darkness Ascending
-- Babylon 5 (5x16:4U) And All My Dreams, Torn Asunder
-- Babylon 5 (5x17:5U) Movements of Fire and Shadow
-- Babylon 5 (5x18:5U) The Fall of Centauri Prime
-- Babylon 5 (5x19:5U) Wheel of Fire
-- Babylon 5 (5x20:5U) Objects in Motion
-- Babylon 5 (5x21:6U) Objects at Rest
-- Babylon 5 (5x22:6U) Sleeping in Light
-- Babylon 5 (U) The Gathering
-- Babylon 5 (U) In the Beginning
-- Babylon 5 (U) Thirdspace
-- Babylon 5 (U) River of Souls
-- Babylon 5 (U) A Call to Arms
-- Becker (1x01:139B)
+- Andromeda (5x21\2:11R) The Heart of the Journey
+- (194F) Arrival
+- '(286B) Atlantis: The Lost Empire'
+- Austin Powers (1:81F) International Man of Mystery
+- Austin Powers (2:82F) The Spy Who Shagged Me
+- Austin Powers (3:83F) Goldmember
+- 'Avatar: The Legend of Aang - Water (1x01:1C) The Boy in the Iceberg'
+- 'Avatar: The Legend of Aang - Water (1x02:1C) The Avatar Returns'
+- 'Avatar: The Legend of Aang - Water (1x03:1C) The Southern Air Temple'
+- 'Avatar: The Legend of Aang - Water (1x04:1C) The Warriors of Kyoshi'
+- 'Avatar: The Legend of Aang - Water (1x05:2C) The King of Omashu'
+- 'Avatar: The Legend of Aang - Water (1x06:2C) Imprisoned'
+- 'Avatar: The Legend of Aang - Water (1x07:2C) Winter Solstice: The Spirit World'
+- 'Avatar: The Legend of Aang - Water (1x08:2C) Winter Solstice: Avatar Roku'
+- 'Avatar: The Legend of Aang - Water (1x09:3C) The Waterbending Scroll'
+- 'Avatar: The Legend of Aang - Water (1x10:3C) Jet'
+- 'Avatar: The Legend of Aang - Water (1x11:3C) The Great Divide'
+- 'Avatar: The Legend of Aang - Water (1x12:3C) The Storm'
+- 'Avatar: The Legend of Aang - Water (1x13:4C) The Blue Spirit'
+- 'Avatar: The Legend of Aang - Water (1x14:4C) The Fortuneteller'
+- 'Avatar: The Legend of Aang - Water (1x15:4C) Bato of the Water Tribe'
+- 'Avatar: The Legend of Aang - Water (1x16:4C) The Deserter'
+- 'Avatar: The Legend of Aang - Water (1x17:5C) The Northern Air Temple'
+- 'Avatar: The Legend of Aang - Water (1x18:5C) The Waterbending Master'
+- 'Avatar: The Legend of Aang - Water (1x19\2:5C) The Siege of the North'
+- 'Avatar: The Last Airbender - Earth (2x01:1C) The Avatar State'
+- 'Avatar: The Last Airbender - Earth (2x02:1C) The Cave of Two Lovers'
+- 'Avatar: The Last Airbender - Earth (2x03:1C) Return to Omashu'
+- 'Avatar: The Last Airbender - Earth (2x04:1C) The Swamp'
+- 'Avatar: The Last Airbender - Earth (2x05:1C) Avatar Day'
+- 'Avatar: The Last Airbender - Earth (2x06:2C) The Blind Bandit'
+- 'Avatar: The Last Airbender - Earth (2x07:2C) Zuko Alone'
+- 'Avatar: The Last Airbender - Earth (2x08:2C) The Chase'
+- 'Avatar: The Last Airbender - Earth (2x09:2C) Bitter Work'
+- 'Avatar: The Last Airbender - Earth (2x10:2C) The Library'
+- 'Avatar: The Last Airbender - Earth (2x11:3C) The Desert'
+- 'Avatar: The Last Airbender - Earth (2x12:3C) Journey to Ba Sing Se: The Serpent’s Pass'
+- 'Avatar: The Last Airbender - Earth (2x13:3C) Journey to Ba Sing Se: The Drill'
+- 'Avatar: The Last Airbender - Earth (2x14:3C) City of Walls and Secrets'
+- 'Avatar: The Last Airbender - Earth (2x15a:3C) The Tales of Ba Sing Se: The Tale of Toph and Katara'
+- 'Avatar: The Last Airbender - Earth (2x15b:3C) The Tales of Ba Sing Se: The Tale of Iroh'
+- 'Avatar: The Last Airbender - Earth (2x15c:3C) The Tales of Ba Sing Se: The Tale of Aang'
+- 'Avatar: The Last Airbender - Earth (2x15d:3C) The Tales of Ba Sing Se: The Tale of Sokka'
+- 'Avatar: The Last Airbender - Earth (2x15e:3C) The Tales of Ba Sing Se: The Tale of Zuko'
+- 'Avatar: The Last Airbender - Earth (2x15f:3C) The Tales of Ba Sing Se: The Tale of Momo'
+- 'Avatar: The Last Airbender - Earth (2x16:4C) Appa’s Lost Days'
+- 'Avatar: The Last Airbender - Earth (2x17:4C) Lake Laogai'
+- 'Avatar: The Last Airbender - Earth (2x18:4C) The Earth King'
+- 'Avatar: The Last Airbender - Earth (2x19:4C) The Guru'
+- 'Avatar: The Last Airbender - Earth (2x20:4C) The Crossroads of Destiny'
+- 'Avatar: The Last Airbender - Fire (3x01:1C) The Awakening'
+- 'Avatar: The Last Airbender - Fire (3x02:1C) The Headband'
+- 'Avatar: The Last Airbender - Fire (3x03:1C) The Painted Lady'
+- 'Avatar: The Last Airbender - Fire (3x04:1C) Sokka’s Master'
+- 'Avatar: The Last Airbender - Fire (3x05:1C) The Beach'
+- 'Avatar: The Last Airbender - Fire (3x06:2C) The Avatar and the Firelord'
+- 'Avatar: The Last Airbender - Fire (3x07:2C) The Runaway'
+- 'Avatar: The Last Airbender - Fire (3x08:2C) The Puppetmaster'
+- 'Avatar: The Last Airbender - Fire (3x09:2C) Nightmares and Daydreams'
+- 'Avatar: The Last Airbender - Fire (3x10:2C) The Day of Black Sun: The Invasion'
+- 'Avatar: The Last Airbender - Fire (3x11:3C) The Day of Black Sun: The Eclipse'
+- 'Avatar: The Last Airbender - Fire (3x12:3C) The Western Air Temple'
+- 'Avatar: The Last Airbender - Fire (3x13:3C) The Firebending Masters'
+- 'Avatar: The Last Airbender - Fire (3x14\2:3C) The Boiling Rock'
+- 'Avatar: The Last Airbender - Fire (3x15:4C) The Southern Raiders'
+- 'Avatar: The Last Airbender - Fire (3x17:4C) The Ember Island Players'
+- 'Avatar: The Last Airbender - Fire (3x18:4C) Sozin’s Comet: The Phoenix King'
+- 'Avatar: The Last Airbender - Fire (3x19:4C) Sozin’s Comet: The Old Masters'
+- 'Avatar: The Last Airbender - Fire (3x20:4C) Sozin’s Comet: Into the Inferno'
+- 'Avatar: The Last Airbender - Fire (3x21:4C) Sozin’s Comet: Avatar Aang'
+- 'Avatar: The Legend of Korra - Air (1x01:157B) Welcome to Republic City'
+- 'Avatar: The Legend of Korra - Air (1x02:157B) A Leaf in the Wind'
+- 'Avatar: The Legend of Korra - Air (1x03:157B) The Revelation'
+- 'Avatar: The Legend of Korra - Air (1x04:157B) The Voice in the Night'
+- 'Avatar: The Legend of Korra - Air (1x05:157B) The Spirit of Competition'
+- 'Avatar: The Legend of Korra - Air (1x06:157B) And the Winner is…'
+- 'Avatar: The Legend of Korra - Air (1x07:157B) The Aftermath'
+- 'Avatar: The Legend of Korra - Air (1x08:158B) When Extremes Meet'
+- 'Avatar: The Legend of Korra - Air (1x09:158B) Out of the Past'
+- 'Avatar: The Legend of Korra - Air (1x10:158B) Turning the Tides'
+- 'Avatar: The Legend of Korra - Air (1x11:158B) Skeletons in the Closet'
+- 'Avatar: The Legend of Korra - Air (1x12:158B) Endgame'
+- 'Avatar: The Legend of Korra - Spirits (2x01:159B) Rebel Spirit'
+- 'Avatar: The Legend of Korra - Spirits (2x02:159B) The Southern Lights'
+- 'Avatar: The Legend of Korra - Spirits (2x03\2:159B) Civil Wars'
+- 'Avatar: The Legend of Korra - Spirits (2x05:159B) Peacekeepers'
+- 'Avatar: The Legend of Korra - Spirits (2x06:159B) The Sting'
+- 'Avatar: The Legend of Korra - Spirits (2x07\2:159B) Beginnings'
+- 'Avatar: The Legend of Korra - Spirits (2x09:160B) The Guide'
+- 'Avatar: The Legend of Korra - Spirits (2x10:160B) A New Spiritual Age'
+- 'Avatar: The Legend of Korra - Spirits (2x11:160B) Night of a Thousand Stars'
+- 'Avatar: The Legend of Korra - Spirits (2x12:160B) Harmonic Convergence'
+- 'Avatar: The Legend of Korra - Spirits (2x13:160B) Darkness Falls'
+- 'Avatar: The Legend of Korra - Spirits (2x14:160B) Light in the Dark'
+- 'Avatar: The Legend of Korra - Change (3x01:161B) A Breath of Fresh Air'
+- 'Avatar: The Legend of Korra - Change (3x02:161B) Rebirth'
+- 'Avatar: The Legend of Korra - Change (3x03:161B) The Earth Queen'
+- 'Avatar: The Legend of Korra - Change (3x04:161B) In Harm’s Way'
+- 'Avatar: The Legend of Korra - Change (3x05:161B) The Metal Clan'
+- 'Avatar: The Legend of Korra - Change (3x06:161B) Old Wounds'
+- 'Avatar: The Legend of Korra - Change (3x07:161B) Original Airbenders'
+- 'Avatar: The Legend of Korra - Change (3x08:162B) The Terror Within'
+- 'Avatar: The Legend of Korra - Change (3x09:162B) The Stakeout'
+- 'Avatar: The Legend of Korra - Change (3x10:162B) Long Live the Queen'
+- 'Avatar: The Legend of Korra - Change (3x11:162B) The Ultimatum'
+- 'Avatar: The Legend of Korra - Change (3x12:162B) Enter the Void'
+- 'Avatar: The Legend of Korra - Change (3x13:162B) Venom of the Red Lotus'
+- 'Avatar: The Legend of Korra - Balance (4x01:163B) After All These Years'
+- 'Avatar: The Legend of Korra - Balance (4x02:163B) Korra Alone'
+- 'Avatar: The Legend of Korra - Balance (4x03:163B) The Coronation'
+- 'Avatar: The Legend of Korra - Balance (4x04:163B) The Calling'
+- 'Avatar: The Legend of Korra - Balance (4x05:163B) Enemy at the Gates'
+- 'Avatar: The Legend of Korra - Balance (4x06:163B) The Battle of Zaofu'
+- 'Avatar: The Legend of Korra - Balance (4x07:163B) Reunion'
+- 'Avatar: The Legend of Korra - Balance (4x08:164B) Remembrances'
+- 'Avatar: The Legend of Korra - Balance (4x09:164B) Beyond the Wilds'
+- 'Avatar: The Legend of Korra - Balance (4x10:164B) Operation Beifong'
+- 'Avatar: The Legend of Korra - Balance (4x11:164B) Kuvira’s Gambit'
+- 'Avatar: The Legend of Korra - Balance (4x12:164B) Day of the Colossus'
+- 'Avatar: The Legend of Korra - Balance (4x13:164B) The Last Stand'
+- Babylon 5 (1:1U) The Gathering
+- Babylon 5 - Signs and Portents (1x01:1U) Midnight on the Firing Line
+- Babylon 5 - Signs and Portents (1x02:1U) Soul Hunter
+- Babylon 5 - Signs and Portents (1x03:1U) Born to the Purple
+- Babylon 5 - Signs and Portents (1x04:1U) Infection
+- Babylon 5 - Signs and Portents (1x05:2U) The Parliament of Dreams
+- Babylon 5 - Signs and Portents (1x06:2U) Mind War
+- Babylon 5 - Signs and Portents (1x07:2U) The War Prayer
+- Babylon 5 - Signs and Portents (1x08:2U) And the Sky Full of Stars
+- Babylon 5 - Signs and Portents (1x09:3U) Deathwalker
+- Babylon 5 - Signs and Portents (1x10:3U) Believers
+- Babylon 5 - Signs and Portents (1x11:3U) Survivors
+- Babylon 5 - Signs and Portents (1x12:3U) By Any Means Necessary
+- Babylon 5 - Signs and Portents (1x13:4U) Signs and Portents
+- Babylon 5 - Signs and Portents (1x14:4U) TKO
+- Babylon 5 - Signs and Portents (1x15:4U) Grail
+- Babylon 5 - Signs and Portents (1x16:4U) Eyes
+- Babylon 5 - Signs and Portents (1x17:5U) Legacies
+- Babylon 5 - Signs and Portents (1x18\2:5U) A Voice in the Wilderness
+- Babylon 5 - Signs and Portents (1x19:5U) Babylon Squared
+- Babylon 5 - Signs and Portents (1x21:6U) The Quality of Mercy
+- Babylon 5 - Signs and Portents (1x22:6U) Chrysalis
+- Babylon 5 - The Coming of Shadows (2x01:1U) Points of Departure
+- Babylon 5 - The Coming of Shadows (2x02:1U) Revelations
+- Babylon 5 - The Coming of Shadows (2x03:1U) The Geometry of Shadows
+- Babylon 5 - The Coming of Shadows (2x04:1U) A Distant Star
+- Babylon 5 - The Coming of Shadows (2x05:2U) The Long Dark
+- Babylon 5 - The Coming of Shadows (2x06:2U) Spider in the Web
+- Babylon 5 - The Coming of Shadows (2x07:2U) Soul Mates
+- Babylon 5 - The Coming of Shadows (2x08:2U) A Race Through Dark Places
+- Babylon 5 - The Coming of Shadows (2x09:3U) The Coming of Shadows
+- Babylon 5 - The Coming of Shadows (2x10:3U) GROPOS
+- Babylon 5 - The Coming of Shadows (2x11:3U) All Alone in the Night
+- Babylon 5 - The Coming of Shadows (2x12:3U) Acts of Sacrifice
+- Babylon 5 - The Coming of Shadows (2x13:4U) Hunter, Prey
+- Babylon 5 - The Coming of Shadows (2x14:4U) There All the Honor Lies
+- Babylon 5 - The Coming of Shadows (2x15:4U) And Now For a Word
+- Babylon 5 - The Coming of Shadows (2x16:4U) In the Shadow of Z’ha’dum
+- Babylon 5 - The Coming of Shadows (2x17:5U) Knives
+- Babylon 5 - The Coming of Shadows (2x18:5U) Confessions and Lamentations
+- Babylon 5 - The Coming of Shadows (2x19:5U) Divided Loyalties
+- Babylon 5 - The Coming of Shadows (2x20:5U) The Long, Twilight Struggle
+- Babylon 5 - The Coming of Shadows (2x21:6U) Comes the Inquisitor
+- Babylon 5 - The Coming of Shadows (2x22:6U) The Fall of Night
+- Babylon 5 - Point of No Return (3x01:1U) Matters of Honor
+- Babylon 5 - Point of No Return (3x02:1U) Convictions
+- Babylon 5 - Point of No Return (3x03:1U) A Day in the Strife
+- Babylon 5 - Point of No Return (3x04:1U) Passing Through Gethsemane
+- Babylon 5 - Point of No Return (3x05:2U) Voices of Authority
+- Babylon 5 - Point of No Return (3x06:2U) Dust to Dust
+- Babylon 5 - Point of No Return (3x07:2U) Exogenesis
+- Babylon 5 - Point of No Return (3x08:2U) Messages From Earth
+- Babylon 5 - Point of No Return (3x09:3U) Point of No Return
+- Babylon 5 - Point of No Return (3x10:3U) Severed Dreams
+- Babylon 5 - Point of No Return (3x11:3U) Ceremonies of Light and Dark
+- Babylon 5 - Point of No Return (3x12:3U) Sic Transit Vir
+- Babylon 5 - Point of No Return (3x13:4U) A Late Delivery from Avalon
+- Babylon 5 - Point of No Return (3x14:4U) Ship of Tears
+- Babylon 5 - Point of No Return (3x15:4U) Interludes and Examinations
+- Babylon 5 - Point of No Return (3x16\2:4U) War Without End
+- Babylon 5 - Point of No Return (3x17:5U) Walkabout
+- Babylon 5 - Point of No Return (3x19:5U) Grey 17 Is Missing
+- Babylon 5 - Point of No Return (3x20:5U) And the Rock Cried Out, No Hiding Place
+- Babylon 5 - Point of No Return (3x21:6U) Shadow Dancing
+- Babylon 5 - Point of No Return (3x22:6U) Z’ha’dum
+- Babylon 5 - No Surrender, No Retreat (4x01:1U) The Hour of the Wolf
+- Babylon 5 - No Surrender, No Retreat (4x02:1U) Whatever Happened to Mr. Garibaldi?
+- Babylon 5 - No Surrender, No Retreat (4x03:1U) The Summoning
+- Babylon 5 - No Surrender, No Retreat (4x04:1U) Falling Toward Apotheosis
+- Babylon 5 - No Surrender, No Retreat (4x05:2U) The Long Night
+- Babylon 5 - No Surrender, No Retreat (4x06:2U) Into the Fire
+- Babylon 5 - No Surrender, No Retreat (4x07:2U) Epiphanies
+- Babylon 5 - No Surrender, No Retreat (4x08:2U) The Illusion of Truth
+- Babylon 5 - No Surrender, No Retreat (4x09:3U) Atonement
+- Babylon 5 (4x09:3U) Thirdspace
+- Babylon 5 - No Surrender, No Retreat (4x10:3U) Racing Mars
+- Babylon 5 - No Surrender, No Retreat (4x11:3U) Lines of Communication
+- Babylon 5 - No Surrender, No Retreat (4x12:3U) Conflicts of Interest
+- Babylon 5 - No Surrender, No Retreat (4x13:4U) Rumors, Bargains and Lies
+- Babylon 5 - No Surrender, No Retreat (4x14:4U) Moments of Transition
+- Babylon 5 - No Surrender, No Retreat (4x15:4U) No Surrender, No Retreat
+- Babylon 5 - No Surrender, No Retreat (4x16:4U) The Exercise of Vital Powers
+- Babylon 5 - No Surrender, No Retreat (4x17:5U) The Face of the Enemy
+- Babylon 5 - No Surrender, No Retreat (4x18:5U) Intersections in Real Time
+- Babylon 5 - No Surrender, No Retreat (4x19:5U) Between the Darkness and the Light
+- Babylon 5 - No Surrender, No Retreat (4x20:5U) Endgame
+- Babylon 5 - No Surrender, No Retreat (4x21:6U) Rising Star
+- Babylon 5 - No Surrender, No Retreat (4x22:6U) The Deconstruction of Falling Stars
+- Babylon 5 - Wheel of Fire (5x01:1U) No Compromises
+- Babylon 5 - Wheel of Fire (5x02:1U) The Very Long Night of Londo Mollari
+- Babylon 5 - Wheel of Fire (5x03:1U) The Paragon of Animals
+- Babylon 5 - Wheel of Fire (5x04:1U) A View from the Gallery
+- Babylon 5 - Wheel of Fire (5x05:2U) Learning Curve
+- Babylon 5 - Wheel of Fire (5x06:2U) Strange Relations
+- Babylon 5 - Wheel of Fire (5x07:2U) Secrets of the Soul
+- Babylon 5 - Wheel of Fire (5x08:2U) Day of the Dead
+- Babylon 5 - Wheel of Fire (5x09:3U) In the Kingdom of the Blind
+- Babylon 5 - Wheel of Fire (5x10:3U) A Tragedy of Telepaths
+- Babylon 5 - Wheel of Fire (5x11:3U) Phoenix Rising
+- Babylon 5 - Wheel of Fire (5x12:3U) The Ragged Edge
+- Babylon 5 - Wheel of Fire (5x13:4U) The Corps is Mother, the Corps is Father
+- Babylon 5 - Wheel of Fire (5x14:4U) Meditations on the Abyss
+- Babylon 5 - Wheel of Fire (5x15:4U) Darkness Ascending
+- Babylon 5 - Wheel of Fire (5x16:4U) And All My Dreams, Torn Asunder
+- Babylon 5 - Wheel of Fire (5x17:5U) Movements of Fire and Shadow
+- Babylon 5 - Wheel of Fire (5x18:5U) The Fall of Centauri Prime
+- Babylon 5 - Wheel of Fire (5x19:5U) Wheel of Fire
+- Babylon 5 - Wheel of Fire (5x20:5U) Objects in Motion
+- Babylon 5 - Wheel of Fire (5x21:6U) Objects at Rest
+- Babylon 5 - Wheel of Fire (5x22:6U) Sleeping in Light
+- Babylon 5 (5x23:4U) River of Souls
+- Babylon 5 (5x23:5U) A Call to Arms
+- Babylon 5 (5x24:2U) In the Beginning
+- (1:113F) Back to the Future
+- Back to the Future (2:114F) To Set Right What Once Went Wrong
+- Back to the Future (3:115F) The Old West
+- (1:101F) Batman
+- Batman (2:102F) Returns
+- Batman (3:103F) Forever
+- Batman (4:104F) and Robin
+- Batman (5:41F) Begins
+- (163F) Beauty and the Beast
+- (1x01:139B) Becker
 - Becker (1x02:139B) Take These Pills and Shove ’Em
 - Becker (1x03:139B) Sex in the Inner City
 - Becker (1x04:139B) Tell Me Lies
@@ -417,8 +661,8 @@ text:
 - Becker (1x21:141B) Lucky Day
 - Becker (1x22:141B) Regarding Reggie
 - Becker (2x01:142B) Point of Contact
-- Becker (2x02:142B) Imm-Oral Fixations
-- Becker (2x03:142B) Cyrano De-Beckerac
+- Becker (2x02:142B) Imm‑Oral Fixations
+- Becker (2x03:142B) Cyrano De‑Beckerac
 - Becker (2x04:142B) Linda Quits
 - Becker (2x05:142B) My Boyfriend’s Back
 - Becker (2x06:142B) Shovel Off to Buffalo
@@ -475,9 +719,9 @@ text:
 - Becker (4x09:149B) The Buddy System
 - Becker (4x10:149B) The Ghost of Christmas Presents
 - Becker (4x11:149B) Another Tricky Day
-- Becker (4x12:149B) The Ex-Files
+- Becker (4x12:149B) The Ex‑Files
 - Becker (4x13:149B) Barter Sauce
-- Becker (4x14:149B) V-Day
+- Becker (4x14:149B) V‑Day
 - Becker (4x15:149B) It Had to Be Ew
 - Becker (4x16:149B) Let’s Talk About Sex
 - Becker (4x17:150B) Picture Imperfect
@@ -497,10 +741,10 @@ text:
 - Becker (5x07:151B) Papa Does Preach
 - Becker (5x08:152B) Atlas Shirked
 - Becker (5x09:152B) Blind Injustice
-- Becker (5x10:152B) Chris-Mess
+- Becker (5x10:152B) Chris‑Mess
 - Becker (5x11:152B) Once Upon a Time
 - Becker (5x12:152B) Bad to the Bone
-- Becker (5x13:152B) But I’ve Got Friends I Haven’t Used Yet
+- Becker (5x13:152B) I’ve Got Friends I Haven’t Used Yet
 - Becker (5x14:152B) The Pain in the Neck
 - Becker (5x15:152B) Nightmare on Becker Street
 - Becker (5x16:153B) The Job
@@ -511,8 +755,8 @@ text:
 - Becker (5x21:153B) Chris’s Ex
 - Becker (5x22:153B) Daytime Believer
 - Becker (6x01:154B) What’s Love Got To Do With It?
-- Becker (6x02:154B) Dates & Nuts
-- Becker (6x03:154B) A Little Ho-mance
+- Becker (6x02:154B) Dates &amp; Nuts
+- Becker (6x03:154B) A Little Ho‑mance
 - Becker (6x04:154B) Spontaneous Combustion
 - Becker (6x05:154B) The Unbelievable Wrongness of Talking
 - Becker (6x06:154B) Afterglow
@@ -523,116 +767,119 @@ text:
 - Becker (6x11:155B) Snow Means Snow
 - Becker (6x12:155B) Subway Story
 - Becker (6x13:155B) D.N.R.
-- Believe Nothing (01:D) Get Rich Quick
-- Believe Nothing (02:D) Prepare to Meteor Maker
-- Believe Nothing (03:D) Might As Well Face It, You’re Addicted to Fudge
-- Believe Nothing (04:D) Double First
-- Believe Nothing (05:D) The Unhappy Eater
-- Believe Nothing (06:D) Just a Minute
-- Bewitched (1x01:E) I, Darrin, Take This Witch, Samantha
-- Bewitched (1x02:E) Be it Ever So Mortgaged
-- Bewitched (1x03:E) It Shouldn’t Happen to a Dog
-- Bewitched (1x04:E) Mother Meets What’s His Name
-- Bewitched (1x05:E) Help, Help, Don’t Save Me
-- Bewitched (1x06:E) Little Pitchers Have Big Fears
-- Bewitched (1x07:E) The Witches Are Out
-- Bewitched (1x08:E) Witch or Wife?
-- Bewitched (1x09:E) The Girl Reporter
-- Bewitched (1x10:E) Just One Happy Family
-- Bewitched (1x11:E) It Takes One to Know One
-- Bewitched (1x12:E) ?And Something Makes Three
-- Bewitched (1x13:E) Love is Blind
-- Bewitched (1x14:E) Samantha Meets the Folks
-- Bewitched (1x15:E) A Vision of Sugar Plums
-- Bewitched (1x16:E) It’s Magic
-- Bewitched (1x17:E) A is for Aardvark
-- Bewitched (1x18:E) The Cat’s Meow
-- Bewitched (1x19:E) A Nice Little Dinner Party
-- Bewitched (1x20:E) Your Witch is Showing
-- Bewitched (1x21:E) Ling Ling
-- Bewitched (1x22:E) Eye of the Beholder
-- Bewitched (1x23:E) Red Light, Green Light
-- Bewitched (1x24:E) Which Witch is Which?
-- Bewitched (1x25:E) Pleasure O’Reilly
-- Bewitched (1x26:E) Driving is the Only Way to Fly
-- Bewitched (1x27:E) There’s No Witch Like an Old Witch
-- Bewitched (1x28:E) Open the Door Witchcraft
-- Bewitched (1x29:E) Abner Kadabra
-- Bewitched (1x30:E) George the Warlock
-- Bewitched (1x31:E) That Was My Wife
-- Bewitched (1x32:E) Illegal Separation
-- Bewitched (1x33:E) A Change of Face
-- Bewitched (1x34:E) Remember the Main
-- Bewitched (1x35:E) Eat at Mario’s
-- Bewitched (1x36:E) Cousin Edgar
-- Bewitched (2x01:E) Alias Darrin Stephens
-- Bewitched (2x02:E) A Very Special Delivery
-- Bewitched (2x03:E) We’re in For a Bad Spell
-- Bewitched (2x04:E) My Grandson the Warlock
-- Bewitched (2x05:E) The Joker is a Card
-- Bewitched (2x06:E) Take Two Aspirin and Half a Pint of Porpoise Milk
-- Bewitched (2x07:E) Trick or Treat
-- Bewitched (2x08:E) The Very Informal Dress
-- Bewitched (2x09:E) And Then I Wrote?
-- Bewitched (2x10:E) Junior Executive
-- Bewitched (2x11:E) Aunt Clara’s Old Flame
-- Bewitched (2x12:E) A Strange Little Visitor
-- Bewitched (2x13:E) My Boss the Teddy Bear
-- Bewitched (2x14:E) Speak the Truth
-- Bewitched (2x16:E) The Magic Cabin
-- Bewitched (2x17:E) Maid to Order
-- Bewitched (2x18:E) And Then There Were Three
-- Bewitched (2x19:E) My Baby the Tycoon
-- Bewitched (2x21:E) Fastest Gun on Madison Avenue
-- Bewitched (2x22:E) The Dancing Bear
-- Bewitched (2x23:E) Double Tate
-- Bewitched (2x24:E) Samantha, the Dressmaker
-- Bewitched (2x25:E) The Horse’s Mouth
-- Bewitched (2x26:E) Baby’s First Paragraph
-- Bewitched (2x27:E) The Leprechaun
-- Bewitched (2x28:E) Double Split
-- Bewitched (2x29:E) Disappearing Samantha
-- Bewitched (2x30:E) Follow That Witch
-- Bewitched (2x32:E) A Bum Raps
-- Bewitched (2x33:E) Divided He Falls
-- Bewitched (2x34:E) Man’s Best Friend
-- Bewitched (2x35:E) The Catnapper
-- Bewitched (2x36:E) What Every Young Man Should Know
-- Bewitched (2x37:E) The Girl With the Golden Nose
-- Bewitched (2x38:E) Prodigy
-- Bewitched (3x01:E) Nobody’s Perfect
-- Bewitched (3x02:E) The Moment of Truth
-- Bewitched (3x03:E) Witches & Warlocks are My Favorite Things
-- Bewitched (3x04:E) Accidental Twins
-- Bewitched (3x05:E) A Most Unusual Wood Nymph
-- Bewitched (3x06:E) Endora Moves in For a Spell
-- Bewitched (3x07:E) Twitch or Treat
-- Bewitched (3x08:E) Dangerous Diaper Dan
-- Bewitched (3x09:E) The Short, Happy Circuit of Aunt Clara
-- Bewitched (3x10:E) I’d Rather Twitch Than Fight
-- Bewitched (3x11:E) Oedipus Hex
-- Bewitched (3x12:E) Sam’s Spooky Chair
-- Bewitched (3x13:E) My Friend Ben
-- Bewitched (3x14:E) Samantha for the Defense
-- Bewitched (3x15:E) A Gazebo Never Forgets
-- Bewitched (3x16:E) Soapbox Derby
-- Bewitched (3x17:E) Sam in the Moon
-- Bewitched (3x18:E) Ho Ho the Clown
-- Bewitched (3x19:E) Super Car
-- Bewitched (3x20:E) The Corn is as High as a Guernsey’s Eye
-- Bewitched (3x21:E) Trial & Error of Aunt Clara
-- Bewitched (3x22:E) Three Wishes
-- Bewitched (3x23:E) I Remember You?Sometimes
-- Bewitched (3x24:E) Art for Sam’s Sake
-- Bewitched (3x25:E) Charlie Harper, Winner
-- Bewitched (3x26:E) Aunt Clara’s Victoria Victory
-- Bewitched (3x27:E) The Crone of Cawdor
-- Bewitched (3x28:E) No More Mr. Nice Guy
-- Bewitched (3x29:E) It’s Wishcraft
-- Bewitched (3x30:E) How to Fail in Business With All Kinds of Help
-- Bewitched (3x31:E) Bewitched, Bothered and Infuriated
-- Bewitched (3x32:E) Nobody But a Frog Knows How to Live
-- Bewitched (3x33:E) There’s Gold in Them Thar Pills
+- (182F) Bedknobs and Broomsticks
+- (88F) Beetlejuice
+- Believe Nothing (1:D) Get Rich Quick
+- Believe Nothing (2:D) Prepare to Meteor Maker
+- Believe Nothing (3:D) Might As Well Face It, You’re Addicted to Fudge
+- Believe Nothing (4:D) Double First
+- Believe Nothing (5:D) The Unhappy Eater
+- Believe Nothing (6:D) Just a Minute
+- (E) Bewitched
+- Bewitched (1x01:1E) I, Darrin, Take This Witch, Samantha
+- Bewitched (1x02:1E) Be it Ever So Mortgaged
+- Bewitched (1x03:1E) It Shouldn’t Happen to a Dog
+- Bewitched (1x04:1E) Mother Meets What’s His Name
+- Bewitched (1x05:1E) Help, Help, Don’t Save Me
+- Bewitched (1x06:1E) Little Pitchers Have Big Fears
+- Bewitched (1x07:1E) The Witches Are Out
+- Bewitched (1x08:1E) Witch or Wife?
+- Bewitched (1x09:1E) The Girl Reporter
+- Bewitched (1x10:2E) Just One Happy Family
+- Bewitched (1x11:2E) It Takes One to Know One
+- Bewitched (1x12:2E) …⁠And Something Makes Three
+- Bewitched (1x13:2E) Love is Blind
+- Bewitched (1x14:2E) Samantha Meets the Folks
+- Bewitched (1x15:2E) A Vision of Sugar Plums
+- Bewitched (1x16:2E) It’s Magic
+- Bewitched (1x17:2E) A is for Aardvark
+- Bewitched (1x18:2E) The Cat’s Meow
+- Bewitched (1x19:3E) A Nice Little Dinner Party
+- Bewitched (1x20:3E) Your Witch is Showing
+- Bewitched (1x21:3E) Ling Ling
+- Bewitched (1x22:3E) Eye of the Beholder
+- Bewitched (1x23:3E) Red Light, Green Light
+- Bewitched (1x24:3E) Which Witch is Which?
+- Bewitched (1x25:3E) Pleasure O’Reilly
+- Bewitched (1x26:3E) Driving is the Only Way to Fly
+- Bewitched (1x27:3E) There’s No Witch Like an Old Witch
+- Bewitched (1x28:4E) Open the Door Witchcraft
+- Bewitched (1x29:4E) Abner Kadabra
+- Bewitched (1x30:4E) George the Warlock
+- Bewitched (1x31:4E) That Was My Wife
+- Bewitched (1x32:4E) Illegal Separation
+- Bewitched (1x33:4E) A Change of Face
+- Bewitched (1x34:4E) Remember the Main
+- Bewitched (1x35:4E) Eat at Mario’s
+- Bewitched (1x36:4E) Cousin Edgar
+- Bewitched (2x01:1E) Alias Darrin Stephens
+- Bewitched (2x02:1E) A Very Special Delivery
+- Bewitched (2x03:1E) We’re in For a Bad Spell
+- Bewitched (2x04:1E) My Grandson the Warlock
+- Bewitched (2x05:1E) The Joker is a Card
+- Bewitched (2x06:1E) Take Two Aspirin and Half a Pint of Porpoise Milk
+- Bewitched (2x07:1E) Trick or Treat
+- Bewitched (2x08:1E) The Very Informal Dress
+- Bewitched (2x09:1E) And Then I Wrote…
+- Bewitched (2x10:2E) Junior Executive
+- Bewitched (2x11:2E) Aunt Clara’s Old Flame
+- Bewitched (2x12:2E) A Strange Little Visitor
+- Bewitched (2x13:2E) My Boss the Teddy Bear
+- Bewitched (2x14:2E) Speak the Truth
+- Bewitched (2x16:2E) The Magic Cabin
+- Bewitched (2x17:2E) Maid to Order
+- Bewitched (2x18:2E) And Then There Were Three
+- Bewitched (2x19:3E) My Baby the Tycoon
+- Bewitched (2x21:3E) Fastest Gun on Madison Avenue
+- Bewitched (2x22:3E) The Dancing Bear
+- Bewitched (2x23:3E) Double Tate
+- Bewitched (2x24:3E) Samantha, the Dressmaker
+- Bewitched (2x25:3E) The Horse’s Mouth
+- Bewitched (2x26:3E) Baby’s First Paragraph
+- Bewitched (2x27:3E) The Leprechaun
+- Bewitched (2x28:4E) Double Split
+- Bewitched (2x29:4E) Disappearing Samantha
+- Bewitched (2x30\2:4E) Follow That Witch
+- Bewitched (2x32:4E) A Bum Raps
+- Bewitched (2x33:4E) Divided He Falls
+- Bewitched (2x34:4E) Man’s Best Friend
+- Bewitched (2x35:4E) The Catnapper
+- Bewitched (2x36:4E) What Every Young Man Should Know
+- Bewitched (2x37:5E) The Girl With the Golden Nose
+- Bewitched (2x38:5E) Prodigy
+- Bewitched (3x01:1E) Nobody’s Perfect
+- Bewitched (3x02:1E) The Moment of Truth
+- Bewitched (3x03:1E) Witches &amp; Warlocks are My Favorite Things
+- Bewitched (3x04:1E) Accidental Twins
+- Bewitched (3x05:1E) A Most Unusual Wood Nymph
+- Bewitched (3x06:1E) Endora Moves in For a Spell
+- Bewitched (3x07:1E) Twitch or Treat
+- Bewitched (3x08:1E) Dangerous Diaper Dan
+- Bewitched (3x09:1E) The Short, Happy Circuit of Aunt Clara
+- Bewitched (3x10:2E) I’d Rather Twitch Than Fight
+- Bewitched (3x11:2E) Oedipus Hex
+- Bewitched (3x12:2E) Sam’s Spooky Chair
+- Bewitched (3x13:2E) My Friend Ben
+- Bewitched (3x14:2E) Samantha for the Defense
+- Bewitched (3x15:2E) A Gazebo Never Forgets
+- Bewitched (3x16:2E) Soapbox Derby
+- Bewitched (3x17:2E) Sam in the Moon
+- Bewitched (3x18:3E) Ho Ho the Clown
+- Bewitched (3x19:3E) Super Car
+- Bewitched (3x20:3E) The Corn is as High as a Guernsey’s Eye
+- Bewitched (3x21:3E) Trial &amp; Error of Aunt Clara
+- Bewitched (3x22:3E) Three Wishes
+- Bewitched (3x23:3E) I Remember You…Sometimes
+- Bewitched (3x24:3E) Art for Sam’s Sake
+- Bewitched (3x25:3E) Charlie Harper, Winner
+- Bewitched (3x26:4E) Aunt Clara’s Victoria Victory
+- Bewitched (3x27:4E) The Crone of Cawdor
+- Bewitched (3x28:4E) No More Mr. Nice Guy
+- Bewitched (3x29:4E) It’s Wishcraft
+- Bewitched (3x30:4E) How to Fail in Business With All Kinds of Help
+- Bewitched (3x31:4E) Bewitched, Bothered and Infuriated
+- Bewitched (3x32:4E) Nobody But a Frog Knows How to Live
+- Bewitched (3x33:4E) There’s Gold in Them Thar Pills
 - Bewitched (4x01:1E) Long Live the Queen
 - Bewitched (4x02:1E) Toys in Babeland
 - Bewitched (4x03:1E) Business, Italian Style
@@ -645,9 +892,9 @@ text:
 - Bewitched (4x10:2E) That Was No Chick, That Was My Wife
 - Bewitched (4x11:2E) Allergic to Macedonian Dodo Birds
 - Bewitched (4x12:2E) Samantha’s Thanksgiving to Remember
-- Bewitched (4x13:2E) Solid Gold Mother-in-Law
+- Bewitched (4x13:2E) Solid Gold Mother‑in‑Law
 - Bewitched (4x14:3E) My, What Big Ears You Have
-- Bewitched (4x15:3E) I Get Your Nannie? You Get My Goat
+- Bewitched (4x15:3E) I Get Your Nannie… You Get My Goat
 - Bewitched (4x16:3E) Humbug Not to Be Spoken Here
 - Bewitched (4x17:3E) Samantha’s Da Vinci Dilemma
 - Bewitched (4x18:3E) Once in a Vial
@@ -663,7 +910,7 @@ text:
 - Bewitched (4x28:5E) I Confess
 - Bewitched (4x29:5E) A Majority of Two
 - Bewitched (4x30:5E) Samantha’s Secret Saucer
-- Bewitched (4x31:5E) The No-Harm Charm
+- Bewitched (4x31:5E) The No‑Harm Charm
 - Bewitched (4x32:5E) Man of the Year
 - Bewitched (4x33:5E) Splitsville
 - Bewitched (5x01:1E) Samantha’s Wedding Present
@@ -680,7 +927,7 @@ text:
 - Bewitched (5x12:2E) Weep No More My Willow
 - Bewitched (5x13:2E) Instant Courtesy
 - Bewitched (5x14:2E) Samantha’s Super Maid
-- Bewitched (5x15:2E) Serena Strikes Again
+- Bewitched (5x15\2:2E) Serena Strikes Again
 - Bewitched (5x17:3E) One Touch of Midas
 - Bewitched (5x18:3E) Samantha, the Bard
 - Bewitched (5x19:3E) Samantha, the Sculptress
@@ -738,7 +985,7 @@ text:
 - Bewitched (7x11:2E) The Corsican Cousins
 - Bewitched (7x12:2E) Samantha’s Magic Potion
 - Bewitched (7x13:2E) Sisters at Heart
-- Bewitched (7x14:2E) The Mother-in-Law of the Year
+- Bewitched (7x14:2E) The Mother‑in‑Law of the Year
 - Bewitched (7x15:3E) Mary, the Good Fairy
 - Bewitched (7x16:3E) The Good Fairy Strikes Again
 - Bewitched (7x17:3E) The Return of Darrin the Bold
@@ -753,9 +1000,9 @@ text:
 - Bewitched (7x26:4E) Samantha’s Magic Mirror
 - Bewitched (7x27:4E) Laugh, Clown, Laugh
 - Bewitched (7x28:4E) Samantha and the Antique Doll
-- Bewitched (8x01:1E) How Not to Lose Your Head to King Henry VIII
+- Bewitched (8x01\2:1E) How Not to Lose Your Head to King Henry VIII
 - Bewitched (8x03:1E) Samantha and the Loch Ness Monster
-- Bewitched (8x04:1E) Samantha’s Not-So-Leaning Tower of Pisa
+- Bewitched (8x04:1E) Samantha’s Not‑So‑Leaning Tower of Pisa
 - Bewitched (8x05:1E) Bewitched, Bothered, and Baldoni
 - Bewitched (8x06:1E) Paris, Witches’ Style
 - Bewitched (8x07:1E) The Ghost Who Made a Spectre of Himself
@@ -763,7 +1010,7 @@ text:
 - Bewitched (8x09:2E) A Plague on Maurice and Samantha
 - Bewitched (8x10:2E) Hansel and Gretel in Samanthaland
 - Bewitched (8x11:2E) The Warlock in the Gray Flannel Suit
-- Bewitched (8x12:2E) The Eight-Year Witch
+- Bewitched (8x12:2E) The Eight‑Year Witch
 - Bewitched (8x13:2E) Three Men and a Witch on a Horse
 - Bewitched (8x14:2E) Adam, Warlock or Washout?
 - Bewitched (8x15:3E) Samantha’s Magic Sitter
@@ -772,247 +1019,299 @@ text:
 - Bewitched (8x18:3E) Samantha on Thin Ice
 - Bewitched (8x19:3E) Serena’s Youth Pill
 - Bewitched (8x20:3E) Tabitha’s First Day at School
-- Bewitched (8x21:4E) George Washington Zapped Here
+- Bewitched (8x21\2:4E) George Washington Zapped Here
 - Bewitched (8x23:4E) School Days, School Daze
 - Bewitched (8x24:4E) A Good Turn Never Goes Unpunished
 - Bewitched (8x25:4E) Samantha’s Witchcraft Blows a Fuse
 - Bewitched (8x26:4E) The Truth, Nothing But the Truth, So Help Me Sam
-- The Big Bang Theory (1x01:L)
-- The Big Bang Theory (1x02:L) The Big Bran Hypothesis
-- The Big Bang Theory (1x03:L) The Fuzzy Boots Corollary
-- The Big Bang Theory (1x04:L) The Luminous Fish Effect
-- The Big Bang Theory (1x05:L) The Hamburger Postulate
-- The Big Bang Theory (1x06:L) The Middle Earth Paradigm
-- The Big Bang Theory (1x07:L) The Dumpling Paradox
-- The Big Bang Theory (1x08:L) The Grasshopper Experiment
-- The Big Bang Theory (1x09:L) The Cooper-Hofstadter Polarization
-- The Big Bang Theory (1x10:L) The Loobenfeld Decay
-- The Big Bang Theory (1x11:L) The Pancake Batter Anomaly
-- The Big Bang Theory (1x12:L) The Jerusalem Duality
-- The Big Bang Theory (1x13:L) The Bat Jar Conjecture
-- The Big Bang Theory (1x14:L) The Nerdvana Annihilation
-- The Big Bang Theory (1x15:L) The Pork Chop Indeterminacy
-- The Big Bang Theory (1x16:L) The Peanut Reaction
-- The Big Bang Theory (1x17:L) The Tangerine Factor
-- The Big Bang Theory (2x01:L) The Bad Fish Paradigm
-- The Big Bang Theory (2x02:L) The Codpiece Topology
-- The Big Bang Theory (2x03:L) The Barbarian Sublimation
-- The Big Bang Theory (2x04:L) The Griffin Equivalency
-- The Big Bang Theory (2x05:L) The Euclid Alternative
-- The Big Bang Theory (2x06:L) The Cooper-Nowitzki Theorem
-- The Big Bang Theory (2x07:L) The Panty Pi?ata Polarization
-- The Big Bang Theory (2x08:L) The Lizard-Spock Expansion
-- The Big Bang Theory (2x09:L) The White Asparagus Triangulation
-- The Big Bang Theory (2x10:L) The Vartabedian Conundrum
-- The Big Bang Theory (2x11:L) The Bath Item Gift Hypothesis
-- The Big Bang Theory (2x12:L) The Killer Robot Instability
-- The Big Bang Theory (2x13:L) The Friendship Algorithm
-- The Big Bang Theory (2x14:L) The Financial Permeability
-- The Big Bang Theory (2x15:L) The Maternal Capacitance
-- The Big Bang Theory (2x16:L) The Cushion Saturation
-- The Big Bang Theory (2x17:L) The Terminator Decoupling
-- The Big Bang Theory (2x18:L) The Work Song Nanocluster
-- The Big Bang Theory (2x19:L) The Dead Hooker Juxtaposition
-- The Big Bang Theory (2x20:L) The Hofstadter Isotope
-- The Big Bang Theory (2x21:L) The Vegas Renormalization
-- The Big Bang Theory (2x22:L) The Classified Materials Turbulence
-- The Big Bang Theory (2x23:L) The Monopolar Expedition
-- The Big Bang Theory (3x01:L) The Electric Can Opener Fluctuation
-- The Big Bang Theory (3x02:L) The Jiminy Conjecture
-- The Big Bang Theory (3x03:L) The Gothowitz Deviation
-- The Big Bang Theory (3x04:L) The Pirate Solution
-- The Big Bang Theory (3x05:L) The Creepy Candy Coating Corollary
-- The Big Bang Theory (3x06:L) The Cornhusker Vortex
-- The Big Bang Theory (3x07:L) The Guitarist Amplification
-- The Big Bang Theory (3x08:L) The Adhesive Duck Deficiency
-- The Big Bang Theory (3x09:L) The Vengeance Formulation
-- The Big Bang Theory (3x10:L) The Gorilla Experiment
-- The Big Bang Theory (3x11:L) The Maternal Congruence
-- The Big Bang Theory (3x12:L) The Psychic Vortex
-- The Big Bang Theory (3x13:L) The Bozeman Reaction
-- The Big Bang Theory (3x14:L) The Einstein Approximation
-- The Big Bang Theory (3x15:L) The Large Hadron Collision
-- The Big Bang Theory (3x16:L) The Excelsior Acquisition
-- The Big Bang Theory (3x17:L) The Precious Fragmentation
-- The Big Bang Theory (3x18:L) The Pants Alternative
-- The Big Bang Theory (3x19:L) The Wheaton Recurrence
-- The Big Bang Theory (3x20:L) The Spaghetti Catalyst
-- The Big Bang Theory (3x21:L) The Plimpton Stimulation
-- The Big Bang Theory (3x22:L) The Staircase Implementation
-- The Big Bang Theory (3x23:L) The Lunar Excitation
-- The Big Bang Theory (4x01:L) The Robotic Manipulation
-- The Big Bang Theory (4x02:L) The Cruciferous Vegetable Amplification
-- The Big Bang Theory (4x03:L) The Zazzy Substitution
-- The Big Bang Theory (4x04:L) The Hot Troll Deviation
-- The Big Bang Theory (4x05:L) The Desperation Emanation
-- The Big Bang Theory (4x06:L) The Irish Pub Formulation
-- The Big Bang Theory (4x07:L) The Apology Insufficiency
-- The Big Bang Theory (4x08:L) The 21-Second Excitation
-- The Big Bang Theory (4x09:L) The Boyfriend Complexity
-- The Big Bang Theory (4x10:L) The Alien Parasite Hypothesis
-- The Big Bang Theory (4x11:L) The Justice League Recombination
-- The Big Bang Theory (4x12:L) The Bus Pants Utilization
-- The Big Bang Theory (4x13:L) The Love Car Displacement
-- The Big Bang Theory (4x14:L) The Thespian Catalyst
-- The Big Bang Theory (4x15:L) The Benefactor Factor
-- The Big Bang Theory (4x16:L) The Cohabitation Formulation
-- The Big Bang Theory (4x17:L) The Toast Derivation
-- The Big Bang Theory (4x18:L) The Prestidigitation Approximation
-- The Big Bang Theory (4x19:L) The Zarnecki Incursion
-- The Big Bang Theory (4x20:L) The Herb Garden Germination
-- The Big Bang Theory (4x21:L) The Agreement Dissection
-- The Big Bang Theory (4x22:L) The Wildebeest Implementation
-- The Big Bang Theory (4x23:L) The Engagement Reaction
-- The Big Bang Theory (4x24:L) The Roommate Transmogrification
-- The Big Bang Theory (5x01:L) The Skank Reflex Analysis
-- The Big Bang Theory (5x02:L) The Infestation Hypothesis
-- The Big Bang Theory (5x03:L) The Pulled Groin Extrapolation
-- The Big Bang Theory (5x04:L) The Wiggly Finger Catalyst
-- The Big Bang Theory (5x05:L) The Russian Rocket Reaction
-- The Big Bang Theory (5x06:L) The Rhinitis Revelation
-- The Big Bang Theory (5x07:L) The Good Guy Fluctuation
-- The Big Bang Theory (5x08:L) The Isolation Permutation
-- The Big Bang Theory (5x09:L) The Ornithophobia Diffusion
-- The Big Bang Theory (5x10:L) The Flaming Spittoon Acquisition
-- The Big Bang Theory (5x11:L) The Speckerman Recurrence
-- The Big Bang Theory (5x12:L) The Shiny Trinket Maneuver
-- The Big Bang Theory (5x13:L) The Recombination Hypothesis
-- The Big Bang Theory (5x14:L) The Beta Test Initiation
-- The Big Bang Theory (5x15:L) The Friendship Contraction
-- The Big Bang Theory (5x16:L) The Vacation Solution
-- The Big Bang Theory (5x17:L) The Rothman Disintegration
-- The Big Bang Theory (5x18:L) The Werewolf Transformation
-- The Big Bang Theory (5x19:L) The Weekend Vortex
-- The Big Bang Theory (5x20:L) The Transporter Malfunction
-- The Big Bang Theory (5x21:L) The Hawking Excitation
-- The Big Bang Theory (5x22:L) The Stag Convergence
-- The Big Bang Theory (5x23:L) The Launch Acceleration
-- The Big Bang Theory (5x24:L) The Countdown Reflection
-- The Big Bang Theory (6x01:L) The Date Night Variable
-- The Big Bang Theory (6x02:L) The Decoupling Fluctuation
-- The Big Bang Theory (6x03:L) The Higgs Boson Observation
-- The Big Bang Theory (6x04:L) The Re-Entry Minimization
-- The Big Bang Theory (6x05:L) The Holographic Excitation
-- The Big Bang Theory (6x06:L) The Extract Obliteration
-- The Big Bang Theory (6x07:L) The Habitation Configuration
-- The Big Bang Theory (6x08:L) The 43 Peculiarity
-- The Big Bang Theory (6x09:L) The Parking Spot Escalation
-- The Big Bang Theory (6x10:L) The Fish Guts Displacement
-- The Big Bang Theory (6x11:L) The Santa Simulation
-- The Big Bang Theory (6x12:L) The Egg Salad Equivalency
-- The Big Bang Theory (6x13:L) The Bakersfield Expedition
-- The Big Bang Theory (6x14:L) The Cooper/Kripke Inversion
-- The Big Bang Theory (6x15:L) The Spoiler Alert Segmentation
-- The Big Bang Theory (6x16:L) The Tangible Affection Proof
-- The Big Bang Theory (6x17:L) The Monster Isolation
-- The Big Bang Theory (6x18:L) The Contractual Obligation Implementation
-- The Big Bang Theory (6x19:L) The Closet Reconfiguration
-- The Big Bang Theory (6x20:L) The Tenure Turbulence
-- The Big Bang Theory (6x21:L) The Closure Alternative
-- The Big Bang Theory (6x22:L) The Proton Resurgence
-- The Big Bang Theory (6x23:L) The Love Spell Potential
-- The Big Bang Theory (6x24:L) The Bon Voyage Reaction
-- The Big Bang Theory (7x01:L) The Hofstadter Insufficiency
-- The Big Bang Theory (7x02:L) The Deception Verification
-- The Big Bang Theory (7x03:L) The Scavenger Vortex
-- The Big Bang Theory (7x04:L) The Raiders Minimization
-- The Big Bang Theory (7x05:L) The Workplace Proximity
-- The Big Bang Theory (7x06:L) The Romance Resonance
-- The Big Bang Theory (7x07:L) The Proton Displacement
-- The Big Bang Theory (7x08:L) The Itchy Brain Simulation
-- The Big Bang Theory (7x09:L) The Thanksgiving Decoupling
-- The Big Bang Theory (7x10:L) The Discovery Dissipation
-- The Big Bang Theory (7x11:L) The Cooper Extraction
-- The Big Bang Theory (7x12:L) The Hesitation Ramification
-- The Big Bang Theory (7x13:L) The Occupation Recalibration
-- The Big Bang Theory (7x14:L) The Convention Conundrum
-- The Big Bang Theory (7x15:L) The Locomotive Manipulation
-- The Big Bang Theory (7x16:L) The Table Polarization
-- The Big Bang Theory (7x17:L) The Friendship Turbulence
-- The Big Bang Theory (7x18:L) The Mommy Observation
-- The Big Bang Theory (7x19:L) The Indecision Amalgamation
-- The Big Bang Theory (7x20:L) The Relationship Diremption
-- The Big Bang Theory (7x21:L) The Anything Can Happen Recurrence
-- The Big Bang Theory (7x22:L) The Proton Transmogrification
-- The Big Bang Theory (7x23:L) The Gorilla Dissolution
-- The Big Bang Theory (7x24:L) The Status Quo Combustion
-- The Big Bang Theory (8x01:L) The Locomotion Interruption
-- The Big Bang Theory (8x02:L) The Junior Professor Solution
-- The Big Bang Theory (8x03:L) The First Pitch Insufficiency
-- The Big Bang Theory (8x04:L) The Hook-up Reverberation
-- The Big Bang Theory (8x05:L) The Focus Attentuation
-- The Big Bang Theory (8x06:L) The Expedition Approximation
-- The Big Bang Theory (8x07:L) The Misinterpretation Agitation
-- The Big Bang Theory (8x08:L) The Prom Equivalency
-- The Big Bang Theory (8x09:L) The Septum Deviation
-- The Big Bang Theory (8x10:L) The Champagne Reflection
-- The Big Bang Theory (8x11:L) The Clean Room Infiltration
-- The Big Bang Theory (8x12:L) The Space Probe Disintegration
-- The Big Bang Theory (8x13:L) The Anxiety Optimization
-- The Big Bang Theory (8x14:L) The Troll Manifestation
-- The Big Bang Theory (8x15:L) The Comic Book Store Regeneration
-- The Big Bang Theory (8x16:L) The Intimacy Acceleration
-- The Big Bang Theory (8x17:L) The Colonization Application
-- The Big Bang Theory (8x18:L) The Leftover Thermalization
-- The Big Bang Theory (8x19:L) The Skywalker Incursion
-- The Big Bang Theory (8x20:L) The Fortification Implementation
-- The Big Bang Theory (8x21:L) The Communication Deterioration
-- The Big Bang Theory (8x22:L) The Graduation Transmission
-- The Big Bang Theory (8x23:L) The Maternal Combustion
-- The Big Bang Theory (8x24:L) The Commitment Determination
-- The Big Bang Theory (9x01:L) The Matrimonial Momentum
-- The Big Bang Theory (9x02:L) The Separation Oscillation
-- The Big Bang Theory (9x03:L) The Bachelor Party Corrosion
-- The Big Bang Theory (9x04:L) The 2003 Approximation
-- The Big Bang Theory (9x05:L) The Perspiration Implementation
-- The Big Bang Theory (9x06:L) The Helium Insufficiency
-- The Big Bang Theory (9x07:L) The Spock Resonance
-- The Big Bang Theory (9x08:L) The Mystery Date Observation
-- The Big Bang Theory (9x09:L) The Platonic Permutation
-- The Big Bang Theory (9x10:L) The Earworm Reverberation
-- The Big Bang Theory (9x11:L) The Opening Night Excitation
-- The Big Bang Theory (9x12:L) The Sales Call Sublimation
-- The Big Bang Theory (9x13:L) The Empathy Optimization
-- The Big Bang Theory (9x14:L) The Meemaw Materialization
-- The Big Bang Theory (9x15:L) The Valentino Submergence
-- The Big Bang Theory (9x16:L) The Positive Negative Reaction
-- The Big Bang Theory (9x17:L) The Celebration Experimentation
-- The Big Bang Theory (9x18:L) The Application Deterioration
-- The Big Bang Theory (9x19:L) The Solder Excursion Diversion
-- The Big Bang Theory (9x20:L) The Big Bear Precipitation
-- The Big Bang Theory (9x21:L) The Viewing Party Combustion
-- The Big Bang Theory (9x22:L) The Fermentation Bifurcation
-- The Big Bang Theory (9x23:L) The Line Substitution Solution
-- The Big Bang Theory (9x24:L) The Convergence Convergence
-- The Big Bang Theory (10x01:L) The Conjugal Conjecture
-- The Big Bang Theory (10x02:L) The Military Miniaturization
-- The Big Bang Theory (10x03:L) The Dependence Transcendence
-- The Big Bang Theory (10x04:L) The Cohabitation Experimentation
-- The Big Bang Theory (10x05:L) The Hot Tub Contamination
-- The Big Bang Theory (10x06:L) The Fetal Kick Catalyst
-- The Big Bang Theory (10x07:L) The Veracity Elasticity
-- The Big Bang Theory (10x08:L) The Brain Bowl Incubation
-- The Big Bang Theory (10x09:L) The Geology Elevation
-- The Big Bang Theory (10x10:L) The Property Division Collision
-- The Big Bang Theory (10x11:L) The Birthday Synchronicity
-- The Big Bang Theory (10x12:L) The Holiday Summation
-- The Big Bang Theory (10x13:L) The Romance Recalibration
-- The Big Bang Theory (10x14:L) The Emotion Detection Automation
-- The Big Bang Theory (10x15:L) The Locomotion Reverberation
-- The Big Bang Theory (10x16:L) The Allowance Evaporation
-- The Big Bang Theory (10x17:L) The Comic-Con Conundrum
-- The Big Bang Theory (10x18:L) The Escape Hatch Identification
-- The Big Bang Theory (10x19:L) The Collaboration Fluctuation
-- The Big Bang Theory (10x20:L) The Recollection Dissipation
-- The Big Bang Theory (10x21:L) The Separation Agitation
-- The Big Bang Theory (10x22:L) The Cognition Regeneration
-- The Big Bang Theory (10x23:L) The Gyroscopic Collapse
-- The Big Bang Theory (10x24:L) The Long Distance Dissonance
+- (1x01:1L) The Big Bang Theory
+- The Big Bang Theory (1x02:1L) The Big Bran Hypothesis
+- The Big Bang Theory (1x03:1L) The Fuzzy Boots Corollary
+- The Big Bang Theory (1x04:1L) The Luminous Fish Effect
+- The Big Bang Theory (1x05:1L) The Hamburger Postulate
+- The Big Bang Theory (1x06:1L) The Middle Earth Paradigm
+- The Big Bang Theory (1x07:2L) The Dumpling Paradox
+- The Big Bang Theory (1x08:2L) The Grasshopper Experiment
+- The Big Bang Theory (1x09:2L) The Cooper‑Hofstadter Polarization
+- The Big Bang Theory (1x10:2L) The Loobenfeld Decay
+- The Big Bang Theory (1x11:2L) The Pancake Batter Anomaly
+- The Big Bang Theory (1x12:2L) The Jerusalem Duality
+- The Big Bang Theory (1x13:3L) The Bat Jar Conjecture
+- The Big Bang Theory (1x14:3L) The Nerdvana Annihilation
+- The Big Bang Theory (1x15:3L) The Pork Chop Indeterminacy
+- The Big Bang Theory (1x16:3L) The Peanut Reaction
+- The Big Bang Theory (1x17:3L) The Tangerine Factor
+- The Big Bang Theory (2x01:1L) The Bad Fish Paradigm
+- The Big Bang Theory (2x02:1L) The Codpiece Topology
+- The Big Bang Theory (2x03:1L) The Barbarian Sublimation
+- The Big Bang Theory (2x04:1L) The Griffin Equivalency
+- The Big Bang Theory (2x05:1L) The Euclid Alternative
+- The Big Bang Theory (2x06:2L) The Cooper‑Nowitzki Theorem
+- The Big Bang Theory (2x07:2L) The Panty Piñata Polarization
+- The Big Bang Theory (2x08:2L) The Lizard‑Spock Expansion
+- The Big Bang Theory (2x09:2L) The White Asparagus Triangulation
+- The Big Bang Theory (2x10:2L) The Vartabedian Conundrum
+- The Big Bang Theory (2x11:2L) The Bath Item Gift Hypothesis
+- The Big Bang Theory (2x12:3L) The Killer Robot Instability
+- The Big Bang Theory (2x13:3L) The Friendship Algorithm
+- The Big Bang Theory (2x14:3L) The Financial Permeability
+- The Big Bang Theory (2x15:3L) The Maternal Capacitance
+- The Big Bang Theory (2x16:3L) The Cushion Saturation
+- The Big Bang Theory (2x17:3L) The Terminator Decoupling
+- The Big Bang Theory (2x18:4L) The Work Song Nanocluster
+- The Big Bang Theory (2x19:4L) The Dead Hooker Juxtaposition
+- The Big Bang Theory (2x20:4L) The Hofstadter Isotope
+- The Big Bang Theory (2x21:4L) The Vegas Renormalization
+- The Big Bang Theory (2x22:4L) The Classified Materials Turbulence
+- The Big Bang Theory (2x23:4L) The Monopolar Expedition
+- The Big Bang Theory (3x01:1L) The Electric Can Opener Fluctuation
+- The Big Bang Theory (3x02:1L) The Jiminy Conjecture
+- The Big Bang Theory (3x03:1L) The Gothowitz Deviation
+- The Big Bang Theory (3x04:1L) The Pirate Solution
+- The Big Bang Theory (3x05:1L) The Creepy Candy Coating Corollary
+- The Big Bang Theory (3x06:1L) The Cornhusker Vortex
+- The Big Bang Theory (3x07:1L) The Guitarist Amplification
+- The Big Bang Theory (3x08:1L) The Adhesive Duck Deficiency
+- The Big Bang Theory (3x09:2L) The Vengeance Formulation
+- The Big Bang Theory (3x10:2L) The Gorilla Experiment
+- The Big Bang Theory (3x11:2L) The Maternal Congruence
+- The Big Bang Theory (3x12:2L) The Psychic Vortex
+- The Big Bang Theory (3x13:2L) The Bozeman Reaction
+- The Big Bang Theory (3x14:2L) The Einstein Approximation
+- The Big Bang Theory (3x15:2L) The Large Hadron Collision
+- The Big Bang Theory (3x16:2L) The Excelsior Acquisition
+- The Big Bang Theory (3x17:3L) The Precious Fragmentation
+- The Big Bang Theory (3x18:3L) The Pants Alternative
+- The Big Bang Theory (3x19:3L) The Wheaton Recurrence
+- The Big Bang Theory (3x20:3L) The Spaghetti Catalyst
+- The Big Bang Theory (3x21:3L) The Plimpton Stimulation
+- The Big Bang Theory (3x22:3L) The Staircase Implementation
+- The Big Bang Theory (3x23:3L) The Lunar Excitation
+- The Big Bang Theory (4x01:1L) The Robotic Manipulation
+- The Big Bang Theory (4x02:1L) The Cruciferous Vegetable Amplification
+- The Big Bang Theory (4x03:1L) The Zazzy Substitution
+- The Big Bang Theory (4x04:1L) The Hot Troll Deviation
+- The Big Bang Theory (4x05:1L) The Desperation Emanation
+- The Big Bang Theory (4x06:1L) The Irish Pub Formulation
+- The Big Bang Theory (4x07:1L) The Apology Insufficiency
+- The Big Bang Theory (4x08:1L) The 21‑Second Excitation
+- The Big Bang Theory (4x09:2L) The Boyfriend Complexity
+- The Big Bang Theory (4x10:2L) The Alien Parasite Hypothesis
+- The Big Bang Theory (4x11:2L) The Justice League Recombination
+- The Big Bang Theory (4x12:2L) The Bus Pants Utilization
+- The Big Bang Theory (4x13:2L) The Love Car Displacement
+- The Big Bang Theory (4x14:2L) The Thespian Catalyst
+- The Big Bang Theory (4x15:2L) The Benefactor Factor
+- The Big Bang Theory (4x16:2L) The Cohabitation Formulation
+- The Big Bang Theory (4x17:3L) The Toast Derivation
+- The Big Bang Theory (4x18:3L) The Prestidigitation Approximation
+- The Big Bang Theory (4x19:3L) The Zarnecki Incursion
+- The Big Bang Theory (4x20:3L) The Herb Garden Germination
+- The Big Bang Theory (4x21:3L) The Agreement Dissection
+- The Big Bang Theory (4x22:3L) The Wildebeest Implementation
+- The Big Bang Theory (4x23:3L) The Engagement Reaction
+- The Big Bang Theory (4x24:3L) The Roommate Transmogrification
+- The Big Bang Theory (5x01:1L) The Skank Reflex Analysis
+- The Big Bang Theory (5x02:1L) The Infestation Hypothesis
+- The Big Bang Theory (5x03:1L) The Pulled Groin Extrapolation
+- The Big Bang Theory (5x04:1L) The Wiggly Finger Catalyst
+- The Big Bang Theory (5x05:1L) The Russian Rocket Reaction
+- The Big Bang Theory (5x06:1L) The Rhinitis Revelation
+- The Big Bang Theory (5x07:1L) The Good Guy Fluctuation
+- The Big Bang Theory (5x08:1L) The Isolation Permutation
+- The Big Bang Theory (5x09:1L) The Ornithophobia Diffusion
+- The Big Bang Theory (5x10:1L) The Flaming Spittoon Acquisition
+- The Big Bang Theory (5x11:1L) The Speckerman Recurrence
+- The Big Bang Theory (5x12:2L) The Shiny Trinket Maneuver
+- The Big Bang Theory (5x13:2L) The Recombination Hypothesis
+- The Big Bang Theory (5x14:2L) The Beta Test Initiation
+- The Big Bang Theory (5x15:2L) The Friendship Contraction
+- The Big Bang Theory (5x16:2L) The Vacation Solution
+- The Big Bang Theory (5x17:2L) The Rothman Disintegration
+- The Big Bang Theory (5x18:2L) The Werewolf Transformation
+- The Big Bang Theory (5x19:2L) The Weekend Vortex
+- The Big Bang Theory (5x20:2L) The Transporter Malfunction
+- The Big Bang Theory (5x21:2L) The Hawking Excitation
+- The Big Bang Theory (5x22:2L) The Stag Convergence
+- The Big Bang Theory (5x23:2L) The Launch Acceleration
+- The Big Bang Theory (5x24:2L) The Countdown Reflection
+- The Big Bang Theory (6x01:1L) The Date Night Variable
+- The Big Bang Theory (6x02:1L) The Decoupling Fluctuation
+- The Big Bang Theory (6x03:1L) The Higgs Boson Observation
+- The Big Bang Theory (6x04:1L) The Re‑Entry Minimization
+- The Big Bang Theory (6x05:1L) The Holographic Excitation
+- The Big Bang Theory (6x06:1L) The Extract Obliteration
+- The Big Bang Theory (6x07:1L) The Habitation Configuration
+- The Big Bang Theory (6x08:1L) The 43 Peculiarity
+- The Big Bang Theory (6x09:1L) The Parking Spot Escalation
+- The Big Bang Theory (6x10:1L) The Fish Guts Displacement
+- The Big Bang Theory (6x11:1L) The Santa Simulation
+- The Big Bang Theory (6x12:2L) The Egg Salad Equivalency
+- The Big Bang Theory (6x13:2L) The Bakersfield Expedition
+- The Big Bang Theory (6x14:2L) The Cooper/Kripke Inversion
+- The Big Bang Theory (6x15:2L) The Spoiler Alert Segmentation
+- The Big Bang Theory (6x16:2L) The Tangible Affection Proof
+- The Big Bang Theory (6x17:2L) The Monster Isolation
+- The Big Bang Theory (6x18:2L) The Contractual Obligation Implementation
+- The Big Bang Theory (6x19:2L) The Closet Reconfiguration
+- The Big Bang Theory (6x20:2L) The Tenure Turbulence
+- The Big Bang Theory (6x21:2L) The Closure Alternative
+- The Big Bang Theory (6x22:2L) The Proton Resurgence
+- The Big Bang Theory (6x23:2L) The Love Spell Potential
+- The Big Bang Theory (6x24:2L) The Bon Voyage Reaction
+- The Big Bang Theory (7x01:1L) The Hofstadter Insufficiency
+- The Big Bang Theory (7x02:1L) The Deception Verification
+- The Big Bang Theory (7x03:1L) The Scavenger Vortex
+- The Big Bang Theory (7x04:1L) The Raiders Minimization
+- The Big Bang Theory (7x05:1L) The Workplace Proximity
+- The Big Bang Theory (7x06:1L) The Romance Resonance
+- The Big Bang Theory (7x07:1L) The Proton Displacement
+- The Big Bang Theory (7x08:1L) The Itchy Brain Simulation
+- The Big Bang Theory (7x09:1L) The Thanksgiving Decoupling
+- The Big Bang Theory (7x10:1L) The Discovery Dissipation
+- The Big Bang Theory (7x11:1L) The Cooper Extraction
+- The Big Bang Theory (7x12:2L) The Hesitation Ramification
+- The Big Bang Theory (7x13:2L) The Occupation Recalibration
+- The Big Bang Theory (7x14:2L) The Convention Conundrum
+- The Big Bang Theory (7x15:2L) The Locomotive Manipulation
+- The Big Bang Theory (7x16:2L) The Table Polarization
+- The Big Bang Theory (7x17:2L) The Friendship Turbulence
+- The Big Bang Theory (7x18:2L) The Mommy Observation
+- The Big Bang Theory (7x19:2L) The Indecision Amalgamation
+- The Big Bang Theory (7x20:2L) The Relationship Diremption
+- The Big Bang Theory (7x21:2L) The Anything Can Happen Recurrence
+- The Big Bang Theory (7x22:2L) The Proton Transmogrification
+- The Big Bang Theory (7x23:2L) The Gorilla Dissolution
+- The Big Bang Theory (7x24:2L) The Status Quo Combustion
+- The Big Bang Theory (8x01:1L) The Locomotion Interruption
+- The Big Bang Theory (8x02:1L) The Junior Professor Solution
+- The Big Bang Theory (8x03:1L) The First Pitch Insufficiency
+- The Big Bang Theory (8x04:1L) The Hook‑up Reverberation
+- The Big Bang Theory (8x05:1L) The Focus Attentuation
+- The Big Bang Theory (8x06:1L) The Expedition Approximation
+- The Big Bang Theory (8x07:1L) The Misinterpretation Agitation
+- The Big Bang Theory (8x08:1L) The Prom Equivalency
+- The Big Bang Theory (8x09:1L) The Septum Deviation
+- The Big Bang Theory (8x10:1L) The Champagne Reflection
+- The Big Bang Theory (8x11:1L) The Clean Room Infiltration
+- The Big Bang Theory (8x12:2L) The Space Probe Disintegration
+- The Big Bang Theory (8x13:2L) The Anxiety Optimization
+- The Big Bang Theory (8x14:2L) The Troll Manifestation
+- The Big Bang Theory (8x15:2L) The Comic Book Store Regeneration
+- The Big Bang Theory (8x16:2L) The Intimacy Acceleration
+- The Big Bang Theory (8x17:2L) The Colonization Application
+- The Big Bang Theory (8x18:2L) The Leftover Thermalization
+- The Big Bang Theory (8x19:2L) The Skywalker Incursion
+- The Big Bang Theory (8x20:2L) The Fortification Implementation
+- The Big Bang Theory (8x21:2L) The Communication Deterioration
+- The Big Bang Theory (8x22:2L) The Graduation Transmission
+- The Big Bang Theory (8x23:2L) The Maternal Combustion
+- The Big Bang Theory (8x24:2L) The Commitment Determination
+- The Big Bang Theory (9x01:1L) The Matrimonial Momentum
+- The Big Bang Theory (9x02:1L) The Separation Oscillation
+- The Big Bang Theory (9x03:1L) The Bachelor Party Corrosion
+- The Big Bang Theory (9x04:1L) The 2003 Approximation
+- The Big Bang Theory (9x05:1L) The Perspiration Implementation
+- The Big Bang Theory (9x06:1L) The Helium Insufficiency
+- The Big Bang Theory (9x07:1L) The Spock Resonance
+- The Big Bang Theory (9x08:1L) The Mystery Date Observation
+- The Big Bang Theory (9x09:1L) The Platonic Permutation
+- The Big Bang Theory (9x10:1L) The Earworm Reverberation
+- The Big Bang Theory (9x11:1L) The Opening Night Excitation
+- The Big Bang Theory (9x12:2L) The Sales Call Sublimation
+- The Big Bang Theory (9x13:2L) The Empathy Optimization
+- The Big Bang Theory (9x14:2L) The Meemaw Materialization
+- The Big Bang Theory (9x15:2L) The Valentino Submergence
+- The Big Bang Theory (9x16:2L) The Positive Negative Reaction
+- The Big Bang Theory (9x17:2L) The Celebration Experimentation
+- The Big Bang Theory (9x18:2L) The Application Deterioration
+- The Big Bang Theory (9x19:2L) The Solder Excursion Diversion
+- The Big Bang Theory (9x20:2L) The Big Bear Precipitation
+- The Big Bang Theory (9x21:2L) The Viewing Party Combustion
+- The Big Bang Theory (9x22:2L) The Fermentation Bifurcation
+- The Big Bang Theory (9x23:2L) The Line Substitution Solution
+- The Big Bang Theory (9x24:2L) The Convergence Convergence
+- The Big Bang Theory (10x01:1L) The Conjugal Conjecture
+- The Big Bang Theory (10x02:1L) The Military Miniaturization
+- The Big Bang Theory (10x03:1L) The Dependence Transcendence
+- The Big Bang Theory (10x04:1L) The Cohabitation Experimentation
+- The Big Bang Theory (10x05:1L) The Hot Tub Contamination
+- The Big Bang Theory (10x06:1L) The Fetal Kick Catalyst
+- The Big Bang Theory (10x07:1L) The Veracity Elasticity
+- The Big Bang Theory (10x08:1L) The Brain Bowl Incubation
+- The Big Bang Theory (10x09:1L) The Geology Elevation
+- The Big Bang Theory (10x10:1L) The Property Division Collision
+- The Big Bang Theory (10x11:1L) The Birthday Synchronicity
+- The Big Bang Theory (10x12:2L) The Holiday Summation
+- The Big Bang Theory (10x13:2L) The Romance Recalibration
+- The Big Bang Theory (10x14:2L) The Emotion Detection Automation
+- The Big Bang Theory (10x15:2L) The Locomotion Reverberation
+- The Big Bang Theory (10x16:2L) The Allowance Evaporation
+- The Big Bang Theory (10x17:2L) The Comic‑Con Conundrum
+- The Big Bang Theory (10x18:2L) The Escape Hatch Identification
+- The Big Bang Theory (10x19:2L) The Collaboration Fluctuation
+- The Big Bang Theory (10x20:2L) The Recollection Dissipation
+- The Big Bang Theory (10x21:2L) The Separation Agitation
+- The Big Bang Theory (10x22:2L) The Cognition Regeneration
+- The Big Bang Theory (10x23:2L) The Gyroscopic Collapse
+- The Big Bang Theory (10x24:2L) The Long Distance Dissonance
+- The Big Bang Theory (11x01:1L) The Proposal Proposal
+- The Big Bang Theory (11x02:1L) The Retraction Reaction
+- The Big Bang Theory (11x03:1L) The Relaxation Integration
+- The Big Bang Theory (11x04:1L) The Explosion Implosion
+- The Big Bang Theory (11x05:1L) The Collaboration Contamination
+- The Big Bang Theory (11x06:1L) The Proton Regeneration
+- The Big Bang Theory (11x07:1L) The Geology Methodology
+- The Big Bang Theory (11x08:1L) The Tesla Recoil
+- The Big Bang Theory (11x09:1L) The Bitcoin Entanglement
+- The Big Bang Theory (11x10:1L) The Confidence Erosion
+- The Big Bang Theory (11x11:1L) The Celebration Reverberation
+- The Big Bang Theory (11x12:2L) The Matrimonial Metric
+- The Big Bang Theory (11x13:2L) The Solo Oscillation
+- The Big Bang Theory (11x14:2L) The Separation Triangulation
+- The Big Bang Theory (11x15:2L) The Novelization Correlation
+- The Big Bang Theory (11x16:2L) The Neonatal Nomenclature
+- The Big Bang Theory (11x17:2L) The Athenaeum Allocation
+- The Big Bang Theory (11x18:2L) The Gates Excitation
+- The Big Bang Theory (11x19:2L) The Tenant Disassociation
+- The Big Bang Theory (11x20:2L) The Reclusive Potential
+- The Big Bang Theory (11x21:2L) The Comet Polarization
+- The Big Bang Theory (11x22:2L) The Monetary Insufficiency
+- The Big Bang Theory (11x23:2L) The Sibling Realignment
+- The Big Bang Theory (11x24:2L) The Bow Tie Asymmetry
+- The Big Bang Theory (12x01:1L) The Conjugal Configuration
+- The Big Bang Theory (12x02:1L) The Wedding Gift Wormhole
+- The Big Bang Theory (12x03:1L) The Procreation Calculation
+- The Big Bang Theory (12x04:1L) The Tam Turbulence
+- The Big Bang Theory (12x05:1L) The Planetarium Collision
+- The Big Bang Theory (12x06:1L) The Imitation Perturbation
+- The Big Bang Theory (12x07:1L) The Grant Allocation Derivation
+- The Big Bang Theory (12x08:1L) The Consummation Deviation
+- The Big Bang Theory (12x09:2L) The Citation Negation
+- The Big Bang Theory (12x10:2L) The VCR Illumination
+- The Big Bang Theory (12x11:2L) The Paintball Scattering
+- The Big Bang Theory (12x12:2L) The Propagation Proposition
+- The Big Bang Theory (12x13:2L) The Confirmation Polarization
+- The Big Bang Theory (12x14:2L) The Meteorite Manifestation
+- The Big Bang Theory (12x15:2L) The Donation Oscillation
+- The Big Bang Theory (12x16:3L) The D &amp; D Vortex
+- The Big Bang Theory (12x17:3L) The Conference Valuation
+- The Big Bang Theory (12x18:3L) The Laureate Accumulation
+- The Big Bang Theory (12x19:3L) The Inspiration Deprivation
+- The Big Bang Theory (12x20:3L) The Decision Reverberation
+- The Big Bang Theory (12x21:3L) The Plagiarism Schism
+- The Big Bang Theory (12x22:3L) The Maternal Conclusion
+- The Big Bang Theory (12x23:3L) The Change Constant
+- The Big Bang Theory (12x24:3L) The Stockholm Syndrome
+- (290B) Big Hero 6
+- Bill &amp; Ted (53F) Excellent Adventure
+- Bill &amp; Ted (54F) Bogus Journey
+- Bill &amp; Ted (314B) Face the Music
 - Black Books (1x01:165B) Cooking The Books
 - Black Books (1x02:165B) Manny’s First Day
 - Black Books (1x03:165B) The Grapes of Wrath
 - Black Books (1x04:165B) The Blackout
-- Black Books (1x05:165B) The Big Lock-Out
+- Black Books (1x05:165B) The Big Lock‑Out
 - Black Books (1x06:165B) He’s Leaving Home
 - Black Books (2x01:166B) The Entertainer
 - Black Books (2x02:166B) Fever
@@ -1022,43 +1321,43 @@ text:
 - Black Books (2x06:166B) A Nice Change
 - Black Books (3x01:167B) Manny Come Home
 - Black Books (3x02:167B) Elephants and Hens
-- Black Books (3x03:167B) Moo-ma and Moo-pa
+- Black Books (3x03:167B) Moo‑ma and Moo‑pa
 - Black Books (3x04:167B) A Little Flutter
 - Black Books (3x05:167B) Travel Writer
 - Black Books (3x06:167B) Party
-- Blackadder (1x01:W) The Foretelling
-- Blackadder (1x02:W) The Queen of Spain’s Beard
-- Blackadder (1x03:W) The Archbishop
-- Blackadder (1x04:W) Born to Be King
-- Blackadder (1x05:W) Witchsmeller Pursuivant
-- Blackadder (1x06:W) The Black Seal
-- Blackadder (2x01:W) Bells
-- Blackadder (2x02:W) Head
-- Blackadder (2x03:W) Potato
-- Blackadder (2x04:W) Money
-- Blackadder (2x05:W) Beer
-- Blackadder (2x06:W) Chains
-- Blackadder (3x01:W) Dish and Dishonesty
-- Blackadder (3x02:W) Ink and Incapability
-- Blackadder (3x03:W) Nob and Nobility
-- Blackadder (3x04:W) Sense and Senility
-- Blackadder (3x05:W) Amy and Amiability
-- Blackadder (3x06:W) Duel and Duality
-- Blackadder (4x01:W) Captain Cook
-- Blackadder (4x02:W) Corporal Punishment
-- Blackadder (4x03:W) Major Star
-- Blackadder (4x04:W) Private Plane
-- Blackadder (4x05:W) General Hospital
-- Blackadder (4x06:W) Goodbyeee
-- Blackadder (W) The Cavalier Years
-- Blackadder (W) A Christmas Carol
-- Blackadder (W) Back & Forth
+- Blackadder - The Black Adder (1x01:W) The Foretelling
+- Blackadder - The Black Adder (1x02:W) The Queen of Spain’s Beard
+- Blackadder - The Black Adder (1x03:W) The Archbishop
+- Blackadder - The Black Adder (1x04:W) Born to Be King
+- Blackadder - The Black Adder (1x05:W) Witchsmeller Pursuivant
+- Blackadder - The Black Adder (1x06:W) The Black Seal
+- Blackadder - Blackadder II (2x01:W) Bells
+- Blackadder - Blackadder II (2x02:W) Head
+- Blackadder - Blackadder II (2x03:W) Potato
+- Blackadder - Blackadder II (2x04:W) Money
+- Blackadder - Blackadder II (2x05:W) Beer
+- Blackadder - Blackadder II (2x06:W) Chains
+- Blackadder - Blackadder the Third (3x01:W) Dish and Dishonesty
+- Blackadder - Blackadder the Third (3x02:W) Ink and Incapability
+- Blackadder - Blackadder the Third (3x03:W) Nob and Nobility
+- Blackadder - Blackadder the Third (3x04:W) Sense and Senility
+- Blackadder - Blackadder the Third (3x05:W) Amy and Amiability
+- Blackadder - Blackadder the Third (3x06:W) Duel and Duality
+- Blackadder - Blackadder Goes Forth (4x01:W) Captain Cook
+- Blackadder - Blackadder Goes Forth (4x02:W) Corporal Punishment
+- Blackadder - Blackadder Goes Forth (4x03:W) Major Star
+- Blackadder - Blackadder Goes Forth (4x04:W) Private Plane
+- Blackadder - Blackadder Goes Forth (4x05:W) General Hospital
+- Blackadder - Blackadder Goes Forth (4x06:W) Goodbyeee
+- Blackadder (5:W) The Cavalier Years
+- Blackadder (5:W) A Christmas Carol
+- Blackadder (5:W) Back &amp; Forth
 - Blakes 7 (1x01:1H) The Way Back
 - Blakes 7 (1x02:1H) Space Fall
 - Blakes 7 (1x03:1H) Cygnus Alpha
 - Blakes 7 (1x04:2H) Time Squad
 - Blakes 7 (1x05:2H) The Web
-- Blakes 7 (1x06:2H) Seek-Locate-Destroy
+- Blakes 7 (1x06:2H) Seek‑Locate‑Destroy
 - Blakes 7 (1x07:3H) Mission to Destiny
 - Blakes 7 (1x08:3H) Duel
 - Blakes 7 (1x09:3H) Project Avalon
@@ -1090,7 +1389,7 @@ text:
 - Blakes 7 (3x09:3H) Sarcophagus
 - Blakes 7 (3x10:4H) Ultraworld
 - Blakes 7 (3x11:4H) Moloch
-- Blakes 7 (3x12:4H) Death-Watch
+- Blakes 7 (3x12:4H) Death‑Watch
 - Blakes 7 (3x13:5H) Terminal
 - Blakes 7 (4x01:1H) Rescue
 - Blakes 7 (4x02:1H) Power
@@ -1105,6 +1404,12 @@ text:
 - Blakes 7 (4x11:4H) Orbit
 - Blakes 7 (4x12:4H) Warlord
 - Blakes 7 (4x13:5H) Blake
+- (111F) Blazing Saddles
+- (686B) The Blues Brothers
+- (281B) Bolt
+- (79F) Born Free
+- Born Free (79F) Living Free
+- (27F) The Boy and the Pirates
 - Buffy, the Vampire Slayer (1x01:1M) Welcome to the Hellmouth
 - Buffy, the Vampire Slayer (1x02:1M) The Harvest
 - Buffy, the Vampire Slayer (1x03:1M) Witch
@@ -1112,7 +1417,7 @@ text:
 - Buffy, the Vampire Slayer (1x05:2M) Never Kill a Boy on the First Date
 - Buffy, the Vampire Slayer (1x06:2M) The Pack
 - Buffy, the Vampire Slayer (1x07:2M) Angel
-- Buffy, the Vampire Slayer (1x08:2M) I, Robot?You, Jane
+- Buffy, the Vampire Slayer (1x08:2M) I, Robot…You, Jane
 - Buffy, the Vampire Slayer (1x09:3M) The Puppet Show
 - Buffy, the Vampire Slayer (1x10:3M) Nightmares
 - Buffy, the Vampire Slayer (1x11:3M) Out of Mind, Out of Sight
@@ -1125,7 +1430,7 @@ text:
 - Buffy, the Vampire Slayer (2x06:5M) Halloween
 - Buffy, the Vampire Slayer (2x07:5M) Lie to Me
 - Buffy, the Vampire Slayer (2x08:5M) The Dark Age
-- Buffy, the Vampire Slayer (2x09:6M) What’s My Line?
+- Buffy, the Vampire Slayer (2x09\2:6M) What’s My Line?
 - Buffy, the Vampire Slayer (2x10:6M) Ted
 - Buffy, the Vampire Slayer (2x12:6M) Bad Eggs
 - Buffy, the Vampire Slayer (2x13:7M) Surprise
@@ -1136,7 +1441,7 @@ text:
 - Buffy, the Vampire Slayer (2x18:8M) Killed by Death
 - Buffy, the Vampire Slayer (2x19:8M) I Only Have Eyes For You
 - Buffy, the Vampire Slayer (2x20:8M) Go Fish
-- Buffy, the Vampire Slayer (2x21:9M) Becoming
+- Buffy, the Vampire Slayer (2x21\2:9M) Becoming
 - Buffy, the Vampire Slayer (3x01:10M) Anne
 - Buffy, the Vampire Slayer (3x02:10M) Dead Man’s Party
 - Buffy, the Vampire Slayer (3x03:10M) Faith, Hope and Trick
@@ -1152,12 +1457,12 @@ text:
 - Buffy, the Vampire Slayer (3x13:13M) The Zeppo
 - Buffy, the Vampire Slayer (3x14:13M) Bad Girls
 - Buffy, the Vampire Slayer (3x15:13M) Consequences
-- Buffy, the Vampire Slayer (3x16:14M) Doppelg?ngland
+- Buffy, the Vampire Slayer (3x16:14M) Doppelgängland
 - Buffy, the Vampire Slayer (3x17:14M) Enemies
 - Buffy, the Vampire Slayer (3x18:14M) Earshot
 - Buffy, the Vampire Slayer (3x19:14M) Choices
 - Buffy, the Vampire Slayer (3x20:15M) The Prom
-- Buffy, the Vampire Slayer (3x21:15M) Graduation Day
+- Buffy, the Vampire Slayer (3x21\2:15M) Graduation Day
 - Buffy, the Vampire Slayer (4x01:16M) The Freshman
 - Buffy, the Vampire Slayer (4x02:16M) Living Conditions
 - Buffy, the Vampire Slayer (4x03:16M) The Harsh Light of Day
@@ -1245,7 +1550,7 @@ text:
 - Buffy, the Vampire Slayer (7x20:39M) Touched
 - Buffy, the Vampire Slayer (7x21:39M) End of Days
 - Buffy, the Vampire Slayer (7x22:39M) Chosen
-- Angel (1x01:40M) City Of Angels
+- Angel (1x01:40M) City of…
 - Angel (1x02:40M) Lonely Hearts
 - Angel (1x03:40M) In the Dark
 - Angel (1x04:40M) I Fall to Pieces
@@ -1355,26 +1660,51 @@ text:
 - Angel (5x20:69M) The Girl in Question
 - Angel (5x21:69M) Power Play
 - Angel (5x22:69M) Not Fade Away
-- Charlie Jade (01:1B) The Big Bang
-- Charlie Jade (02:1B) Sand
-- Charlie Jade (03:1B) You Are Here
-- Charlie Jade (04:1B) The Power of Suggestion
-- Charlie Jade (05:2B) And Not a Drop to Drink
-- Charlie Jade (06:2B) Dirty Laundry
-- Charlie Jade (07:2B) Diamonds
-- Charlie Jade (08:2B) Devotion
-- Charlie Jade (09:3B) Betrayal
-- Charlie Jade (10:3B) Identity
-- Charlie Jade (11:3B) Thicker Than Water
-- Charlie Jade (12:3B) Choosing Sides
-- Charlie Jade (13:4B) Through a Mirror Darkly
-- Charlie Jade (14:4B) The Enemy of My Enemy
-- Charlie Jade (15:4B) Thing Unseen
-- Charlie Jade (16:5B) The Shortening of the Way
-- Charlie Jade (17:6B) Spin
-- Charlie Jade (18:6B) Bedtime Story
-- Charlie Jade (19:6B) Flesh
-- Charlie Jade (20:6B) Ouroboros
+- (8F) Bulletproof Monk
+- (60F) Calamity Jane
+- Carnival Row (1x01:459B) Some Dark God Wakes
+- Carnival Row (1x02:459B) Aisling
+- Carnival Row (1x03:459B) Kingdoms of the Moon
+- Carnival Row (1x04:459B) The Joining of Unlike Things
+- Carnival Row (1x05:459B) Grieve No More
+- Carnival Row (1x06:459B) Unaccompanied Fae
+- Carnival Row (1x07:459B) The World to Come
+- Carnival Row (1x08:459B) The Gloaming
+- Carnival Row (2x01:460B) Fight or Flight
+- Carnival Row (2x02:460B) New Dawn
+- Carnival Row (2x03:460B) The Martyr's Hand
+- Carnival Row (2x04:460B) An Unkindness of Ravens
+- Carnival Row (2x05:460B) Reckoning
+- Carnival Row (2x06:460B) Original Sins
+- Carnival Row (2x07:460B) Kindred
+- Carnival Row (2x08:460B) Facta Non Verba
+- Carnival Row (2x09:460B) Battle Lines
+- (2x10:460B) Carnival Row
+- (225B) Casablanca
+- (135F) Casper
+- (49F) Cast Away
+- (193F) The Castle
+- (240T) The Changeover
+- Charlie Jade (1:133B) The Big Bang
+- Charlie Jade (2:133B) Sand
+- Charlie Jade (3:133B) You Are Here
+- Charlie Jade (4:133B) The Power of Suggestion
+- Charlie Jade (5:134B) And Not a Drop to Drink
+- Charlie Jade (6:134B) Dirty Laundry
+- Charlie Jade (7:134B) Diamonds
+- Charlie Jade (8:134B) Devotion
+- Charlie Jade (9:135B) Betrayal
+- Charlie Jade (10:135B) Identity
+- Charlie Jade (11:135B) Thicker Than Water
+- Charlie Jade (12:135B) Choosing Sides
+- Charlie Jade (13:136B) Through a Mirror Darkly
+- Charlie Jade (14:136B) The Enemy of My Enemy
+- Charlie Jade (15:136B) Thing Unseen
+- Charlie Jade (16:137B) The Shortening of the Way
+- Charlie Jade (17:138B) Spin
+- Charlie Jade (18:138B) Bedtime Story
+- Charlie Jade (19:138B) Flesh
+- Charlie Jade (20:138B) Ouroboros
 - Charmed (1x01:73M) Something Wicca This Way Comes
 - Charmed (1x02:73M) I’ve Got You Under My Skin
 - Charmed (1x03:73M) Thank You For Not Morphing
@@ -1396,7 +1726,7 @@ text:
 - Charmed (1x19:77M) Out of Sight
 - Charmed (1x20:77M) The Power of Two
 - Charmed (1x21:78M) Love Hurts
-- Charmed (1x22:78M) D?j? Vu All Over Again
+- Charmed (1x22:78M) Déjà Vu All Over Again
 - Charmed (2x01:79M) Witch Trial
 - Charmed (2x02:79M) Morality Bites
 - Charmed (2x03:79M) The Painted World
@@ -1404,7 +1734,7 @@ text:
 - Charmed (2x05:80M) She’s a Man, Baby, a Man!
 - Charmed (2x06:80M) That Old Black Magic
 - Charmed (2x07:80M) They’re Everywhere
-- Charmed (2x08:80M) P3 h3O
+- Charmed (2x08:80M) P3 H2O
 - Charmed (2x09:81M) Ms. Hellfire
 - Charmed (2x10:81M) Heartbreak City
 - Charmed (2x11:81M) Reckless Abandon
@@ -1435,7 +1765,7 @@ text:
 - Charmed (3x14:88M) The Good, the Bad and the Cursed
 - Charmed (3x15:88M) Just Harried
 - Charmed (3x16:88M) Death Takes a Halliwell
-- Charmed (3x17:89M) Pre-Witched
+- Charmed (3x17:89M) Pre‑Witched
 - Charmed (3x18:89M) Sin Francisco
 - Charmed (3x19:89M) The Demon Who Came in from the Cold
 - Charmed (3x20:89M) Exit Strategy
@@ -1454,7 +1784,7 @@ text:
 - Charmed (4x11:93M) Lost and Bound
 - Charmed (4x12:94M) Charmed and Dangerous
 - Charmed (4x13:94M) The Three Faces of Phoebe
-- Charmed (4x14:94M) Marry-Go-Round
+- Charmed (4x14:94M) Marry‑Go‑Round
 - Charmed (4x15:94M) The Fifth Halliwheel
 - Charmed (4x16:95M) Saving Private Leo
 - Charmed (4x17:95M) Bite Me
@@ -1470,7 +1800,7 @@ text:
 - Charmed (5x06:98M) Sympathy for the Demon
 - Charmed (5x07:98M) A Witch in Time
 - Charmed (5x08:99M) Sam I Am
-- Charmed (5x09:99M) Y Tu Mummy Tambi?n
+- Charmed (5x09:99M) Y Tu Mummy También
 - Charmed (5x10:99M) The Importance of Being Phoebe
 - Charmed (5x11:99M) Centennial Charmed
 - Charmed (5x12:100M) House Call
@@ -1483,15 +1813,15 @@ text:
 - Charmed (5x19:101M) Sense and Sense Ability
 - Charmed (5x20:102M) Necromancing the Stone
 - Charmed (5x21:102M) Oh My Goddess
-- Charmed (6x01:103M) Valhalley of the Dolls
-- Charmed (6x02:103M) Forget Me?Not
+- Charmed (6x01\2:103M) Valhalley of the Dolls
+- Charmed (6x02:103M) Forget Me…Not
 - Charmed (6x04:103M) The Power of Three Blondes
 - Charmed (6x05:104M) Love’s a Witch
 - Charmed (6x06:104M) My Three Witches
 - Charmed (6x07:104M) Soul Survivor
 - Charmed (6x08:104M) Sword and the City
 - Charmed (6x09:105M) Little Monsters
-- Charmed (6x10:105M) Chris-Crossed
+- Charmed (6x10:105M) Chris‑Crossed
 - Charmed (6x11:105M) Witchstock
 - Charmed (6x12:105M) Prince Charmed
 - Charmed (6x13:106M) Used Karma
@@ -1500,10 +1830,10 @@ text:
 - Charmed (6x16:106M) The Courtship of Wyatt’s Father
 - Charmed (6x17:107M) Hyde School Reunion
 - Charmed (6x18:107M) Spin City
-- Charmed (6x19:107M) Crimes and Witch-Demeanors
+- Charmed (6x19:107M) Crimes and Witch‑Demeanors
 - Charmed (6x20:107M) A Wrong Day’s Journey Into Right
 - Charmed (6x21:108M) Witch Wars
-- Charmed (6x22:108M) It’s a Bad, Bad, Bad, Bad World
+- Charmed (6x22\2:108M) It’s a Bad, Bad, Bad, Bad World
 - Charmed (7x01:109M) A Call to Arms
 - Charmed (7x02:109M) The Bare Witch Project
 - Charmed (7x03:109M) Cheaper by the Coven
@@ -1548,14 +1878,80 @@ text:
 - Charmed (8x20:119M) Gone with the Witches
 - 'Charmed (8x21:120M) Kill Billie: Vol. 2'
 - Charmed (8x22:120M) Forever Charmed
-- Classic (29F) The Philadelphia Story
-- Classic (30F) North by Northwest
-- Classic (191F) The Manxman
-- Classic (191F) Rebecca
-- Classic (59F) Singin’ in the Rain
+- (1x01:449B) Charmed
+- Charmed (1x02:449B) Let This Mother Out
+- Charmed (1x03:449B) Sweet Tooth
+- Charmed (1x04:449B) Exorcise Your Demons
+- Charmed (1x05:449B) Other Women
+- Charmed (1x06:450B) Kappa Spirit
+- Charmed (1x07:450B) Out of Scythe
+- Charmed (1x08:450B) Bug a Boo
+- Charmed (1x09:450B) Jingle Hell
+- Charmed (1x10:450B) Keep Calm and Harry On
+- Charmed (1x11:451B) Witch Perfect
+- Charmed (1x12:451B) You’re Dead to Me
+- Charmed (1x13:451B) Manic Pixie Nightmare
+- Charmed (1x14:451B) Touched by a Demon
+- Charmed (1x15:452B) Switches &amp; Stones
+- Charmed (1x16:452B) Memento Mori
+- Charmed (1x17:452B) Surrender
+- Charmed (1x18:452B) The Replacement
+- Charmed (1x19:453B) Source Material
+- Charmed (1x20:453B) Ambush
+- Charmed (1x21:453B) Red Rain
+- Charmed (1x22:453B) The Source Awakens
+- Charmed (2x01:454B) Safe Space
+- Charmed (2x02:454B) Things to Do in Seattle When You’re Dead
+- Charmed (2x03:454B) Careful What You Witch For
+- Charmed (2x04:454B) Deconstructing Harry
+- Charmed (2x05:454B) The Truth About Kat and Dogs
+- Charmed (2x06:455B) When Sparks Fly
+- Charmed (2x07:455B) Past Is Present
+- Charmed (2x08:455B) The Rules of Engagement
+- Charmed (2x09:455B) Guess Who’s Coming to SafeSpace Seattle
+- Charmed (2x10:455B) Curse Words
+- Charmed (2x11:456B) Dance Like No One Is Witching
+- Charmed (2x12:456B) Needs to Know
+- Charmed (2x13:456B) Breaking the Cycle
+- Charmed (2x14:456B) Sudden Death
+- Charmed (2x15:456B) Third Time’s the Charm
+- Charmed (2x16:457B) The Enemy of My Frenemy
+- Charmed (2x17:457B) Search Party
+- Charmed (2x18:457B) Don’t Look Back in Anger
+- Charmed (2x19:457B) Unsafe Space
+- (145F) Chicken Run
+- (33F) Chocolat
+- The Chronicles of Narnia (1:3F) The Lion, the Witch and the Wardrobe
+- The Chronicles of Narnia (2:4F) Prince Caspian
+- The Chronicles of Narnia (3:248B) Voyage of the Dawn Treader
+- The City and the City (1:255B) Besźel
+- The City and the City (2:255B) Ul Qoma
+- The City and the City (3:256B) Orciny
+- The City and the City (4:256B) Breach
+- (275B) Clash of the Titans
+- (227T) Cleopatra
+- Cleverman (1x01:249B) First Contact
+- Cleverman (1x02:249B) Containment
+- Cleverman (1x03:249B) A Free Ranger
+- Cleverman (1x04:250B) Sun and Moon
+- Cleverman (1x05:250B) A Man of Vision
+- Cleverman (1x06:250B) Terra Nullius
+- Cleverman (2x01:252B) Revival
+- Cleverman (2x02:252B) Bindawu
+- Cleverman (2x03:252B) Dark Clouds
+- Cleverman (2x04:253B) Muya
+- Cleverman (2x05:253B) Skin
+- Cleverman (2x06:253B) Borrowed Time
+- (133F) Click
+- (266B) Clue
+- (245B) Coco
+- (P) Contact
+- The Cornetto Trilogy (1:277B) Shaun of the Dead
+- The Cornetto Trilogy (2:278B) Hot Fuzz
+- The Cornetto Trilogy (3:279B) The World’s End
 - Coupling (1x01:C) Flushed
 - Coupling (1x02:C) Size Matters
-- Coupling (1x03:C) Sex, Death & Nudity
+- Coupling (1x03:C) Sex, Death &amp; Nudity
 - Coupling (1x04:C) Inferno
 - Coupling (1x05:C) The Girl with Two Breasts
 - Coupling (1x06:C) The Cupboard of Patrick’s Love
@@ -1567,219 +1963,5649 @@ text:
 - Coupling (2x06:1C) Gotcha
 - Coupling (2x07:2C) Dressed
 - Coupling (2x08:2C) Naked
-- Coupling (2x09:C) The End of the Line
-- Coupling (3x01:C) Split
-- Coupling (3x02:C) Faithless
-- Coupling (3x03:C) Unconditional Sex
-- Coupling (3x04:C) Remember This
-- Coupling (3x05:C) The Freckle, The Key and The Couple Who Weren’t
-- Coupling (3x06:C) The Girl With One Heart
-- Coupling (3x07:C) Perhaps, Perhaps, Perhaps
+- Coupling (2x09:2C) The End of the Line
+- Coupling (3x01:3C) Split
+- Coupling (3x02:3C) Faithless
+- Coupling (3x03:3C) Unconditional Sex
+- Coupling (3x04:3C) Remember This
+- Coupling (3x05:3C) The Freckle, the Key and the Couple Who Weren’t
+- Coupling (3x06:4C) The Girl With One Heart
+- Coupling (3x07:4C) Perhaps, Perhaps, Perhaps
 - Coupling (4x01:C) Nine and a Half Minutes
 - Coupling (4x02:C) Nightlines
 - Coupling (4x03:C) Bed Time
 - Coupling (4x04:C) Circus of the Epidurals
 - Coupling (4x05:C) The Naked Living Room
 - Coupling (4x06:C) Nine and a Half Months
-- Crossing Jordan (2x01:B) There’s No Place Like Home
-- Crossing Jordan (2x02:B) Bombs Away
-- Crossing Jordan (2x03:B) The Truth Is Out There
-- Crossing Jordan (2x04:B) Payback
-- Crossing Jordan (2x05:B) As If by Fate
-- Crossing Jordan (2x06:B) One Twelve
-- Crossing Jordan (2x07:B) Scared Straight
-- Crossing Jordan (2x08:B) Don’t Look Back
-- Crossing Jordan (2x09:B) Prisoner Exchange
-- Crossing Jordan (2x10:B) Ockham’s Razor
-- Crossing Jordan (2x11:B) Family Ties
-- Crossing Jordan (2x12:B) Perfect Storm
-- Crossing Jordan (2x13:B) Strangled
-- Crossing Jordan (2x14:B) Wild Card
-- Crossing Jordan (2x15:B) John Doe
-- Crossing Jordan (2x16:B) Conspiracy
-- Crossing Jordan (2x17:B) Cruel and Unusual
-- Crossing Jordan (2x18:B) Fire and Ice
-- Crossing Jordan (2x19:B) Dead Wives Club
-- Crossing Jordan (2x20:B) Sunset Division
-- 'Crossing Jordan (2x21:B) Pandora’s Trunk: Part I'
-- 'Crossing Jordan (2x22:B) Pandora’s Trunk: Part II'
-- Crossing Jordan (3x01:B) Devil May Care
-- Crossing Jordan (3x02:B) Slam Dunk
-- Crossing Jordan (3x03:B) ’Til Death Do Us Part
-- Crossing Jordan (3x04:B) Is That Plutonium in Your Pocket, or Are You Just Happy to See Me?
-- Crossing Jordan (3x05:B) Dead or Alive
-- Crossing Jordan (3x06:B) Second Chances
-- Crossing Jordan (3x07:B) Missing Pieces
-- Crossing Jordan (3x08:B) Most Likely
-- Crossing Jordan (3x09:B) All the News Fit to Print
-- Crossing Jordan (3x10:B) Revealed
-- Crossing Jordan (3x11:B) He Said, She Said
-- Crossing Jordan (3x12:B) Dead in the Water
-- Crossing Jordan (3x13:B) Oh, Brother Where Art Thou?
-- Crossing Jordan (4x01:B) After Dark
-- Crossing Jordan (4x02:B) Out of Sight
-- Crossing Jordan (4x03:B) Intruded
-- Crossing Jordan (4x04:B) Deja Past
-- Crossing Jordan (4x05:B) Justice Delayed
-- Crossing Jordan (4x06:B) Blue Moon
-- Crossing Jordan (4x07:B) What Happens in Vegas Dies in Boston
-- Crossing Jordan (4x08:B) Fire from the Sky
-- Crossing Jordan (4x09:B) Necessary Risks
-- Crossing Jordan (4x10:B) A Stranger Among Us
-- Crossing Jordan (4x11:B) Murder in the Rue Morgue
-- Crossing Jordan (4x12:B) Family Affair
-- Crossing Jordan (4x13:B) You Really Got Me
-- Crossing Jordan (4x14:B) Gray Murders
-- Crossing Jordan (4x15:B) It Happened One Night
-- Crossing Jordan (4x16:B) Skin and Bone
-- Crossing Jordan (4x17:B) Locard’s Exchange
-- Crossing Jordan (4x18:B) Sanctuary
-- Crossing Jordan (4x19:B) Embraceable You
-- Crossing Jordan (4x20:B) Forget Me Not
-- Crossing Jordan (4x21:B) Jump Push Fall
-- Crossing Jordan (5x01:B) There’s No Place Like Home II
-- Crossing Jordan (5x02:B) Luck Be a Lady
-- Crossing Jordan (5x03:B) Under the Weather
-- Crossing Jordan (5x04:B) Judgement Day
-- Crossing Jordan (5x05:B) Enlightenment
-- Crossing Jordan (5x06:B) Total Recall
-- Crossing Jordan (5x07:B) Road Kill
-- Crossing Jordan (5x08:B) A Man in Blue
-- Crossing Jordan (5x09:B) Death Goes On
-- Crossing Jordan (5x10:B) Loves Me Not
-- Crossing Jordan (5x11:B) The Elephant in the Room
-- Crossing Jordan (5x12:B) Code of Ethics
-- Crossing Jordan (5x13:B) Dreamland
-- Crossing Jordan (5x14:B) Death Toll
-- Crossing Jordan (5x15:B) Blame Game
-- Crossing Jordan (5x16:B) Someone to Watch Over Me
-- Crossing Jordan (5x17:B) Save Me
-- Crossing Jordan (5x18:B) Thin Ice
-- Crossing Jordan (5x19:B) Mysterious Ways
-- Crossing Jordan (5x20:B) Mace vs. Scalpel
-- Crossing Jordan (5x21:B) Don’t Leave Me This Way
-- Crossing Jordan (6x01:B) Retribution
-- Crossing Jordan (6x02:B) Shattered
-- Crossing Jordan (6x03:B) 33 Bullets
-- Crossing Jordan (6x04:B) Crazy Little Thing Called Love
-- Crossing Jordan (6x05:B) Mr. Little and Mr. Big
-- Crossing Jordan (6x06:B) Night of the Living Dead
-- Crossing Jordan (6x07:B) Hubris
-- Crossing Jordan (6x08:B) Isolation
-- Crossing Jordan (6x09:B) Seven Feet Under
-- Crossing Jordan (6x10:B) Fall from Grace
-- Crossing Jordan (6x11:B) Faith
-- Crossing Jordan (6x12:B) Sleeping Beauty
-- Crossing Jordan (6x13:B) Post Hoc
-- Crossing Jordan (6x14:B) In Sickness & in Health
-- Crossing Jordan (6x15:B) Dead Again
-- Crossing Jordan (6x16:B) D.O.A.
-- Crossing Jordan (6x17:B) Crash
-- Crossing Jordan (01:1D)
-- Crossing Jordan (02:1D) The Dawn of a New Day
-- Crossing Jordan (03:1D) The Ties That Bind
-- Crossing Jordan (04:1D) Born to Run
-- Crossing Jordan (05:2D) You Can’t Go Home Again
-- Crossing Jordan (06:2D) Believers
-- Crossing Jordan (07:2D) Sight Unseen
-- Crossing Jordan (08:3D) Digger
-- Crossing Jordan (09:3D) Blue Christmas
-- Crossing Jordan (10:3D) Wrong Place, Wrong Time
-- Crossing Jordan (11:4D) Blood Relatives
-- Crossing Jordan (12:4D) Miracles & Wonders
-- Crossing Jordan (13:4D) Four Fathers
-- Crossing Jordan (14:4D) Acts of Mercy
-- Crossing Jordan (15:5D) Lost and Found
-- Crossing Jordan (16:5D) Crime & Punishment
-- Crossing Jordan (17:5D) With Honor
-- Crossing Jordan (18:5D) For Harry, with Love and Squalor
-- Crossing Jordan (19:6D) The Gift of Life
-- Crossing Jordan (20:6D) Someone to Count On
-- Crossing Jordan (21:6D) Secrets & Lies
-- Daria (1x01:C) Esteemsters
-- Daria (1x02:C) The Invitation
-- Daria (1x03:C) College Bored
-- Daria (1x04:C) Cafe Disaffecto
-- Daria (1x05:C) Malled
-- Daria (1x06:C) This Year’s Model
-- Daria (1x07:C) The Lab Brat
-- Daria (1x08:C) Pinch Sitter
-- Daria (1x09:C) Too Cute
-- Daria (1x10:C) The Big House
-- Daria (1x11:C) Road Worrier
-- Daria (1x12:C) The Teachings of Don Jake
-- Daria (1x13:C) The Misery Chick
-- Daria (2x01:C) Arts ’n’ Crass
-- Daria (2x02:C) The Daria Hunter
-- Daria (2x03:C) Quinn the Brain
-- Daria (2x04:C) I Don’t
-- Daria (2x05:C) That Was Then, This is Dumb
-- Daria (2x06:C) Monster
-- Daria (2x07:C) The New Kid
-- Daria (2x08:C) Gifted
-- Daria (2x09:C) Ill
-- Daria (2x10:C) Fair Enough
-- Daria (2x11:C) See Jane Run
-- Daria (2x12:C) Pierce Me
-- Daria (2x13:C) Write Where It Hurts
-- Daria (3x01:C) Through a Lens Darkly
-- Daria (3x02:C) The Old and the Beautiful
-- Daria (3x03:C) Depth Takes a Holiday
-- Daria (3x04:C) Daria Dance Party
-- Daria (3x05:C) The Lost Girls
-- Daria (3x06:C) It Happened One Nut
-- Daria (3x07:C) Daria!
-- Daria (3x08:C) Lane Miserables
-- Daria (3x09:C) Jake of Hearts
-- Daria (3x10:C) Speedtrapped
-- Daria (3x11:C) The Lawndale File
-- Daria (3x12:C) Just Add Water
-- Daria (3x13:C) Jane’s Addition
-- Daria (4x01:C) Partners Complaint
-- Daria (4x02:C) Antisocial Climbers
-- Daria (4x03:C) A Tree Grows in Lawndale
-- Daria (4x04:C) Murder, She Snored
-- Daria (4x05:C) The F Word
-- Daria (4x06:C) I Loathe a Parade
-- Daria (4x07:C) Of Human Bonding
-- Daria (4x08:C) Psycho Therapy
-- Daria (4x09:C) Mart of Darkness
-- Daria (4x10:C) Legends of the Mall
-- Daria (4x11:C) Groped by an Angel
-- Daria (4x12:C) Fire!
-- Daria (4x13:C) Dye! Dye! My Darling!
-- Daria (5x01:C) Fizz Ed
-- Daria (5x02:C) Sappy Anniversary
-- Daria (5x03:C) Fat Like Me
-- Daria (5x04:C) Camp Fear
-- Daria (5x05:C) The Story of D
-- Daria (5x06:C) Lucky Strike
-- Daria (5x07:C) Art Burn
-- Daria (5x08:C) One J at a Time
-- Daria (5x09:C) Life in the Past Lane
-- Daria (5x10:C) Aunt Nauseum
-- Daria (5x11:C) Prize Fighters
-- Daria (5x12:C) My Night at Daria’s
-- Daria (5x13:C) Boxing Daria
-- Daria (C) Is it Fall Yet?
-- Daria (C) Is It College Yet?
-- Day Break (01:B) What If He Doesn’t Know?
-- Day Break (02:B) What If They Run?
-- Day Break (03:B) What If He Lets Her Go?
-- Day Break (04:B) What If He Can Change The Day?
-- Day Break (05:B) What If They’re Stuck?
-- Day Break (06:B) What If They Find Him?
-- Day Break (07:B) What If He’s Not Alone?
-- Day Break (08:B) What If She’s Lying?
-- Day Break (09:B) What If They’re Connected?
-- Day Break (10:B) What If He’s Free?
-- Day Break (11:B) What If He Walks Away?
-- Day Break (12:B) What If She’s the Key?
-- Day Break (13:B) What If It’s Him?
-- Smallville (1x01:27B)
+- (243B) The Court Jester
+- (1x01:655B) Crossing Jordan
+- Crossing Jordan (1x02:655B) The Dawn of a New Day
+- Crossing Jordan (1x03:655B) The Ties That Bind
+- Crossing Jordan (1x04:655B) You Can’t Go Home Again
+- Crossing Jordan (1x05:656B) Born to Run
+- Crossing Jordan (1x06:656B) Believers
+- Crossing Jordan (1x07:656B) Sight Unseen
+- Crossing Jordan (1x08\2:656B) Digger
+- Crossing Jordan (1x09:657B) Blue Christmas
+- Crossing Jordan (1x10:657B) Wrong Place, Wrong Time
+- Crossing Jordan (1x11:657B) Blood Relatives
+- Crossing Jordan (1x12:657B) Miracles &amp; Wonders
+- Crossing Jordan (1x13:658B) Four Fathers
+- Crossing Jordan (1x14:658B) Acts of Mercy
+- Crossing Jordan (1x15:658B) Lost and Found
+- Crossing Jordan (1x16:658B) Crime &amp; Punishment
+- Crossing Jordan (1x17:659B) With Honor
+- Crossing Jordan (1x18:659B) For Harry, with Love and Squalor
+- Crossing Jordan (1x19:659B) The Gift of Life
+- Crossing Jordan (1x20:659B) Someone to Count On
+- Crossing Jordan (1x21\2:659B) Secrets &amp; Lies
+- Crossing Jordan (2x01:660B) There’s No Place Like Home
+- Crossing Jordan (2x02:660B) Bombs Away
+- Crossing Jordan (2x03:660B) The Truth Is Out There
+- Crossing Jordan (2x04:660B) Payback
+- Crossing Jordan (2x05:661B) As If by Fate
+- Crossing Jordan (2x06:661B) One Twelve
+- Crossing Jordan (2x07:661B) Scared Straight
+- Crossing Jordan (2x08:661B) Don’t Look Back
+- Crossing Jordan (2x09:662B) Prisoner Exchange
+- Crossing Jordan (2x10:662B) Ockham’s Razor
+- Crossing Jordan (2x11:662B) Family Ties
+- Crossing Jordan (2x12:662B) Perfect Storm
+- Crossing Jordan (2x13:663B) Strangled
+- Crossing Jordan (2x14:663B) Wild Card
+- Crossing Jordan (2x15:663B) John Doe
+- Crossing Jordan (2x16:663B) Conspiracy
+- Crossing Jordan (2x17:664B) Cruel and Unusual
+- Crossing Jordan (2x18:664B) Fire and Ice
+- Crossing Jordan (2x19:664B) Dead Wives Club
+- Crossing Jordan (2x20:664B) Sunset Division
+- Crossing Jordan (2x21:664B) Pandora’s Trunk
+- Crossing Jordan (3x01:665B) Devil May Care
+- Crossing Jordan (3x02:665B) Slam Dunk
+- Crossing Jordan (3x03:665B) ’⁠Til Death Do Us Part
+- Crossing Jordan (3x04:665B) Is That Plutonium in Your Pocket, or Are You Just Happy to See Me?
+- Crossing Jordan (3x05:666B) Dead or Alive
+- Crossing Jordan (3x06:666B) Second Chances
+- Crossing Jordan (3x07:666B) Missing Pieces
+- Crossing Jordan (3x08:666B) Most Likely
+- Crossing Jordan (3x09:667B) All the News Fit to Print
+- Crossing Jordan (3x10:667B) Revealed
+- Crossing Jordan (3x11:667B) He Said, She Said
+- Crossing Jordan (3x12:667B) Dead in the Water
+- Crossing Jordan (3x13:667B) Oh, Brother Where Art Thou?
+- Crossing Jordan (4x01:668B) After Dark
+- Crossing Jordan (4x02:668B) Out of Sight
+- Crossing Jordan (4x03:668B) Intruded
+- Crossing Jordan (4x04:668B) Deja Past
+- Crossing Jordan (4x05:669B) Justice Delayed
+- Crossing Jordan (4x06:669B) Blue Moon
+- Crossing Jordan (4x07:669B) What Happens in Vegas Dies in Boston
+- Crossing Jordan (4x08:669B) Fire from the Sky
+- Crossing Jordan (4x09:670B) Necessary Risks
+- Crossing Jordan (4x10:670B) A Stranger Among Us
+- Crossing Jordan (4x11:670B) Murder in the Rue Morgue
+- Crossing Jordan (4x12:670B) Family Affair
+- Crossing Jordan (4x13:671B) You Really Got Me
+- Crossing Jordan (4x14:671B) Gray Murders
+- Crossing Jordan (4x15:671B) It Happened One Night
+- Crossing Jordan (4x16:671B) Skin and Bone
+- Crossing Jordan (4x17:672B) Locard’s Exchange
+- Crossing Jordan (4x18:672B) Sanctuary
+- Crossing Jordan (4x19:672B) Embraceable You
+- Crossing Jordan (4x20:672B) Forget Me Not
+- Crossing Jordan (4x21:672B) Jump Push Fall
+- Crossing Jordan (5x01:673B) There’s No Place Like Home II
+- Crossing Jordan (5x02:673B) Luck Be a Lady
+- Crossing Jordan (5x03:673B) Under the Weather
+- Crossing Jordan (5x04:673B) Judgement Day
+- Crossing Jordan (5x05:674B) Enlightenment
+- Crossing Jordan (5x06:674B) Total Recall
+- Crossing Jordan (5x07:674B) Road Kill
+- Crossing Jordan (5x08:674B) A Man in Blue
+- Crossing Jordan (5x09:675B) Death Goes On
+- Crossing Jordan (5x10:675B) Loves Me Not
+- Crossing Jordan (5x11:675B) The Elephant in the Room
+- Crossing Jordan (5x12:675B) Code of Ethics
+- Crossing Jordan (5x13:676B) Dreamland
+- Crossing Jordan (5x14:676B) Death Toll
+- Crossing Jordan (5x15:676B) Blame Game
+- Crossing Jordan (5x16:676B) Someone to Watch Over Me
+- Crossing Jordan (5x17:677B) Save Me
+- Crossing Jordan (5x18:677B) Thin Ice
+- Crossing Jordan (5x19:677B) Mysterious Ways
+- Crossing Jordan (5x20:677B) Mace vs. Scalpel
+- Crossing Jordan (5x21:677B) Don’t Leave Me This Way
+- Crossing Jordan (6x01:678B) Retribution
+- Crossing Jordan (6x02:678B) Shattered
+- Crossing Jordan (6x03:678B) 33 Bullets
+- Crossing Jordan (6x04:678B) Crazy Little Thing Called Love
+- Crossing Jordan (6x05:679B) Mr. Little and Mr. Big
+- Crossing Jordan (6x06:679B) Night of the Living Dead
+- Crossing Jordan (6x07:679B) Hubris
+- Crossing Jordan (6x08:679B) Isolation
+- Crossing Jordan (6x09:680B) Seven Feet Under
+- Crossing Jordan (6x10:680B) Fall from Grace
+- Crossing Jordan (6x11:680B) Faith
+- Crossing Jordan (6x12:680B) Sleeping Beauty
+- Crossing Jordan (6x13:681B) Post Hoc
+- Crossing Jordan (6x14:681B) In Sickness &amp; in Health
+- Crossing Jordan (6x15:681B) Dead Again
+- Crossing Jordan (6x16:681B) D.O.A.
+- Crossing Jordan (6x17:681B) Crash
+- (31F) Crouching Tiger, Hidden Dragon (臥虎藏龍)
+- (28F) Crystalstone
+- Daria (1x01:1C) in “Esteemsters”
+- Daria (1x02:1C) in “The Invitation”
+- Daria (1x03:1C) in “College Bored”
+- Daria (1x04:1C) in “Cafe Disaffecto”
+- Daria (1x05:1C) in “Malled”
+- Daria (1x06:1C) in “This Year’s Model”
+- Daria (1x07:1C) in “The Lab Brat”
+- Daria (1x08:1C) in “Pinch Sitter”
+- Daria (1x09:1C) in “Too Cute”
+- Daria (1x10:2C) in “The Big House”
+- Daria (1x11:2C) in “Road Worrier”
+- Daria (1x12:2C) in “The Teachings of Don Jake”
+- Daria (1x13:2C) in “The Misery Chick”
+- Daria (2x01:2C) in “Arts ’n’ Crass”
+- Daria (2x02:2C) in “The Daria Hunter”
+- Daria (2x03:2C) in “Quinn the Brain”
+- Daria (2x04:2C) in “I Don’t”
+- Daria (2x05:2C) in “That Was Then, This is Dumb”
+- Daria (2x06:3C) in “Monster”
+- Daria (2x07:3C) in “The New Kid”
+- Daria (2x08:3C) in “Gifted”
+- Daria (2x09:3C) in “Ill”
+- Daria (2x10:3C) in “Fair Enough”
+- Daria (2x11:3C) in “See Jane Run”
+- Daria (2x12:3C) in “Pierce Me”
+- Daria (2x13:3C) in “Write Where It Hurts”
+- Daria (3x01:3C) in “Through a Lens Darkly”
+- Daria (3x02:4C) in “The Old and the Beautiful”
+- Daria (3x03:4C) in “Depth Takes a Holiday”
+- Daria (3x04:4C) in “Daria Dance Party”
+- Daria (3x05:4C) in “The Lost Girls”
+- Daria (3x06:4C) in “It Happened One Nut”
+- Daria (3x07:4C) in “Daria!”
+- Daria (3x08:4C) in “Lane Miserables”
+- Daria (3x09:4C) in “Jake of Hearts”
+- Daria (3x10:4C) in “Speedtrapped”
+- Daria (3x11:5C) in “The Lawndale File”
+- Daria (3x12:5C) in “Just Add Water”
+- Daria (3x13:5C) in “Jane’s Addition”
+- Daria (4x01:5C) in “Partners Complaint”
+- Daria (4x02:5C) in “Antisocial Climbers”
+- Daria (4x03:5C) in “A Tree Grows in Lawndale”
+- Daria (4x04:5C) in “Murder, She Snored”
+- Daria (4x05:5C) in “The F Word”
+- Daria (4x06:5C) in “I Loathe a Parade”
+- Daria (4x07:6C) in “Of Human Bonding”
+- Daria (4x08:6C) in “Psycho Therapy”
+- Daria (4x09:6C) in “Mart of Darkness”
+- Daria (4x10:6C) in “Legends of the Mall”
+- Daria (4x11:6C) in “Groped by an Angel”
+- Daria (4x12:6C) in “Fire!”
+- Daria (4x13:6C) in “Dye! Dye! My Darling!”
+- Daria (4x14:8C) in “Is it Fall Yet?”
+- Daria (5x01:6C) in “Fizz Ed”
+- Daria (5x02:6C) in “Sappy Anniversary”
+- Daria (5x03:7C) in “Fat Like Me”
+- Daria (5x04:7C) in “Camp Fear”
+- Daria (5x05:7C) in “The Story of D”
+- Daria (5x06:7C) in “Lucky Strike”
+- Daria (5x07:7C) in “Art Burn”
+- Daria (5x08:7C) in “One J at a Time”
+- Daria (5x09:7C) in “Life in the Past Lane”
+- Daria (5x10:7C) in “Aunt Nauseum”
+- Daria (5x11:7C) in “Prize Fighters”
+- Daria (5x12:8C) in “My Night at Daria’s”
+- Daria (5x13:8C) in “Boxing Daria”
+- Daria (5x14:8C) in “Is It College Yet?”
+- Dark (1x01:1A) Secrets (Geheimnisse)
+- Dark (1x02:1A) Lies (Lügen)
+- Dark (1x03:1A) Past and Present (Gestern und Heute)
+- Dark (1x04:1A) Double Lives (Doppelleben)
+- Dark (1x05:1A) Truths (Wahrheiten)
+- Dark (1x06:2A) Sic Mundus Creatus Est
+- Dark (1x07:2A) Crossroads (Kreuzwege)
+- Dark (1x08:2A) As You Sow, So Shall You Reap (Was man sät, das wird man ernten)
+- Dark (1x09:2A) Everything is Now (Alles ist jetzt)
+- Dark (1x10:2A) Alpha and Omega (Alpha und Omega)
+- Dark (2x01:1A) Beginnings and Endings (Anfänge und Enden)
+- Dark (2x02:1A) Dark Matter (Dunkle Materie)
+- Dark (2x03:1A) Ghosts (Gespenster)
+- Dark (2x04:1A) The Travellers (Die Reisenden)
+- Dark (2x05:2A) Lost and Found (Vom Suchen und Finden)
+- Dark (2x06:2A) An Endless Cycle (Ein unendlicher Kreis)
+- Dark (2x07:2A) The White Devil (Der weiße Teufel)
+- Dark (2x08:2A) Endings and Beginnings (Enden und Anfänge)
+- Dark (3x01:1A) Déjà-vu
+- Dark (3x02:1A) The Survivors (Die Überlebende)
+- Dark (3x03:1A) Adam and Eve (Adam und Eva)
+- Dark (3x04:1A) The Origin (Der Ursprung)
+- Dark (3x05:2A) Life and Death (Leben und Tod)
+- Dark (3x06:2A) Light and Shadow (Licht und Schatten)
+- Dark (3x07:2A) In Between Time (Zwischen der Zeit)
+- Dark (3x08:2A) The Paradise (Das Paradies)
+- (50F) Dark City
+- (1:42F) The Dark Knight
+- The Dark Knight (2:45F) Rises
+- Dark Matter (1x01:473B) It Just… Came to Me
+- Dark Matter (1x02:473B) What do You Think I Am, Psycho?
+- Dark Matter (1x03:473B) We Can’t Do This Without You
+- Dark Matter (1x04:473B) And Then We’ll Argue
+- Dark Matter (1x05:473B) I Wasn’t In Control
+- Dark Matter (1x06:474B) The Mission was to Make a Statement
+- Dark Matter (1x07:474B) Apology Not Accepted
+- Dark Matter (1x08:474B) A Glitch in the Transfer Process?
+- Dark Matter (1x09:474B) Success is Sweet. And Salty.
+- Dark Matter (1x10:475B) None of You Are Authorised to Be Here
+- Dark Matter (1x11:475B) A Little Issue with the Crew of the <i>Raza</i>
+- Dark Matter (1x12:475B) A Wonderful Time to Test Your Pain Receptors
+- Dark Matter (1x13:475B) What Was That Explosion?
+- Dark Matter (2x01:476B) Welcome to Your New Home
+- Dark Matter (2x02:476B) Kill Them All
+- Dark Matter (2x03:476B) I’ve Seen the Other Side of You
+- Dark Matter (2x04:476B) We Were Family
+- Dark Matter (2x05:476B) We Voted Not to Space You
+- Dark Matter (2x06:477B) We Should Have Seen This Coming
+- Dark Matter (2x07:477B) She’s One of Them Now
+- Dark Matter (2x08:477B) Stuff to Steal, People to Kill
+- Dark Matter (2x09:477B) Going Out Fighting
+- Dark Matter (2x10:478B) Take the Shot
+- Dark Matter (2x11:478B) Wish I’d Spaced You When I Had the Chance
+- Dark Matter (2x12:478B) Sometimes in Life You Don’t Get to Choose
+- Dark Matter (2x13:478B) But First, We Save the Galaxy
+- Dark Matter (3x01:479B) Being Better Is So Much Harder
+- Dark Matter (3x02:479B) It Doesn’t Have to Be Like This
+- Dark Matter (3x03:479B) Welcome to the Revolution
+- Dark Matter (3x04:479B) All the Time in the World
+- Dark Matter (3x05:479B) Give It Up, Princess
+- Dark Matter (3x06:480B) One More Card to Play
+- Dark Matter (3x07:480B) Wish I Could Believe You
+- Dark Matter (3x08:480B) Hot Chocolate
+- Dark Matter (3x09:480B) Isn’t That a Paradox?
+- Dark Matter (3x10:481B) Built, Not Born
+- Dark Matter (3x11:481B) The Dwarf Star Conspiracy
+- Dark Matter (3x12:481B) My Final Gift to You
+- Dark Matter (3x13:481B) Nowhere to Go
+- Day Break (1:169B) What If He Doesn’t Know?
+- Day Break (2:169B) What If They Run?
+- Day Break (3:169B) What If He Lets Her Go?
+- Day Break (4:169B) What If He Can Change The Day?
+- Day Break (5:169B) What If They’re Stuck?
+- Day Break (6:169B) What If They Find Him?
+- Day Break (7:169B) What If He’s Not Alone?
+- Day Break (8:170B) What If She’s Lying?
+- Day Break (9:170B) What If They’re Connected?
+- Day Break (10:170B) What If He’s Free?
+- Day Break (11:170B) What If He Walks Away?
+- Day Break (12:170B) What If She’s the Key?
+- Day Break (13:170B) What If It’s Him?
+- (51F) The Day the Earth Stood Still
+- (22F) Dead Poets Society
+- (1:697B) Deadpool
+- Deadpool (2:698B) Once Upon a Deadpool
+- (57F) Death Becomes Her
+- (784B) Detective Pikachu
+- (1x01:1U) The Devil Wears Prada
+- (186F) The Dish
+- (48F) District 9
+- (269B) Dogma
+- Dollhouse (1:4W) Echo
+- Dollhouse (1x01:1W) Ghost
+- Dollhouse (1x02:1W) The Target
+- Dollhouse (1x03:1W) Stage Fright
+- Dollhouse (1x04:1W) Gray Hour
+- Dollhouse (1x05:2W) True Believer
+- Dollhouse (1x06:2W) Man On The Street
+- Dollhouse (1x07:2W) Echoes
+- Dollhouse (1x08:2W) Needs
+- Dollhouse (1x09:3W) A Spy in the House of Love
+- Dollhouse (1x10:3W) Haunted
+- Dollhouse (1x11:3W) Briar Rose
+- Dollhouse (1x12:3W) Omega
+- Dollhouse (1x13:4W) Epitaph One
+- Dollhouse (2x01:1W) Vows
+- Dollhouse (2x02:1W) Instinct
+- Dollhouse (2x03:1W) Belle Chose
+- Dollhouse (2x04:2W) Belonging
+- Dollhouse (2x05:2W) The Public Eye
+- Dollhouse (2x06:2W) The Left Hand
+- Dollhouse (2x07:2W) Meet Jane Doe
+- Dollhouse (2x08:3W) A Love Supreme
+- Dollhouse (2x09:3W) Stop‑Loss
+- Dollhouse (2x10:3W) The Attic
+- Dollhouse (2x11:3W) Getting Closer
+- Dollhouse (2x12:4W) The Hollow Men
+- 'Dollhouse (2x13:4W) Epitaph 2: The Return'
+- (26F) Dr. Horrible’s Sing‑Along Blog
+- The Dresden Files (1:70M) Birds of a Feather
+- The Dresden Files (2:70M) The Boone Identity
+- The Dresden Files (3:70M) Hair of the Dog
+- The Dresden Files (4:70M) Rules of Engagement
+- The Dresden Files (5:71M) Bad Blood
+- The Dresden Files (6:71M) Soul Beneficiary
+- The Dresden Files (7:71M) Walls
+- The Dresden Files (8:71M) Storm Front
+- The Dresden Files (9:72M) The Other Dick
+- The Dresden Files (10:72M) What About Bob?
+- The Dresden Files (11:72M) Things That Go Bump
+- The Dresden Files (12:72M) Second City
+- (734B) The Dressmaker
+- (18F) Edward Scissorhands
+- (174F) The Emperor’s New Groove
+- (284B) Enchanted
+- (276B) Everything Everywhere All At Once
+- (690B) Evita
+- (180F) Evolution
+- The Expanse (1x01:785B) Dulcinea
+- The Expanse (1x02:785B) The Big Empty
+- The Expanse (1x03:785B) Remember the Cant
+- The Expanse (1x04:785B) CQB
+- The Expanse (1x05:785B) Back to the Butcher
+- The Expanse (1x06:786B) Rock Bottom
+- The Expanse (1x07:786B) Windmills
+- The Expanse (1x08:786B) Salvage
+- The Expanse (1x09:786B) Critical Mass
+- The Expanse (1x10:786B) Leviathan Wakes
+- The Expanse (2x01:787B) Safe
+- The Expanse (2x02:787B) Doors &amp; Corners
+- The Expanse (2x03:787B) Static
+- The Expanse (2x04:787B) Godspeed
+- The Expanse (2x05:788B) Home
+- The Expanse (2x06:788B) Paradigm Shift
+- The Expanse (2x07:788B) The Seventh Man
+- The Expanse (2x08:788B) Pyre
+- The Expanse (2x09:788B) The Weeping Somnambulist
+- The Expanse (2x10:789B) Cascade
+- The Expanse (2x11:789B) Here There Be Dragons
+- The Expanse (2x12:789B) The Monster and the Rocket
+- The Expanse (2x13:789B) Caliban’s War
+- The Expanse (3x01:790B) Fight or Flight
+- The Expanse (3x02:790B) IFF
+- The Expanse (3x03:790B) Assured Destruction
+- The Expanse (3x04:790B) Reload
+- The Expanse (3x05:791B) Triple Point
+- The Expanse (3x06:791B) Immolation
+- The Expanse (3x07:791B) Delta‑V
+- The Expanse (3x08:791B) It Reaches Out
+- The Expanse (3x09:791B) Intransigence
+- The Expanse (3x10:792B) Dandelion Sky
+- The Expanse (3x11:792B) Fallen World
+- The Expanse (3x12:792B) Congregation
+- The Expanse (3x13:792B) Abaddon’s Gate
+- The Expanse (4x01:224T) New Terra
+- The Expanse (4x02:224T) Jetsam
+- The Expanse (4x03:224T) Subduction
+- The Expanse (4x04:224T) Retrograde
+- The Expanse (4x05:229T) Oppressor
+- The Expanse (4x06:229T) Displacement
+- The Expanse (4x07:229T) A Shot in the Dark
+- The Expanse (4x08:229T) The One-Eyed Man
+- The Expanse (4x09:230T) Saeculum
+- The Expanse (4x10:230T) Cibola Burn
+- The Expanse (5x01:235T) Exodus
+- The Expanse (5x02:235T) Churn
+- The Expanse (5x03:235T) Mother
+- The Expanse (5x04:235T) Gaugamela
+- The Expanse (5x05:236T) Down and Out
+- The Expanse (5x06:236T) Tribes
+- The Expanse (5x07:236T) Oyedeng
+- The Expanse (5x08:237T) Hard Vacuum
+- The Expanse (5x09:237T) Winnipesaukee
+- The Expanse (5x10:237T) Nemesis Games
+- The Expanse (6x01:238T) Strange Dogs
+- The Expanse (6x02:238T) Azure Dragon
+- The Expanse (6x03:238T) Force Projection
+- The Expanse (6x04:239T) Redoubt
+- The Expanse (6x05:239T) Why We Fight
+- The Expanse (6x06:239T) Babylon's Ashes
+- Farscape (1x01:1U) Premiere
+- Farscape (1x02:1U) I, E.T.
+- Farscape (1x03:1U) Exodus from Genesis
+- Farscape (1x04:1U) Throne for a Loss
+- Farscape (1x05:2U) Back and Back and Back to the Future
+- Farscape (1x06:2U) Thank God It’s Friday, Again
+- Farscape (1x07:2U) PK Tech Girl
+- Farscape (1x08:2U) That Old Black Magic
+- Farscape (1x09:3U) DNA Mad Scientist
+- Farscape (1x10:3U) They’ve Got a Secret
+- Farscape (1x11:3U) Till the Blood Runs Clear
+- Farscape (1x12:3U) Rhapsody in Blue
+- Farscape (1x13:4U) The Flax
+- Farscape (1x14:4U) Jeremiah Crichton
+- Farscape (1x15:4U) Durka Returns
+- Farscape (1x16:4U) A Human Reaction
+- Farscape (1x17:5U) Through the Looking Glass
+- Farscape (1x18:5U) A Bug’s Life
+- Farscape (1x19:5U) Nerve
+- Farscape (1x20:5U) The Hidden Memory
+- Farscape (1x21:6U) Bone to be Wild
+- Farscape (1x22:6U) Family Ties
+- Farscape (2x01:1U) Mind the Baby
+- Farscape (2x02:1U) Vitas Mortis
+- Farscape (2x03:1U) Taking the Stone
+- Farscape (2x04:1U) Crackers Don’t Matter
+- Farscape (2x05:2U) The Way We Weren’t
+- Farscape (2x06:2U) Picture if You Will
+- Farscape (2x07:2U) Home on the Remains
+- Farscape (2x08:2U) Dream a Little Dream
+- Farscape (2x09:3U) Out of Their Minds
+- Farscape (2x10:3U) My Three Crichtons
+- 'Farscape (2x11:3U) Look at the Princess: A Kiss Is But a Kiss'
+- 'Farscape (2x12:3U) Look at the Princess: I Do, I Think'
+- 'Farscape (2x13:4U) Look at the Princess: The Maltese Crichton'
+- Farscape (2x14:4U) Beware of Dog
+- Farscape (2x15:4U) Won’t Get Fooled Again
+- Farscape (2x16:4U) The Locket
+- Farscape (2x17:5U) The Ugly Truth
+- Farscape (2x18:5U) A Clockwork Nebari
+- 'Farscape (2x19:5U) Liars, Guns and Money: A Not So Simple Plan'
+- 'Farscape (2x20:5U) Liars, Guns and Money: With Friends Like These…'
+- 'Farscape (2x21:6U) Liars, Guns and Money: Plan B'
+- Farscape (2x22:6U) Die Me, Dichotomy
+- Farscape (3x01:1U) Season of Death
+- Farscape (3x02:1U) Suns &amp; Lovers
+- 'Farscape (3x03:1U) Self Inflicted Wounds: Could’a, Would’a, Should’a'
+- 'Farscape (3x04:1U) Self Inflicted Wounds: Wait for the Wheel'
+- Farscape (3x05:2U) …⁠Different Destinations
+- Farscape (3x06:2U) Eat Me
+- Farscape (3x07:2U) Thanks For Sharing
+- Farscape (3x08:2U) Green‑Eyed Monster
+- Farscape (3x09:3U) Losing Time
+- Farscape (3x10:3U) Relativity
+- Farscape (3x11:3U) Incubator
+- Farscape (3x12:3U) Meltdown
+- Farscape (3x13:4U) Scratch ’n Sniff
+- 'Farscape (3x14:4U) Infinite Possibilities: Daedelus Demands'
+- 'Farscape (3x15:4U) Infinite Possibilities: Icarus Abides'
+- Farscape (3x16:4U) Revenging Angel
+- Farscape (3x17:5U) The Choice
+- Farscape (3x18:5U) Fractures
+- Farscape (3x19:5U) I‑Yensch, You‑Yensch
+- 'Farscape (3x20:6U) Into the Lion’s Den: Lambs to the Slaughter'
+- 'Farscape (3x21:6U) Into the Lion’s Den: Wolf in Sheep’s Clothing'
+- Farscape (3x22:6U) Dog With Two Bones
+- Farscape (4x01:1U) Crichton Kicks
+- 'Farscape (4x02:1U) What Was Lost: Sacrifice'
+- 'Farscape (4x03:1U) What Was Lost: Resurrection'
+- Farscape (4x04:1U) Lava’s a Many Splendored Thing
+- Farscape (4x05:2U) Promises
+- Farscape (4x06:2U) Natural Election
+- Farscape (4x07:2U) John Quixote
+- Farscape (4x08:2U) I Shrink Therefore I Am
+- Farscape (4x09:3U) A Prefect Murder
+- Farscape (4x10:3U) Coup By Clam
+- Farscape (4x11:3U) Unrealized Reality
+- Farscape (4x12:3U) Kansas
+- Farscape (4x13:4U) Terra Firma
+- Farscape (4x14:4U) Twice Shy
+- Farscape (4x15:4U) Mental As Anything
+- Farscape (4x16:4U) Bringing Home the Beacon
+- Farscape (4x17:5U) A Constellation of Doubt
+- Farscape (4x18:5U) Prayer
+- 'Farscape (4x19:5U) We’re So Screwed: Fetal Attraction'
+- 'Farscape (4x20:6U) We’re So Screwed: Hot to Katratzi'
+- 'Farscape (4x21:6U) We’re So Screwed: La Bomba'
+- Farscape (4x22:6U) Bad Timing
+- Farscape (5:U) The Peacekeeper Wars
+- Ferngully (1:227B) The Last Rainforest
+- Ferngully (2:227B) The Magical Rescue
+- (7F) The Fifth Element
+- (153F) Finding Nemo
+- Firefly (1:1U) Serenity
+- Firefly (2:1U) The Train Job
+- Firefly (3:1U) Bushwhacked
+- Firefly (4:2U) Shindig
+- Firefly (5:2U) Safe
+- Firefly (6:2U) Our Mrs. Reynolds
+- Firefly (7:2U) Jaynestown
+- Firefly (8:3U) Out of Gas
+- Firefly (9:3U) Ariel
+- Firefly (10:3U) War Stories
+- Firefly (11:3U) Trash
+- Firefly (12:4U) The Message
+- Firefly (13:4U) Heart of Gold
+- Firefly (14:4U) Objects in Space
+- Firefly (15:U) Serenity
+- (263B) Flash Gordon
+- (80F) Flight of the Navigator
+- Frasier (1x01:1D) The Good Son
+- Frasier (1x02:1D) Space Quest
+- Frasier (1x03:1D) Dinner at Eight
+- Frasier (1x04:1D) I Hate Frasier Crane
+- Frasier (1x05:1D) Here’s Looking at You
+- Frasier (1x06:1D) The Crucible
+- Frasier (1x07:2D) Call Me Irresponsible
+- Frasier (1x08:2D) Beloved Infidel
+- Frasier (1x09:2D) Selling Out
+- Frasier (1x10:2D) Oops
+- Frasier (1x11:2D) Death Becomes Him
+- Frasier (1x12:2D) Miracle on Third or Fourth Street
+- Frasier (1x13:3D) Guess Who’s Coming to Breakfast
+- Frasier (1x14:3D) Can’t Buy Me Love
+- Frasier (1x15:3D) You Can’t Tell a Crook by His Cover
+- Frasier (1x16:3D) The Show Where Lilith Comes Back
+- Frasier (1x17:3D) A Midwinter Night’s Dream
+- Frasier (1x18:3D) And the Whimper is…
+- Frasier (1x19:4D) Give Him the Chair
+- Frasier (1x20:4D) Fortysomething
+- Frasier (1x21:4D) Travels with Martin
+- Frasier (1x22:4D) Author, Author
+- Frasier (1x23:4D) Frasier Crane’s Day Off
+- Frasier (1x24:4D) My Coffee with Niles
+- Frasier (2x01:1D) Slow Tango in South Seattle
+- Frasier (2x02:1D) The Unkindest Cut of All
+- Frasier (2x03:1D) The Matchmaker
+- Frasier (2x04:1D) Flour Child
+- Frasier (2x05:1D) Duke’s, We Hardly Knew Ye
+- Frasier (2x06:1D) The Botched Language of Cranes
+- Frasier (2x07:2D) The Candidate
+- Frasier (2x08\2:2D) Adventures in Paradise
+- Frasier (2x09:2D) Burying a Grudge
+- Frasier (2x11:2D) Seat of Power
+- Frasier (2x12:2D) Roz in the Doghouse
+- Frasier (2x13:3D) Retirement is Murder
+- Frasier (2x14:3D) Fool Me Once, Shame on You, Fool Me Twice…
+- Frasier (2x15:3D) You Scratch My Book…
+- Frasier (2x16:3D) The Show Where Sam Shows Up
+- Frasier (2x17:3D) Daphne’s Room
+- Frasier (2x18:3D) The Club
+- Frasier (2x19:4D) Someone to Watch Over Me
+- Frasier (2x20:4D) Breaking the Ice
+- Frasier (2x21:4D) An Affair to Forget
+- Frasier (2x22:4D) Agents in America, Part III
+- Frasier (2x23:4D) The Innkeepers
+- Frasier (2x24:4D) Dark Victory
+- Frasier (3x01:1D) She’s the Boss
+- Frasier (3x02:1D) Shrink Rap
+- Frasier (3x03:1D) Martin Does It His Way
+- Frasier (3x04:1D) Leapin’ Lizards
+- Frasier (3x05:1D) Kisses Sweeter Than Wine
+- Frasier (3x06:1D) Sleeping with the Enemy
+- Frasier (3x07:2D) The Adventures of Bad Boy and Dirty Girl
+- Frasier (3x08:2D) The Last Time I Saw Maris
+- Frasier (3x09:2D) Frasier Grinch
+- Frasier (3x10:2D) It’s Hard to Say Goodbye If You Won’t Leave
+- Frasier (3x11:2D) The Friend
+- Frasier (3x12:2D) Come Lie with Me
+- Frasier (3x13:3D) Moon Dance
+- Frasier (3x14:3D) The Show Where Diane Comes Back
+- Frasier (3x15:3D) A Word to the Wiseguy
+- Frasier (3x16:3D) Look Before You Leap
+- Frasier (3x17:3D) High Crane Drifter
+- Frasier (3x18:3D) Chess Pains
+- Frasier (3x19:4D) Crane vs. Crane
+- Frasier (3x20:4D) Police Story
+- Frasier (3x21:4D) Where There’s Smoke There’s Fired
+- Frasier (3x22:4D) Frasier Loves Roz
+- Frasier (3x23:4D) The Focus Group
+- Frasier (3x24:4D) You Can Go Home Again
+- Frasier (4x01:1D) The Two Mrs. Cranes
+- Frasier (4x02:1D) Love Bites Dog
+- Frasier (4x03:1D) The Impossible Dream
+- Frasier (4x04:1D) A Crane’s Critique
+- Frasier (4x05:1D) Head Game
+- Frasier (4x06:1D) Mixed Doubles
+- Frasier (4x07:2D) A Lilith Thanksgiving
+- Frasier (4x08:2D) Our Father Whose Art Ain’t Heaven
+- Frasier (4x09:2D) Dad Loves Sherry, the Boys Just Whine
+- Frasier (4x10:2D) Liar, Liar!
+- Frasier (4x11:2D) Three Days of the Condo
+- Frasier (4x12:2D) Death and the Dog
+- Frasier (4x13:3D) Four for the Seesaw
+- Frasier (4x14:3D) To Kill a Talking Bird
+- Frasier (4x15:3D) Roz’s Krantz &amp; Gouldenstein are Dead
+- Frasier (4x16:3D) The Unnatural
+- Frasier (4x17:3D) Roz’s Turn
+- Frasier (4x18:3D) Ham Radio
+- Frasier (4x19:4D) Three Dates and a Breakup
+- Frasier (4x20:4D) Daphne Hates Sherry
+- Frasier (4x21:4D) Are You Being Served?
+- Frasier (4x22:4D) Ask Me No Questions
+- Frasier (4x23:4D) Odd Man Out
+- Frasier (5x01:1D) Frasier’s Imaginary Friend
+- Frasier (5x02:1D) The Gift Horse
+- Frasier (5x03:1D) Halloween
+- Frasier (5x04:1D) The Kid
+- Frasier (5x05:1D) The 1000th Show
+- Frasier (5x06:1D) Voyage of the Damned
+- Frasier (5x07:2D) My Fair Frasier
+- Frasier (5x08:2D) Desperately Seeking Closure
+- Frasier (5x09:2D) Perspectives on Christmas
+- Frasier (5x10:2D) Where Every Bloke Knows Your Name
+- Frasier (5x11:2D) Ain’t Nobody’s Business If “I Do”
+- Frasier (5x12:2D) The Zoo Story
+- Frasier (5x13:3D) The Maris Counselor
+- Frasier (5x14:3D) The Ski Lodge
+- Frasier (5x15:3D) Room Service
+- Frasier (5x16:3D) Beware of Greeks
+- Frasier (5x17:3D) The Perfect Guy
+- Frasier (5x18:3D) Bad Dog
+- Frasier (5x19:4D) Frasier Gotta Have It
+- Frasier (5x20:4D) First Date
+- Frasier (5x21:4D) Roz and the Schnoz
+- Frasier (5x22:4D) The Life of the Party
+- Frasier (5x23:4D) Party, Party
+- Frasier (5x24:4D) Sweet Dreams
+- Frasier (6x01:1D) Good Grief
+- Frasier (6x02:1D) Frasier’s Curse
+- Frasier (6x03:1D) Dial M For Martin
+- Frasier (6x04:1D) Hot Ticket
+- Frasier (6x05:1D) First, Do No Harm
+- Frasier (6x06:1D) Secret Admirer
+- Frasier (6x07:2D) How to Bury a Millionaire
+- Frasier (6x08:2D) The Seal Who Came to Dinner
+- Frasier (6x09:2D) Roz, a Loan
+- Frasier (6x10:2D) Merry Christmas, Mrs. Moskowitz
+- Frasier (6x11:2D) The Good Samaritan
+- Frasier (6x12:2D) Our Parents, Ourselves
+- Frasier (6x13:3D) The Show Where Woody Shows Up
+- Frasier (6x14:3D) Three Valentines
+- Frasier (6x15:3D) To Tell the Truth
+- Frasier (6x16:3D) Decoys
+- Frasier (6x17:3D) Dinner Party
+- Frasier (6x18:3D) Taps at the Montana
+- Frasier (6x19:4D) IQ
+- Frasier (6x20:4D) Dr. Nora
+- Frasier (6x21:4D) When a Man Loves Two Women
+- Frasier (6x22:4D) Visions of Daphne
+- Frasier (6x23:4D) Shutout in Seattle
+- Frasier (7x01:1D) Momma Mia
+- Frasier (7x02:1D) Father of the Bride
+- Frasier (7x03:1D) Radio Wars
+- Frasier (7x04:1D) Everyone’s a Critic
+- Frasier (7x05:1D) The Dog That Rocks the Cradle
+- Frasier (7x06:1D) Rivals
+- Frasier (7x07:2D) A Tsar is Born
+- Frasier (7x08:2D) The Late Dr. Crane
+- Frasier (7x09:2D) The Apparent Trap
+- Frasier (7x10:2D) Back Talk
+- Frasier (7x11:2D) The Fight Before Christmas
+- Frasier (7x12:2D) RDWRER
+- Frasier (7x13:3D) They’re Playing Our Song
+- Frasier (7x14:3D) Big Crane on Campus
+- Frasier (7x15:3D) Out With Dad
+- Frasier (7x16:3D) Something About Dr. Mary
+- Frasier (7x17:3D) Whine Club
+- Frasier (7x18:3D) Hot Pursuit
+- Frasier (7x19:4D) Morning Becomes Entertainment
+- Frasier (7x20:4D) To Thine Old Self Be True
+- Frasier (7x21:4D) Three Faces of Frasier
+- Frasier (7x22:4D) Dark Side of the Moon
+- Frasier (7x23:4D) Something Borrowed, Someone Blue
+- Frasier (8x01:1D) And the Dish Ran Away with the Spoon
+- Frasier (8x02:1D) The Bad Son
+- Frasier (8x04:1D) The Great Crane Robbery
+- Frasier (8x05:1D) Taking Liberties
+- Frasier (8x06:1D) Legal Tender Love and Care
+- Frasier (8x07:2D) The New Friend
+- Frasier (8x08:2D) Mary Christmas
+- Frasier (8x09:2D) Frasier’s Edge
+- Frasier (8x10:2D) Cranes Unplugged
+- Frasier (8x11:2D) Motor Skills
+- Frasier (8x12:2D) The Show Must Go Off
+- Frasier (8x13:3D) Sliding Frasiers
+- Frasier (8x14:3D) Hungry Heart
+- Frasier (8x15:3D) Hooping Cranes
+- Frasier (8x16:3D) Docu.drama
+- Frasier (8x17:3D) It Takes Two to Tangle
+- Frasier (8x18:3D) Forgotten But Not Gone
+- Frasier (8x19:4D) Daphne Returns
+- Frasier (8x20:4D) The Wizard and Roz
+- Frasier (8x21:4D) Semi‑Decent Proposal
+- Frasier (8x22:4D) A Passing Fancy
+- Frasier (8x22:4D) A Day in May
+- Frasier (8x23:4D) The Cranes Go Caribbean
+- Frasier (9x01:1D) Don Juan in Hell
+- Frasier (9x02:1D) The First Temptation of Daphne
+- Frasier (9x04:1D) The Return of Martin Crane
+- Frasier (9x05:1D) Love Stinks
+- Frasier (9x06:1D) Room Full of Heroes
+- Frasier (9x07:2D) Bla‑Z‑Boy
+- Frasier (9x08:2D) The Two Hundredth Episode
+- Frasier (9x09:2D) Sharing Kirby
+- Frasier (9x10:2D) Junior Agent
+- Frasier (9x11:2D) Bully for Martin
+- Frasier (9x12\2:3D) Mother Load
+- Frasier (9x14:3D) Juvenilia
+- Frasier (9x15:3D) The Proposal
+- Frasier (9x16:3D) Wheels of Fortune
+- Frasier (9x17:3D) Three Blind Dates
+- Frasier (9x18:3D) War of the Words
+- Frasier (9x19:4D) Deathtrap
+- Frasier (9x20:4D) The Love You Fake
+- Frasier (9x21:4D) Cheerful Goodbyes
+- Frasier (9x22:4D) Frasier Has Spokane
+- Frasier (9x23:4D) The Guilt Trippers
+- Frasier (9x24:4D) Moons Over Seattle
+- Frasier (10x01:1D) The Ring Cycle
+- Frasier (10x02:1D) Enemy at the Gate
+- Frasier (10x03:1D) Proxy Prexy
+- Frasier (10x04:1D) Kissing Cousin
+- Frasier (10x05:1D) Tales From the Crypt
+- Frasier (10x06:1D) Star Mitzvah
+- Frasier (10x07:2D) Bristle While You Work
+- Frasier (10x08:2D) Rooms With a View
+- Frasier (10x09:2D) Don’t Go Breaking My Heart
+- Frasier (10x10:2D) We Two Kings
+- Frasier (10x11:2D) Door Jam
+- Frasier (10x12:2D) The Harassed
+- Frasier (10x13:3D) Lilith Needs a Favor
+- Frasier (10x14:3D) Daphne Does Dinner
+- Frasier (10x15:3D) Trophy Girlfriend
+- Frasier (10x16:3D) Fraternal Schwinns
+- Frasier (10x17:3D) Kenny on the Couch
+- Frasier (10x18:3D) Roe to Perdition
+- Frasier (10x19:4D) Some Assembly Required
+- Frasier (10x20:4D) Farewell, Nervosa
+- Frasier (10x21:4D) The Devil and Dr. Phil
+- Frasier (10x22:4D) Fathers and Sons
+- Frasier (10x23:4D) Analyzed Kiss
+- Frasier (10x24:4D) A New Position for Roz
+- Frasier (11x01:1D) No Sex Please, We’re Skittish
+- 'Frasier (11x02:1D) A Man, a Plan and a Gal: Julia'
+- Frasier (11x03:1D) The Doctor Is Out
+- Frasier (11x04:1D) The Babysitter
+- Frasier (11x05:1D) The Placeholder
+- Frasier (11x06:1D) I’m Listening
+- Frasier (11x07:2D) Maris Returns
+- Frasier (11x08:2D) Murder Most Maris
+- Frasier (11x09:2D) Guns N’ Neuroses
+- Frasier (11x10:2D) Seabee Jeebies
+- Frasier (11x11:2D) High Holidays
+- Frasier (11x12:2D) Frasier‑Lite
+- Frasier (11x13:3D) The Ann Who Came to Dinner
+- Frasier (11x14:3D) Freudian Sleep
+- Frasier (11x15:3D) Caught in the Act
+- Frasier (11x16:3D) Boo!
+- Frasier (11x17:3D) Coots and Ladders
+- Frasier (11x18:3D) Match Game
+- Frasier (11x19:4D) Miss Right Now
+- Frasier (11x20:4D) And Frasier Makes Three
+- Frasier (11x21:4D) Detour
+- Frasier (11x22:4D) Crock Tales
+- Frasier (11x23:4D) Goodnight, Seattle
+- (254B) Free Guy
+- (P) Frequency
+- (1x01:626B) Fringe
+- Fringe (1x02:626B) The Same Old Story
+- Fringe (1x03:627B) The Ghost Network
+- Fringe (1x04:627B) The Arrival
+- Fringe (1x05:627B) Power Hungry
+- Fringe (1x06:628B) The Cure
+- Fringe (1x07:628B) In Which We Meet Mr. Jones
+- Fringe (1x08:628B) The Equation
+- Fringe (1x09:629B) The Dreamscape
+- Fringe (1x10:629B) Safe
+- Fringe (1x11:629B) Bound
+- Fringe (1x12:630B) The No‑Brainer
+- Fringe (1x13:630B) The Transformation
+- Fringe (1x14:630B) Ability
+- Fringe (1x15:630B) Inner Child
+- Fringe (1x16:631B) Unleashed
+- Fringe (1x17:631B) Bad Dreams
+- Fringe (1x18:632B) Midnight
+- Fringe (1x19:632B) The Road Not Taken
+- Fringe (1x20:632B) There’s More than One of Everything
+- Fringe (2x01:633B) A New Day in the Old Town
+- Fringe (2x02:633B) Night of Desirable Objects
+- Fringe (2x03:633B) Fracture
+- Fringe (2x04:633B) Momentum Deferred
+- Fringe (2x05:634B) Dream Logic
+- Fringe (2x06:634B) Earthling
+- Fringe (2x07:634B) Of Human Action
+- Fringe (2x08:634B) August
+- Fringe (2x09:635B) Snakehead
+- Fringe (2x10:635B) Grey Matters
+- Fringe (2x11:635B) Johari Window
+- Fringe (2x12:636B) What Lies Below
+- Fringe (2x13:636B) The Bishop Revival
+- Fringe (2x14:636B) Jacksonville
+- Fringe (2x15:636B) Peter
+- Fringe (2x16:637B) Olivia. In the Lab. With the Revolver.
+- Fringe (2x17:637B) White Tulip
+- Fringe (2x18:637B) The Man from the Other Side
+- Fringe (2x19:637B) Brown Betty
+- Fringe (2x20:638B) Northwest Passage
+- Fringe (2x21\2:638B) Over There
+- Fringe (2x22:635B) Unearthed (Special Feature)
+- Fringe (3x01:639B) Olivia
+- Fringe (3x02:639B) The Box
+- Fringe (3x03:639B) The Plateau
+- Fringe (3x04:639B) Do Shapeshifters Dream of Electric Sheep?
+- Fringe (3x05:640B) Amber 31422
+- Fringe (3x06:640B) 6955 kHz
+- Fringe (3x07:640B) The Abducted
+- Fringe (3x08:640B) Entrada
+- Fringe (3x09:641B) Marionette
+- Fringe (3x10:641B) The Firefly
+- Fringe (3x11:641B) Reciprocity
+- Fringe (3x12:641B) Concentrate and Ask Again
+- Fringe (3x13:642B) Immortality
+- Fringe (3x14:642B) 6B
+- Fringe (3x15:642B) Subject 13
+- Fringe (3x16:642B) Os
+- Fringe (3x17:643B) Stowaway
+- Fringe (3x18:643B) Bloodline
+- Fringe (3x19:643B) Lysergic Acid Diethylamide
+- Fringe (3x20:643B) 6:02 AM EST
+- Fringe (3x21:644B) The Last Sam Weiss
+- Fringe (3x22:644B) The Day We Died
+- Fringe (4x01:645B) Neither Here Nor There
+- Fringe (4x02:645B) One Night in October
+- Fringe (4x03:645B) Alone in the World
+- Fringe (4x04:645B) Subject 9
+- Fringe (4x05:646B) Novation
+- Fringe (4x06:646B) And Those We’ve Left Behind
+- Fringe (4x07:646B) Wallflower
+- Fringe (4x08:646B) Back to Where You’ve Never Been
+- Fringe (4x09:647B) Enemy of My Enemy
+- Fringe (4x10:647B) Forced Perspective
+- Fringe (4x11:647B) Making Angels
+- Fringe (4x12:647B) Welcome to Westfield
+- Fringe (4x13:648B) A Better Human Being
+- Fringe (4x14:648B) The End of All Things
+- Fringe (4x15:648B) A Short Story About Love
+- Fringe (4x16:648B) Nothing as It Seems
+- Fringe (4x17:649B) Everything in Its Right Place
+- Fringe (4x18:649B) The Consultant
+- Fringe (4x19:649B) Letters of Transit
+- Fringe (4x20:650B) Worlds Apart
+- Fringe (4x21\2:650B) Brave New World
+- Fringe (5x01:651B) Transilience Thought Unifier Model‑11
+- Fringe (5x02:651B) In Absentia
+- Fringe (5x03:651B) The Recordist
+- Fringe (5x04:651B) The Bullet that Saved the World
+- Fringe (5x05:652B) An Origin Story
+- Fringe (5x06:652B) Through the Looking Glass and What Walter Found There
+- Fringe (5x07:652B) Five‑Twenty‑Ten
+- Fringe (5x08:652B) The Human Kind
+- Fringe (5x09:653B) Black Blotter
+- Fringe (5x10:653B) Anomaly XB‑6783746
+- Fringe (5x11:654B) The Boy Must Live
+- Fringe (5x12:654B) Liberty
+- Fringe (5x13:654B) An Enemy of Fate
+- (1:143F) Frozen
+- Frozen (2:319B) Misthaven
+- Futurama (1x01:737B) Space Pilot 3000
+- Futurama (1x02:737B) The Series Has Landed
+- Futurama (1x03:737B) I, Roommate
+- Futurama (1x04:737B) Love’s Labors Lost in Space
+- Futurama (1x05:738B) Fear of a Bot Planet
+- Futurama (1x06:738B) A Fishful of Dollars
+- Futurama (1x07:738B) My Three Suns
+- Futurama (1x08:738B) A Big Piece of Garbage
+- Futurama (1x09:738B) Hell is Other Robots
+- Futurama (1x10:739B) A Flight to Remember
+- Futurama (1x11:739B) Mars University
+- Futurama (1x12:739B) When Aliens Attack
+- Futurama (1x13:739B) Fry and the Slurm Factory
+- Futurama (2x01:741B) I Second that Emotion
+- Futurama (2x02:741B) Brannigan Begin Again
+- Futurama (2x03:741B) A Head in the Polls
+- Futurama (2x04:741B) Xmas Story
+- Futurama (2x05:741B) Why Must I Be a Crustacean in Love?
+- Futurama (2x06:742B) The Lesser of Two Evils
+- Futurama (2x07:742B) Put Your Head on my Shoulders
+- Futurama (2x08:742B) Raging Bender
+- Futurama (2x09:742B) A Bicyclops Built for Two
+- Futurama (2x10:742B) A Clone of My Own
+- Futurama (2x11:743B) How Hermes Requisitioned His Groove Back
+- Futurama (2x12:743B) The Deep South
+- Futurama (2x13:743B) Bender Gets Made
+- Futurama (2x14:743B) Mother’s Day
+- Futurama (2x15:743B) The Problem with Popplers
+- 'Futurama (2x16a:744B) Anthology of Interest I: Terror at 500 Feet'
+- 'Futurama (2x16b:744B) Anthology of Interest I: Dial L for Leela'
+- 'Futurama (2x16c:744B) Anthology of Interest I: The Un-Freeze of a Lifetime'
+- Futurama (2x17:744B) War is the H‑Word
+- Futurama (2x18:744B) The Honking
+- Futurama (2x19:744B) The Cryonic Woman
+- Futurama (3x01:745B) Amazon Women in the Mood
+- Futurama (3x02:745B) Parasites Lost
+- Futurama (3x03:745B) A Tale of Two Santas
+- Futurama (3x04:745B) The Luck of the Fryrish
+- Futurama (3x05:745B) The Birdbot of Ice‑Catraz
+- Futurama (3x06:745B) Bendless Love
+- Futurama (3x07:746B) The Day the Earth Stood Stupid
+- Futurama (3x08:746B) That’s Lobstertainment!
+- Futurama (3x09:746B) The Cyber House Rules
+- Futurama (3x10:746B) Where the Buggalo Roam
+- Futurama (3x11:746B) Insane in the Mainframe
+- Futurama (3x12:746B) The Route of All Evil
+- Futurama (3x13:747B) Bendin’ in the Wind
+- Futurama (3x14:747B) Time Keeps on Slipping
+- Futurama (3x15:747B) I Dated a Robot
+- Futurama (3x16:747B) A Leela of her Own
+- Futurama (3x17:747B) A Pharaoh to Remember
+- 'Futurama (3x18a:748B) Anthology of Interest II: I, Meatbag'
+- 'Futurama (3x18b:748B) Anthology of Interest II: Raiders of the Lost Arcade'
+- 'Futurama (3x18c:748B) Anthology of Interest II: Wizzin’'
+- Futurama (3x19:748B) Roswell That Ends Well
+- Futurama (3x20:748B) Godfellas
+- Futurama (3x21:748B) Future Stock
+- Futurama (3x22:748B) The 30% Iron Chef
+- Futurama (4x01:749B) Kif Gets Knocked Up a Notch
+- Futurama (4x02:749B) Leela’s Homeworld
+- Futurama (4x03:749B) Love and Rocket
+- Futurama (4x04:749B) Less Than Hero
+- Futurama (4x05:749B) A Taste of Freedom
+- Futurama (4x06:750B) Bender Should Not Be Allowed on TV
+- Futurama (4x07:750B) Jurassic Bark
+- Futurama (4x08:750B) Crimes of the Hot
+- Futurama (4x09:750B) Teenage Mutant Leela’s Hurdles
+- Futurama (4x10:750B) The Why of Fry
+- Futurama (4x11:751B) Where No Fan Has Gone Before
+- Futurama (4x12:751B) The Sting
+- Futurama (4x13:751B) Bend Her
+- Futurama (4x14:751B) Obsoletely Fabulous
+- Futurama (4x15:752B) The Farnsworth Parabox
+- Futurama (4x16:752B) Three Hundred Big Boys
+- Futurama (4x17:752B) Spanish Fry
+- Futurama (4x18:752B) The Devil’s Hands are Idle Playthings
+- Futurama (4x101:753B) Bender’s Big Score
+- Futurama (4x102:754B) The Beast with a Billion Backs
+- Futurama (4x103:755B) Bender’s Game
+- Futurama (4x104:756B) Into the Wild Green Yonder
+- Futurama (5x01:757B) Rebirth
+- Futurama (5x02:757B) In‑A‑Gadda‑Da‑Leela
+- Futurama (5x03:757B) Attack of the Killer App
+- Futurama (5x04:757B) Proposition Infinity
+- Futurama (5x05:757B) The Duh‑Vinci Code
+- Futurama (5x06:757B) Lethal Inspection
+- Futurama (5x07:757B) The Late Philip J. Fry
+- Futurama (5x08:758B) That Darn Katz!
+- Futurama (5x09:758B) A Clockwork Origin
+- Futurama (5x10:758B) The Prisoner of Benda
+- Futurama (5x11:758B) Lrrreconcilable Ndndifferences
+- Futurama (5x12:758B) The Mutants Are Revolting
+- 'Futurama (5x13a:758B) The Futurama Holiday Spectacular: X-mas'
+- 'Futurama (5x13b:758B) The Futurama Holiday Spectacular: Robanukah'
+- 'Futurama (5x13c:758B) The Futurama Holiday Spectacular: Kwanzaa'
+- Futurama (6x01:759B) The Silence of the Clamps
+- Futurama (6x02:759B) Möbius Dick
+- Futurama (6x03:759B) Law and Oracle
+- Futurama (6x04:759B) Benderama
+- Futurama (6x05:759B) The Tip of the Zoidberg
+- Futurama (6x06:759B) Ghost in the Machines
+- Futurama (6x07:759B) Neutopia
+- Futurama (6x08:760B) Yo Leela Leela
+- Futurama (6x09:760B) Fry am the Egg Man
+- Futurama (6x10:760B) All the Presidents’ Heads
+- Futurama (6x11:760B) Cold Warriors
+- Futurama (6x12:760B) Overclockwise
+- 'Futurama (6x13a:760B) Reincarnation: Colorama'
+- 'Futurama (6x13b:760B) Reincarnation: Future Challenge 3000'
+- 'Futurama (6x13c:760B) Reincarnation: Action Delivery Force'
+- Futurama (7x01:761B) The Bots and the Bees
+- Futurama (7x02:761B) A Farewell to Arms
+- Futurama (7x03:761B) Decision 3012
+- Futurama (7x04:761B) The Thief of Baghead
+- Futurama (7x05:761B) Zapp Dingbat
+- Futurama (7x06:761B) The Butterjunk Effect
+- Futurama (7x07:761B) The Six Million Dollar Mon
+- Futurama (7x08:762B) Fun on a Bun
+- Futurama (7x09:762B) Free Will Hunting
+- Futurama (7x10:762B) Near‑Death Wish
+- Futurama (7x11:762B) 31st Century Fox
+- Futurama (7x12:762B) Viva Mars Vegas
+- 'Futurama (7x13a:762B) Naturama: The Salmon'
+- 'Futurama (7x13b:762B) Naturama: The Pinta Island Tortoise'
+- 'Futurama (7x13c:762B) Naturama: The Elephant Seal'
+- Futurama (8x01:763B) 2‑D Blacktop
+- Futurama (8x02:763B) Fry and Leela’s Big Fling
+- 'Futurama (8x03:763B) T.: The Terrestrial'
+- Futurama (8x04:763B) Forty Percent Leadbelly
+- Futurama (8x05:763B) The Inhuman Torch
+- 'Futurama (8x06a:763B) Saturday Morning Fun Pit: Bendee Boo and the Mystery Crew'
+- 'Futurama (8x06b:763B) Saturday Morning Fun Pit: Purpleberry Pond'
+- 'Futurama (8x06c:763B) Saturday Morning Fun Pit: G.I. Zapp'
+- Futurama (8x07:763B) Calculon 2.0
+- Futurama (8x08:764B) Assie Come Home
+- Futurama (8x09:764B) Leela and the Genestalk
+- Futurama (8x10:764B) Game of Tones
+- Futurama (8x11:764B) Murder on the Planet Express
+- Futurama (8x12:764B) Stench and Stenchibility
+- Futurama (8x13:764B) Meanwhile
+- (131F) Galaxy Quest
+- Game of Thrones (1x01:1E) Winter is Coming
+- Game of Thrones (1x02:1E) The Kingsroad
+- Game of Thrones (1x03:2E) Lord Snow
+- Game of Thrones (1x04:2E) Cripples, Bastards, and Broken Things
+- Game of Thrones (1x05:2E) The Wolf and the Lion
+- Game of Thrones (1x06:3E) A Golden Crown
+- Game of Thrones (1x07:4E) You Win or You Die
+- Game of Thrones (1x08:4E) The Pointy End
+- Game of Thrones (1x09:4E) Baelor
+- Game of Thrones (1x10:5E) Fire and Blood
+- Game of Thrones - A Clash of Kings (2x01:1E) The North Remembers
+- Game of Thrones - A Clash of Kings (2x02:1E) The Night Lands
+- Game of Thrones - A Clash of Kings (2x03:2E) What is Dead May Never Die
+- Game of Thrones - A Clash of Kings (2x04:2E) Garden of Bones
+- Game of Thrones - A Clash of Kings (2x05:3E) The Ghost of Harrenhal
+- Game of Thrones - A Clash of Kings (2x06:3E) The Old Gods and the New
+- Game of Thrones - A Clash of Kings (2x07:3E) A Man Without Honor
+- Game of Thrones - A Clash of Kings (2x08:4E) The Prince of Winterfell
+- Game of Thrones - A Clash of Kings (2x09:4E) Blackwater
+- Game of Thrones - A Clash of Kings (2x10:5E) Valar Morghulis
+- Game of Thrones - A Feast for Crows (3x01:1E) Valar Dohaeris
+- Game of Thrones - A Feast for Crows (3x02:1E) Dark Wings, Dark Words
+- Game of Thrones - A Feast for Crows (3x03:2E) Walk of Punishment
+- Game of Thrones - A Feast for Crows (3x04:2E) And Now His Watch is Ended
+- Game of Thrones - A Feast for Crows (3x05:3E) Kissed by Fire
+- Game of Thrones - A Feast for Crows (3x06:3E) The Climb
+- Game of Thrones - A Feast for Crows (3x07:3E) The Bear and the Maiden Fair
+- Game of Thrones - A Feast for Crows (3x08:4E) Second Sons
+- Game of Thrones - A Feast for Crows (3x09:4E) The Rains of Castamere
+- Game of Thrones - A Feast for Crows (3x10:5E) Mhysa
+- Game of Thrones - A Storm of Swords (4x01:1E) Two Swords
+- Game of Thrones - A Storm of Swords (4x02:1E) The Lion and the Rose
+- Game of Thrones - A Storm of Swords (4x03:2E) Breaker of Chains
+- Game of Thrones - A Storm of Swords (4x04:2E) Oathkeeper
+- Game of Thrones - A Storm of Swords (4x05:2E) First of His Name
+- Game of Thrones - A Storm of Swords (4x06:3E) The Laws of Gods and Men
+- Game of Thrones - A Storm of Swords (4x07:3E) Mockingbird
+- Game of Thrones - A Storm of Swords (4x08:3E) The Mountain and the Viper
+- Game of Thrones - A Storm of Swords (4x09:4E) The Watchers on the Wall
+- Game of Thrones - A Storm of Swords (4x10:4E) The Children
+- Game of Thrones - A Dance with Dragons (5x01:1E) The Wars to Come
+- Game of Thrones - A Dance with Dragons (5x02:1E) The House of Black and White
+- Game of Thrones - A Dance with Dragons (5x03:2E) High Sparrow
+- Game of Thrones - A Dance with Dragons (5x04:2E) Sons of the Harpy
+- Game of Thrones - A Dance with Dragons (5x05:2E) Kill the Boy
+- Game of Thrones - A Dance with Dragons (5x06:3E) Unbowed, Unbent, Unbroken
+- Game of Thrones - A Dance with Dragons (5x07:3E) The Gift
+- Game of Thrones - A Dance with Dragons (5x08:3E) Hardhome
+- Game of Thrones - A Dance with Dragons (5x09:4E) The Dance of Dragons
+- Game of Thrones - A Dance with Dragons (5x10:4E) Mother’s Mercy
+- Game of Thrones - The Winds of Winter (6x01:1E) The Red Woman
+- Game of Thrones - The Winds of Winter (6x02:1E) Home
+- Game of Thrones - The Winds of Winter (6x03:1E) Oathbreaker
+- Game of Thrones - The Winds of Winter (6x04:2E) Book of the Stranger
+- Game of Thrones - The Winds of Winter (6x05:2E) The Door
+- Game of Thrones - The Winds of Winter (6x06:3E) Blood of My Blood
+- Game of Thrones - The Winds of Winter (6x07:3E) The Broken Man
+- Game of Thrones - The Winds of Winter (6x08:3E) No One
+- Game of Thrones - The Winds of Winter (6x09:4E) Battle of the Bastards
+- Game of Thrones - The Winds of Winter (6x10:4E) The Winds of Winter
+- Game of Thrones - A Hope of Spring (7x01:297B) Dragonstone
+- Game of Thrones - A Hope of Spring (7x02:297B) Stormborn
+- Game of Thrones - A Hope of Spring (7x03:297B) The Queen’s Justice
+- Game of Thrones - A Hope of Spring (7x04:298B) The Spoils of War
+- Game of Thrones - A Hope of Spring (7x05:298B) Eastwatch
+- Game of Thrones - A Hope of Spring (7x06:298B) Beyond the Wall
+- Game of Thrones - A Hope of Spring (7x07:299B) The Dragon and the Wolf
+- Game of Thrones - A Song of Ice and Fire (8x01:300B) Winterfell
+- Game of Thrones - A Song of Ice and Fire (8x02:300B) A Knight of the Seven Kingdoms
+- Game of Thrones - A Song of Ice and Fire (8x03:300B) The Long Night
+- Game of Thrones - A Song of Ice and Fire (8x04:301B) The Last of the Starks
+- Game of Thrones - A Song of Ice and Fire (8x05:301B) The Bells
+- Game of Thrones - A Song of Ice and Fire (8x06:302B) The Iron Throne
+- (87F) George of the Jungle
+- Get Smart (1x01:601B) Mr. Big
+- Get Smart (1x02:601B) Diplomat’s Daughter
+- Get Smart (1x03:601B) School Days
+- Get Smart (1x04:601B) Our Man in Toyland
+- Get Smart (1x05:601B) Now You See Him… Now You Don’t
+- Get Smart (1x06:601B) Washington 4, Indians 3
+- Get Smart (1x07:601B) KAOS in CONTROL
+- Get Smart (1x08:601B) The Day Smart Turned Chicken
+- Get Smart (1x09:602B) Satan Place
+- Get Smart (1x10:602B) Our Man in Leotards
+- Get Smart (1x11:602B) Too Many Chiefs
+- Get Smart (1x12:602B) My Nephew the Spy
+- Get Smart (1x13:602B) Aboard the Orient Express
+- Get Smart (1x14:602B) Weekend Vampire
+- Get Smart (1x15:602B) Survival of the Fattest
+- Get Smart (1x16:602B) Double Agent
+- Get Smart (1x17:603B) Kisses for KAOS
+- Get Smart (1x18:603B) The Dead Spy Scrawls
+- Get Smart (1x19:603B) Back to the Old Drawing Board
+- Get Smart (1x20:603B) All in the Mind
+- Get Smart (1x21:603B) Dear Diary
+- Get Smart (1x22:603B) Smart, the Assassin
+- Get Smart (1x23:603B) I’m Only Human
+- Get Smart (1x24:604B) Stakeout on Blue Mist Mountain
+- Get Smart (1x25:604B) The Amazing Harry Hoo
+- Get Smart (1x26:604B) Hubert’s Unfinished Symphony
+- Get Smart (1x27\2:604B) Ship of Spies
+- Get Smart (1x29:604B) Shipment to Beirut
+- Get Smart (1x30:604B) The Last One in is a Rotten Spy
+- Get Smart (2x01:606B) Anatomy of a Lover
+- Get Smart (2x02:606B) Strike While the Agent is Hot
+- Get Smart (2x03:606B) A Spy for a Spy
+- Get Smart (2x04:606B) The Only Way to Die
+- Get Smart (2x05:606B) Maxwell Smart, Alias Jimmy Ballantine
+- Get Smart (2x06:606B) Casablanca
+- Get Smart (2x07:606B) The Decoy
+- Get Smart (2x08:606B) Hoo Done It
+- Get Smart (2x09:607B) Rub‑a‑Dub‑Dub… Three Spies in a Sub
+- Get Smart (2x10:607B) The Greatest Spy on Earth
+- Get Smart (2x11:607B) Island of the Darned
+- Get Smart (2x12:607B) Bronzefinger
+- Get Smart (2x13:607B) Perils in a Pet Shop
+- Get Smart (2x14:607B) The Whole Tooth and…
+- Get Smart (2x15:607B) Kiss of Death
+- Get Smart (2x16:607B) It Takes One to Know One
+- Get Smart (2x17:608B) Someone Down Here Hates Me
+- Get Smart (2x18:608B) Cutback at CONTROL
+- Get Smart (2x19:608B) The Man from YENTA
+- Get Smart (2x20:608B) The Mummy
+- Get Smart (2x21:608B) The Girls from KAOS
+- Get Smart (2x22:608B) Smart Fit the Battle of Jericho
+- Get Smart (2x23:608B) Where‑What‑How‑Who Am I?
+- Get Smart (2x24:609B) The Expendable Agent
+- Get Smart (2x25:609B) How to Succeed in the Spy Business Without Really Trying
+- Get Smart (2x26:609B) Appointment in Sahara
+- Get Smart (2x27:609B) Pussycats Galore
+- Get Smart (2x28\3:609B) A Man Called Smart
+- Get Smart (3x01:611B) The Spy Who Met Himself
+- Get Smart (3x02:611B) Viva Smart
+- Get Smart (3x03:611B) Witness for the Persecution
+- Get Smart (3x04:611B) The Spirit is Willing
+- Get Smart (3x05:611B) Maxwell Smart, Private Eye
+- Get Smart (3x06:611B) Supersonic Boom
+- Get Smart (3x07:611B) One of Our Olives is Missing
+- Get Smart (3x08:612B) When Good Fellows Get Together
+- Get Smart (3x09:612B) Dr. Yes
+- Get Smart (3x10:612B) That Old Gang of Mine
+- Get Smart (3x11:612B) The Mild Ones
+- 'Get Smart (3x12:612B) Classification: Dead'
+- Get Smart (3x13:612B) The Mysterious Dr. T
+- Get Smart (3x14:612B) The King Lives?
+- Get Smart (3x15:613B) The Groovy Guru
+- Get Smart (3x16\2:613B) The Little Black Book
+- Get Smart (3x18:613B) Don’t Look Back
+- Get Smart (3x19:613B) 99 Loses CONTROL
+- Get Smart (3x20:613B) The Wax Max
+- Get Smart (3x21:614B) Operation Ridiculous
+- Get Smart (3x22:614B) Spy, Spy, Birdie
+- Get Smart (3x23:614B) Run, Robot, Run
+- Get Smart (3x24:614B) The Hot Line
+- Get Smart (3x25:614B) Die, Spy
+- Get Smart (3x26:614B) The Reluctant Redhead
+- Get Smart (4x01:616B) The Impossible Mission
+- Get Smart (4x02:616B) Snoopy Smart vs. the Red Baron
+- Get Smart (4x03:616B) Closely Watched Planes
+- Get Smart (4x04:616B) The Secret of Sam Vittorio
+- Get Smart (4x05:616B) Diamonds Are a Spy’s Best Friend
+- Get Smart (4x06:616B) The Worst Best Man
+- Get Smart (4x07:616B) A Tale of Two Tails
+- Get Smart (4x08:617B) The Return of the Ancient Mariner
+- Get Smart (4x09:617B) With Love and Twitches
+- Get Smart (4x10:617B) The Laser Blazer
+- Get Smart (4x11:617B) The Farkas Fracas
+- Get Smart (4x12:617B) Temporarily Out of CONTROL
+- Get Smart (4x13:617B) Schwartz’s Island
+- Get Smart (4x14:617B) One Nation Invisible
+- Get Smart (4x15:618B) Hurray for Hollywood
+- Get Smart (4x16:618B) The Day They Raided the Knights
+- Get Smart (4x17:618B) Tequila Mockingbird
+- Get Smart (4x18:618B) I Shot 86 Today
+- Get Smart (4x19:618B) Absorb the Greek
+- Get Smart (4x20\2:618B) To Sire, with Love
+- Get Smart (4x22:619B) Shock It to Me
+- Get Smart (4x23:619B) Leadside
+- Get Smart (4x24:619B) Greer Window
+- Get Smart (4x25\2:619B) The Not‑So‑Great Escape
+- Get Smart (5x01:621B) Pheasant Under Glass
+- Get Smart (5x02:621B) Ironhand
+- Get Smart (5x03:621B) Valerie of the Dolls
+- Get Smart (5x04:621B) Widow Often Annie
+- Get Smart (5x05:621B) The Treasure of C. Errol Madre
+- Get Smart (5x06:621B) Smart Fell on Alabama
+- Get Smart (5x07\2:621B) And Baby Makes Four
+- 'Get Smart (5x09:622B) Physician: Impossible'
+- Get Smart (5x10:622B) The Apes of Rath
+- Get Smart (5x11:622B) Age Before Duty
+- Get Smart (5x12:622B) Is This Trip Necessary?
+- Get Smart (5x13:622B) Ice Station Siegfried
+- Get Smart (5x14:622B) Moonlighting Becomes You
+- Get Smart (5x15\2:623B) House of Max
+- Get Smart (5x17:623B) Rebecca of Funny‑Folk Farm
+- Get Smart (5x18:623B) The Mess of Adrian Listenger
+- Get Smart (5x19:623B) Witness for the Execution
+- Get Smart (5x20:623B) How Green Was My Valet
+- Get Smart (5x21:624B) And Only Two Ninety‑Nine
+- Get Smart (5x22:624B) Smartacus
+- Get Smart (5x23:624B) What’s It All About, Algie?
+- Get Smart (5x24:624B) Hello, Columbus ‑ Goodbye, America
+- Get Smart (5x25:624B) Do I Hear a Vaults?
+- Get Smart (5x26:624B) I Am Curiously Yellow
+- (64F) Ghost
+- (37F) Ghostbusters
+- Ghostbusters (38F) Who Ya Gonna Call?
+- Ghostbusters (683B) Answer the Call
+- The Girl From Tomorrow (1x01:1C) Future Shock
+- The Girl From Tomorrow (1x02:1C) A Primitive and Dangerous Time
+- The Girl From Tomorrow (1x03:1C) Sanctuary
+- The Girl From Tomorrow (1x04:2C) Sweetness and Fright
+- The Girl From Tomorrow (1x05:2C) Don’t Tell Mum
+- The Girl From Tomorrow (1x06:2C) Computer Games
+- The Girl From Tomorrow (1x07:3C) Stake‑Out
+- The Girl From Tomorrow (1x08:3C) Newsprobe
+- The Girl From Tomorrow (1x09:3C) Truth and Lies
+- The Girl From Tomorrow (1x10:4C) Betrayed
+- The Girl From Tomorrow (1x11:4C) Captain Zero Strikes Again
+- The Girl From Tomorrow (1x12:4C) Last Stand at the Kelly Deli
+- The Girl From Tomorrow - Tomorrow’s End (2x01:1C) A Time Without Vegemite
+- The Girl From Tomorrow - Tomorrow’s End (2x02:1C) The End of Everything
+- The Girl From Tomorrow - Tomorrow’s End (2x03:1C) The Other Alana
+- The Girl From Tomorrow - Tomorrow’s End (2x04:2C) The Time Gate
+- The Girl From Tomorrow - Tomorrow’s End (2x05:2C) Sucked Into the Future
+- The Girl From Tomorrow - Tomorrow’s End (2x06:2C) The Grandmother of Invention
+- The Girl From Tomorrow - Tomorrow’s End (2x07:3C) Escape From Globecorp
+- The Girl From Tomorrow - Tomorrow’s End (2x08:3C) A Chase Through Time
+- The Girl From Tomorrow - Tomorrow’s End (2x09:3C) Showdown at ‘Eddie’s Pools’
+- The Girl From Tomorrow - Tomorrow’s End (2x10:4C) In the Nik of Time
+- The Girl From Tomorrow - Tomorrow’s End (2x11:4C) The Great Disaster Begins
+- The Girl From Tomorrow - Tomorrow’s End (2x12:4C) Kings of the Dinosaurs
+- (21F) Good Morning Vietnam
+- Good Omens (1x01:445B) In the Beginning
+- Good Omens (1x02:445B) The Book
+- Good Omens (1x03:445B) Hard Times
+- Good Omens (1x04:446B) Saturday Morning Funtime
+- Good Omens (1x05:446B) The Doomsday Option
+- Good Omens (1x06:446B) The Very Last Day of the Rest of Their Lives
+- Good Omens (2x01:447B) The Arrival (不連之客)
+- Good Omens (2x02:447B) The Clue (草蛇灰线)
+- Good Omens (2x03:447B) I Know Where I'm Going (前路自知)
+- Good Omens (2x04:448B) The Hitchhiker
+- Good Omens (2x05:448B) The Ball
+- Good Omens (2x06:448B) Every Day
+- The Good Place (1x01:433B) Everything is Fine
+- The Good Place (1x02:433B) Flying
+- The Good Place (1x03:433B) Tahani Al‑Jamil
+- The Good Place (1x04:433B) Jason Mendoza
+- The Good Place (1x05:434B) Category 55 Emergency Doomsday Crisis
+- The Good Place (1x06:434B) What We Owe to Each Other
+- The Good Place (1x07:434B) The Eternal Shriek
+- The Good Place (1x08:434B) Most Improved Player
+- The Good Place (1x09:435B) …⁠Someone Like Me as a Member
+- The Good Place (1x10:435B) Chidi’s Choice
+- The Good Place (1x11:435B) What’s My Motivation?
+- The Good Place (1x12:435B) Mindy St. Claire
+- The Good Place (1x13:435B) Michael’s Gambit
+- The Good Place (2x01:436B) Everything is Great!
+- The Good Place (2x03:436B) Dance Dance Resolution
+- The Good Place (2x04:436B) Team Cockroach
+- The Good Place (2x05:436B) Existential Crisis
+- The Good Place (2x06:437B) The Trolley Problem
+- The Good Place (2x07:437B) Janet and Michael
+- The Good Place (2x08:437B) Derek
+- The Good Place (2x09:437B) Leap to Faith
+- The Good Place (2x10:438B) Best Self
+- The Good Place (2x11:438B) Rhonda, Diana, Jake, and Trent
+- The Good Place (2x12:438B) The Burrito
+- The Good Place (2x13:438B) Somewhere Else
+- The Good Place (3x01:439B) Everything is Bonzer!
+- The Good Place (3x03:439B) The Brainy Bunch
+- The Good Place (3x04:439B) The Snowplow
+- The Good Place (3x05:439B) Jeremy Bearimy
+- The Good Place (3x06:440B) The Ballad of Donkey Doug
+- The Good Place (3x07:440B) A Fractured Inheritance
+- The Good Place (3x08:440B) The Worst Possible Use of Free Will
+- The Good Place (3x09:440B) Don’t Let the Good Life Pass You By
+- The Good Place (3x10:441B) Janet(s)
+- The Good Place (3x11:441B) The Book of Dougs
+- The Good Place (3x12:441B) Chidi Sees the Time‑Knife
+- The Good Place (3x13:441B) Pandemonium
+- The Good Place (4x01\2:442B) A Girl from Arizona
+- The Good Place (4x03:442B) Chillaxing
+- The Good Place (4x04:442B) Tinker, Tailor, Demon, Spy
+- The Good Place (4x05:442B) Employee of the Bearimy
+- The Good Place (4x06:443B) A Chip Driver Mystery
+- The Good Place (4x07:443B) Help Is Other People
+- The Good Place (4x08:443B) The Funerals To End All Funerals
+- The Good Place (4x09:443B) The Answer
+- The Good Place (4x10:443B) Mondays, Am I Right?
+- The Good Place (4x11:444B) You’ve Changed, Man
+- The Good Place (4x12:444B) Patty
+- The Good Place (4x13:444B) Whenever You’re Ready
+- (92F) Groundhog Day
+- (156B) Hamlet
+- (170F) Hercules
+- Heroes - Genesis (1x01:1A) In His Own Image
+- Heroes - Genesis (1x02:1A) Don’t Look Back
+- Heroes - Genesis (1x03:2A) One Giant Leap
+- Heroes - Genesis (1x04:2A) Collision
+- Heroes - Genesis (1x05:2A) Hiros
+- Heroes - Genesis (1x06:3A) Better Halves
+- Heroes - Genesis (1x07:3A) Nothing to Hide
+- Heroes - Genesis (1x08:3A) Seven Minutes to Midnight
+- Heroes - Genesis (1x09:4A) Homecoming
+- Heroes - Genesis (1x10:4A) Six Months Ago…
+- Heroes - Genesis (1x11:4A) Fallout
+- Heroes - Genesis (1x12:5A) Godsend
+- Heroes - Genesis (1x13:5A) The Fix
+- Heroes - Genesis (1x14:5A) Distractions
+- Heroes - Genesis (1x15:5A) Run!
+- Heroes - Genesis (1x16:6A) Unexpected
+- Heroes - Genesis (1x17:6A) Company Man
+- Heroes - Genesis (1x18:6A) Parasite
+- Heroes - Genesis (1x19:6A) .07%
+- Heroes - Genesis (1x20:7A) Five Years Gone
+- Heroes - Genesis (1x21:7A) The Hard Part
+- Heroes - Genesis (1x22:7A) Landslide
+- Heroes - Genesis (1x23:7A) How to Stop an Exploding Man
+- Heroes - Generations (2x01:1A) Four Months Later…
+- Heroes - Generations (2x02:1A) Lizards
+- Heroes - Generations (2x03:1A) Kindred
+- Heroes - Generations (2x04:1A) The Kindess of Strangers
+- Heroes - Generations (2x05:2A) Fight or Flight
+- Heroes - Generations (2x06:2A) The Line
+- Heroes - Generations (2x07:2A) Out of Time
+- Heroes - Generations (2x08:2A) Four Months Ago…
+- Heroes - Generations (2x09:3A) Cautionary Tales
+- Heroes - Generations (2x10:3A) Truth &amp; Consequences
+- Heroes - Generations (2x11:3A) Powerless
+- Heroes - Villians (3x01:1A) The Second Coming
+- Heroes - Villians (3x02:1A) Butterfly Effect
+- Heroes - Villians (3x03:1A) One of Us, One of Them
+- Heroes - Villians (3x04:1A) I Am Become Death
+- Heroes - Villians (3x05:2A) Angels And Monsters
+- Heroes - Villians (3x06:2A) Dying of the Light
+- Heroes - Villians (3x07:2A) Eris Quod Sum
+- Heroes - Villians (3x08:2A) Villains
+- Heroes - Villians (3x09:3A) It’s Coming
+- Heroes - Villians (3x10\2:3A) The Eclipse
+- Heroes - Villians (3x12:3A) Our Father
+- Heroes - Villians (3x13:4A) Dual
+- Heroes - Fugitives (3x14:4A) A Clear and Present Danger
+- Heroes - Fugitives (3x15:4A) Trust and Blood
+- Heroes - Fugitives (3x16:4A) Building 26
+- Heroes - Fugitives (3x17:5A) Cold Wars
+- Heroes - Fugitives (3x18:5A) Exposed
+- Heroes - Fugitives (3x19:5A) Shades of Gray
+- Heroes - Fugitives (3x20:5A) Cold Snap
+- Heroes - Fugitives (3x21:6A) Into Asylum
+- Heroes - Fugitives (3x22:6A) Turn and Face the Strange
+- Heroes - Fugitives (3x23:6A) 1961
+- Heroes - Fugitives (3x24:6A) I Am Sylar
+- Heroes - Fugitives (3x25:6A) An Invisible Thread
+- Heroes - Redemption (4x01:1A) Orientation
+- Heroes - Redemption (4x02:1A) Ink
+- Heroes - Redemption (4x03:1A) Acceptance
+- Heroes - Redemption (4x04:2A) Hysterical Blindness
+- Heroes - Redemption (4x05:2A) Tabula Rasa
+- Heroes - Redemption (4x06:2A) Strange Attractors
+- Heroes - Redemption (4x07:2A) Once Upon a Time in Texas
+- Heroes - Redemption (4x08:3A) Shadowboxing
+- Heroes - Redemption (4x09:3A) Brother’s Keeper
+- Heroes - Redemption (4x10:3A) Thanksgiving
+- Heroes - Redemption (4x11:3A) The Fifth Stage
+- Heroes - Redemption (4x12:4A) Upon This Rock
+- Heroes - Redemption (4x13:4A) Let It Bleed
+- Heroes - Redemption (4x14:4A) Close to You
+- Heroes - Redemption (4x15:4A) Pass/Fail
+- Heroes - Redemption (4x16:5A) The Art of Deception
+- Heroes - Redemption (4x17:5A) The Wall
+- Heroes - Redemption (4x18:5A) Brave New World
+- His Dark Materials - The Golden Compass (1x01:1A) Lyra's Jordan
+- His Dark Materials - The Golden Compass (1x02:1A) The Idea of North
+- His Dark Materials - The Golden Compass (1x03:1A) The Spies
+- His Dark Materials - The Golden Compass (1x04:1A) Armour
+- His Dark Materials - The Golden Compass (1x05:2A) The Lost Boy
+- His Dark Materials - The Golden Compass (1x06:2A) The Daemon-Cages
+- His Dark Materials - The Golden Compass (1x07:2A) The Fight to the Death
+- His Dark Materials - The Golden Compass (1x08:2A) Betrayal
+- His Dark Materials - The Subtle Knife (2x01:1A) The City of Magpies
+- His Dark Materials - The Subtle Knife (2x02:1A) The Cave
+- His Dark Materials - The Subtle Knife (2x03:1A) Theft
+- His Dark Materials - The Subtle Knife (2x04:1A) Tower of the Angels
+- His Dark Materials - The Subtle Knife (2x05:2A) The Scholar
+- His Dark Materials - The Subtle Knife (2x06:2A) Malice
+- His Dark Materials - The Subtle Knife (2x07:2A) Æsahættr
+- His Dark Materials - The Amber Spyglass (3x01:1A) The Enchanted Sleeper
+- His Dark Materials - The Amber Spyglass (3x02:1A) The Break
+- His Dark Materials - The Amber Spyglass (3x03:1A) The Intention Craft
+- His Dark Materials - The Amber Spyglass (3x04:1A) Lyra and Her Death
+- His Dark Materials - The Amber Spyglass (3x05:2A) No Way Out
+- His Dark Materials - The Amber Spyglass (3x06:2A) The Abyss
+- His Dark Materials - The Amber Spyglass (3x07:2A) The Clouded Mountain
+- His Dark Materials - The Amber Spyglass (3x08:2A) The Botanic Garden
+- (78F) History of the World, Part I
+- (71F) The Hitchhiker’s Guide to the Galaxy
+- (232B) Hocus Pocus
+- (96F) Hook
+- (1:311B) Hot Shots!
+- Hot Shots! (2:312B) Part Deux
+- (325B) Howl’s Moving Castle (ハウルの動く城)
+- (144F) The Hunchback of Notre Dame
+- The IT Crowd (1x01:W) Yesterday’s Jam
+- The IT Crowd (1x02:W) Calamity Jen
+- The IT Crowd (1x03:W) Fifty‑Fifty
+- The IT Crowd (1x04:W) The Red Door
+- The IT Crowd (1x05:W) The Haunting of Bill Crouse
+- The IT Crowd (1x06:W) Aunt Irma Visits
+- The IT Crowd (2x01:W) The Work Outing
+- The IT Crowd (2x02:W) Return of the Golden Child
+- The IT Crowd (2x03:W) Moss and the German
+- The IT Crowd (2x04:W) The Dinner Party
+- The IT Crowd (2x05:W) Smoke and Mirrors
+- The IT Crowd (2x06:W) Men Without Women
+- The IT Crowd (3x01:W) From Hell
+- The IT Crowd (3x02:W) Are We Not Men?
+- The IT Crowd (3x03:W) Tramps Like Us
+- The IT Crowd (3x04:W) The Speech
+- The IT Crowd (3x05:W) Friendface
+- The IT Crowd (3x06:W) Calendar Geeks
+- The IT Crowd (4x01:W) Jen the Fredo
+- The IT Crowd (4x02:W) The Final Countdown
+- The IT Crowd (4x03:W) Something Happened
+- The IT Crowd (4x04:W) Italian for Beginners
+- The IT Crowd (4x05:W) Bad Boys
+- The IT Crowd (4x06:W) Reynholm vs Reynholm
+- (268B) Idiocracy
+- (309B) The Imitation Game
+- (47F) Immortals
+- (39F) Inception
+- (1:155F) The Incredibles
+- The Incredibles (2:199F) Family
+- (36F) Innerspace
+- (196F) Inside Out
+- (267B) The Invention of Lying
+- JAG (1x01\2:171B) A New Life
+- JAG (1x03:171B) Shadow
+- JAG (1x04:171B) Desert Son
+- JAG (1x05:172B) Déjà Vu
+- JAG (1x06:172B) Pilot Error
+- JAG (1x07:172B) War Cries
+- JAG (1x08:172B) Brig Break
+- JAG (1x09:173B) Scimitar
+- JAG (1x10:173B) Boot
+- JAG (1x11:173B) Sightings
+- JAG (1x12:173B) The Brotherhood
+- JAG (1x13:174B) Defensive Action
+- JAG (1x14:174B) Smoked
+- JAG (1x15:174B) Hemlock
+- JAG (1x16:174B) High Ground
+- JAG (1x17:175B) Black Ops
+- JAG (1x18:175B) Survivors
+- JAG (1x19:175B) Recovery
+- JAG (1x20:175B) The Prisoner
+- JAG (1x21:176B) Ares
+- JAG (1x22:176B) Skeleton Crew
+- JAG (2x01:177B) We the People
+- JAG (2x02:177B) Secrets
+- JAG (2x03:177B) Jinx
+- JAG (2x04:177B) Heroes
+- JAG (2x05:178B) Crossing the Line
+- JAG (2x06:178B) Trinity
+- JAG (2x07:178B) Ghosts
+- JAG (2x08:178B) Full Engagement
+- JAG (2x09:179B) Washington Holiday
+- JAG (2x10:179B) The Game of Go
+- JAG (2x11:179B) Force Recon
+- JAG (2x12:179B) The Guardian
+- JAG (2x13:180B) Code Blue
+- JAG (2x14:180B) Cowboys and Cossacks
+- JAG (2x15:180B) Rendezvous
+- JAG (3x01:181B) Ghost Ship
+- JAG (3x02:181B) The Court‑Martial of Sandra Gilbert
+- JAG (3x03:181B) The Good of the Service
+- JAG (3x04:181B) Blind Side
+- JAG (3x05:182B) King of the Fleas
+- JAG (3x06:182B) Vanished
+- JAG (3x07:182B) Against All Enemies
+- JAG (3x08:182B) Above and Beyond
+- JAG (3x09:183B) Impact
+- JAG (3x10:183B) People v. Rabb
+- JAG (3x11:183B) Defenseless
+- JAG (3x12:183B) Someone to Watch Over Annie
+- JAG (3x13:184B) With Intent to Die
+- JAG (3x14:184B) Father’s Day
+- JAG (3x15:184B) Yesterday’s Heroes
+- JAG (3x16:184B) Chains of Command
+- JAG (3x17:185B) The Stalker
+- JAG (3x18:185B) Tiger, Tiger
+- JAG (3x19:185B) Death Watch
+- JAG (3x20:185B) Imposter
+- JAG (3x21:186B) The Return of Jimmy Blackhorse
+- JAG (3x22:186B) Clipped Wings
+- JAG (3x23:186B) Wedding Bell Blues
+- JAG (3x24:186B) To Russia with Love
+- JAG (4x01:187B) Gypsy Eyes
+- JAG (4x02:187B) Embassy
+- JAG (4x03:187B) Innocence
+- JAG (4x04:187B) Going After Francesca
+- JAG (4x05:188B) The Martin Baker Fan Club
+- JAG (4x06:188B) Act of Terror
+- JAG (4x07:188B) Angels 30
+- JAG (4x08:188B) Mr. Rabb Goes to Washington
+- JAG (4x09:189B) People v. Mac
+- JAG (4x10:189B) The Black Jet
+- JAG (4x11:189B) Jaggle Bells
+- JAG (4x12:189B) Dungaree Justice
+- JAG (4x13:190B) War Stories
+- JAG (4x14:190B) Webb of Lies
+- JAG (4x15:190B) Rivers’ Run
+- JAG (4x16:190B) Silent Service
+- JAG (4x17:191B) Nobody’s Child
+- JAG (4x18:191B) Shakedown
+- JAG (4x19:191B) The Adversaries
+- JAG (4x20:191B) Second Sight
+- JAG (4x21:192B) Wilderness of Mirrors
+- JAG (4x22:192B) Soul Searching
+- JAG (4x23:192B) Yeah Baby
+- JAG (4x24:192B) Goodbyes
+- JAG (5x01:193B) King of the Greenie Board
+- JAG (5x02:193B) Rules of Engagement
+- JAG (5x03:193B) True Callings
+- JAG (5x04:193B) The Return
+- JAG (5x05:194B) Front and Center
+- JAG (5x06:194B) Psychic Warrior
+- JAG (5x07:194B) Rogue
+- JAG (5x08:194B) The Colonel’s Wife
+- JAG (5x09:195B) Contemptuous Words
+- JAG (5x10:195B) Mishap
+- JAG (5x11:195B) Ghosts of Christmas Past
+- JAG (5x12:195B) Into the Breech
+- JAG (5x13:196B) Life or Death
+- JAG (5x14:196B) Cabin Pressure
+- JAG (5x15\2:196B) Boomerang
+- JAG (5x17:197B) People v. Gunny
+- JAG (5x18:197B) The Bridge at Kang So Ri
+- JAG (5x19:197B) Promises
+- JAG (5x20:197B) Drop Zone
+- JAG (5x21:198B) The Witches of Gulfport
+- JAG (5x22:198B) Overdue and Presumed Lost
+- JAG (5x23:198B) Real Deal SEAL
+- JAG (5x24:198B) Body Talk
+- JAG (5x25:198B) Surface Warfare
+- JAG (6x01\2:199B) Legacy
+- JAG (6x03:199B) Florida Straits
+- JAG (6x04:199B) Flight Risk
+- JAG (6x05:200B) JAG TV
+- JAG (6x06:200B) The Princess and the Petty Officer
+- JAG (6x07\2:200B) A Separate Peace
+- JAG (6x09:201B) Family Secrets
+- JAG (6x10:201B) Touch and Go
+- JAG (6x11:201B) Baby, It’s Cold Outside
+- JAG (6x12:201B) Collision Course
+- JAG (6x13:202B) Miracles
+- JAG (6x14:202B) Killer Instinct
+- JAG (6x15:202B) Iron Coffin
+- JAG (6x16:202B) Retreat, Hell
+- JAG (6x17:203B) Valor
+- JAG (6x18:203B) Liberty
+- JAG (6x19:203B) Salvation
+- JAG (6x20:203B) To Walk on Wings
+- JAG (6x21:204B) Past Tense
+- JAG (6x22:204B) Lifeline
+- JAG (6x23:204B) Mutiny
+- JAG (6x24\2:204B) Adrift
+- JAG (7x02:205B) New Gun in Town
+- JAG (7x03:205B) Measure of Men
+- JAG (7x04:205B) Guilt
+- JAG (7x05:206B) Mixed Messages
+- JAG (7x06:206B) Redemption
+- JAG (7x07:206B) Ambush
+- JAG (7x08:206B) Jagathon
+- JAG (7x09\2:206B) Dog Robber
+- JAG (7x11:207B) Answered Prayers
+- JAG (7x12:207B) Capital Crime
+- JAG (7x13:207B) Code of Conduct
+- JAG (7x14:207B) Odd Man Out
+- JAG (7x15:208B) Head to Toe
+- JAG (7x16:208B) The Mission
+- JAG (7x17:208B) Exculpatory Evidence
+- JAG (7x18:208B) Hero Worship
+- JAG (7x19:208B) First Casualty
+- JAG (7x20:209B) Port Chicago
+- JAG (7x21:209B) Tribunal
+- JAG (7x22:209B) Defending His Honor
+- JAG (7x23:209B) In Country
+- JAG (7x24:209B) Enemy Below
+- JAG (8x01:210B) Critical Condition
+- JAG (8x02:210B) The Promised Land
+- JAG (8x03:210B) Family Business
+- JAG (8x04:210B) Dangerous Game
+- JAG (8x05:211B) In Thin Air
+- JAG (8x06:211B) Offensive Action
+- JAG (8x07:211B) Need to Know
+- JAG (8x08:211B) Ready or Not
+- JAG (8x09:211B) When the Bough Breaks
+- JAG (8x10:212B) The Killer
+- JAG (8x11:212B) All Ye Faithful
+- JAG (8x12:212B) Complications
+- JAG (8x13:212B) Standards of Conduct
+- JAG (8x14:212B) Each of Us Angels
+- JAG (8x15:213B) Friendly Fire
+- JAG (8x16:213B) Heart &amp; Soul
+- JAG (8x17:213B) Empty Quiver
+- JAG (8x18:213B) Fortunate Son
+- JAG (8x19:213B) Second Acts
+- JAG (8x20:214B) Ice Queen
+- JAG (8x21:214B) Meltdown
+- JAG (8x22:214B) Lawyers, Guns &amp; Money
+- JAG (8x23:214B) Pas de Deux
+- JAG (8x24\2:214B) A Tangled Webb
+- JAG (9x02:215B) Shifting Sands
+- JAG (9x03:215B) Secret Agent Man
+- JAG (9x04:215B) The One Who Got Away
+- JAG (9x05:216B) Touchdown
+- JAG (9x06:216B) Back in the Saddle
+- JAG (9x07:216B) Close Quarters
+- JAG (9x08:216B) Posse Comitatus
+- JAG (9x09:217B) The Boast
+- JAG (9x10:217B) Pulse Rate
+- JAG (9x11:217B) A Merry Little Christmas
+- JAG (9x12:217B) A Girl’s Best Friend
+- JAG (9x13:217B) Good Intentions
+- JAG (9x14:218B) People v. SecNav
+- JAG (9x15:218B) Crash
+- JAG (9x16:218B) Persian Gulf
+- JAG (9x17:218B) Take It Like a Man
+- JAG (9x18:218B) What If
+- JAG (9x19:219B) Hard Time
+- JAG (9x20:219B) Fighting Words
+- JAG (9x21:219B) Coming Home
+- JAG (9x22:219B) Trojan Horse
+- JAG (9x23\2:219B) Hail and Farewell
+- JAG (10x02:220B) Corporate Raiders
+- JAG (10x03:220B) Retrial
+- JAG (10x04:220B) Whole New Ball Game
+- JAG (10x05:221B) This Just In from Baghdad
+- JAG (10x06:221B) One Big Boat
+- JAG (10x07:221B) Camp Delta
+- JAG (10x08:221B) There Goes the Neighborhood
+- JAG (10x09:222B) The Man on the Bridge
+- JAG (10x10:222B) The Four Percent Solution
+- JAG (10x11:222B) Automatic for the People
+- JAG (10x12:222B) The Sixth Juror
+- JAG (10x13:223B) Heart of Darkness
+- JAG (10x14:223B) Fit for Duty
+- JAG (10x15:223B) Bridging the Gulf
+- JAG (10x16:223B) Straits of Malacca
+- 'JAG (10x17:223B) JAG: San Diego'
+- JAG (10x18:224B) Death at the Mosque
+- JAG (10x19:224B) Two Towns
+- JAG (10x20:224B) Unknown Soldier
+- JAG (10x21:224B) Dream Team
+- JAG (10x22:224B) Fair Winds and Following Seas
+- (687B) Jesus Christ Superstar
+- (344B) Julius Caesar
+- (97F) Jumanji
+- (172F) Jurassic Park
+- (62F) Just Like Heaven
+- (323B) Kiki’s Delivery Service (魔女の宅急便)
+- (308B) The King’s Speech
+- '(321B) Laputa: Castle in the Sky (天空の城ラピュタ)'
+- (1F) Last Action Hero
+- (280B) Last Night in Soho
+- (17F) The Lego Movie
+- Lexx - Tales from a Parallel Universe (1x01:1U) I Worship His Shadow
+- Lexx - Tales from a Parallel Universe (1x02:2U) Supernova
+- Lexx - Tales from a Parallel Universe (1x03:3U) Eating Pattern
+- Lexx - Tales from a Parallel Universe (1x04:4U) Giga Shadow
+- Lexx - Green (2x01:1U) Mantrid
+- Lexx - Green (2x02:1U) Terminal
+- Lexx - Green (2x03:1U) Lyekka
+- Lexx - Green (2x04:1U) Luvliner
+- Lexx - Green (2x05:2U) Lafftrak
+- Lexx - Green (2x06:2U) Stan’s Trial
+- Lexx - Green (2x07:2U) Love Grows
+- Lexx - Green (2x08:2U) White Trash
+- Lexx - Green (2x09:3U) 791
+- Lexx - Green (2x10:3U) Wake the Dead
+- Lexx - Green (2x11:3U) Nook
+- Lexx - Green (2x12:3U) Norb
+- Lexx - Green (2x13:4U) Twilight
+- Lexx - Green (2x14:4U) Patches in the Sky
+- Lexx - Green (2x15:4U) Woz
+- Lexx - Green (2x16:4U) The Web
+- Lexx - Green (2x17:5U) The Net
+- Lexx - Green (2x18:5U) Brigadoom
+- Lexx - Green (2x19:5U) Brizon
+- Lexx - Green (2x20:5U) End of the Universe
+- Lexx (3x01:1U) Fire and Water
+- Lexx (3x02:1U) May
+- Lexx (3x03:1U) Gametown
+- Lexx (3x04:2U) Boomtown
+- Lexx (3x05:2U) Gondola
+- Lexx (3x06:2U) K‑Town
+- Lexx (3x07:3U) Tunnels
+- Lexx (3x08:3U) The Key
+- Lexx (3x09:3U) Garden
+- Lexx (3x10:4U) Battle
+- Lexx (3x11:4U) Girltown
+- Lexx (3x12:4U) The Beach
+- Lexx (3x13:4U) Heaven &amp; Hell
+- Lexx - Blue (4x01:1U) Little Blue Planet
+- Lexx - Blue (4x02:1U) Texx Lexx
+- Lexx - Blue (4x03:1U) P4X
+- Lexx - Blue (4x04:1U) Stan Down
+- Lexx - Blue (4x05:2U) Xevivor
+- Lexx - Blue (4x06:2U) The Rock
+- Lexx - Blue (4x07:2U) Walpurgis Night
+- Lexx - Blue (4x08:2U) Vlad
+- Lexx - Blue (4x09:3U) Fluff Daddy
+- Lexx - Blue (4x10:3U) Magic Baby
+- Lexx - Blue (4x11:3U) A Midsummer’s Nightmare
+- Lexx - Blue (4x12:3U) Bad Carrot
+- Lexx - Blue (4x13:4U) 769
+- Lexx - Blue (4x14:4U) Prime Ridge
+- Lexx - Blue (4x15:4U) Mort
+- Lexx - Blue (4x16:4U) Moss
+- Lexx - Blue (4x17:5U) Dutch Treat
+- Lexx - Blue (4x18:5U) The Game
+- Lexx - Blue (4x19:5U) Haley’s Comet
+- Lexx - Blue (4x20:5U) ApocaLexx Now
+- Lexx - Blue (4x21:6U) Viva Lexx Vegas
+- Lexx - Blue (4x22:6U) Trip
+- Lexx - Blue (4x23:6U) Lyekka vs. Japan
+- Lexx - Blue (4x24:6U) Yo Way Yo
+- (94F) Liar Liar
+- The Librarian (1:105F) Quest for the Spear
+- The Librarian (2:106F) Return to King Solomon’s Mines
+- The Librarians (1x01:461B) and the Crown of King Arthur
+- The Librarians (1x02:461B) and the Sword in the Stone
+- The Librarians (1x03:461B) and the Horns of a Dilemma
+- The Librarians (1x04:462B) and Santa's Midnight Run
+- The Librarians (1x05:462B) and the Apple of Discord
+- The Librarians (1x06:462B) and the Fables of Doom
+- The Librarians (1x07:463B) and the Rule of Three
+- The Librarians (1x08:463B) and the Heart of Darkness
+- The Librarians (1x09:463B) and the City of Light
+- The Librarians (1x10:463B) and the Loom of Fate
+- The Librarians (2x01:464B) and the Drowned Book
+- The Librarians (2x02:464B) and the Broken Staff
+- The Librarians (2x03:464B) and What Lies Beneath the Stones
+- The Librarians (2x04:464B) and the Cost of Education
+- The Librarians (2x05:465B) and the Hollow Men
+- The Librarians (2x06:465B) and the Infernal Contract
+- The Librarians (2x07:465B) and the Image of Image
+- The Librarians (2x08:465B) and the Point of Salvation
+- The Librarians (2x09:466B) and the Happily Ever Afters
+- The Librarians (2x10:466B) and the Final Curtain
+- The Librarians (3x01:467B) and the Rise of Chaos
+- The Librarians (3x02:467B) and the Fangs of Death
+- The Librarians (3x03:467B) and the Reunion of Evil
+- The Librarians (3x04:467B) and the Self-Fulfilling Prophecy
+- The Librarians (3x05:468B) and the Tears of a Clown
+- The Librarians (3x06:468B) and the Trial of the Triangle
+- The Librarians (3x07:468B) and the Curse of Cindy
+- The Librarians (3x08:469B) and the Eternal Question
+- The Librarians (3x09:469B) and the Fatal Separation
+- The Librarians (3x10:469B) and the Wrath of Chaos
+- The Librarians (4x01:470B) and the Dark Secret
+- The Librarians (4x02:470B) and the Steal of Fortune
+- The Librarians (4x03:470B) and the Christmas Thief
+- The Librarians (4x04:470B) and the Silver Screen
+- The Librarians (4x05:471B) and the Bleeding Crown
+- The Librarians (4x06:471B) and the Graves of Time
+- The Librarians (4x07:471B) and the Disenchanted Forest
+- The Librarians (4x08:471B) and the Hidden Sanctuary
+- The Librarians (4x09:472B) and a Town Called Feud
+- The Librarians (4x10:472B) and Some Dude Named Jeff
+- The Librarians (4x11:472B) and the Trial of the One
+- The Librarians (4x12:472B) and the Echoes of Memory
+- (32F) Life is Beautiful (La vita è bella)
+- (190F) Lilo &amp; Stitch
+- (1:173F) The Lion King
+- The Lion King (2:316B) Simba’s Pride
+- The Lion King (3:315B) Hakuna Matata
+- (14F) The Little Mermaid
+- Look Around You (C) Calcium
+- Look Around You (1:C) Maths
+- Look Around You (2:C) Water
+- Look Around You (3:C) Germs
+- Look Around You (4:C) Ghosts
+- Look Around You (5:C) Sulphur
+- Look Around You (6:C) Music
+- Look Around You (7:C) Iron
+- Look Around You (8:C) The Brain
+- The Lord of the Rings (1\2:117F) The Fellowship of the Ring
+- The Lord of the Rings (2\2:119F) The Two Towers
+- The Lord of the Rings (3\2:121F) The Return of the King
+- The Lost Room (1:1P) The Key
+- The Lost Room (2:1P) The Clock
+- The Lost Room (3:1P) The Comb
+- The Lost Room (4:1P) The Box
+- The Lost Room (5:2P) The Eye
+- The Lost Room (6:2P) The Occupant
+- (P) Lost in Space
+- (1x01:489B) Lucifer
+- Lucifer (1x02:489B) Lucifer, Stay. Good Devil.
+- Lucifer (1x03:489B) The Would-Be Prince of Darkness
+- Lucifer (1x04:489B) Manly Whatnots
+- Lucifer (1x05:490B) Sweet Kicks
+- Lucifer (1x06:490B) Favorite Son
+- Lucifer (1x07:490B) Wingman
+- Lucifer (1x08:490B) Et Tu, Doctor?
+- Lucifer (1x09:491B) A Priest Walks Into a Bar
+- Lucifer (1x10:491B) Pops
+- Lucifer (1x11:491B) St. Lucifer
+- 'Lucifer (1x12:491B) #⁠TeamLucifer'
+- Lucifer (1x13:491B) Take Me Back to Hell
+- Lucifer (2x01:492B) Everything’s Coming Up Lucifer
+- Lucifer (2x02:492B) Liar, Liar, Slutty Dress on Fire
+- Lucifer (2x03:492B) Sin-Eater
+- Lucifer (2x04:492B) Lady Parts
+- Lucifer (2x05:492B) Weaponizer
+- Lucifer (2x06:492B) Monster
+- Lucifer (2x07:493B) My Little Monkey
+- Lucifer (2x08:493B) Trip to Stabby Town
+- Lucifer (2x09:493B) Homewrecker
+- Lucifer (2x10:493B) Quid Pro Ho
+- Lucifer (2x11:493B) Stewardess Interruptus
+- Lucifer (2x12:493B) Love Handles
+- Lucifer (2x13:494B) A Good Day to Die
+- Lucifer (2x14:494B) Candy Morningstar
+- Lucifer (2x15:494B) Deceptive Little Parasite
+- Lucifer (2x16:494B) God Johnson
+- Lucifer (2x17:494B) Sympathy for the Goddess
+- Lucifer (2x18:494B) The Good, the Bad and the Crispy
+- Lucifer (3x01:495B) They’re Back, Aren’t They?
+- Lucifer (3x02:495B) The One with the Baby Carrot
+- Lucifer (3x03:495B) Mr. and Mrs. Mazikeen Smith
+- Lucifer (3x04:495B) What Would Lucifer Do?
+- Lucifer (3x05:495B) Welcome Back, Charlotte Richards
+- Lucifer (3x06:495B) Vegas with Some Radish
+- Lucifer (3x07:496B) Off the Record
+- Lucifer (3x08:496B) Chloe Does Lucifer
+- Lucifer (3x09:496B) The Sinnerman
+- Lucifer (3x10:496B) The Sin Bin
+- Lucifer (3x11:496B) City of Angels?
+- Lucifer (3x12:497B) All About Her
+- Lucifer (3x13:497B) Til Death Do Us Part
+- Lucifer (3x14:497B) My Brother’s Keeper
+- Lucifer (3x15:497B) High School Poppycock
+- Lucifer (3x16:497B) Infernal Guinea Pig
+- Lucifer (3x17:498B) Let Pinhead Sing!
+- Lucifer (3x18:498B) The Last Heartbreak
+- Lucifer (3x19:498B) Orange Is the New Maze
+- Lucifer (3x20:498B) The Angel of San Bernardino
+- Lucifer (3x21:498B) Anything Pierce Can Do I Can Do Better
+- Lucifer (3x22:499B) All Hands on Decker
+- Lucifer (3x23:499B) Quintessential Deckerstar
+- Lucifer (3x24:499B) A Devil of My Word
+- Lucifer (3x25:499B) Boo Normal
+- Lucifer (3x26:499B) Once Upon a Time
+- Lucifer (4x01:500B) Everything’s Okay
+- Lucifer (4x02:500B) Somebody’s Been Reading Dante’s Inferno
+- Lucifer (4x03:500B) O, Ye of Little Faith, Father
+- Lucifer (4x04:500B) All About Eve
+- Lucifer (4x05:500B) Expire Erect
+- Lucifer (4x06:501B) Orgy Pants to Work
+- Lucifer (4x07:501B) Devil Is as Devil Does
+- Lucifer (4x08:501B) Super Bad Boyfriend
+- Lucifer (4x09:501B) Save Lucifer
+- Lucifer (4x10:501B) Who’s da New King of Hell?
+- Lucifer (5x01:502B) Really Sad Devil Guy
+- Lucifer (5x02:502B) Lucifer! Lucifer! Lucifer!
+- Lucifer (5x03:502B) ¡⁠Diablo!
+- Lucifer (5x04:502B) It Never Ends Well for the Chicken
+- Lucifer (5x05:503B) Detective Amenadiel
+- Lucifer (5x06:503B) BluBallz
+- Lucifer (5x07:503B) Our Mojo
+- Lucifer (5x08:503B) Spoiler Alert
+- Lucifer (5x09:504B) Family Dinner
+- Lucifer (5x10:504B) Bloody Celestial Karaoke Jam
+- Lucifer (5x11:504B) Resting Devil Face
+- 'Lucifer (5x12:504B) Daniel Espinoza: Naked and Afraid'
+- Lucifer (5x13:505B) A Little Harmless Stalking
+- Lucifer (5x14:505B) Nothing Lasts Forever
+- Lucifer (5x15:505B) Is This Really How It’s Going to End?!
+- Lucifer (5x16:505B) A Chance at a Happy Ending
+- Lucifer (6x01:506B) Nothing Ever Changes Around Here
+- Lucifer (6x02:506B) Buckets of Baggage
+- Lucifer (6x03:506B) Yabba Dabba Do Me
+- Lucifer (6x04:507B) Pin the Tail on the Daddy
+- Lucifer (6x05:507B) The Murder of Lucifer Morningstar
+- Lucifer (6x06:507B) A Lot Dirtier Than That
+- Lucifer (6x07:508B) My Best Fiend’s Wedding
+- Lucifer (6x08:508B) Save the Devil, Save the World
+- Lucifer (6x09:508B) Goodbye, Lucifer
+- Lucifer (6x10:508B) Partners ’Til the End
+- (W) M*A*S*H
+- M*A*S*H (1x01:1W) The Pilot Episode
+- M*A*S*H (1x02:1W) To Market, to Market
+- M*A*S*H (1x03:1W) Requiem for a Lightweight
+- M*A*S*H (1x04:1W) Chief Surgeon Who?
+- M*A*S*H (1x05:1W) The Moose
+- M*A*S*H (1x06:1W) Yankee Doodle Doctor
+- M*A*S*H (1x07:1W) Bananas, Crackers and Nuts
+- M*A*S*H (1x08:1W) Cowboy
+- M*A*S*H (1x09:2W) Henry, Please Come Home
+- M*A*S*H (1x10:2W) I Hate a Mystery
+- M*A*S*H (1x11:2W) Germ Warfare
+- M*A*S*H (1x12:2W) Dear Dad
+- M*A*S*H (1x13:2W) Edwina
+- M*A*S*H (1x14:2W) Love Story
+- M*A*S*H (1x15:2W) Tuttle
+- M*A*S*H (1x16:2W) The Ringbanger
+- M*A*S*H (1x17:3W) Sometimes You Hear the Bullet
+- M*A*S*H (1x18:3W) Dear Dad, Again
+- M*A*S*H (1x19:3W) The Long‑John Flap
+- M*A*S*H (1x20:3W) The Army‑Navy Game
+- M*A*S*H (1x21:3W) Sticky Wicket
+- M*A*S*H (1x22:3W) Major Fred C. Dobbs
+- M*A*S*H (1x23:3W) Ceasefire
+- M*A*S*H (1x24:3W) Showtime
+- M*A*S*H (2x01:1W) Divided We Stand
+- M*A*S*H (2x02:1W) 5 O’Clock Charlie
+- M*A*S*H (2x03:1W) Radar’s Report
+- M*A*S*H (2x04:1W) For the Good of the Outfit
+- M*A*S*H (2x05:1W) Dr. Pierce and Mr. Hyde
+- M*A*S*H (2x06:1W) Kim
+- M*A*S*H (2x07:1W) L.I.P. (Local Indigenous Personnel)
+- M*A*S*H (2x08:1W) The Trial of Henry Blake
+- M*A*S*H (2x09:2W) Dear Dad…Three
+- M*A*S*H (2x10:2W) The Sniper
+- M*A*S*H (2x11:2W) Carry On Hawkeye
+- M*A*S*H (2x12:2W) The Incubator
+- M*A*S*H (2x13:2W) Deal Me Out
+- M*A*S*H (2x14:2W) Hot Lips and Empty Arms
+- M*A*S*H (2x15:2W) Officers Only
+- M*A*S*H (2x16:2W) Henry in Love
+- M*A*S*H (2x17:3W) For Want of a Boot
+- M*A*S*H (2x18:3W) Operation Noselift
+- M*A*S*H (2x19:3W) The Chosen People
+- M*A*S*H (2x20:3W) As You Were
+- M*A*S*H (2x21:3W) Crisis
+- M*A*S*H (2x22:3W) George
+- M*A*S*H (2x23:3W) Mail Call
+- M*A*S*H (2x24:3W) A Smattering of Intelligence
+- M*A*S*H (3x01:1W) The General Flipped at Dawn
+- M*A*S*H (3x02:1W) Rainbow Bridge
+- M*A*S*H (3x03:1W) Officer of the Day
+- M*A*S*H (3x04:1W) Iron Guts Kelly
+- M*A*S*H (3x05:1W) O.R.
+- M*A*S*H (3x06:1W) Springtime
+- M*A*S*H (3x07:1W) Check‑Up
+- M*A*S*H (3x08:1W) Life With Father
+- M*A*S*H (3x09:2W) Alcoholics Unanimous
+- M*A*S*H (3x10:2W) There is Nothing Like a Nurse
+- M*A*S*H (3x11:2W) Adam’s Rib
+- M*A*S*H (3x12:2W) A Full Rich Day
+- M*A*S*H (3x13:2W) Mad Dogs and Servicemen
+- M*A*S*H (3x14:2W) Private Charles Lamb
+- M*A*S*H (3x15:2W) Bombed
+- M*A*S*H (3x16:2W) Bulletin Board
+- M*A*S*H (3x17:3W) The Consultant
+- M*A*S*H (3x18:3W) House Arrest
+- M*A*S*H (3x19:3W) Aid Station
+- M*A*S*H (3x20:3W) Love and Marriage
+- M*A*S*H (3x21:3W) Big Mac
+- M*A*S*H (3x22:3W) Payday
+- M*A*S*H (3x23:3W) White Gold
+- M*A*S*H (3x24:3W) Abyssinia, Henry
+- M*A*S*H (4x01:1W) Welcome to Korea
+- M*A*S*H (4x02:1W) Change of Command
+- M*A*S*H (4x03:1W) It Happened One Night
+- M*A*S*H (4x04:1W) The Late Captain Pierce
+- M*A*S*H (4x05:1W) Hey, Doc
+- M*A*S*H (4x06:1W) The Bus
+- M*A*S*H (4x07:1W) Dear Mildred
+- M*A*S*H (4x08:1W) The Kids
+- M*A*S*H (4x09:2W) Quo Vadis, Captain Chandler?
+- M*A*S*H (4x10:2W) Dear Peggy
+- M*A*S*H (4x11:2W) Of Moose and Men
+- M*A*S*H (4x12:2W) Soldier of the Month
+- M*A*S*H (4x13:2W) The Gun
+- M*A*S*H (4x14:2W) Mail Call Again
+- M*A*S*H (4x15:2W) The Price of Tomato Juice
+- M*A*S*H (4x16:2W) Dear Ma
+- M*A*S*H (4x17:3W) Der Tag
+- M*A*S*H (4x18:3W) Hawkeye
+- M*A*S*H (4x19:3W) Some 38th Parallels
+- M*A*S*H (4x20:3W) The Novocaine Mutiny
+- M*A*S*H (4x21:3W) Smilin’ Jack
+- M*A*S*H (4x22:3W) The More I See You
+- M*A*S*H (4x23:3W) Deluge
+- M*A*S*H (4x24:3W) The Interview
+- M*A*S*H (5x01:1W) Bug Out
+- M*A*S*H (5x02:1W) Margaret’s Engagement
+- M*A*S*H (5x03:1W) Out of Sight, Out of Mind
+- M*A*S*H (5x04:1W) Lt. Radar O’Reilly
+- M*A*S*H (5x05:1W) The Nurses
+- M*A*S*H (5x06:1W) The Abduction of Margaret Houlihan
+- M*A*S*H (5x07:1W) Dear Sigmund
+- M*A*S*H (5x08:1W) Mulcahy’s War
+- M*A*S*H (5x09:2W) The Korean Surgeon
+- M*A*S*H (5x10:2W) Hawkeye Get Your Gun
+- M*A*S*H (5x11:2W) The Colonel’s Horse
+- M*A*S*H (5x12:2W) Exorcism
+- M*A*S*H (5x13:2W) Hawk’s Nightmare
+- M*A*S*H (5x14:2W) The Most Unforgettable Characters
+- M*A*S*H (5x15:2W) 38 Across
+- M*A*S*H (5x16:2W) Ping Pong
+- M*A*S*H (5x17:3W) End Run
+- M*A*S*H (5x18:3W) Hanky Panky
+- M*A*S*H (5x19:3W) Hepatitis
+- M*A*S*H (5x20:3W) The General’s Practitioner
+- M*A*S*H (5x21:3W) Movie Tonight
+- M*A*S*H (5x22:3W) Souvenirs
+- M*A*S*H (5x23:3W) Post‑Op
+- M*A*S*H (5x24:3W) Margaret’s Marriage
+- M*A*S*H (6x01:1W) Fade Out, Fade In
+- M*A*S*H (6x02:1W) Fallen Idol
+- M*A*S*H (6x03:1W) Last Laugh
+- M*A*S*H (6x04:1W) War of Nerves
+- M*A*S*H (6x05:1W) The Winchester Tapes
+- M*A*S*H (6x06:1W) The Light That Failed
+- M*A*S*H (6x07:1W) In Love and War
+- M*A*S*H (6x08:1W) Change Day
+- M*A*S*H (6x09:2W) Images
+- M*A*S*H (6x10:2W) The M*A*S*H Olympics
+- M*A*S*H (6x11:2W) The Grim Reaper
+- M*A*S*H (6x12\2:2W) Comrades in Arms
+- M*A*S*H (6x13:2W) The Merchant of Korea
+- M*A*S*H (6x15:2W) The Smell of Music
+- M*A*S*H (6x16:2W) Patent 4077
+- M*A*S*H (6x17:3W) Tea and Empathy
+- M*A*S*H (6x18:3W) Your Hit Parade
+- M*A*S*H (6x19:3W) What’s Up, Doc?
+- M*A*S*H (6x20:3W) Mail Call Three
+- M*A*S*H (6x21:3W) Temporary Duty
+- M*A*S*H (6x22:3W) Potter’s Retirement
+- M*A*S*H (6x23:3W) Dr. Winchester and Mr. Hyde
+- M*A*S*H (6x24:3W) Major Topper
+- M*A*S*H (7x01:1W) Commander Pierce
+- M*A*S*H (7x02:1W) Peace On Us
+- M*A*S*H (7x03:1W) Lil
+- M*A*S*H (7x04:1W) Our Finest Hour
+- M*A*S*H (7x05:1W) The Billfold Syndrome
+- M*A*S*H (7x07:1W) None Like it Hot
+- M*A*S*H (7x08:1W) They Call the Wind Korea
+- M*A*S*H (7x09:1W) Major Ego
+- M*A*S*H (7x10:2W) Baby, it’s Cold Outside
+- M*A*S*H (7x11:2W) Point of View
+- M*A*S*H (7x12:2W) Dear Comrade
+- M*A*S*H (7x13:2W) Out of Gas
+- M*A*S*H (7x14:2W) An Eye for a Tooth
+- M*A*S*H (7x15:2W) Dear Sis
+- M*A*S*H (7x16:2W) B.J. Papa San
+- M*A*S*H (7x17:2W) Inga
+- M*A*S*H (7x18:3W) The Price
+- M*A*S*H (7x19:3W) The Young and the Restless
+- M*A*S*H (7x20:3W) Hot Lips is Back in Town
+- M*A*S*H (7x21:3W) C*A*V*E
+- M*A*S*H (7x22:3W) Rally Round the Flagg, Boys
+- M*A*S*H (7x23:3W) Preventive Medicine
+- M*A*S*H (7x24:3W) A Night at Rosie’s
+- M*A*S*H (7x25:3W) Ain’t Love Grand
+- M*A*S*H (7x26:3W) The Party
+- M*A*S*H (8x01:1W) Too Many Cooks
+- M*A*S*H (8x02:1W) Are You Now, Margaret?
+- M*A*S*H (8x03:1W) Guerilla My Dreams
+- M*A*S*H (8x04\2:1W) Good‑Bye Radar
+- M*A*S*H (8x06:1W) Period of Adjustment
+- M*A*S*H (8x07:1W) Nurse Doctor
+- M*A*S*H (8x08:1W) Private Finance
+- M*A*S*H (8x09:2W) Mr. and Mrs. Who?
+- M*A*S*H (8x10:2W) The Yalu Brick Road
+- M*A*S*H (8x11:2W) Life Time
+- M*A*S*H (8x12:2W) Dear Uncle Abdul
+- M*A*S*H (8x13:2W) Captains Outrageous
+- M*A*S*H (8x14:2W) Stars and Stripes
+- M*A*S*H (8x15:2W) Yessir, That’s Our Baby
+- M*A*S*H (8x16:2W) Bottle Fatigue
+- M*A*S*H (8x17:3W) Heal Thyself
+- M*A*S*H (8x18:3W) Old Soldiers
+- M*A*S*H (8x19:3W) Morale Victory
+- M*A*S*H (8x20:3W) Lend a Hand
+- M*A*S*H (8x21:3W) Goodbye, Cruel World
+- M*A*S*H (8x22:3W) Dreams
+- M*A*S*H (8x23:3W) War Co‑Respondent
+- M*A*S*H (8x24:3W) Back Pay
+- M*A*S*H (8x25:3W) April Fools
+- M*A*S*H (9x01:1W) The Best of Enemies
+- M*A*S*H (9x02:1W) Letters
+- M*A*S*H (9x03:1W) Cementing Relationships
+- M*A*S*H (9x04:1W) Father’s Day
+- M*A*S*H (9x05:1W) Death Takes a Holiday
+- M*A*S*H (9x06:1W) A War for all Seasons
+- M*A*S*H (9x07:1W) Your Retention Please
+- M*A*S*H (9x08:2W) Tell it to the Marines
+- M*A*S*H (9x09:2W) Taking the Fifth
+- M*A*S*H (9x10:2W) Operation Friendship
+- M*A*S*H (9x11:2W) No Sweat
+- M*A*S*H (9x12:2W) Depressing News
+- M*A*S*H (9x13:2W) No Laughing Matter
+- M*A*S*H (9x14:2W) Oh, How We Danced
+- M*A*S*H (9x15:3W) Bottoms Up
+- M*A*S*H (9x16:3W) The Red/White Blues
+- M*A*S*H (9x17:3W) Bless You, Hawkeye
+- M*A*S*H (9x18:3W) Blood Brothers
+- M*A*S*H (9x19:3W) The Foresight Saga
+- M*A*S*H (9x20:3W) The Life You Save
+- M*A*S*H (10x01:1W) That’s Show Biz
+- M*A*S*H (10x02:1W) Identity Crisis
+- M*A*S*H (10x03:1W) Rumor at the Top
+- M*A*S*H (10x04:1W) Give ’em Hell, Hawkeye
+- M*A*S*H (10x05:1W) Wheelers and Dealers
+- M*A*S*H (10x06:1W) Communication Breakdown
+- M*A*S*H (10x07:1W) Snap Judgment
+- M*A*S*H (10x08:2W) Snappier Judgment
+- M*A*S*H (10x09:2W) ’⁠Twas the Day after Christmas
+- M*A*S*H (10x10:2W) Follies of the Living ‑ Concerns of the Dead
+- M*A*S*H (10x11:2W) The Birthday Girls
+- M*A*S*H (10x12:2W) Blood and Guts
+- M*A*S*H (10x13:2W) A Holy Mess
+- M*A*S*H (10x14:2W) The Tooth Shall Set You Free
+- M*A*S*H (10x15:3W) Pressure Points
+- M*A*S*H (10x16:3W) Where There’s a Will, There’s a War
+- M*A*S*H (10x17:3W) Promotion Commotion
+- M*A*S*H (10x18:3W) Heroes
+- M*A*S*H (10x19:3W) Sons and Bowlers
+- M*A*S*H (10x20:3W) Picture This
+- M*A*S*H (10x21:3W) That Darn Kid
+- M*A*S*H (11x01:1W) Hey, Look Me Over
+- M*A*S*H (11x02:1W) Trick or Treatment
+- M*A*S*H (11x03:1W) Foreign Affairs
+- M*A*S*H (11x04:1W) The Joker is Wild
+- M*A*S*H (11x05:1W) Who Knew?
+- M*A*S*H (11x06:1W) Bombshells
+- M*A*S*H (11x07:1W) Settling Debts
+- M*A*S*H (11x08:1W) The Moon is Not Blue
+- M*A*S*H (11x09:2W) Run For the Money
+- M*A*S*H (11x10:2W) U.N., the Night and the Music
+- M*A*S*H (11x11:2W) Strange Bedfellows
+- M*A*S*H (11x12:2W) Say No More
+- M*A*S*H (11x13:2W) Friends and Enemies
+- M*A*S*H (11x14:2W) Give and Take
+- M*A*S*H (11x15:2W) As Time Goes By
+- M*A*S*H (11x16:3W) Goodbye, Farewell and Amen
+- The Magicians (1x01:865B) Unauthorized Magic
+- The Magicians (1x02:865B) The Source of Magic
+- The Magicians (1x03:865B) Consequences of Advanced Spellcasting
+- The Magicians (1x04:865B) The World in the Walls
+- The Magicians (1x05:866B) Mendings, Major and Minor
+- The Magicians (1x06:866B) Impractical Applications
+- The Magicians (1x07:866B) The Mayakovsky Circumstances
+- The Magicians (1x08:867B) The Strangled Heart
+- The Magicians (1x09:867B) The Writing Room
+- The Magicians (1x10:867B) Homecoming
+- The Magicians (1x11:868B) Remedial Battle Magic
+- The Magicians (1x12:868B) Thirty-Nine Graves
+- The Magicians (1x13:868B) Have You Brought Me Little Cakes?
+- The Magicians (2x01:869B) Knight of Crowns
+- The Magicians (2x02:869B) Hotel Spa Potions
+- The Magicians (2x03:869B) Divine Elimination
+- The Magicians (2x04:869B) The Flying Forest
+- The Magicians (2x05:870B) Cheat Day
+- The Magicians (2x06:870B) The Cock Barrens
+- The Magicians (2x07:870B) Plan B
+- The Magicians (2x08:871B) Word As Bond
+- The Magicians (2x09:871B) Lesser Evils
+- The Magicians (2x10:871B) The Girl Who Told Time
+- The Magicians (2x11:872B) The Rattening
+- The Magicians (2x12:872B) Ramifications
+- The Magicians (2x13:872B) We Have Brought You Little Cakes
+- The Magicians (3x01:873B) The Tale of the Seven Keys
+- The Magicians (3x02:873B) Heroes and Morons
+- The Magicians (3x03:873B) The Losses of Magic
+- The Magicians (3x04:873B) Be the Penny
+- The Magicians (3x05:874B) A Life in the Day
+- The Magicians (3x06:874B) Do You Like Teeth?
+- The Magicians (3x07:874B) Poached Eggs
+- The Magicians (3x08:875B) Six Short Stories about Magic
+- The Magicians (3x09:875B) All That Josh
+- The Magicians (3x10:875B) The Art of the Deal
+- The Magicians (3x11:876B) Twenty-Three
+- The Magicians (3x12:876B) The Fillorian Candidate
+- The Magicians (3x13:876B) Will You Play with Me?
+- The Magicians (4x01:877B) A Flock of Lost Birds
+- The Magicians (4x02:877B) Lost, Found, Fucked
+- The Magicians (4x03:877B) The Bad News Bear
+- The Magicians (4x04:877B) Marry, Fuck, Kill
+- The Magicians (4x05:878B) Escape from the Happy Place
+- The Magicians (4x06:878B) A Timeline and Place
+- The Magicians (4x07:878B) The Side Effect
+- The Magicians (4x08:879B) Home Improvement
+- The Magicians (4x09:879B) The Serpent
+- The Magicians (4x10:879B) All That Hard, Glossy Armor
+- The Magicians (4x11:880B) The 4-1-1
+- The Magicians (4x12:880B) The Secret Sea
+- The Magicians (4x13:880B) No Better to Be Safe Than Sorry
+- The Magicians (5x01:881B) Do Something Crazy
+- The Magicians (5x02:881B) The Wrath of the Time Bees
+- The Magicians (5x03:881B) The Mountain of Ghosts
+- The Magicians (5x04:881B) Magicians Anonymous
+- The Magicians (5x05:881B) Apocalypse? Now?!
+- The Magicians (5x06:882B) Oops!… I Did It Again
+- The Magicians (5x07:882B) Acting Dean
+- The Magicians (5x08:882B) Garden Variety Homicide
+- The Magicians (5x09:882B) Cello Squirrel Daffodil
+- The Magicians (5x10:883B) Purgatory
+- The Magicians (5x11:883B) Be the Hyman
+- The Magicians (5x12:883B) The Balls
+- The Magicians (5x13:883B) Fillory and Further
+- (226B) The Maltese Falcon
+- (191F) The Manxman
+- (P) Mars Attacks!
+- (181F) Mary Poppins
+- (162F) Mask
+- (95F) The Mask
+- (99F) Matilda
+- (1:9F) The Matrix
+- The Matrix (2:10F) Reloaded
+- The Matrix (3:11F) Revolutions
+- The Matrix (4:1A) Resurrections
+- 'The Matrix (5a:12F) The Animatrix: Final Flight of the Osiris'
+- 'The Matrix (5b:12F) The Animatrix: The Second Renaissance'
+- 'The Matrix (5c:12F) The Animatrix: Kid’s Story'
+- 'The Matrix (5d:12F) The Animatrix: Program'
+- 'The Matrix (5e:12F) The Animatrix: World Record'
+- 'The Matrix (5f:12F) The Animatrix: Beyond'
+- 'The Matrix (5g:12F) The Animatrix: A Detective Story'
+- 'The Matrix (5h:12F) The Animatrix: Matriculated'
+- (136F) Megamind
+- (1:183F) Men in Black
+- Men in Black (2:184F) Back in Black
+- Men in Black (3:185F) M.III.B.
+- (231B) Metropolis
+- (320B) A Midsummer Night’s Dream
+- (S) A Midsummer Night’s Dream
+- (73F) Minority Report
+- (287B) Moana
+- (157F) Monsters, Inc.
+- Monty Python (137F) and the Holy Grail
+- Monty Python (138F) Life of Brian
+- (195F) Moon
+- (98F) Mrs. Doubtfire
+- (168F) Mulan
+- (1:159F) The Mummy
+- The Mummy (2:160F) Returns
+- The Mummy (3:161F) The Tomb of the Dragon Emperor
+- The Muppets (5F) A Christmas Carol
+- The Muppets (6F) Treasure Island
+- Murder, She Wrote (1x01:793B) The Murder of Sherlock Holmes
+- Murder, She Wrote (1x02:793B) Deadly Lady
+- Murder, She Wrote (1x03:794B) Birds of a Feather
+- Murder, She Wrote (1x04:794B) Hooray for Homicide
+- Murder, She Wrote (1x05:794B) It’s a Dog’s Life
+- Murder, She Wrote (1x06:794B) Lovers and Other Killers
+- Murder, She Wrote (1x07:795B) Hit, Run and Homicide
+- Murder, She Wrote (1x08:795B) We’re Off to Kill the Wizard
+- Murder, She Wrote (1x09:795B) Death Takes a Curtain Call
+- Murder, She Wrote (1x10:795B) Death Casts a Spell
+- Murder, She Wrote (1x11:796B) Capitol Offense
+- Murder, She Wrote (1x12:796B) Broadway Malady
+- Murder, She Wrote (1x13:796B) Murder to a Jazz Beat
+- Murder, She Wrote (1x14:796B) My Johnny Lies Over the Ocean
+- Murder, She Wrote (1x15:797B) Paint Me a Murder
+- Murder, She Wrote (1x16:797B) Tough Guys Don’t Die
+- Murder, She Wrote (1x17:797B) Sudden Death
+- Murder, She Wrote (1x18:797B) Footnote to Murder
+- Murder, She Wrote (1x19:798B) Murder Takes the Bus
+- Murder, She Wrote (1x20:798B) Armed Response
+- Murder, She Wrote (1x21:798B) Murder at the Oasis
+- Murder, She Wrote (1x22:798B) Funeral at Fifty-Mile
+- Murder, She Wrote (2x01:799B) Widow, Weep for Me
+- Murder, She Wrote (2x02:799B) Joshua Peabody Died Here… Possibly
+- Murder, She Wrote (2x03:799B) Murder in the Afternoon
+- Murder, She Wrote (2x04:799B) School for Scandal
+- Murder, She Wrote (2x05:800B) Sing a Song of Murder
+- Murder, She Wrote (2x06:800B) Reflections of the Mind
+- Murder, She Wrote (2x07:800B) A Lady in the Lake
+- Murder, She Wrote (2x08:800B) Dead Heat
+- Murder, She Wrote (2x09:801B) Jessica Behind Bars
+- Murder, She Wrote (2x10:801B) Sticks and Stones
+- Murder, She Wrote (2x11:801B) Murder Digs Deep
+- Murder, She Wrote (2x12:801B) Murder by Appointment Only
+- Murder, She Wrote (2x13:802B) Trial by Error
+- Murder, She Wrote (2x14:802B) Keep the Home Fries Burning
+- Murder, She Wrote (2x15:802B) Powder Keg
+- Murder, She Wrote (2x16:802B) Murder in the Electric Cathedral
+- Murder, She Wrote (2x17:803B) One Good Bid Deserves a Murder
+- Murder, She Wrote (2x18:803B) If a Body Meet a Body
+- Murder, She Wrote (2x19:803B) Christopher Bundy -- Died on Sunday
+- Murder, She Wrote (2x20:803B) Menace, Anyone?
+- Murder, She Wrote (2x21:804B) The Perfect Foil
+- Murder, She Wrote (2x22:804B) If the Frame Fits
+- Murder, She Wrote (3x01\2:805B) Death Stalks the Big Top
+- Murder, She Wrote (3x03:805B) Unfinished Business
+- Murder, She Wrote (3x04:805B) One White Rose for Death
+- Murder, She Wrote (3x05:805B) Corned Beef and Carnage
+- Murder, She Wrote (3x06:806B) Dead Man’s Gold
+- Murder, She Wrote (3x07:806B) Deadline for Murder
+- Murder, She Wrote (3x08:806B) Magnum on Ice
+- Murder, She Wrote (3x09:806B) Obituary for a Dead Anchor
+- Murder, She Wrote (3x10:807B) Stage Struck
+- Murder, She Wrote (3x11:807B) Night of the Headless Horseman
+- Murder, She Wrote (3x12:807B) The Corpse Flew First Class
+- Murder, She Wrote (3x13:807B) Crossed Up
+- Murder, She Wrote (3x14:808B) Murder in a Minor Key
+- Murder, She Wrote (3x15:808B) The Bottom Line is Murder
+- Murder, She Wrote (3x16:808B) Death Takes a Dive
+- Murder, She Wrote (3x17:808B) Simon Says, Color Me Dead
+- Murder, She Wrote (3x18:809B) No Laughing Murder
+- Murder, She Wrote (3x19:809B) No Accounting for Murder
+- Murder, She Wrote (3x20:809B) The Cemetery Vote
+- Murder, She Wrote (3x21:809B) The Days Dwindle Down
+- Murder, She Wrote (3x22:810B) Murder, She Spoke
+- Murder, She Wrote (4x01:811B) A Fashionable Way to Die
+- Murder, She Wrote (4x02:811B) When Thieves Fall Out
+- Murder, She Wrote (4x03:811B) Witness for the Defense
+- Murder, She Wrote (4x04:811B) Old Habits Die Hard
+- Murder, She Wrote (4x05:812B) The Way to Dusty Death
+- Murder, She Wrote (4x06:812B) It Runs in the Family
+- Murder, She Wrote (4x07:812B) If It’s Thursday, It Must Be Beverly
+- Murder, She Wrote (4x08:812B) Steal Me a Story
+- Murder, She Wrote (4x09:813B) Trouble in Eden
+- Murder, She Wrote (4x10:813B) Indian Giver
+- Murder, She Wrote (4x11:813B) Doom with a View
+- Murder, She Wrote (4x12:813B) Who Threw the Barbitals in Mrs. Fletcher’s Chowder?
+- Murder, She Wrote (4x13:814B) Harbinger of Death
+- Murder, She Wrote (4x14:814B) Curse of the Daanau
+- Murder, She Wrote (4x15:814B) Mourning Among the Wisterias
+- Murder, She Wrote (4x16:814B) Murder Through the Looking Glass
+- Murder, She Wrote (4x17:815B) A Very Good Year for Murder
+- Murder, She Wrote (4x18:815B) Benedict Arnold Slipped Here
+- Murder, She Wrote (4x19:815B) Just Another Fish Story
+- Murder, She Wrote (4x20:815B) Showdown in Saskatchewan
+- Murder, She Wrote (4x21:816B) Deadpan
+- Murder, She Wrote (4x22:816B) The Body Politic
+- Murder, She Wrote (5x01:817B) J.B.… As in Jailbird
+- Murder, She Wrote (5x02:817B) A Little Night Work
+- Murder, She Wrote (5x03:817B) Mr. Penroy’s Vacation
+- Murder, She Wrote (5x04:817B) Snow White, Blood Red
+- Murder, She Wrote (5x05:818B) Coal Miner’s Slaughter
+- Murder, She Wrote (5x06:818B) Wearing of the Green
+- Murder, She Wrote (5x07:818B) The Last Flight of the Dixie Damsel
+- 'Murder, She Wrote (5x08:818B) Prediction: Murder'
+- Murder, She Wrote (5x09:819B) Something Borrowed, Someone Blue
+- Murder, She Wrote (5x10:819B) Weave a Tangled Web
+- Murder, She Wrote (5x11:819B) The Search for Peter Kerry
+- Murder, She Wrote (5x12:819B) Smooth Operators
+- Murder, She Wrote (5x13:820B) Fire Burn, Cauldron Bubble
+- Murder, She Wrote (5x14:820B) From Russia… with Blood
+- Murder, She Wrote (5x15:820B) Alma Murder
+- Murder, She Wrote (5x16:820B) Truck Stop
+- Murder, She Wrote (5x17:821B) The Sins of Castle Cove
+- Murder, She Wrote (5x18:821B) Trevor Hudson’s Legacy
+- Murder, She Wrote (5x19:821B) Double Exposure
+- Murder, She Wrote (5x20:821B) Three Strikes, You’re Out
+- Murder, She Wrote (5x21\2:822B) Mirror, Mirror, On the Wall
+- Murder, She Wrote (6x01:823B) Appointment in Athens
+- Murder, She Wrote (6x02:823B) Seal of the Confessional
+- Murder, She Wrote (6x03:823B) The Grand Old Lady
+- Murder, She Wrote (6x04:823B) The Error of Her Ways
+- Murder, She Wrote (6x05:824B) Jack &amp; Bill
+- Murder, She Wrote (6x06:824B) Dead Letter
+- Murder, She Wrote (6x07:824B) Night of the Tarantula
+- Murder, She Wrote (6x08:824B) When the Fat Lady Sings
+- Murder, She Wrote (6x09:825B) Test of Wills
+- Murder, She Wrote (6x10:825B) Class Act
+- Murder, She Wrote (6x11:825B) Town Father
+- Murder, She Wrote (6x12:825B) Goodbye Charlie
+- Murder, She Wrote (6x13:826B) If the Shoe Fits
+- Murder, She Wrote (6x14:826B) How to Make a Killing Without Really Trying
+- Murder, She Wrote (6x15:826B) The Fixer-Upper
+- Murder, She Wrote (6x16:826B) The Big Show of 1965
+- Murder, She Wrote (6x17:827B) Murder, According to Maggie
+- Murder, She Wrote (6x18:827B) O’Malley’s Luck
+- Murder, She Wrote (6x19:827B) Always a Thief
+- Murder, She Wrote (6x20:827B) Shear Madness
+- Murder, She Wrote (6x21:828B) The Szechuan Dragon
+- Murder, She Wrote (6x22:828B) The Sicilian Encounter
+- Murder, She Wrote (7x01:829B) Trials &amp; Tribulations
+- Murder, She Wrote (7x02:829B) Deadly Misunderstanding
+- Murder, She Wrote (7x03:829B) See You in Court, Baby
+- Murder, She Wrote (7x04:829B) Hannigan’s Wake
+- Murder, She Wrote (7x05:830B) The Family Jewels
+- Murder, She Wrote (7x06:830B) A Body to Die For
+- Murder, She Wrote (7x07:830B) The Return of Preston Giles
+- Murder, She Wrote (7x08:830B) The Great Twain Robbery
+- Murder, She Wrote (7x09:831B) Ballad for a Blue Lady
+- Murder, She Wrote (7x10:831B) Murder in F Sharp
+- Murder, She Wrote (7x11:831B) Family Doctor
+- Murder, She Wrote (7x12:831B) Suspicion of Murder
+- Murder, She Wrote (7x13:832B) Moving Violation
+- Murder, She Wrote (7x14:832B) Who Killed J.B. Fletcher?
+- Murder, She Wrote (7x15:832B) The Taxman Cometh
+- Murder, She Wrote (7x16:832B) From the Horse’s Mouth
+- Murder, She Wrote (7x17:833B) The Prodigal Father
+- Murder, She Wrote (7x18:833B) Where Have You Gone, Billy Boy?
+- Murder, She Wrote (7x19:833B) Thursday’s Child
+- Murder, She Wrote (7x20:833B) Murder, Plain &amp; Simple
+- Murder, She Wrote (7x21:834B) Tainted Lady
+- Murder, She Wrote (7x22:834B) The Skinny According to Nick Cullhane
+- Murder, She Wrote (8x01:835B) Bite the Big Apple
+- Murder, She Wrote (8x02:835B) Night Fears
+- Murder, She Wrote (8x03:835B) Unauthorized Obituary
+- Murder, She Wrote (8x04:835B) Thicker Than Water
+- Murder, She Wrote (8x05:836B) Lines of Excellence
+- Murder, She Wrote (8x06:836B) Judge Not
+- Murder, She Wrote (8x07:836B) Terminal Connection
+- Murder, She Wrote (8x08:836B) A Killing in Vegas
+- Murder, She Wrote (8x09:837B) The Committee
+- Murder, She Wrote (8x10:837B) The List of Yuri Lermentov
+- Murder, She Wrote (8x11:837B) Danse Diabolique
+- Murder, She Wrote (8x12:837B) The Witch’s Curse
+- Murder, She Wrote (8x13:838B) Incident in Lot 7
+- Murder, She Wrote (8x14:838B) The Monte Carlo Murders
+- Murder, She Wrote (8x15:838B) Tinker, Tailor, Liar, Thief
+- Murder, She Wrote (8x16:838B) Ever After
+- Murder, She Wrote (8x17:839B) To the Last Will I Grapple with Thee
+- Murder, She Wrote (8x18:839B) Programmed for Murder
+- Murder, She Wrote (8x19:839B) Day of the Dead
+- Murder, She Wrote (8x20:840B) Angel of Death
+- Murder, She Wrote (8x21:840B) Badge of Honor
+- Murder, She Wrote (8x22:840B) Murder on Madison Avenue
+- Murder, She Wrote (9x01:841B) Murder in Milan
+- Murder, She Wrote (9x02:841B) Family Secrets
+- Murder, She Wrote (9x03:841B) The Mole
+- Murder, She Wrote (9x04:841B) The Wind Around the Tower
+- Murder, She Wrote (9x05:842B) The Dead File
+- Murder, She Wrote (9x06:842B) Night of the Coyote
+- Murder, She Wrote (9x07:842B) Sugar &amp; Spice, Malice &amp; Vice
+- Murder, She Wrote (9x08:842B) The Classic Murder
+- Murder, She Wrote (9x09:843B) A Christmas Secret
+- Murder, She Wrote (9x10:843B) The Sound of Murder
+- Murder, She Wrote (9x11:843B) Final Curtain
+- Murder, She Wrote (9x12:843B) Double Jeopardy
+- Murder, She Wrote (9x13:844B) Dead Eye
+- Murder, She Wrote (9x14:844B) Killer Radio
+- Murder, She Wrote (9x15:844B) The Petrified Florist
+- Murder, She Wrote (9x16:844B) Threshold of Fear
+- Murder, She Wrote (9x17:844B) The Big Kill
+- Murder, She Wrote (9x18:845B) Dead to Rights
+- Murder, She Wrote (9x19:845B) Lone Witness
+- Murder, She Wrote (9x20:845B) Ship of Thieves
+- Murder, She Wrote (9x21:845B) The Survivor
+- Murder, She Wrote (9x22:845B) Love’s Deadly Desire
+- Murder, She Wrote (10x01:846B) A Death in Hong Kong
+- Murder, She Wrote (10x02:846B) For Whom the Ball Tolls
+- Murder, She Wrote (10x03:846B) The Legacy of Borbey House
+- Murder, She Wrote (10x04:846B) The Phantom Killer
+- Murder, She Wrote (10x05:847B) A Virtual Murder
+- Murder, She Wrote (10x06:847B) Bloodlines
+- Murder, She Wrote (10x07:847B) A Killing in Cork
+- Murder, She Wrote (10x08:847B) Love and Hate in Cabot Cove
+- Murder, She Wrote (10x09:848B) Murder at a Discount
+- Murder, She Wrote (10x10:848B) Murder in White
+- Murder, She Wrote (10x11:848B) Northern Explosion
+- Murder, She Wrote (10x12:848B) Proof in the Pudding
+- Murder, She Wrote (10x13:849B) Portrait of Death
+- Murder, She Wrote (10x14:849B) Deadly Assets
+- Murder, She Wrote (10x15:849B) Murder on the Thirtieth Floor
+- Murder, She Wrote (10x16:849B) Time to Die
+- Murder, She Wrote (10x17:850B) The Dying Game
+- Murder, She Wrote (10x18:850B) The Trouble with Seth
+- Murder, She Wrote (10x19:850B) Roadkill
+- Murder, She Wrote (10x20:850B) A Murderous Muse
+- Murder, She Wrote (10x21:850B) Wheel of Death
+- Murder, She Wrote (11x01:851B) A Nest of Vipers
+- Murder, She Wrote (11x02:851B) Amsterdam Kill
+- Murder, She Wrote (11x03:851B) To Kill a Legend
+- Murder, She Wrote (11x04:851B) Death in Hawaii
+- Murder, She Wrote (11x05:852B) Dear Deadly
+- Murder, She Wrote (11x06:852B) The Murder Channel
+- Murder, She Wrote (11x07:852B) Fatal Paradise
+- Murder, She Wrote (11x08:852B) Crimson Harvest
+- Murder, She Wrote (11x09:853B) Murder by Twos
+- Murder, She Wrote (11x10:853B) Murder of the Month Club
+- Murder, She Wrote (11x11:853B) An Egg to Die For
+- Murder, She Wrote (11x12:853B) The Scent of Murder
+- Murder, She Wrote (11x13:854B) Death ’n Denial
+- Murder, She Wrote (11x14:854B) Murder in High-C
+- Murder, She Wrote (11x15:854B) Twice Dead
+- Murder, She Wrote (11x16:854B) Film Flam
+- Murder, She Wrote (11x17:855B) Murder à la Mode
+- Murder, She Wrote (11x18:855B) The Dream Team
+- Murder, She Wrote (11x19:855B) School for Murder
+- Murder, She Wrote (11x20:855B) Another Killing in Cork
+- Murder, She Wrote (11x21:856B) Game, Set, Murder
+- Murder, She Wrote (12x01:857B) Nailed
+- Murder, She Wrote (12x02:857B) A Quaking in Aspen
+- Murder, She Wrote (12x03:857B) The Secret of Gila Junction
+- Murder, She Wrote (12x04:857B) Big Easy Murder
+- Murder, She Wrote (12x05:858B) Home Care
+- Murder, She Wrote (12x06\2:858B) Nan’s Ghost
+- Murder, She Wrote (12x08:858B) Shooting in Rome
+- Murder, She Wrote (12x09:859B) Deadly Bidding
+- Murder, She Wrote (12x10:859B) Frozen Stiff
+- Murder, She Wrote (12x11:859B) Unwilling Witness
+- Murder, She Wrote (12x12:859B) Kendo Kill
+- Murder, She Wrote (12x13:859B) Death Goes Double Platinum
+- Murder, She Wrote (12x14:860B) Murder in Tempo
+- Murder, She Wrote (12x15:860B) The Dark Side of the Door
+- Murder, She Wrote (12x16:860B) Murder Among Friends
+- Murder, She Wrote (12x17:860B) Something Foul in Flappieville
+- Murder, She Wrote (12x18:861B) Track of a Soldier
+- Murder, She Wrote (12x19:861B) Evidence of Malice
+- Murder, She Wrote (12x20:861B) Southern Double-Cross
+- Murder, She Wrote (12x21:861B) Race to Death
+- Murder, She Wrote (12x22:862B) What You Don’t Know Can Kill You
+- Murder, She Wrote (12x23:862B) Mrs. Parker’s Revenge
+- Murder, She Wrote (12x24:862B) Death by Demographics
+- Murder, She Wrote (13:863B) South by Southwest
+- Murder, She Wrote (13:863B) A Story to Die For
+- Murder, She Wrote (13:864B) The Last Free Man
+- Murder, She Wrote (13:864B) The Celtic Riddle
+- (1x01:E) My Hero
+- My Hero (1x02:E) Guess Who’s Coming to Lunch
+- My Hero (1x03:E) Mission Impossible
+- My Hero (1x04:E) Thermoman’s Greatest Challenge
+- My Hero (1x05:E) Old Man Riverdance
+- My Hero (1x06:E) The Party’s Over
+- My Hero (2:E) Christmas
+- My Hero (2x01:E) Parents
+- My Hero (2x02:E) Girlfriend
+- My Hero (2x03:E) Car
+- My Hero (2x04:E) Nemesis
+- My Hero (2x05:E) Pregnant
+- My Hero (2x06:E) Wedding
+- My Hero (3x01:1E) Baby Talk
+- My Hero (3x02:1E) Zero Tolerance
+- My Hero (3x03:1E) Pet Rescue
+- My Hero (3x04:1E) The Older Man
+- My Hero (3x05:1E) Puttin’ on the Writs
+- My Hero (3x06:2E) Shock, Horror!
+- My Hero (3x07:2E) Little Green Man
+- My Hero (3x08:2E) Mine’s a Double
+- My Hero (3x09:2E) A Little Learning
+- My Hero (3x10:2E) A Day to Remember
+- (322B) My Neighbor Totoro (となりのトトロ)
+- (327B) Nausicaä of the Valley of the Wind (風の谷のナウシカ)
+- (85F) The Never‑Ending Story
+- (107F) Night at the Museum
+- Night at the Museum (108F) Battle of the Smithsonian
+- Night at the Museum (228B) Secret of the Tomb
+- (192F) Night of the Shooting Stars (星に願いを)
+- (171F) The Nightmare Before Christmas
+- (1C) Nimona
+- No Ordinary Family (1:1R) No Ordinary Family
+- No Ordinary Family (2:1R) No Ordinary Marriage
+- No Ordinary Family (3:1R) No Ordinary Ring
+- No Ordinary Family (4:1R) No Ordinary Vigilante
+- No Ordinary Family (5:1R) No Ordinary Quake
+- No Ordinary Family (6:2R) No Ordinary Visitors
+- No Ordinary Family (7:2R) No Ordinary Mobster
+- No Ordinary Family (8:2R) No Ordinary Accident
+- No Ordinary Family (9:2R) No Ordinary Anniversary
+- No Ordinary Family (10:2R) No Ordinary Sidekick
+- No Ordinary Family (11:3R) No Ordinary Friends
+- No Ordinary Family (12:3R) No Ordinary Brother
+- No Ordinary Family (13:3R) No Ordinary Detention
+- No Ordinary Family (14:3R) No Ordinary Double Standard
+- No Ordinary Family (15:3R) No Ordinary Powell
+- No Ordinary Family (16:12T) No Ordinary Proposal
+- No Ordinary Family (17:12T) No Ordinary Love
+- No Ordinary Family (18:12T) No Ordinary Animal
+- No Ordinary Family (19:12T) No Ordinary Future
+- No Ordinary Family (20:12T) No Ordinary Beginning
+- (30F) North by Northwest
+- Ocean Girl (1x01:101B) The Girl in the Sea
+- Ocean Girl (1x02:101B) Set Adrift
+- Ocean Girl (1x03:101B) Wall of Death
+- Ocean Girl (1x04:101B) The Earthquake
+- Ocean Girl (1x05:101B) Human Tears
+- Ocean Girl (1x06:101B) Property Developers!
+- Ocean Girl (1x07:101B) Toxic Waste
+- Ocean Girl (1x08:102B) Day Pass
+- Ocean Girl (1x09:102B) Romance
+- Ocean Girl (1x10:102B) Major Breakthrough
+- Ocean Girl (1x11:102B) Industrial Spy
+- Ocean Girl (1x12:102B) Neri’s Secret
+- Ocean Girl (1x13:102B) Tough Decision
+- Ocean Girl (2x01:103B) The Return
+- Ocean Girl (2x02:103B) Where No Whale Swims
+- Ocean Girl (2x03:103B) Father’s Message
+- Ocean Girl (2x04:103B) Records and Recollections
+- Ocean Girl (2x05:103B) Mera
+- Ocean Girl (2x06:103B) The Institute
+- Ocean Girl (2x07:104B) No Place Like Home
+- Ocean Girl (2x08:104B) Our Island
+- Ocean Girl (2x09:104B) Underwater and Undercover
+- Ocean Girl (2x10:104B) Secrets Out
+- Ocean Girl (2x11:104B) Sabotage
+- Ocean Girl (2x12:104B) The Arrival
+- Ocean Girl (2x13:104B) The Return
+- Ocean Girl (3x01:105B) Danger in the Reef
+- Ocean Girl (3x02:105B) Amnesia
+- Ocean Girl (3x03:105B) Draining the Spaceship
+- Ocean Girl (3x04:105B) Kal Who Knows No Fear
+- Ocean Girl (3x05:105B) Diving Around Obstacles
+- Ocean Girl (3x06:105B) Winston and Water
+- Ocean Girl (3x07:105B) A Super‑Sportsman
+- Ocean Girl (3x08:105B) Extraterrestrial Abilities
+- Ocean Girl (3x09:105B) The Capsule in the Desert
+- Ocean Girl (3x10:106B) Benny in Trouble
+- Ocean Girl (3x11:106B) Cassandra’s Nightmare
+- Ocean Girl (3x12:106B) The Helicopter Exam
+- Ocean Girl (3x13:106B) Lena’s Betrayal
+- Ocean Girl (3x14:106B) Changes
+- Ocean Girl (3x15:106B) The Spy
+- 'Ocean Girl (3x16:106B) Gamma Level: Radioactive'
+- Ocean Girl (3x17:106B) Charlie is Stranded
+- Ocean Girl (3x18:106B) The Love Letter
+- Ocean Girl (3x19:107B) Jason and the Abyss
+- Ocean Girl (3x20:107B) Eavesdropper
+- Ocean Girl (3x21:107B) Water in the Desert
+- Ocean Girl (3x22:107B) The Safe Deposit Key
+- Ocean Girl (3x23:107B) The China Man
+- Ocean Girl (3x24:107B) The Stone Fish
+- Ocean Girl (3x25:107B) Time Bomb in the Jungle
+- Ocean Girl (3x26:107B) The Last Chance
+- Ocean Girl (4x01:108B) Operation Sphinx
+- Ocean Girl (4x02:108B) The Mysterious Pyramid
+- Ocean Girl (4x03:108B) The Transport
+- Ocean Girl (4x04:108B) The Golden Ankh
+- Ocean Girl (4x05:108B) Stranded in the Desert
+- Ocean Girl (4x06:108B) The Lie Detector
+- Ocean Girl (4x07:108B) The Bug
+- Ocean Girl (4x08:108B) A Wrong Friend
+- Ocean Girl (4x09:108B) The Hunt for the Golden Ankh
+- Ocean Girl (4x10:109B) The History of the Whale Woman
+- Ocean Girl (4x11:109B) Cheat
+- Ocean Girl (4x12:109B) Imprisoned in the Bunker
+- Ocean Girl (4x13:109B) Attempt at Revival
+- Ocean Girl (4x14:109B) The Snake Bite
+- Ocean Girl (4x15:109B) A Spirit Appears
+- Ocean Girl (4x16:109B) Helen Learns the Laughter
+- Ocean Girl (4x17:109B) Mera Escapes to Earth
+- Ocean Girl (4x18:109B) The Race
+- Ocean Girl (4x19:110B) The Attack
+- Ocean Girl (4x20:110B) The Taking of Hostages
+- Ocean Girl (4x21:110B) The Red Virus
+- Ocean Girl (4x22:110B) Before the Countdown
+- Ocean Girl (4x23:110B) The Countdown
+- Ocean Girl (4x24:110B) The Ice Melts
+- Ocean Girl (4x25:110B) The Blood Test
+- Ocean Girl (4x26:110B) The Queen
+- (1:1R) Odyssey 5
+- Odyssey 5 (2:1R) The Shatterer
+- Odyssey 5 (3:1R) Astronaut Dreams
+- Odyssey 5 (4:2R) Time Out of Mind
+- Odyssey 5 (5:2R) Symbiosis
+- Odyssey 5 (6:2R) The Choices We Make
+- Odyssey 5 (7:2R) Rapture
+- Odyssey 5 (8:3R) L.D.U.‑7
+- Odyssey 5 (9:3R) Flux
+- Odyssey 5 (10:3R) Kitten
+- Odyssey 5 (11:3R) Dark at the End of the Tunnel
+- Odyssey 5 (12:4R) The Trouble with Harry
+- Odyssey 5 (13:4R) Skin
+- Odyssey 5 (14:4R) Begotten
+- Odyssey 5 (15:4R) Vanishing Point
+- Odyssey 5 (16:5R) Follow the Leader
+- Odyssey 5 (17:5R) Half‑Life
+- Odyssey 5 (18:5R) Rage
+- Odyssey 5 (19:5R) Fossil
+- (1x01:1L) Once Upon a Time
+- Once Upon a Time (1x02:1L) The Thing You Love Most
+- Once Upon a Time (1x03:1L) Snow Falls
+- Once Upon a Time (1x04:1L) The Price of Gold
+- Once Upon a Time (1x05:2L) That Still Small Voice
+- Once Upon a Time (1x06:2L) The Shepherd
+- Once Upon a Time (1x07:2L) The Heart is a Lonely Hunter
+- Once Upon a Time (1x08:2L) Desperate Souls
+- Once Upon a Time (1x09:3L) True North
+- Once Upon a Time (1x10:3L) 7:15 A.M.
+- Once Upon a Time (1x11:3L) Fruit of the Poisonous Tree
+- Once Upon a Time (1x12:3L) Skin Deep
+- Once Upon a Time (1x13:4L) What Happened to Frederick
+- Once Upon a Time (1x14:4L) Dreamy
+- Once Upon a Time (1x15:4L) Red‑Handed
+- Once Upon a Time (1x16:4L) Heart of Darkness
+- Once Upon a Time (1x17:5L) Hat Trick
+- Once Upon a Time (1x18:5L) The Stable Boy
+- Once Upon a Time (1x19:5L) The Return
+- Once Upon a Time (1x20:5L) The Stranger
+- Once Upon a Time (1x21:6L) An Apple Red as Blood
+- Once Upon a Time (1x22:6L) A Land Without Magic
+- Once Upon a Time (2x01:1L) Broken
+- Once Upon a Time (2x02:1L) We Are Both
+- Once Upon a Time (2x03:1L) Lady of the Lake
+- Once Upon a Time (2x04:1L) The Crocodile
+- Once Upon a Time (2x05:2L) The Doctor
+- Once Upon a Time (2x06:2L) Tallahassee
+- Once Upon a Time (2x07:2L) Child of the Moon
+- Once Upon a Time (2x08:2L) Into the Deep
+- Once Upon a Time (2x09:3L) Queen of Hearts
+- Once Upon a Time (2x10:3L) The Cricket Game
+- Once Upon a Time (2x11:3L) The Outsider
+- Once Upon a Time (2x12:3L) In the Name of the Brother
+- Once Upon a Time (2x13:4L) Tiny
+- Once Upon a Time (2x14:4L) Manhattan
+- Once Upon a Time (2x15:4L) The Queen is Dead
+- Once Upon a Time (2x16:4L) The Miller’s Daughter
+- Once Upon a Time (2x17:5L) Welcome to Storybrooke
+- Once Upon a Time (2x18:5L) Selfless, Brave and True
+- Once Upon a Time (2x19:5L) Lacey
+- Once Upon a Time (2x20:6L) The Evil Queen
+- Once Upon a Time (2x21:6L) Second Star to the Right
+- Once Upon a Time (2x22:6L) And Straight On ’Til Morning
+- Once Upon a Time (3x01:1L) The Heart of the Truest Believer
+- Once Upon a Time (3x02:1L) Lost Girl
+- Once Upon a Time (3x03:1L) Quite a Common Fairy
+- Once Upon a Time (3x04:1L) Nasty Habits
+- Once Upon a Time (3x05:1L) Good Form
+- Once Upon a Time (3x06:2L) Ariel
+- Once Upon a Time (3x07:2L) Dark Hollow
+- Once Upon a Time (3x08:2L) Think Lovely Thoughts
+- Once Upon a Time (3x09:2L) Save Henry
+- Once Upon a Time (3x10:2L) The New Neverland
+- Once Upon a Time (3x11:3L) Going Home
+- Once Upon a Time (3x12:3L) New York City Serenade
+- Once Upon a Time (3x13:3L) Witch Hunt
+- Once Upon a Time (3x14:3L) The Tower
+- Once Upon a Time (3x15:4L) Quiet Minds
+- Once Upon a Time (3x16:4L) It’s Not Easy Being Green
+- Once Upon a Time (3x17:4L) The Jolly Roger
+- Once Upon a Time (3x18:4L) Bleeding Through
+- Once Upon a Time (3x19:5L) A Curious Thing
+- Once Upon a Time (3x20:5L) Kansas
+- Once Upon a Time (3x21:5L) Snow Drifts
+- Once Upon a Time (3x22:5L) There’s No Place Like Home
+- Once Upon a Time (4x01:1L) A Tale of Two Sisters
+- Once Upon a Time (4x02:1L) White Out
+- Once Upon a Time (4x03:1L) Rocky Road
+- Once Upon a Time (4x04:1L) The Apprentice
+- Once Upon a Time (4x05:1L) Breaking Glass
+- Once Upon a Time (4x06:2L) Family Business
+- Once Upon a Time (4x07:2L) The Snow Queen
+- Once Upon a Time (4x08:2L) Smash the Mirror
+- Once Upon a Time (4x10:2L) Fall
+- Once Upon a Time (4x11:3L) Shattered Sight
+- Once Upon a Time (4x12:3L) Heroes and Villains
+- Once Upon a Time (4x13:3L) Darkness on the Edge of Town
+- Once Upon a Time (4x14:3L) Unforgiven
+- Once Upon a Time (4x15:3L) Enter the Dragon
+- Once Upon a Time (4x16:4L) Poor Unfortunate Soul
+- Once Upon a Time (4x17:4L) Best Laid Plans
+- Once Upon a Time (4x18:4L) Heart of Gold
+- Once Upon a Time (4x19:4L) Sympathy for the De Vil
+- Once Upon a Time (4x20:4L) Lily
+- Once Upon a Time (4x21:5L) Mother
+- Once Upon a Time (4x22:5L) Operation Mongoose
+- Once Upon a Time (5x01:1L) The Dark Swan
+- Once Upon a Time (5x02:1L) The Price
+- Once Upon a Time (5x03:1L) Siege Perilous
+- Once Upon a Time (5x04:1L) The Broken Kingdom
+- Once Upon a Time (5x05:1L) Dreamcatcher
+- Once Upon a Time (5x06:2L) The Bear and the Bow
+- Once Upon a Time (5x07:2L) Nimue
+- Once Upon a Time (5x08:2L) Birth
+- Once Upon a Time (5x09:2L) The Bear King
+- Once Upon a Time (5x10:2L) Broken Heart
+- Once Upon a Time (5x11:3L) Swan Song
+- Once Upon a Time (5x12:3L) Souls of the Departed
+- Once Upon a Time (5x13:3L) Labor of Love
+- Once Upon a Time (5x14:3L) Devil’s Due
+- Once Upon a Time (5x15:3L) The Brothers Jones
+- Once Upon a Time (5x16:4L) Our Decay
+- Once Upon a Time (5x17:4L) Her Handsome Hero
+- Once Upon a Time (5x18:4L) Ruby Slippers
+- Once Upon a Time (5x19:4L) Sisters
+- Once Upon a Time (5x20:5L) Firebird
+- Once Upon a Time (5x21:5L) Last Rites
+- Once Upon a Time (5x22:5L) Only You
+- Once Upon a Time (5x23:5L) An Untold Story
+- Once Upon a Time (6x01:1L) The Savior
+- Once Upon a Time (6x02:1L) A Bitter Draught
+- Once Upon a Time (6x03:1L) The Other Shoe
+- Once Upon a Time (6x04:1L) Strange Case
+- Once Upon a Time (6x05:1L) Street Rats
+- Once Upon a Time (6x06:2L) Dark Waters
+- Once Upon a Time (6x07:2L) Heartless
+- Once Upon a Time (6x08:2L) I’ll Be Your Mirror
+- Once Upon a Time (6x09:2L) Changelings
+- Once Upon a Time (6x10:2L) Wish You Were Here
+- Once Upon a Time (6x11:3L) Tougher Than the Rest
+- Once Upon a Time (6x12:3L) Murder Most Foul
+- Once Upon a Time (6x13:3L) Ill‑Boding Patterns
+- Once Upon a Time (6x14:3L) Page 23
+- Once Upon a Time (6x15:3L) A Wondrous Place
+- Once Upon a Time (6x16:4L) Mother’s Little Helper
+- Once Upon a Time (6x17:4L) Awake
+- Once Upon a Time (6x18:4L) Where Bluebirds Fly
+- Once Upon a Time (6x19:4L) The Black Fairy
+- Once Upon a Time (6x20:5L) The Song in Your Heart
+- Once Upon a Time (6x21:5L) The Final Battle
+- Once Upon a Time (7x01:1L) Hyperion Heights
+- Once Upon a Time (7x02:1L) A Pirate’s Life
+- Once Upon a Time (7x03:1L) The Garden of Forking Paths
+- Once Upon a Time (7x04:1L) Beauty
+- Once Upon a Time (7x05:1L) Greenbacks
+- Once Upon a Time (7x06:2L) Wake Up Call
+- Once Upon a Time (7x07:2L) Eloise Gardener
+- Once Upon a Time (7x08:2L) Pretty in Blue
+- Once Upon a Time (7x09:2L) One Little Tear
+- Once Upon a Time (7x10:2L) The Eighth Witch
+- Once Upon a Time (7x11:3L) Secret Garden
+- Once Upon a Time (7x12:3L) A Taste of the Heights
+- Once Upon a Time (7x13:3L) Knightfall
+- Once Upon a Time (7x14:3L) The Girl in the Tower
+- Once Upon a Time (7x15:3L) Sisterhood
+- Once Upon a Time (7x16:4L) Breadcrumbs
+- Once Upon a Time (7x17:4L) Chosen
+- Once Upon a Time (7x18:4L) The Guardian
+- Once Upon a Time (7x19:4L) Flower Child
+- Once Upon a Time (7x20:5L) Is This Henry Mills?
+- Once Upon a Time (7x21:5L) Homecoming
+- Once Upon a Time (7x22:5L) Leaving Storybrooke
+- (1:1A) The One
+- (23F) One Hundred and One Dalmatians
+- (688B) Phantom of the Opera
+- The Orville (1x01:569B) Old Wounds
+- The Orville (1x02:569B) Command Performance
+- The Orville (1x03:569B) About a Girl
+- The Orville (1x04:570B) If the Stars Should Appear
+- The Orville (1x05:570B) Pria
+- The Orville (1x06:570B) Krill
+- The Orville (1x07:571B) Majority Rule
+- The Orville (1x08:571B) Into the Fold
+- The Orville (1x09:571B) Cupid’s Dagger
+- The Orville (1x10:572B) Firestorm
+- The Orville (1x11:572B) New Dimensions
+- The Orville (1x12:572B) Mad Idolatry
+- The Orville (2x01:573B) Ja’loja
+- The Orville (2x02:573B) Primal Urges
+- The Orville (2x03:573B) Home
+- The Orville (2x04:574B) Nothing Left on Earth Excepting Fishes
+- The Orville (2x05:574B) All the World Is Birthday Cake
+- The Orville (2x06:574B) A Happy Refrain
+- The Orville (2x07:574B) Deflectors
+- The Orville (2x08\2:575B) Identity
+- The Orville (2x10:575B) Blood of Patriots
+- The Orville (2x11:575B) Lasting Impressions
+- The Orville (2x12:576B) Sanctuary
+- The Orville (2x13:576B) Tomorrow, and Tomorrow, and Tomorrow
+- The Orville (2x14:576B) The Road Not Taken
+- 'The Orville (3x01:927B) New Horizons: Electric Sheep'
+- 'The Orville (3x02:927B) New Horizons: Shadow Realms'
+- 'The Orville (3x03:927B) New Horizons: Mortality Paradox'
+- 'The Orville (3x04:927B) New Horizons: Gently Falling Rain'
+- 'The Orville (3x05:927B) New Horizons: A Tale of Two Topas'
+- 'The Orville (3x06:928B) New Horizons: Twice in a Lifetime'
+- 'The Orville (3x07:928B) New Horizons: From Unknown Graves'
+- 'The Orville (3x08:928B) New Horizons: Midnight Blue'
+- 'The Orville (3x09:928B) New Horizons: Domino'
+- 'The Orville (3x10:928B) New Horizons: Future Unknown'
+- (359B) Othello
+- The Outer Limits (1x01:1S) The Galaxy Being
+- The Outer Limits (1x02:1S) The Hundred Days of the Dragon
+- The Outer Limits (1x03:1S) The Architects of Fear
+- The Outer Limits (1x04:1S) The Man with the Power
+- The Outer Limits (1x05:2S) The Sixth Finger
+- The Outer Limits (1x06:2S) The Man Who Was Never Born
+- The Outer Limits (1x07:2S) O.B.I.T.
+- The Outer Limits (1x08:2S) The Human Factor
+- The Outer Limits (1x09:3S) Corpus Earthling
+- The Outer Limits (1x10:3S) Nightmare
+- The Outer Limits (1x11:3S) It Crawled Out of the Woodwork
+- The Outer Limits (1x12:3S) The Borderland
+- The Outer Limits (1x13:4S) Tourist Attraction
+- The Outer Limits (1x14:4S) The Zanti Misfits
+- The Outer Limits (1x15:4S) The Mice
+- The Outer Limits (1x16:4S) Controlled Experiment
+- The Outer Limits (1x17:5S) Don't Open Till Doomsday
+- The Outer Limits (1x18:5S) ZZZZZ
+- The Outer Limits (1x19:5S) The Invisibles
+- The Outer Limits (1x20:5S) The Bellero Shield
+- The Outer Limits (1x21:6S) The Children of Spider County
+- 'The Outer Limits (1x22:6S) Specimen: Unknown'
+- The Outer Limits (1x23:6S) Second Chance
+- The Outer Limits (1x24:6S) Moonstone
+- The Outer Limits (1x25:7S) The Mutant
+- The Outer Limits (1x26:7S) The Guests
+- The Outer Limits (1x27:7S) Fun and Games
+- The Outer Limits (1x28:7S) The Special One
+- The Outer Limits (1x29:8S) A Feasibility Study
+- The Outer Limits (1x30:8S) Production and Decay of Strange Particles
+- The Outer Limits (1x31:8S) The Chameleon
+- The Outer Limits (1x32:8S) The Forms of Things Unknown
+- The Outer Limits (2x01:1S) Soldier
+- The Outer Limits (2x02:1S) Cold Hands, Warm Heart
+- The Outer Limits (2x03:1S) Behold Eck!
+- The Outer Limits (2x04:1S) Expanding Human
+- The Outer Limits (2x05:2S) Demon with a Glass Hand
+- The Outer Limits (2x06:2S) Cry of Silence
+- The Outer Limits (2x07:2S) The Invisible Enemy
+- The Outer Limits (2x08:2S) Wolf 359
+- The Outer Limits (2x09:3S) I, Robot
+- The Outer Limits (2x10\2:3S) The Inheritors
+- The Outer Limits (2x12:3S) Keeper of the Purple Twilight
+- The Outer Limits (2x13:4S) The Duplicate Man
+- The Outer Limits (2x14:4S) Counterweight
+- The Outer Limits (2x15:4S) The Brain of Colonel Barham
+- The Outer Limits (2x16:4S) The Premonition
+- The Outer Limits (2x17:5S) The Probe
+- The Outer Limits (1x01\2:1W) The Sandkings (Maîtres des sables)
+- The Outer Limits (1x02:1W) Valerie 23 (Valérie 23)
+- The Outer Limits (1x03:1W) Blood Brothers (Frères de sang)
+- The Outer Limits (1x04:2W) The Second Soul (Renaissance)
+- The Outer Limits (1x05:2W) White Light Fever (Éclairs de la mort)
+- The Outer Limits (1x06:2W) The Choice (Chromosone Z)
+- The Outer Limits (1x07:2W) Virtual Future (Futur Virtuel)
+- The Outer Limits (1x08:3W) Living Hell (Vie d'enfer)
+- The Outer Limits (1x09:3W) Corner of the Eye (Au coin de l'œil)
+- The Outer Limits (1x10:3W) Under the Bed (Sous le lit)
+- The Outer Limits (1x11:3W) Dark Matters (Obscurs destins)
+- The Outer Limits (1x12:4W) The Conversion (La conversion)
+- The Outer Limits (1x13:4W) Quality of Mercy (Dernière faveur)
+- The Outer Limits (1x14:4W) The New Breed (Nouvelle race)
+- The Outer Limits (1x15:4W) The Voyage Home (Destination Terre)
+- The Outer Limits (1x16:5W) Caught in the Act (Pris sur le fait)
+- The Outer Limits (1x17:5W) The Message (Le message)
+- The Outer Limits (1x18:5W) I, Robot (Le robot)
+- The Outer Limits (1x19:5W) If These Walls Could Talk (Si les murs pouvaient parler)
+- The Outer Limits (1x20:6W) Birthright (Droit de vie)
+- The Outer Limits (1x21:6W) The Voice of Reason (La voix de la raison)
+- The Outer Limits (2x01:1W) A Stitch in Time (Un point dans le temps)
+- The Outer Limits (2x02:1W) Resurrection (Résurrection)
+- The Outer Limits (2x03:1W) Unnatural Selection (Sélection artificielle)
+- The Outer Limits (2x04:1W) I Hear You Calling (Je vous entends)
+- The Outer Limits (2x05:2W) Mind Over Matter (Virtuellement vôtre)
+- The Outer Limits (2x06:2W) Beyond the Veil (Au-delà du voile)
+- The Outer Limits (2x07:2W) First Anniversary (Anniversaire de mariage)
+- The Outer Limits (2x08:2W) Straight and Narrow (Ordre et obéissance)
+- The Outer Limits (2x09:3W) Trial by Fire (Épreuve par le feu)
+- The Outer Limits (2x10:3W) Worlds Apart (Un monde à part)
+- The Outer Limits (2x11:3W) The Refuge (Éclat lunaire)
+- The Outer Limits (2x12:3W) Inconstant Moon (Clair de lune)
+- The Outer Limits (2x13:4W) From Within (Des profondeurs)
+- The Outer Limits (2x14:4W) The Heist (Le détournement)
+- The Outer Limits (2x15:4W) Afterlife (Injection fatale)
+- The Outer Limits (2x16:4W) The Deprogrammers (Les déprogrammeurs)
+- The Outer Limits (2x17:5W) Paradise (Le paradis)
+- The Outer Limits (2x18:5W) The Light Brigade (La brigade stellaire)
+- The Outer Limits (2x19:5W) Falling Star (L’étoile filante)
+- The Outer Limits (2x20:5W) Out of Body (Voyage astral)
+- The Outer Limits (2x21:6W) Vanishing Act (La disparition)
+- The Outer Limits (2x22:6W) The Sentence (La condamnation)
+- The Outer Limits (3x01:1W) Bits of Love (Amour virtuel)
+- The Outer Limits (3x02:1W) Second Thoughts (L'homme qui avait plusieurs têtes)
+- The Outer Limits (3x03:1W) Re‑generation (Régénération)
+- The Outer Limits (3x04:1W) Last Supper (Le dernier repas)
+- The Outer Limits (3x05:2W) Stream of Consciousness (Sursaut de conscience)
+- The Outer Limits (3x06:2W) Dark Rain (La pluie noire)
+- The Outer Limits (3x07:2W) The Camp (Le camp)
+- The Outer Limits (3x08:2W) Heart’s Desire (L'éclaireur)
+- The Outer Limits (3x09:3W) Tempests (Mystères à bord du Tempête)
+- The Outer Limits (3x10:3W) The Awakening (L'éveil)
+- The Outer Limits (3x11:3W) New Lease (Sursis post mortem)
+- The Outer Limits (3x12:3W) Double Helix (Le message galactique)
+- The Outer Limits (3x13:4W) Dead Man’s Switch (Le bouton du mort)
+- The Outer Limits (3x14:4W) Music of the Spheres (La musique des sphères célestes)
+- The Outer Limits (3x15:4W) The Revelations of ’Becka Paulson (Les révélations de Becka Paulson)
+- The Outer Limits (3x16:4W) Bodies of Evidence (Tueur virtuel)
+- The Outer Limits (3x17:5W) Feasibility Study (Des hommes de pierre)
+- The Outer Limits (3x18:5W) A Special Edition (Toute la vérité)
+- The Outer Limits (4x01:1W) Criminal Nature (Nature criminelle)
+- The Outer Limits (4x02:1W) The Hunt (Chasse tragique)
+- The Outer Limits (4x03:1W) Hearts and Minds (Lavage de cerveau)
+- The Outer Limits (4x04:1W) In Another Life (Dans une autre vie)
+- The Outer Limits (4x05:2W) In The Zone (Hors-jeu)
+- The Outer Limits (4x06:2W) Relativity Theory (La théorie de la relativité)
+- The Outer Limits (4x07:2W) Josh (Josh)
+- The Outer Limits (4x08:2W) Rite of Passage (Le passage)
+- The Outer Limits (4x09:3W) Glyphic (Le refus des autres)
+- The Outer Limits (4x10:3W) Identity Crisis (Crise d'identité)
+- The Outer Limits (4x11:3W) The Vaccine (Le vaccin)
+- The Outer Limits (4x12:3W) Fear Itself (La peur elle-même)
+- The Outer Limits (4x13:4W) The Joining (Le raid des Vénusiens)
+- The Outer Limits (4x14:4W) To Tell the Truth (Vrai ou faux ?)
+- The Outer Limits (4x15:4W) Mary 25 (Mary 25)
+- The Outer Limits (4x16:4W) Final Exam (Alerte aux neutrons)
+- The Outer Limits (4x17:5W) Lithia (Lithia)
+- The Outer Limits (4x18:5W) Monster (Le monstre)
+- The Outer Limits (4x19:5W) Sarcophagus (Sarcophage)
+- The Outer Limits (4x20:5W) Nightmare (Leur dernier cauchemar)
+- The Outer Limits (4x21:6W) Promised Land (La terre promise)
+- The Outer Limits (4x22:6W) The Balance of Nature (L'équilibre de la nature)
+- The Outer Limits (4x23:6W) The Origin of Species (L'origine de l'espèce)
+- The Outer Limits (4x24:6W) Phobos Rising (Malentendu tragique)
+- The Outer Limits (4x25:7W) Black Box (La boîte noire)
+- The Outer Limits (4x26:7W) In Our Own Image (À notre image)
+- The Outer Limits (5x01:1W) Alien Radio (Radio extra-terrestre)
+- The Outer Limits (5x02:1W) Donor (Le donneur)
+- The Outer Limits (5x03:1W) Small Friends (Éclairs de génie)
+- The Outer Limits (5x04:1W) The Grell (Les Grells)
+- The Outer Limits (5x05:2W) The Other Side (L'autre côté)
+- The Outer Limits (5x06:2W) Joyride (Bon voyage)
+- The Outer Limits (5x07:2W) The Human Operators (Le facteur humain)
+- The Outer Limits (5x08:2W) Blank Slate (Perte de mémoire)
+- The Outer Limits (5x09:3W) What Will The Neighbors Think (La voleuse de pensées)
+- The Outer Limits (5x10:3W) The Shroud (Le suaire)
+- The Outer Limits (5x11:3W) Ripper (L'éventreur)
+- The Outer Limits (5x12:3W) Tribunal (Le tribunal)
+- The Outer Limits (5x13:4W) Summit (Le sommet)
+- The Outer Limits (5x14:4W) Descent (Descente aux enfers)
+- The Outer Limits (5x15:4W) The Haven (Chacun chez soi)
+- The Outer Limits (5x16:4W) Déjà Vu (Déjà-vu)
+- The Outer Limits (5x17:5W) The Inheritors (Les héritiers)
+- The Outer Limits (5x18:5W) Essence of Life (L'essence de la vie)
+- The Outer Limits (5x19:5W) Stranded (Mal-aimé)
+- The Outer Limits (5x20:5W) Fathers and Sons (Pères et fils)
+- The Outer Limits (5x21:6W) Star Crossed (Tristes retrouvailles)
+- The Outer Limits (5x22:6W) Better Luck Next Time (À chacun son tour)
+- The Outer Limits (6x01:1W) Judgment Day (Jugement dernier)
+- The Outer Limits (6x02:1W) The Gun (L'arme)
+- The Outer Limits (6x03:1W) Skin Deep (Imposture fatale)
+- The Outer Limits (6x04:1W) Manifest Destiny (Les Conquistadors)
+- The Outer Limits (6x05:2W) Breaking Point (Point de rupture)
+- The Outer Limits (6x06:2W) The Beholder (L'amour est aveugle)
+- The Outer Limits (6x07:2W) Seeds of Destruction (Les graines de la destruction)
+- The Outer Limits (6x08:2W) Simon Says (Simon)
+- The Outer Limits (6x09:3W) Stasis (La stase)
+- The Outer Limits (6x10:3W) Down to Earth (Les pieds sur terre)
+- The Outer Limits (6x11:3W) The Inner Child (Celle qui n'était pas née)
+- The Outer Limits (6x12:3W) Glitch (Vive la liberté)
+- The Outer Limits (6x13:4W) Decompression (Dépressurisation)
+- The Outer Limits (6x14:4W) Abaddon (Abandon)
+- The Outer Limits (6x15:4W) The Grid (Le réseau)
+- The Outer Limits (6x16:4W) Revival (Le maître des illusions)
+- The Outer Limits (6x17:5W) Gettysburg (Gettysburg)
+- The Outer Limits (6x18:5W) Something About Harry (Un certain Harry)
+- The Outer Limits (6x19:5W) Zig Zag (Zig zag)
+- The Outer Limits (6x20:5W) Nest (Insectes polaires)
+- The Outer Limits (6x21\2:6W) Final Appeal (L'ultime appel)
+- The Outer Limits (7x01:1W) Family Values (Vive la famille)
+- The Outer Limits (7x02:1W) Patient Zero (Le malade Zéro)
+- The Outer Limits (7x03:1W) A New Life (Injection fatale)
+- The Outer Limits (7x04:1W) The Surrogate (Les mères porteuses)
+- The Outer Limits (7x05:2W) The Vessel (La navette)
+- The Outer Limits (7x06:2W) Mona Lisa (Mona Lisa)
+- The Outer Limits (7x07:2W) Replica (La réplique)
+- The Outer Limits (7x08:2W) Think Like a Dinosaur (Attention aux dinosaures)
+- The Outer Limits (7x09:3W) Alien Shop (La boutique des petites horreurs)
+- The Outer Limits (7x10:3W) Worlds Within (D'un monde à l'autre)
+- The Outer Limits (7x11:3W) In the Blood (Dans le sang)
+- The Outer Limits (7x12:3W) Flower Child (La femme fleur)
+- The Outer Limits (7x13:4W) Free Spirit (Esprit libre)
+- The Outer Limits (7x14:4W) Mindreacher (Voyage dans les esprits)
+- The Outer Limits (7x15:4W) Time to Time (De temps en temps)
+- The Outer Limits (7x16:4W) Abduction (L'élimination)
+- The Outer Limits (7x17:5W) Rule of Law (Le règne de la loi)
+- The Outer Limits (7x18:5W) Lion’s Den (La tanière des lions)
+- The Outer Limits (7x19:5W) The Tipping Point (Le point de bascule)
+- The Outer Limits (7x20:5W) Dark Child (L'enfant des ténèbres)
+- The Outer Limits (7x21:6W) The Human Factor (Faiblesses humaines)
+- The Outer Limits (7x22:6W) Human Trials (Les cobayes humains)
+- (247B) Pan’s Labyrinth
+- (179F) Paul
+- (691B) Phantom of the Opera
+- (29F) The Philadelphia Story
+- Pirates of the Caribbean (1:89F) Curse of the Black Pearl
+- Pirates of the Caribbean (2:90F) Dead Man’s Chest
+- Pirates of the Caribbean (3:91F) At World’s End
+- (75F) The Princess Bride
+- (324B) Princess Mononoke (もののけ姫)
+- The Prisoner (1:1D) Arrival
+- The Prisoner (2:1D) The Chimes of Big Ben
+- The Prisoner (3:1D) A. B. and C.
+- The Prisoner (4:2D) Free for All
+- The Prisoner (5:2D) The Schizoid Man
+- The Prisoner (6:2D) The General
+- The Prisoner (7:3D) Many Happy Returns
+- The Prisoner (8:3D) Dance of the Dead
+- The Prisoner (9:3D) Checkmate
+- The Prisoner (10:4D) Hammer Into Anvil
+- The Prisoner (11:4D) It’s Your Funeral
+- The Prisoner (12:4D) A Change of Mind
+- The Prisoner (13:5D) Do Not Forsake Me Oh My Darling
+- The Prisoner (14:5D) Living in Harmony
+- The Prisoner (15:5D) The Girl Who Was Death
+- The Prisoner (16:6D) Once Upon a Time
+- The Prisoner (17:6D) Fall Out
+- (271B) The Producers
+- Pushing Daisies (1x01:1A) Pie‑lette
+- Pushing Daisies (1x02:1A) Dummy
+- Pushing Daisies (1x03:1A) The Fun in Funeral
+- Pushing Daisies (1x04:2A) Pigeon
+- Pushing Daisies (1x05:2A) Girth
+- Pushing Daisies (1x06:2A) Bitches
+- Pushing Daisies (1x07:3A) Smell of Success
+- Pushing Daisies (1x08:3A) Bitter Sweets
+- Pushing Daisies (1x09:3A) Corpsicle
+- Pushing Daisies (2x01:1A) Bzzzzzzz!
+- Pushing Daisies (2x02:1A) Circus Circus
+- Pushing Daisies (2x03:1A) Bad Habits
+- Pushing Daisies (2x04:1A) Frescorts
+- Pushing Daisies (2x05:2A) Dim Sum Lose Some
+- Pushing Daisies (2x06:2A) Oh Oh Oh… It’s Magic
+- Pushing Daisies (2x07:2A) Robbing Hood
+- Pushing Daisies (2x08:2A) Comfort Food
+- Pushing Daisies (2x09:3A) The Legend of Merle McQuoddy
+- Pushing Daisies (2x10:3A) The Norwegians
+- Pushing Daisies (2x11:3A) Window Dressed to Kill
+- Pushing Daisies (2x12:3A) Water and Power
+- Pushing Daisies (2x13:4A) Kerplunk
+- Quantum Leap (1x01\2:885B) Genesis (September 13, 1956)
+- Quantum Leap (1x02:885B) Star-Crossed (June 15, 1972)
+- Quantum Leap (1x03:886B) The Right Hand of God (October 24, 1974)
+- Quantum Leap (1x04:886B) How the Tess Was Won (August 5, 1956)
+- Quantum Leap (1x05:886B) Double Identity (November 8, 1965)
+- Quantum Leap (1x06:887B) The Color of Truth (August 8, 1955)
+- Quantum Leap (1x07:887B) Camikazi Kid (June 6, 1961)
+- Quantum Leap (1x08:887B) Play It Again, Seymour (April 14, 1953)
+- Quantum Leap (2x01:888B) Honeymoon Express (April 27, 1960)
+- Quantum Leap (2x02:888B) Disco Inferno (April 1, 1976)
+- Quantum Leap (2x03:888B) The Americanization of Machiko (August 4, 1953)
+- Quantum Leap (2x04:888B) What Price Gloria? (October 16, 1961)
+- Quantum Leap (2x05:889B) Blind Faith (February 6, 1964)
+- Quantum Leap (2x06:889B) Good Morning, Peoria (September 9, 1959)
+- Quantum Leap (2x07:889B) Thou Shalt Not… (February 2, 1974)
+- Quantum Leap (2x08:889B) Jimmy (October 14, 1964)
+- Quantum Leap (2x09:890B) So Help Me God (July 29, 1957)
+- Quantum Leap (2x10:890B) Catch a Falling Star (May 21, 1979)
+- Quantum Leap (2x11:890B) A Portrait for Troian (February 7, 1971)
+- Quantum Leap (2x12:890B) Animal Frat (October 19, 1967)
+- Quantum Leap (2x13:891B) Another Mother (September 30, 1981)
+- Quantum Leap (2x14:891B) All Americans (November 6, 1962)
+- Quantum Leap (2x15:891B) Her Charm (September 26, 1973)
+- Quantum Leap (2x16:891B) Freedom (November 22, 1970)
+- Quantum Leap (2x17:892B) Good Night, Dear Heart (November 9, 1957)
+- Quantum Leap (2x18:892B) Pool Hall Blues (September 4, 1954)
+- Quantum Leap (2x19:892B) Leaping in Without a Net (November 18, 1958)
+- Quantum Leap (2x20:892B) Maybe Baby (March 11, 1963)
+- Quantum Leap (2x21:893B) Sea Bride (June 3, 1954)
+- Quantum Leap (2x22:893B) M.I.A. (April 1, 1969)
+- Quantum Leap (3x01:894B) The Leap Home (November 25, 1969)
+- 'Quantum Leap (3x02:894B) The Leap Home: Vietnam (April 7, 1970)'
+- Quantum Leap (3x03:894B) Leap of Faith (August 19, 1963)
+- Quantum Leap (3x04:894B) One Strobe Over the Line (June 15, 1965)
+- Quantum Leap (3x05:895B) The Boogieman (October 31, 1964)
+- Quantum Leap (3x06:895B) Miss Deep South (June 7, 1958)
+- Quantum Leap (3x07:895B) Black on White on Fire (August 11, 1965)
+- Quantum Leap (3x08:895B) The Great Spontini (May 9, 1974)
+- Quantum Leap (3x09:896B) Rebel Without a Clue (September 1, 1958)
+- Quantum Leap (3x10:896B) A Little Miracle (December 24, 1962)
+- Quantum Leap (3x11:896B) Runaway (July 4, 1964)
+- Quantum Leap (3x12:896B) 8½ Months (November 15, 1955)
+- Quantum Leap (3x13:897B) Future Boy (October 6, 1957)
+- Quantum Leap (3x14:897B) Private Dancer (October 6, 1979)
+- Quantum Leap (3x15:897B) Piano Man (November 10, 1985)
+- Quantum Leap (3x16:897B) Southern Comforts (August 4, 1961)
+- Quantum Leap (3x17:898B) Glitter Rock (April 12, 1974)
+- Quantum Leap (3x18:898B) A Hunting Will We Go (June 18, 1976)
+- Quantum Leap (3x19:898B) Last Dance Before an Execution (May 12, 1971)
+- Quantum Leap (3x20:898B) Heart of a Champion (July 23, 1955)
+- Quantum Leap (3x21:899B) Nuclear Family (October 26, 1962)
+- Quantum Leap (3x22:899B) Shock Theater (October 3, 1954)
+- Quantum Leap (4x01:900B) The Leap Back (June 15, 1945)
+- Quantum Leap (4x02:900B) Play Ball (August 6, 1961)
+- Quantum Leap (4x03:900B) Hurricane (August 17, 1969)
+- Quantum Leap (4x04:900B) Justice (May 11, 1965)
+- Quantum Leap (4x05:901B) Permanent Wave (June 2, 1983)
+- Quantum Leap (4x06:901B) Raped (June 20, 1980)
+- Quantum Leap (4x07:901B) The Wrong Stuff (January 24, 1961)
+- Quantum Leap (4x08:901B) Dreams (February 28, 1979)
+- Quantum Leap (4x09:902B) A Single Drop of Rain (September 7, 1953)
+- Quantum Leap (4x10:902B) Unchained (November 2, 1956)
+- Quantum Leap (4x11:902B) The Play’s the Thing (September 9, 1969)
+- Quantum Leap (4x12:902B) Running for Honor (June 11, 1964)
+- Quantum Leap (4x13:903B) Temptation Eyes (February 1, 1985)
+- Quantum Leap (4x14:903B) The Last Gunfighter (November 28, 1957)
+- Quantum Leap (4x15:903B) A Song for the Soul (April 7, 1963)
+- Quantum Leap (4x16:903B) Ghost Ship (August 13, 1956)
+- Quantum Leap (4x17:904B) Roberto! (January 27, 1982)
+- Quantum Leap (4x18:904B) It’s a Wonderful Leap (May 10, 1958)
+- Quantum Leap (4x19:904B) Moments to Live (May 4, 1985)
+- Quantum Leap (4x20:904B) The Curse of Ptah-Hotep (March 2, 1957)
+- Quantum Leap (4x21:905B) Stand Up (April 30, 1959)
+- Quantum Leap (4x22:905B) A Leap for Lisa (June 25, 1957)
+- Quantum Leap (5x01\2:906B) Lee Harvey Oswald (October 5, 1957-November 22, 1963)
+- Quantum Leap (5x03:906B) Leaping of the Shrew (September 27, 1956)
+- Quantum Leap (5x04:906B) Nowhere to Run (August 10, 1968)
+- Quantum Leap (5x05:907B) Killin’ Time (June 18, 1958)
+- Quantum Leap (5x06:907B) Star Light, Star Bright (May 21, 1966)
+- Quantum Leap (5x07:907B) Deliver Us from Evil (March 19, 1966)
+- 'Quantum Leap (5x08:908B) Trilogy: One Little Heart (August 8, 1955)'
+- 'Quantum Leap (5x09:908B) Trilogy: For Your Love (June 14, 1966)'
+- 'Quantum Leap (5x10:908B) Trilogy: The Last Door (July 28, 1978)'
+- Quantum Leap (5x11:908B) Promised Land (December 22, 1971)
+- Quantum Leap (5x12:909B) A Tale of Two Sweeties (February 25, 1958)
+- Quantum Leap (5x13:909B) Liberation (October 16, 1968)
+- Quantum Leap (5x14:909B) Dr. Ruth (April 25, 1985)
+- Quantum Leap (5x15:909B) Blood Moon (March 10, 1975)
+- Quantum Leap (5x16:910B) Return of the Evil Leaper (October 8, 1956)
+- Quantum Leap (5x17:910B) Revenge of the Evil Leaper (September 16, 1987)
+- Quantum Leap (5x18:910B) Goodbye Norma Jean (April 4, 1960)
+- Quantum Leap (5x19:910B) The Beast Within (November 6, 1972)
+- Quantum Leap (5x20:911B) The Leap Between the States (September 20, 1862)
+- Quantum Leap (5x21:911B) Memphis Melody (July 3, 1954)
+- Quantum Leap (5x22:911B) Mirror Image (August 8, 1953)
+- (34F) Rain Man
+- (146F) Ratatouille
+- (1x01:1A) Reaper
+- Reaper (1x02:1A) Charged
+- Reaper (1x03:1A) All Mine
+- Reaper (1x04:1A) Magic
+- Reaper (1x05:2A) What About Blob
+- Reaper (1x06:2A) Leon
+- Reaper (1x07:2A) Love, Bullets and Blacktop
+- Reaper (1x08:2A) The Cop
+- Reaper (1x09:3A) Ashes to Ashes
+- Reaper (1x10:3A) Cash Out
+- Reaper (1x11:3A) Hungry for Fame
+- Reaper (1x12:3A) Unseen
+- Reaper (1x13:4A) Acid Queen
+- Reaper (1x14:4A) Rebellion
+- Reaper (1x15:4A) Coming to Grips
+- Reaper (1x16:4A) Greg, Schmeg
+- Reaper (1x17:5A) The Leak
+- Reaper (1x18:5A) Cancun
+- 'Reaper (2x01:1A) Episode IV: A New Hope'
+- Reaper (2x02:1A) Dirty Sexy Mongol
+- Reaper (2x03:1A) The Sweet Science
+- Reaper (2x04:1A) The Favorite
+- Reaper (2x05:2A) I Want My Baby Back
+- Reaper (2x06:2A) Underbelly
+- Reaper (2x07:2A) The Good Soil
+- Reaper (2x08:2A) The Home Stretch
+- Reaper (2x09:3A) No Reaper Left Behind
+- Reaper (2x10:3A) My Brother’s Reaper
+- Reaper (2x11:3A) To Sprong, With Love
+- Reaper (2x12:3A) Business Casualty
+- Reaper (2x13:4A) The Devil and Sam Oliver
+- (191F) Rebecca
+- (305B) Reckless Kelly
+- Red Dwarf (1x01:U) The End
+- Red Dwarf (1x02:U) Future Echoes
+- Red Dwarf (1x03:U) Balance of Power
+- Red Dwarf (1x04:U) Waiting For God
+- Red Dwarf (1x05:U) Confidence and Paranoia
+- Red Dwarf (1x06:U) Me²
+- Red Dwarf (2x01:U) Kryten
+- Red Dwarf (2x02:U) Better Than Life
+- Red Dwarf (2x03:U) Thanks For The Memory
+- Red Dwarf (2x04:U) Stasis Leak
+- Red Dwarf (2x05:U) Queeg
+- Red Dwarf (2x06:U) Parallel Universe
+- Red Dwarf (3x01:U) Backwards
+- Red Dwarf (3x02:U) Marooned
+- Red Dwarf (3x03:U) Polymorph
+- Red Dwarf (3x04:U) Bodyswap
+- Red Dwarf (3x05:U) Timeslides
+- Red Dwarf (3x06:U) The Last Day
+- Red Dwarf (4x01:U) Camille
+- Red Dwarf (4x02:U) D.N.A.
+- Red Dwarf (4x03:U) Justice
+- Red Dwarf (4x04:U) White Hole
+- Red Dwarf (4x05:U) Dimension Jump
+- Red Dwarf (4x06:U) Meltdown
+- Red Dwarf (5x01:U) Holoship
+- Red Dwarf (5x02:U) The Inquisitor
+- Red Dwarf (5x03:U) Terrorform
+- Red Dwarf (5x04:U) Quarantine
+- Red Dwarf (5x05:U) Demons &amp; Angels
+- Red Dwarf (5x06:U) Back To Reality
+- Red Dwarf (6x01:U) Psirens
+- Red Dwarf (6x02:U) Legion
+- Red Dwarf (6x03:U) Gunmen of the Apocalypse
+- Red Dwarf (6x04:U) Emohawk ‑ Polymorph II
+- Red Dwarf (6x05:U) Rimmerworld
+- Red Dwarf (6x06:U) Out of Time
+- Red Dwarf (7x01:1U) Tikka To Ride
+- Red Dwarf (7x02:1U) Stoke Me A Clipper
+- Red Dwarf (7x03:1U) Ouroboros
+- Red Dwarf (7x04:1U) Duct Soup
+- Red Dwarf (7x05:2U) Blue
+- Red Dwarf (7x06:2U) Beyond a Joke
+- Red Dwarf (7x07:2U) Epideme
+- Red Dwarf (7x08:2U) Nanarchy
+- Red Dwarf (8x01\3:1U) Back in the Red
+- Red Dwarf (8x02:1U) Cassandra
+- Red Dwarf (8x05:2U) Krytie TV
+- Red Dwarf (8x06\2:2U) Pete
+- Red Dwarf (8x08:2U) Only The Good…
+- Red Dwarf (10x01:257B) Trojan
+- Red Dwarf (10x02:257B) Fathers and Suns
+- Red Dwarf (10x03:257B) Lemons
+- Red Dwarf (10x04:257B) Entangled
+- Red Dwarf (10x05:257B) Dear Dave
+- Red Dwarf (10x06:257B) The Beginning
+- Red Dwarf (11x01:259B) Twentica
+- Red Dwarf (11x02:259B) Samsara
+- Red Dwarf (11x03:259B) Give &amp; Take
+- Red Dwarf (11x04:259B) Officer Rimmer
+- Red Dwarf (11x05:259B) Krysis
+- Red Dwarf (11x06:259B) Can of Worms
+- Red Dwarf (12x01:261B) Cured
+- Red Dwarf (12x02:261B) Siliconia
+- Red Dwarf (12x03:261B) Timewave
+- Red Dwarf (12x04:261B) Mechocracy
+- Red Dwarf (12x05:261B) M‑Corp
+- Red Dwarf (12x06:261B) Skipper
+- Red Dwarf (13:313B) The Promised Land
+- (304B) Richard III
+- (682B) The Ring (リング)
+- (735B) The Road to El Dorado
+- Robin Hood (307B) Prince of Thieves
+- Robin Hood (112F) Men in Tights
+- (168B) Romeo + Juliet
+- '(13F) Rowan Atkinson: Live'
+- Russian Doll (1x01:393B) Nothing in This World Is Easy
+- Russian Doll (1x02:393B) The Great Escape
+- Russian Doll (1x03:393B) A Warm Body
+- Russian Doll (1x04:393B) Alan’s Routine
+- Russian Doll (1x05:394B) Superiority Complex
+- Russian Doll (1x06:394B) Reflection
+- Russian Doll (1x07:394B) The Way Out
+- Russian Doll (1x08:394B) Ariadne
+- Russian Doll (2x01:1W) Nowhen
+- Russian Doll (2x02:1W) Coney Island Baby
+- Russian Doll (2x03:1W) Brain Drain
+- Russian Doll (2x04:1W) Station to Station
+- Russian Doll (2x05:2W) Exquisite Corpse
+- Russian Doll (2x06:2W) Schrödinger’s Ruth
+- Russian Doll (2x07:2W) Matryoshka
+- (1x01:529B) Sabrina, the Teenage Witch
+- Sabrina, the Teenage Witch (1x02:529B) Bundt Friday
+- Sabrina, the Teenage Witch (1x03:529B) The True Adventures of Rudy Kazootie
+- Sabrina, the Teenage Witch (1x04:529B) Terrible Things
+- Sabrina, the Teenage Witch (1x05:529B) A Halloween Story
+- Sabrina, the Teenage Witch (1x06:529B) Dream Date
+- Sabrina, the Teenage Witch (1x07:530B) Third Aunt From the Sun
+- Sabrina, the Teenage Witch (1x08:530B) Magic Joel
+- Sabrina, the Teenage Witch (1x09:530B) Geek Like Me
+- Sabrina, the Teenage Witch (1x10:530B) Sweet and Sour Victory
+- Sabrina, the Teenage Witch (1x11:530B) A Girl and Her Cat
+- Sabrina, the Teenage Witch (1x12:530B) Trial by Fury
+- Sabrina, the Teenage Witch (1x13:531B) Jenny’s Non-Dream
+- Sabrina, the Teenage Witch (1x14:531B) Sabrina Through the Looking Glass
+- 'Sabrina, the Teenage Witch (1x15:531B) Hilda and Zelda: the Teenage Years'
+- Sabrina, the Teenage Witch (1x16:531B) Mars Attracts
+- Sabrina, the Teenage Witch (1x17:531B) First Kiss
+- Sabrina, the Teenage Witch (1x18:531B) Sweet Charity
+- Sabrina, the Teenage Witch (1x19:532B) Cat Showdown
+- Sabrina, the Teenage Witch (1x20:532B) Meeting Dad’s Girlfriend
+- Sabrina, the Teenage Witch (1x21:532B) As Westbridge Turns
+- Sabrina, the Teenage Witch (1x22:532B) The Great Mistake
+- Sabrina, the Teenage Witch (1x23:532B) The Crucible
+- Sabrina, the Teenage Witch (1x24:532B) Troll Bride
+- Sabrina, the Teenage Witch (2x01\2:533B) Sabrina Gets Her License
+- Sabrina, the Teenage Witch (2x03:533B) Dummy for Love
+- Sabrina, the Teenage Witch (2x04:533B) Dante’s Inferno
+- Sabrina, the Teenage Witch (2x05:533B) A Doll’s Story
+- Sabrina, the Teenage Witch (2x06:533B) Sabrina, the Teenage Boy
+- Sabrina, the Teenage Witch (2x07:534B) A River of Candy Corn Runs Through It
+- Sabrina, the Teenage Witch (2x08:534B) Inna-Gadda-Sabrina
+- Sabrina, the Teenage Witch (2x09:534B) Witch Trash
+- Sabrina, the Teenage Witch (2x10:534B) To Tell a Mortal
+- Sabrina, the Teenage Witch (2x11:534B) Oh What a Tangled Spell She Weaves
+- Sabrina, the Teenage Witch (2x12:534B) Sabrina Claus
+- Sabrina, the Teenage Witch (2x13:535B) Little Big Kraft
+- Sabrina, the Teenage Witch (2x14:535B) Five Easy Pieces of Libby
+- Sabrina, the Teenage Witch (2x15:535B) Finger Lickin’ Flu
+- Sabrina, the Teenage Witch (2x16:535B) Sabrina and the Beanstalk
+- Sabrina, the Teenage Witch (2x17:535B) The Equalizer
+- Sabrina, the Teenage Witch (2x18:535B) The Band Episode
+- Sabrina, the Teenage Witch (2x19:535B) When Teens Collide
+- Sabrina, the Teenage Witch (2x20:536B) My Nightmare, the Car
+- Sabrina, the Teenage Witch (2x21:536B) Fear Strikes Up a Conversation
+- Sabrina, the Teenage Witch (2x22:536B) Quiz Show
+- Sabrina, the Teenage Witch (2x23:536B) Disneyworld
+- Sabrina, the Teenage Witch (2x24:536B) Sabrina’s Choice
+- Sabrina, the Teenage Witch (2x25:536B) Rumor Mill
+- Sabrina, the Teenage Witch (2x26:536B) Mom vs. Magic
+- Sabrina, the Teenage Witch (3x01:537B) It’s A Mad, Mad, Mad, Mad Season Opener
+- Sabrina, the Teenage Witch (3x02:537B) Boy Was My Face Red
+- Sabrina, the Teenage Witch (3x03:537B) Suspicious Minds
+- Sabrina, the Teenage Witch (3x04:537B) The Pom Pom Incident
+- Sabrina, the Teenage Witch (3x05:537B) Pancake Madness
+- Sabrina, the Teenage Witch (3x06:537B) Good Will Haunting
+- Sabrina, the Teenage Witch (3x07:538B) You Bet Your Family
+- Sabrina, the Teenage Witch (3x08:538B) And the Sabrina Goes To…
+- Sabrina, the Teenage Witch (3x09:538B) Nobody Nose Libby Like Sabrina Nose Libby
+- Sabrina, the Teenage Witch (3x10:538B) Sabrina and the Beast
+- Sabrina, the Teenage Witch (3x11:538B) Christmas Amnesia
+- Sabrina, the Teenage Witch (3x12:538B) Whose So-Called Life Is It Anyway?
+- Sabrina, the Teenage Witch (3x13:539B) What Price Harvey?
+- Sabrina, the Teenage Witch (3x14:539B) Mrs. Kraft
+- Sabrina, the Teenage Witch (3x15:539B) Sabrina and the Pirates
+- Sabrina, the Teenage Witch (3x16:539B) Sabrina the Matchmaker
+- Sabrina, the Teenage Witch (3x17:539B) Salem, the Boy
+- Sabrina, the Teenage Witch (3x18:539B) Sabrina, the Teenage Writer
+- Sabrina, the Teenage Witch (3x19:540B) The Big Sleep
+- Sabrina, the Teenage Witch (3x20:540B) Sabrina’s Pen Pal
+- Sabrina, the Teenage Witch (3x21:540B) Sabrina’s Real World
+- Sabrina, the Teenage Witch (3x22:540B) The Long and Winding Short Cut
+- Sabrina, the Teenage Witch (3x23:540B) Sabrina the Sandman
+- Sabrina, the Teenage Witch (3x24:540B) Silent Movie
+- Sabrina, the Teenage Witch (3x25:540B) The Good, the Bad and the Luau
+- Sabrina, the Teenage Witch (4:541B) Sabrina, Down Under
+- Sabrina, the Teenage Witch (4x01:541B) No Place Like Home
+- Sabrina, the Teenage Witch (4x02:541B) Dream a Little Dreama Me
+- Sabrina, the Teenage Witch (4x03:541B) Jealousy
+- Sabrina, the Teenage Witch (4x04:541B) Little Orphan Hilda
+- Sabrina, the Teenage Witch (4x05:541B) Spoiled Rotten
+- 'Sabrina, the Teenage Witch (4x06:541B) Episode LXXXI: The Phantom Menace'
+- Sabrina, the Teenage Witch (4x07:541B) Prelude to a Kiss
+- Sabrina, the Teenage Witch (4x08:542B) Aging, Not So Gracefully
+- Sabrina, the Teenage Witch (4x09:542B) Love Means Having to Say You’re Sorry
+- Sabrina, the Teenage Witch (4x10:542B) Ice Station Sabrina
+- Sabrina, the Teenage Witch (4x11:542B) Salem and Juliette
+- Sabrina, the Teenage Witch (4x12:542B) Sabrina, Nipping at Your Nose
+- Sabrina, the Teenage Witch (4x13:542B) Now You See Her, Now You Don’t
+- Sabrina, the Teenage Witch (4x14:542B) Super Hero
+- Sabrina, the Teenage Witch (4x15:543B) Love in Bloom
+- Sabrina, the Teenage Witch (4x16:543B) Welcome Back, Duke
+- Sabrina, the Teenage Witch (4x17:543B) Salem’s Daughter
+- Sabrina, the Teenage Witch (4x18:543B) Dreama the Mouse
+- Sabrina, the Teenage Witch (4x19:543B) The Wild, Wild Witch
+- Sabrina, the Teenage Witch (4x20:543B) She’s Baaaack!
+- Sabrina, the Teenage Witch (4x21:543B) The Four Faces of Sabrina
+- Sabrina, the Teenage Witch (4x22:543B) The End of an Era
+- Sabrina, the Teenage Witch (5x01:544B) Every Witch Way but Loose
+- Sabrina, the Teenage Witch (5x02:544B) Double Time
+- Sabrina, the Teenage Witch (5x03:544B) Heart of the Matter
+- Sabrina, the Teenage Witch (5x04:544B) You Can’t Twin
+- Sabrina, the Teenage Witch (5x05:544B) House of PI’s
+- Sabrina, the Teenage Witch (5x06:544B) The Halloween Scene
+- Sabrina, the Teenage Witch (5x07:544B) Welcome, Traveler
+- Sabrina, the Teenage Witch (5x08:544B) Some of My Best Friends are Half-Mortals
+- Sabrina, the Teenage Witch (5x09:545B) Lost @ C
+- Sabrina, the Teenage Witch (5x10:545B) Sabrina’s Perfect Christmas
+- Sabrina, the Teenage Witch (5x11:545B) My Best Shot
+- Sabrina, the Teenage Witch (5x12:545B) Tick-Tock Hilda’s Clock
+- Sabrina, the Teenage Witch (5x13:545B) Sabrina’s New Roommate
+- Sabrina, the Teenage Witch (5x14:545B) Making the Grade
+- Sabrina, the Teenage Witch (5x15:545B) Love Is A Many Complicated Thing
+- Sabrina, the Teenage Witch (5x16:546B) Sabrina, the Muse
+- Sabrina, the Teenage Witch (5x17:546B) Beach Blanket Bizarro
+- Sabrina, the Teenage Witch (5x18:546B) Witchright Hall
+- Sabrina, the Teenage Witch (5x19:546B) Sabrina, the Activist
+- Sabrina, the Teenage Witch (5x20:546B) Do You See What I See?
+- Sabrina, the Teenage Witch (5x21:546B) Sabrina’s Got Spirit
+- Sabrina, the Teenage Witch (5x22:546B) Finally!
+- Sabrina, the Teenage Witch (6x01:547B) Really Big Season Opener
+- Sabrina, the Teenage Witch (6x02:547B) Sabrina’s Date with Destiny
+- Sabrina, the Teenage Witch (6x03:547B) What’s News
+- Sabrina, the Teenage Witch (6x04:547B) Murder on the Halloween Express
+- Sabrina, the Teenage Witch (6x05:547B) The Gift of Gab
+- Sabrina, the Teenage Witch (6x06:547B) Thin Ice
+- Sabrina, the Teenage Witch (6x07:547B) Hex, Lies &amp; No Videotape
+- Sabrina, the Teenage Witch (6x08:548B) Humble Pie
+- Sabrina, the Teenage Witch (6x09:548B) A Birthday Witch
+- Sabrina, the Teenage Witch (6x10:548B) Deliver Us from E-mail
+- Sabrina, the Teenage Witch (6x11:548B) Cloud Ten
+- Sabrina, the Teenage Witch (6x12:548B) Sabrina and the Candidate
+- Sabrina, the Teenage Witch (6x13:548B) I Think I Love You
+- Sabrina, the Teenage Witch (6x14:548B) The Arrangement
+- Sabrina, the Teenage Witch (6x15:549B) Time After Time
+- Sabrina, the Teenage Witch (6x16:549B) Sabrina and the Kiss
+- Sabrina, the Teenage Witch (6x17:549B) The Competition
+- Sabrina, the Teenage Witch (6x18:549B) I, Busybody
+- Sabrina, the Teenage Witch (6x19:549B) Guilty!
+- Sabrina, the Teenage Witch (6x20:549B) The Whole Ball of Wax
+- Sabrina, the Teenage Witch (6x21:549B) Driving Mr. Goodman
+- Sabrina, the Teenage Witch (6x22:549B) I Fall to Pieces
+- Sabrina, the Teenage Witch (7:552B) Sabrina Goes to Rome
+- Sabrina, the Teenage Witch (7x01:550B) Total Sabrina Live!
+- Sabrina, the Teenage Witch (7x02:550B) The Big Head
+- Sabrina, the Teenage Witch (7x03:550B) Call Me Crazy
+- Sabrina, the Teenage Witch (7x04:550B) Shift Happens
+- Sabrina, the Teenage Witch (7x05:550B) Free Sabrina
+- Sabrina, the Teenage Witch (7x06:550B) Sabrina Unplugged
+- Sabrina, the Teenage Witch (7x07:550B) Witch Way Out
+- Sabrina, the Teenage Witch (7x08:550B) Bada-Ping!
+- Sabrina, the Teenage Witch (7x09:550B) It’s a Hot, Hot, Hot, Hot Christmas
+- Sabrina, the Teenage Witch (7x10:551B) Ping, Ping A Song
+- Sabrina, the Teenage Witch (7x11:551B) The Lyin’, the Witch and the Wardrobe
+- Sabrina, the Teenage Witch (7x12:551B) In Sabrina We Trust
+- Sabrina, the Teenage Witch (7x13:551B) Sabrina in Wonderland
+- Sabrina, the Teenage Witch (7x14:551B) Present Perfect
+- Sabrina, the Teenage Witch (7x15:551B) Cirque du Sabrina
+- Sabrina, the Teenage Witch (7x16:551B) Getting To Nose You
+- Sabrina, the Teenage Witch (7x17:551B) Romance Looming
+- Sabrina, the Teenage Witch (7x18:552B) Spellmanian Slip
+- Sabrina, the Teenage Witch (7x19:552B) You Slay Me
+- Sabrina, the Teenage Witch (7x20:552B) A Fish Tale
+- Sabrina, the Teenage Witch (7x21:552B) What a Witch Wants
+- Sabrina, the Teenage Witch (7x22:552B) Soul Mates
+- Sanctuary (1x01\2:721B) Sanctuary for All (In Sicherheit)
+- Sanctuary (1x03:721B) Fata Morgana (Fata Morgana)
+- Sanctuary (1x04:721B) Folding Man (Der Nomade)
+- Sanctuary (1x05:721B) Kush (Der Körperwanderer)
+- Sanctuary (1x06:721B) Nubbins (Die Nubbins)
+- Sanctuary (1x07:722B) The Five (Die fünf Auserwählten)
+- Sanctuary (1x08:722B) Edward (Das Familiengeheimnis)
+- Sanctuary (1x09:722B) Requiem (Requiem)
+- Sanctuary (1x10:722B) Warriors (Skarabäus)
+- Sanctuary (1x11:722B) Instinct (Instinkt)
+- Sanctuary (1x12\2:722B) Revelations (Das Erbe des Vampirs)
+- Sanctuary (2x01\2:724B) End of Nights (Das Ende aller Nächte)
+- Sanctuary (2x03:724B) Eulogy (Der Weg ins Licht)
+- Sanctuary (2x04:724B) Hero (Zweite Haut)
+- Sanctuary (2x05:724B) Pavor Nocturnus (Patient Null)
+- Sanctuary (2x06:724B) Fragments (Fragmente)
+- Sanctuary (2x07:725B) Veritas (Nichts als die Wahrheit)
+- Sanctuary (2x08:725B) Next Tuesday (Der Absturz)
+- Sanctuary (2x09:725B) Penance (Das zweite Leben)
+- Sanctuary (2x10:725B) Sleepers (Könige der Welten)
+- Sanctuary (2x11:725B) Haunted (Verfolgt)
+- Sanctuary (2x12\3:725B) Kali (Die Göttin der Zerstörung)
+- Sanctuary (3x02:727B) Firewall (Brandmauer)
+- Sanctuary (3x03:727B) Bank Job (Banküberfall)
+- Sanctuary (3x04:727B) Trail of Blood (Blutspur)
+- 'Sanctuary (3x05:727B) Hero II: Broken Arrow (Magische Kräfte)'
+- Sanctuary (3x06:727B) Animus (Animus)
+- Sanctuary (3x07:728B) Breach (Warnung aus der Unterwelt)
+- Sanctuary (3x08:728B) For King &amp; Country (Für König und Vaterland)
+- Sanctuary (3x09:728B) Vigilante (Totenmesse)
+- Sanctuary (3x10:728B) Hollow Men (Tor zur Hölle)
+- Sanctuary (3x11:728B) Pax Romana (Römischer Friede)
+- Sanctuary (3x12:728B) Hangover (Blackout)
+- Sanctuary (3x13:729B) One Night (Das Geisterschiff)
+- Sanctuary (3x14:729B) Metamorphosis (Metamorphose)
+- Sanctuary (3x15:729B) Wingman (Geplatztes Dinner)
+- Sanctuary (3x16:729B) Awakening (Kalmins Thron)
+- Sanctuary (3x17:729B) Normandy (Normandie)
+- Sanctuary (3x18:729B) Carentan (Gefangen in der Zeit)
+- Sanctuary (3x19:730B) Out of the Blue (Das andere Leben)
+- Sanctuary (3x20:730B) Into the Black (Zurück in die Dunkelheit)
+- Sanctuary (4x01:731B) Tempus (Die Zeitachse)
+- Sanctuary (4x02:731B) Uprising (Der Aufstand)
+- Sanctuary (4x03:731B) Untouchable (Falsche Fährten)
+- Sanctuary (4x04:731B) Monsoon (Die gesetzlose Insel)
+- Sanctuary (4x05:731B) Resistance (Der Abtrünnige)
+- Sanctuary (4x06:731B) Homecoming (Die Heimkehr)
+- Sanctuary (4x07:732B) Icebreaker (Tod auf dem Eisbrecher)
+- Sanctuary (4x08:732B) Fugue (Das Lied der Erlösung)
+- Sanctuary (4x09:732B) Chimera (Chimäre)
+- Sanctuary (4x10:732B) Acolyte (Das Attentat)
+- Sanctuary (4x11:732B) The Depths (Das Wasser der Schlange)
+- Sanctuary (4x12:733B) Sanctuary for None (Dem Untergang geweiht)
+- The Sandman (1:1A) Sleep of the Just
+- The Sandman (2:1A) Imperfect Hosts
+- The Sandman (3:1A) Dream a Little Dream of Me
+- The Sandman (4:1A) A Hope in Hell
+- The Sandman (5:2A) 24/7
+- The Sandman (6:2A) The Sound of Her Wings
+- The Sandman (7:2A) The Doll's House
+- The Sandman (8:2A) Playing House
+- The Sandman (9:3A) Collectors
+- The Sandman (10:3A) Lost Hearts
+- The Sandman (11:3A) A Dream of a Thousand Cats
+- The Sandman (11:3A) Calliope
+- Sapphire &amp; Steel (1\6:1A) Escape Through a Crack in Time
+- Sapphire &amp; Steel (2\8:2A) The Railway Station
+- Sapphire &amp; Steel (3\6:3A) The Creature’s Revenge
+- Sapphire &amp; Steel (4\4:4A) The Man Without a Face
+- Sapphire &amp; Steel (5\6:5A) Doctor McDee Must Die
+- Sapphire &amp; Steel (6\4:6A) The Trap
+- (141F) Saving Mr. Banks
+- (\2:19F) Schindler’s List
+- Scrubs (1x01:1D) My First Day
+- Scrubs (1x02:1D) My Mentor
+- Scrubs (1x03:1D) My Best Friend’s Mistake
+- Scrubs (1x04:1D) My Old Lady
+- Scrubs (1x05:1D) My Two Dads
+- Scrubs (1x06:1D) My Bad
+- Scrubs (1x07:1D) My Super Ego
+- Scrubs (1x08:2D) My Fifteen Minutes
+- Scrubs (1x09:2D) My Day Off
+- Scrubs (1x10:2D) My Nickname
+- Scrubs (1x11:2D) My Own Personal Jesus
+- Scrubs (1x12:2D) My Blind Date
+- Scrubs (1x13:2D) My Balancing Act
+- Scrubs (1x14:2D) My Drug Buddy
+- Scrubs (1x15:3D) My Bed Banter &amp; Beyond
+- Scrubs (1x16:3D) My Heavy Meddle
+- Scrubs (1x17:3D) My Student
+- Scrubs (1x18:3D) My Tuscaloosa Heart
+- Scrubs (1x19:3D) My Old Man
+- Scrubs (1x20:3D) My Way or the Highway
+- Scrubs (1x21:3D) My Sacrificial Clam
+- Scrubs (1x22:4D) My Occurrence
+- Scrubs (1x23:4D) My Hero
+- Scrubs (1x24:4D) My Last Day
+- Scrubs (2x01:1D) My Overkill
+- Scrubs (2x02:1D) My Nightingale
+- Scrubs (2x03:1D) My Case Study
+- Scrubs (2x04:1D) My Big Mouth
+- Scrubs (2x05:1D) My New Coat
+- Scrubs (2x06:1D) My Big Brother
+- Scrubs (2x07:2D) My First Step
+- Scrubs (2x08:2D) My Fruit Cups
+- Scrubs (2x09:2D) My Lucky Day
+- Scrubs (2x10:2D) My Monster
+- Scrubs (2x11:2D) My Sex Buddy
+- Scrubs (2x12:2D) My New Old Friend
+- Scrubs (2x13:3D) My Philosophy
+- Scrubs (2x14:3D) My Brother, My Keeper
+- Scrubs (2x15:3D) His Story
+- Scrubs (2x16:3D) My Karma
+- Scrubs (2x17:3D) My Own Private Practice Guy
+- Scrubs (2x18:3D) My T.C.W.
+- Scrubs (2x19:4D) My Kingdom
+- Scrubs (2x20:4D) My Interpretation
+- Scrubs (2x21:4D) My Drama Queen
+- Scrubs (2x22:4D) My Dream Job
+- Scrubs (3x01:1D) My American Girl
+- Scrubs (3x02:1D) My Journey
+- Scrubs (3x03:1D) My White Whale
+- Scrubs (3x04:1D) My Lucky Night
+- Scrubs (3x05:1D) My Brother, Where Art Thou?
+- Scrubs (3x06:1D) My Advice to You
+- Scrubs (3x07:2D) My Fifteen Seconds
+- Scrubs (3x08:2D) My Friend, the Doctor
+- Scrubs (3x09:2D) My Dirty Secret
+- Scrubs (3x10:2D) My Rule of Thumb
+- Scrubs (3x11:2D) My Clean Break
+- Scrubs (3x12:2D) My Catalyst
+- Scrubs (3x13:3D) My Porcelain God
+- Scrubs (3x14:3D) My Screw Up
+- Scrubs (3x15:3D) My Tormented Mentor
+- Scrubs (3x16:3D) My Butterfly
+- Scrubs (3x17:3D) My Moment of Un‑Truth
+- Scrubs (3x18:3D) His Story II
+- Scrubs (3x19:4D) My Choosiest Choice of All
+- Scrubs (3x20:4D) My Fault
+- Scrubs (3x21:4D) My Self‑Examination
+- Scrubs (3x22:4D) My Best Friend’s Wedding
+- Scrubs (4x01:1D) My Old Friend’s New Friend
+- Scrubs (4x02:1D) My Office
+- Scrubs (4x03:1D) My New Game
+- Scrubs (4x04:1D) My First Kill
+- Scrubs (4x05:1D) Her Story
+- Scrubs (4x06:1D) My Cake
+- Scrubs (4x07:1D) My Common Enemy
+- Scrubs (4x08:2D) My Last Chance
+- Scrubs (4x09:2D) My Malpractical Decision
+- Scrubs (4x10:2D) My Female Trouble
+- Scrubs (4x11:2D) My Unicorn
+- Scrubs (4x12:2D) My Best Moment
+- Scrubs (4x13:2D) My Ocardial Infarction
+- Scrubs (4x14:2D) My Lucky Charm
+- Scrubs (4x15:3D) My Hypocritical Oath
+- Scrubs (4x16:3D) My Quarantine
+- Scrubs (4x17:3D) My Life in Four Cameras
+- Scrubs (4x18:3D) My Roommates
+- Scrubs (4x19:3D) My Best Laid Plans
+- Scrubs (4x20:3D) My Boss’ Free Haircut
+- Scrubs (4x21:3D) My Lips are Sealed
+- Scrubs (4x22:4D) My Big Move
+- Scrubs (4x23:4D) My Faith in Humanity
+- Scrubs (4x24:4D) My Drive‑by
+- Scrubs (4x25:4D) My Changing Ways
+- Scrubs (5x01:1D) My Intern’s Eyes
+- Scrubs (5x02:1D) My Rite of Passage
+- Scrubs (5x03:1D) My Day at the Races
+- Scrubs (5x04:1D) My Jiggly Ball
+- Scrubs (5x05:1D) My New God
+- Scrubs (5x06:1D) My Missed Perception
+- Scrubs (5x07:1D) My Way Home
+- Scrubs (5x08:2D) My Big Bird
+- Scrubs (5x09:2D) My Half‑Acre
+- Scrubs (5x10:2D) Her Story II
+- Scrubs (5x11:2D) My Buddy’s Booty
+- Scrubs (5x12:2D) My Cabbage
+- Scrubs (5x13:2D) My Five Stages
+- Scrubs (5x14:2D) My Own Personal Hell
+- Scrubs (5x15:3D) My Extra Mile
+- Scrubs (5x16:3D) My Bright Idea
+- Scrubs (5x17:3D) My Chopped Liver
+- Scrubs (5x18:3D) My New Suit
+- Scrubs (5x19:3D) His Story III
+- Scrubs (5x20:3D) My Lunch
+- Scrubs (5x21:3D) My Fallen Idol
+- Scrubs (5x22:4D) My Déjà Vu, My Déjà Vu
+- Scrubs (5x23:4D) My Urologist
+- Scrubs (5x24:4D) My Transition
+- Scrubs (6x01:1D) My Mirror Image
+- Scrubs (6x02:1D) My Best Friend’s Baby’s Baby and My Baby’s Baby
+- Scrubs (6x03:1D) My Coffee
+- Scrubs (6x04:1D) My House
+- Scrubs (6x05:1D) My Friend With Money
+- Scrubs (6x06:1D) My Musical
+- Scrubs (6x07:1D) His Story IV
+- Scrubs (6x08:2D) My Road to Nowhere
+- Scrubs (6x09:2D) My Perspective
+- Scrubs (6x10:2D) My Therapeutic Month
+- Scrubs (6x11:2D) My Night to Remember
+- Scrubs (6x12:2D) My Fishbowl
+- Scrubs (6x13:2D) My Scrubs
+- Scrubs (6x14:2D) My No Good Reason
+- Scrubs (6x15:3D) My Long Goodbye
+- Scrubs (6x16:3D) My Words of Wisdom
+- Scrubs (6x17:3D) Their Story
+- Scrubs (6x18:3D) My Turf War
+- Scrubs (6x19:3D) My Cold Shower
+- Scrubs (6x20:3D) My Conventional Wisdom
+- Scrubs (6x21:3D) My Rabbit
+- Scrubs (6x22:4D) My Point of No Return
+- Scrubs (7x01:1D) My Own Worst Enemy
+- Scrubs (7x02:1D) My Hard Labor
+- Scrubs (7x03:1D) My Inconvenient Truth
+- Scrubs (7x04:1D) My Identity Crisis
+- Scrubs (7x05:1D) My Growing Pains
+- 'Scrubs (7x06:1D) My #⁠1 Doctor'
+- Scrubs (7x07:1D) My Bad Too
+- Scrubs (7x08:2D) My Manhood
+- Scrubs (7x09:2D) My Dumb Luck
+- Scrubs (7x10:2D) My Waste of Time
+- Scrubs (7x11:2D) My Princess
+- Scrubs (8x01:1D) My Jerks
+- Scrubs (8x02:1D) My Last Words
+- Scrubs (8x03:1D) My Saving Grace
+- Scrubs (8x04:1D) My Happy Place
+- Scrubs (8x05:1D) My ABC’s
+- Scrubs (8x06:1D) My Cookie Pants
+- Scrubs (8x07:1D) My New Role
+- Scrubs (8x08:2D) My Lawyer’s In Love
+- Scrubs (8x09:2D) My Absence
+- Scrubs (8x10:2D) My Comedy Show
+- Scrubs (8x11:2D) My Nah Nah Nah
+- Scrubs (8x12:2D) Their Story II
+- Scrubs (8x13:2D) My Full Moon
+- Scrubs (8x14\2:2D) My Soul On Fire
+- Scrubs (8x16:3D) My Cuz
+- Scrubs (8x17:3D) My Chief Concern
+- Scrubs (8x18\2:3D) My Finale
+- Shanghai (1:109F) Noon
+- Shanghai (2:110F) Knights
+- (129F) The Shawshank Redemption
+- (86F) Short Circuit
+- (1:177F) Shrek
+- Shrek (2:178F) Far Far Away
+- Shrek (4:236B) Forever After
+- Shrek (1:244B) Puss in Boots
+- 'Shrek: Puss in Boots (2:1D) The Last Wish'
+- The Simpsons - Circles (1x01:1S) Simpsons Roasting on an Open Fire
+- The Simpsons - Circles (1x02:1S) Bart the Genius
+- The Simpsons - Circles (1x03:1S) Homer’s Odyssey
+- The Simpsons - Circles (1x04:1S) There’s No Disgrace Like Home
+- The Simpsons - Circles (1x05:1S) Bart the General
+- The Simpsons - Circles (1x06:2S) Moaning Lisa
+- The Simpsons - Circles (1x07:2S) The Call of the Simpsons
+- The Simpsons - Circles (1x08:2S) The Telltale Head
+- The Simpsons - Circles (1x09:2S) Life on the Fast Lane
+- The Simpsons - Circles (1x10:2S) Homer’s Night Out
+- The Simpsons - Circles (1x11:3S) The Crepes of Wrath
+- The Simpsons - Circles (1x12:3S) Krusty Gets Busted
+- The Simpsons - Circles (1x13:3S) Some Enchanted Evening
+- The Simpsons - Capitated (2x01:1S) Bart Gets an F
+- The Simpsons - Capitated (2x02:1S) Simpson and Delilah
+- 'The Simpsons - Capitated (2x03a:1S) Halloween Special: Bad Dream House'
+- 'The Simpsons - Capitated (2x03b:1S) Halloween Special: Hungry are the Damned'
+- 'The Simpsons - Capitated (2x03c:1S) Halloween Special: The Raven'
+- The Simpsons - Capitated (2x04:1S) Two Cars in Every Garage and Three Eyes on Every Fish
+- The Simpsons - Capitated (2x05:1S) Dancin’ Homer
+- The Simpsons - Capitated (2x06:1S) Dead Putting Society
+- The Simpsons - Capitated (2x07:2S) Bart vs. Thanksgiving
+- The Simpsons - Capitated (2x08:2S) Bart the Daredevil
+- The Simpsons - Capitated (2x09:2S) Itchy &amp; Scratchy &amp; Marge
+- The Simpsons - Capitated (2x10:2S) Bart Gets Hit by a Car
+- The Simpsons - Capitated (2x11:2S) One Fish, Two Fish, Blowfish, Blue Fish
+- The Simpsons - Capitated (2x12:2S) The Way We Was
+- The Simpsons - Capitated (2x13:3S) Homer vs. Lisa and the 8th Commandment
+- The Simpsons - Capitated (2x14:3S) Principal Charming
+- The Simpsons - Capitated (2x15:3S) Oh Brother, Where Art Thou?
+- The Simpsons - Capitated (2x16:3S) Bart’s Dog Gets an F
+- The Simpsons - Capitated (2x17:3S) Old Money
+- The Simpsons - Capitated (2x18:3S) Brush with Greatness
+- The Simpsons - Capitated (2x19:4S) Lisa’s Substitute
+- The Simpsons - Capitated (2x20:4S) The War of the Simpsons
+- The Simpsons - Capitated (2x21:4S) Three Men and a Comic Book
+- The Simpsons - Capitated (2x22:4S) Blood Feud
+- The Simpsons - Cracked (3x01:1S) Stark Raving Dad
+- The Simpsons - Cracked (3x02:1S) Mr. Lisa Goes to Washington
+- The Simpsons - Cracked (3x03:1S) When Flanders Failed
+- The Simpsons - Cracked (3x04:1S) Bart the Murderer
+- The Simpsons - Cracked (3x05:1S) Homer Defined
+- The Simpsons - Cracked (3x06:1S) Like Father, Like Clown
+- 'The Simpsons - Cracked (3x07a:2S) The Halloween Special II: The Monkey’s Paw'
+- 'The Simpsons - Cracked (3x07b:2S) The Halloween Special II: The Bart Zone'
+- 'The Simpsons - Cracked (3x07c:2S) The Halloween Special II: If I Only Had a Brain'
+- The Simpsons - Cracked (3x08:2S) Lisa’s Pony
+- The Simpsons - Cracked (3x09:2S) Saturdays of Thunder
+- The Simpsons - Cracked (3x10:2S) Flaming Moe’s
+- The Simpsons - Cracked (3x11:2S) Burns Verkaufen der Kraftwerk
+- The Simpsons - Cracked (3x12:2S) I Married Marge
+- The Simpsons - Cracked (3x13:3S) Radio Bart
+- The Simpsons - Cracked (3x14:3S) Lisa the Greek
+- The Simpsons - Cracked (3x15:3S) Homer Alone
+- The Simpsons - Cracked (3x16:3S) Bart the Lover
+- The Simpsons - Cracked (3x17:3S) Homer at the Bat
+- The Simpsons - Cracked (3x18:3S) Separate Vocations
+- The Simpsons - Cracked (3x19:4S) Dog of Death
+- The Simpsons - Cracked (3x20:4S) Colonel Homer
+- The Simpsons - Cracked (3x21:4S) Black Widower
+- The Simpsons - Cracked (3x22:4S) The Otto Show
+- The Simpsons - Cracked (3x23:4S) Bart’s Friend Falls in Love
+- The Simpsons - Cracked (3x24:4S) Brother, Can You Spare Two Dimes?
+- The Simpsons - Celebrations (4x01:1S) Kamp Krusty
+- The Simpsons - Celebrations (4x02:1S) A Streetcar Named Marge
+- The Simpsons - Celebrations (4x03:1S) Homer the Heretic
+- The Simpsons - Celebrations (4x04:1S) Lisa the Beauty Queen
+- 'The Simpsons - Celebrations (4x05a:2S) Halloween Special III: Clown Without Pity'
+- 'The Simpsons - Celebrations (4x05b:2S) Halloween Special III: King Homer'
+- 'The Simpsons - Celebrations (4x05c:2S) Halloween Special III: Dial ’Z’ for Zombies'
+- 'The Simpsons - Celebrations (4x06:2S) Itchy &amp; Scratchy: The Movie'
+- The Simpsons - Celebrations (4x07:2S) Marge Gets a Job
+- The Simpsons - Celebrations (4x08:2S) New Kid on the Block
+- The Simpsons - Celebrations (4x09:2S) Mr. Plow
+- The Simpsons - Celebrations (4x10:2S) Lisa’s First Word
+- The Simpsons - Celebrations (4x11:3S) Homer’s Triple Bypass
+- The Simpsons - Celebrations (4x12:3S) Marge vs. the Monorail
+- The Simpsons - Celebrations (4x13:3S) Selma’s Choice
+- The Simpsons - Celebrations (4x14:3S) Brother From the Same Planet
+- The Simpsons - Celebrations (4x15:3S) I Love Lisa
+- The Simpsons - Celebrations (4x16:3S) Duffless
+- The Simpsons - Celebrations (4x17:4S) Last Exit to Springfield
+- 'The Simpsons - Celebrations (4x18:4S) So It’s Come to This: A Simpsons Clip Show'
+- The Simpsons - Celebrations (4x19:4S) The Front
+- The Simpsons - Celebrations (4x20:4S) Whacking Day
+- The Simpsons - Celebrations (4x21:4S) Marge in Chains
+- The Simpsons - Celebrations (4x22:4S) Krusty Gets Kancelled
+- The Simpsons - Concert (5x01:1S) Homer’s Barbershop Quartet
+- The Simpsons - Concert (5x02:1S) Cape Feare
+- The Simpsons - Concert (5x03:1S) Homer Goes to College
+- The Simpsons - Concert (5x04:1S) Rosebud
+- 'The Simpsons - Concert (5x05a:1S) The Halloween Special IV: The Devil and Homer Simpson'
+- 'The Simpsons - Concert (5x05b:1S) The Halloween Special IV: Terror at 5½ Feet'
+- 'The Simpsons - Concert (5x05c:1S) The Halloween Special IV: Bart Simpson’s Dracula'
+- The Simpsons - Concert (5x06:2S) Marge on the Lam
+- The Simpsons - Concert (5x07:2S) Bart’s Inner Child
+- The Simpsons - Concert (5x08:2S) Boy‑Scoutz ’n the Hood
+- The Simpsons - Concert (5x09:2S) The Last Temptation of Homer
+- The Simpsons - Concert (5x10:2S) $pringfield (or, How I Learned to Stop Worrying and Love Legalized Gambling)
+- The Simpsons - Concert (5x11:2S) Homer the Vigilante
+- The Simpsons - Concert (5x12:3S) Bart Gets Famous
+- The Simpsons - Concert (5x13:3S) Homer and Apu
+- The Simpsons - Concert (5x14:3S) Lisa vs. Malibu Stacy
+- The Simpsons - Concert (5x15:3S) Deep Space Homer
+- The Simpsons - Concert (5x16:3S) Homer Loves Flanders
+- The Simpsons - Concert (5x17:3S) Bart Gets an Elephant
+- The Simpsons - Concert (5x18:4S) Burns’ ⁠Heir
+- The Simpsons - Concert (5x19:4S) Sweet Seymour Skinner’s Baadasssss Song
+- The Simpsons - Concert (5x20:4S) The Boy Who Knew Too Much
+- The Simpsons - Concert (5x21:4S) Lady Bouvier’s Lover
+- The Simpsons - Concert (5x22:4S) Secrets of a Successful Marriage
+- The Simpsons - Criminals (6x01:1S) Bart of Darkness
+- The Simpsons - Criminals (6x02:1S) Lisa’s Rival
+- The Simpsons - Criminals (6x03:1S) Another Simpsons Clip Show
+- The Simpsons - Criminals (6x04:1S) Itchy &amp; Scratchy Land
+- The Simpsons - Criminals (6x05:1S) Sideshow Bob Roberts
+- 'The Simpsons - Criminals (6x06a:1S) Treehouse of Horror V: The Shinning'
+- 'The Simpsons - Criminals (6x06b:1S) Treehouse of Horror V: Time and Punishment'
+- 'The Simpsons - Criminals (6x06c:1S) Treehouse of Horror V: Nightmare Cafeteria'
+- The Simpsons - Criminals (6x07:1S) Bart’s Girlfriend
+- The Simpsons - Criminals (6x08:2S) Lisa on Ice
+- The Simpsons - Criminals (6x09:2S) Homer Badman
+- The Simpsons - Criminals (6x10:2S) Grampa vs. Sexual Inadequacy
+- The Simpsons - Criminals (6x11:2S) Fear of Flying
+- The Simpsons - Criminals (6x12:2S) Homer the Great
+- The Simpsons - Criminals (6x13:2S) And Maggie Makes Three
+- The Simpsons - Criminals (6x14:2S) Bart’s Comet
+- The Simpsons - Criminals (6x15:3S) Homie the Clown
+- The Simpsons - Criminals (6x16:3S) Bart vs. Australia
+- The Simpsons - Criminals (6x17:3S) Homer vs. Patty and Selma
+- The Simpsons - Criminals (6x18:3S) A Star Is Burns
+- The Simpsons - Criminals (6x19:3S) Lisa’s Wedding
+- The Simpsons - Criminals (6x20:3S) Two Dozen and One Greyhounds
+- The Simpsons - Criminals (6x21:3S) The PTA Disbands!
+- The Simpsons - Criminals (6x22:4S) Round Springfield
+- The Simpsons - Criminals (6x23:4S) The Springfield Connection
+- The Simpsons - Criminals (6x24:4S) Lemon of Troy
+- The Simpsons - Criminals (6x25\2:4S) Who Shot Mr. Burns?
+- The Simpsons - Cinema (7x02:1S) Radioactive Man
+- The Simpsons - Cinema (7x03:1S) Home Sweet Homediddly‑Dum‑Doodily
+- The Simpsons - Cinema (7x04:1S) Bart Sells His Soul
+- The Simpsons - Cinema (7x05:1S) Lisa the Vegetarian
+- 'The Simpsons - Cinema (7x06a:1S) Treehouse of Horror VI: Attack of the 50‑Foot Eyesores'
+- 'The Simpsons - Cinema (7x06b:1S) Treehouse of Horror VI: Nightmare on Evergreen Terrace'
+- 'The Simpsons - Cinema (7x06c:1S) Treehouse of Horror VI: Homer³'
+- The Simpsons - Cinema (7x07:2S) King‑Size Homer
+- The Simpsons - Cinema (7x08:2S) Mother Simpson
+- The Simpsons - Cinema (7x09:2S) Sideshow Bob’s Last Gleaming
+- The Simpsons - Cinema (7x10:2S) The Simpsons 138th Episode Spectacular
+- The Simpsons - Cinema (7x11:2S) Marge Be Not Proud
+- The Simpsons - Cinema (7x12:2S) Team Homer
+- The Simpsons - Cinema (7x13:2S) Two Bad Neighbors
+- The Simpsons - Cinema (7x14:3S) Scenes From the Class Struggle in Springfield
+- The Simpsons - Cinema (7x15:3S) Bart the Fink
+- The Simpsons - Cinema (7x16:3S) Lisa the Iconoclast
+- The Simpsons - Cinema (7x17:3S) Homer the Smithers
+- The Simpsons - Cinema (7x18:3S) The Day the Violence Died
+- The Simpsons - Cinema (7x19:3S) A Fish Called Selma
+- The Simpsons - Cinema (7x20:3S) Bart on the Road
+- The Simpsons - Cinema (7x21:4S) 22 Short Films About Springfield
+- 'The Simpsons - Cinema (7x22:4S) Raging Abe Simpson and His Grumbling Grandson in: “The Curse of the Flying Hellfish”'
+- The Simpsons - Cinema (7x23:4S) Much Apu About Nothing
+- The Simpsons - Cinema (7x24:4S) Homerpalooza
+- The Simpsons - Cinema (7x25:4S) Summer of 4 Ft. 2
+- 'The Simpsons - Camerashot (8x01a:1S) Treehouse of Horror VII: The Thing and I'
+- 'The Simpsons - Camerashot (8x01b:1S) Treehouse of Horror VII: The Genesis Tub'
+- 'The Simpsons - Camerashot (8x01c:1S) Treehouse of Horror VII: Citizen Kang'
+- The Simpsons - Camerashot (8x02:1S) You Only Move Twice
+- The Simpsons - Camerashot (8x03:1S) The Homer They Fall
+- The Simpsons - Camerashot (8x04:1S) Burns, Baby Burns
+- The Simpsons - Camerashot (8x05:1S) Bart After Dark
+- The Simpsons - Camerashot (8x06:1S) A Milhouse Divided
+- The Simpsons - Camerashot (8x07:2S) Lisa’s Date with Density
+- The Simpsons - Camerashot (8x08:2S) Hurricane Neddy
+- The Simpsons - Camerashot (8x09:2S) El Viaje Misterioso de Nuestro Jomer
+- The Simpsons - Camerashot (8x10:2S) The Springfield Files
+- The Simpsons - Camerashot (8x11:2S) The Twisted World of Marge Simpson
+- The Simpsons - Camerashot (8x12:2S) Mountain of Madness
+- The Simpsons - Camerashot (8x13:2S) Simpsoncalifragilisticexpiala-⁠D’oh‑cious
+- The Simpsons - Camerashot (8x14:3S) The Itchy &amp; Scratchy &amp; Poochie Show
+- The Simpsons - Camerashot (8x15:3S) Homer’s Phobia
+- The Simpsons - Camerashot (8x16:3S) Brother from Another Series
+- The Simpsons - Camerashot (8x17:3S) My Sister, My Sitter
+- The Simpsons - Camerashot (8x18:3S) Homer vs. the 18th Amendment
+- The Simpsons - Camerashot (8x19:3S) Grade School Confidential
+- The Simpsons - Camerashot (8x20:3S) The Canine Mutiny
+- The Simpsons - Camerashot (8x21:4S) The Old Man and the Lisa
+- The Simpsons - Camerashot (8x22:4S) In Marge We Trust
+- The Simpsons - Camerashot (8x23:4S) Homer’s Enemy
+- 'The Simpsons - Camerashot (8x24a:4S) The Simpsons Spin‑off Showcase: Chief Wiggum P.I.(G).'
+- 'The Simpsons - Camerashot (8x24b:4S) The Simpsons Spin‑off Showcase: The Love-Matic Grampa'
+- 'The Simpsons - Camerashot (8x24c:4S) The Simpsons Spin‑off Showcase: The Simpson Family Smile Time Variety Hour'
+- The Simpsons - Camerashot (8x25:4S) The Secret War of Lisa Simpson
+- The Simpsons - Crooners (9x01:1S) The City of New York vs. Homer Simpson
+- The Simpsons - Crooners (9x02:1S) The Principal and The Pauper
+- The Simpsons - Crooners (9x03:1S) Lisa’s Sax
+- 'The Simpsons - Crooners (9x04a:1S) Treehouse of Horror VIII: HΩmega Man'
+- 'The Simpsons - Crooners (9x04b:1S) Treehouse of Horror VIII: Fly vs. Fly'
+- 'The Simpsons - Crooners (9x04c:1S) Treehouse of Horror VIII: Easy‑Bake Coven'
+- The Simpsons - Crooners (9x05:1S) The Cartridge Family
+- The Simpsons - Crooners (9x06:1S) Bart Star
+- The Simpsons - Crooners (9x07:2S) The Two Mrs. Nahasapeemapetilons
+- The Simpsons - Crooners (9x08:2S) Lisa the Skeptic
+- The Simpsons - Crooners (9x09:2S) Realty Bites
+- The Simpsons - Crooners (9x10:2S) Miracle on Evergreen Terrace
+- The Simpsons - Crooners (9x11:2S) All Singing, All Dancing
+- The Simpsons - Crooners (9x12:2S) Bart Carny
+- The Simpsons - Crooners (9x13:2S) The Joy of Sect
+- The Simpsons - Crooners (9x14:3S) Das Bus
+- The Simpsons - Crooners (9x15:3S) The Last Temptation of Krust
+- The Simpsons - Crooners (9x16:3S) Dumbbell Indemnity
+- The Simpsons - Crooners (9x17:3S) Lisa the Simpson
+- The Simpsons - Crooners (9x18:3S) This Little Wiggy
+- The Simpsons - Crooners (9x19:3S) Simpson Tide
+- The Simpsons - Crooners (9x20:3S) The Trouble with Trillions
+- The Simpsons - Crooners (9x21:4S) Girly Edition
+- The Simpsons - Crooners (9x22:4S) Trash of the Titans
+- The Simpsons - Crooners (9x23:4S) King of the Hill
+- The Simpsons - Crooners (9x24:4S) Lost Our Lisa
+- The Simpsons - Crooners (9x25:4S) Natural Born Kissers
+- The Simpsons - Colourless (10x01:1S) Lard of the Dance
+- The Simpsons - Colourless (10x02:1S) The Wizard of Evergreen Terrace
+- The Simpsons - Colourless (10x03:1S) Bart the Mother
+- 'The Simpsons - Colourless (10x04a:1S) Treehouse of Horror IX: Hell Toupée'
+- 'The Simpsons - Colourless (10x04b:1S) Treehouse of Horror IX: The Terror of Tiny Toon'
+- 'The Simpsons - Colourless (10x04c:1S) Treehouse of Horror IX: Starship Poopers'
+- The Simpsons - Colourless (10x05:1S) When You Dish Upon a Star
+- The Simpsons - Colourless (10x06:1S) D’oh‑in’ in the Wind
+- The Simpsons - Colourless (10x07:2S) Lisa Gets an “A”
+- The Simpsons - Colourless (10x08:2S) Homer Simpson in “⁠Kidney Trouble”
+- The Simpsons - Colourless (10x09:2S) Mayored to the Mob
+- The Simpsons - Colourless (10x10:2S) Viva Ned Flanders
+- The Simpsons - Colourless (10x11:2S) Wild Barts Can’t Be Broken
+- The Simpsons - Colourless (10x12:2S) Sunday, Cruddy Sunday
+- The Simpsons - Colourless (10x13:3S) Homer to the Max
+- The Simpsons - Colourless (10x14:3S) I’m With Cupid
+- The Simpsons - Colourless (10x15:3S) Marge Simpson in “⁠Screaming Yellow Honkers”
+- The Simpsons - Colourless (10x16:3S) Make Room for Lisa
+- The Simpsons - Colourless (10x17:3S) Maximum Homerdrive
+- 'The Simpsons - Colourless (10x18a:3S) Simpsons Bible Stories: Adam and Eve'
+- 'The Simpsons - Colourless (10x18b:3S) Simpsons Bible Stories: Moses and Aaron'
+- 'The Simpsons - Colourless (10x18c:3S) Simpsons Bible Stories: King Solomon'
+- 'The Simpsons - Colourless (10x18d:3S) Simpsons Bible Stories: David and Goliath'
+- The Simpsons - Colourless (10x19:4S) Mom and Pop Art
+- The Simpsons - Colourless (10x20:4S) The Old Man and The “C” Student
+- The Simpsons - Colourless (10x21:4S) Monty Can’t Buy Me Love
+- The Simpsons - Colourless (10x22:4S) They Saved Lisa’s Brain
+- The Simpsons - Colourless (10x23:4S) Thirty Minutes Over Tokyo
+- The Simpsons - Carnival (11x01:1S) Beyond Blunderdome
+- The Simpsons - Carnival (11x02:1S) Brother’s Little Helper
+- The Simpsons - Carnival (11x03:1S) Guess Who’s Coming to Criticize Dinner
+- 'The Simpsons - Carnival (11x04a:1S) Treehouse of Horror X: I Know What You Diddily‑Iddily‑Did'
+- 'The Simpsons - Carnival (11x04b:1S) Treehouse of Horror X: Desperately Xeeking Xena'
+- 'The Simpsons - Carnival (11x04c:1S) Treehouse of Horror X: Life’s a Glitch, Then You Die'
+- The Simpsons - Carnival (11x05:1S) E‑I‑E‑I‑D’oh
+- The Simpsons - Carnival (11x06:2S) Hello Gutter, Hello Fadder
+- The Simpsons - Carnival (11x07:2S) Eight Misbehavin’
+- The Simpsons - Carnival (11x08:2S) Take My Wife, Sleaze
+- The Simpsons - Carnival (11x09:2S) Grift of the Magi
+- The Simpsons - Carnival (11x10:2S) Little Big Mom
+- The Simpsons - Carnival (11x11:2S) Faith Off
+- The Simpsons - Carnival (11x12:3S) The Mansion Family
+- The Simpsons - Carnival (11x13:3S) Saddlesore Galactica
+- The Simpsons - Carnival (11x14:3S) Alone Again, Natura‑Diddily
+- 'The Simpsons - Carnival (11x15:3S) Missionary: Impossible'
+- The Simpsons - Carnival (11x16:3S) Pygmoelian
+- The Simpsons - Carnival (11x17:3S) Bart to the Future
+- The Simpsons - Carnival (11x18:4S) Days of Wine and D’oh’ses
+- The Simpsons - Carnival (11x19:4S) Kill the Alligator and Run
+- The Simpsons - Carnival (11x20:4S) Last Tap Dance in Springfield
+- The Simpsons - Carnival (11x21:4S) It’s A Mad, Mad, Mad, Mad Marge
+- The Simpsons - Carnival (11x22:4S) Behind the Laughter
+- 'The Simpsons - Comics (12x01a:1S) Treehouse of Horror XI: G‑G‑Ghost D‑D‑Dad'
+- 'The Simpsons - Comics (12x01b:1S) Treehouse of Horror XI: Scary Tales Can Come True'
+- 'The Simpsons - Comics (12x01c:1S) Treehouse of Horror XI: Night of the Dolphin'
+- The Simpsons - Comics (12x02:1S) A Tale of Two Springfields
+- The Simpsons - Comics (12x03:1S) Insane Clown Poppy
+- The Simpsons - Comics (12x04:1S) Lisa the Tree Hugger
+- The Simpsons - Comics (12x05:1S) Homer vs. Dignity
+- The Simpsons - Comics (12x06:2S) The Computer Wore Menace Shoes
+- The Simpsons - Comics (12x07:2S) The Great Money Caper
+- The Simpsons - Comics (12x08:2S) Skinner’s Sense of Snow
+- The Simpsons - Comics (12x09:2S) HOMЯ
+- The Simpsons - Comics (12x10:2S) Pokey Mom
+- The Simpsons - Comics (12x11:2S) Worst Episode Ever
+- The Simpsons - Comics (12x12:3S) Tennis the Menace
+- The Simpsons - Comics (12x13:3S) Day of the Jackanapes
+- The Simpsons - Comics (12x14:3S) New Kids on the Blecch
+- The Simpsons - Comics (12x15:3S) Hungry, Hungry Homer
+- The Simpsons - Comics (12x16:3S) Bye, Bye, Nerdie
+- The Simpsons - Comics (12x17:3S) Simpson Safari
+- The Simpsons - Comics (12x18:4S) Trilogy of Error
+- The Simpsons - Comics (12x19:4S) I’m Goin’ to Praiseland
+- The Simpsons - Comics (12x20:4S) Children of a Lesser Clod
+- 'The Simpsons - Comics (12x21a:4S) Simpsons Tall Tales: Paul Bunyan'
+- 'The Simpsons - Comics (12x21b:4S) Simpsons Tall Tales: Connie Appleseed'
+- 'The Simpsons - Comics (12x21c:4S) Simpsons Tall Tales: Tom and Huck'
+- 'The Simpsons - Computergame (13x01a:1S) Treehouse of Horror XII: Hex and the City'
+- 'The Simpsons - Computergame (13x01b:1S) Treehouse of Horror XII: House of Whacks'
+- 'The Simpsons - Computergame (13x01c:1S) Treehouse of Horror XII: Wiz Kids'
+- The Simpsons - Computergame (13x02:1S) The Parent Rap
+- The Simpsons - Computergame (13x03:1S) Homer the Moe
+- The Simpsons - Computergame (13x04:1S) A Hunka Hunka Burns in Love
+- The Simpsons - Computergame (13x05:1S) The Blunder Years
+- The Simpsons - Computergame (13x06:2S) She of Little Faith
+- The Simpsons - Computergame (13x07:2S) Brawl in the Family
+- The Simpsons - Computergame (13x08:2S) Sweets and Sour Marge
+- The Simpsons - Computergame (13x09:2S) Jaws Wired Shut
+- The Simpsons - Computergame (13x10:2S) Half‑Decent Proposal
+- The Simpsons - Computergame (13x11:2S) The Bart Wants What It Wants
+- The Simpsons - Computergame (13x12:3S) The Lastest Gun in the West
+- The Simpsons - Computergame (13x13:3S) The Old Man and the Key
+- 'The Simpsons - Computergame (13x14a:3S) Tales From the Public Domain: D’oh, Brother Where Art Thou?'
+- 'The Simpsons - Computergame (13x14b:3S) Tales From the Public Domain: Hot Child in the City'
+- 'The Simpsons - Computergame (13x14c:3S) Tales From the Public Domain: Do the Bard, Man'
+- The Simpsons - Computergame (13x15:3S) Blame it on Lisa
+- The Simpsons - Computergame (13x16:3S) Weekend at Burnsie’s
+- The Simpsons - Computergame (13x17:3S) Gump Roast
+- The Simpsons - Computergame (13x18:4S) I Am Furious (Yellow)
+- The Simpsons - Computergame (13x19:4S) The Sweetest Apu
+- The Simpsons - Computergame (13x20:4S) Little Girl in the Big Ten
+- The Simpsons - Computergame (13x21:4S) The Frying Game
+- The Simpsons - Computergame (13x22:4S) Poppa’s Got a Brand New Badge
+- 'The Simpsons - Creepy (14x01a:1S) Treehouse of Horror XIII: Send in the Clones'
+- 'The Simpsons - Creepy (14x01b:1S) Treehouse of Horror XIII: The Fright to Creep and Scare Harms'
+- 'The Simpsons - Creepy (14x01c:1S) Treehouse of Horror XIII: The Island of Dr. Hibbert'
+- The Simpsons - Creepy (14x02:1S) How I Spent My Strummer Vacation
+- The Simpsons - Creepy (14x03:1S) Bart vs. Lisa vs. The Third Grade
+- The Simpsons - Creepy (14x04:1S) Large Marge
+- The Simpsons - Creepy (14x05:1S) Helter Shelter
+- The Simpsons - Creepy (14x06:2S) The Great Louse Detective
+- The Simpsons - Creepy (14x07:2S) Special Edna
+- The Simpsons - Creepy (14x08:2S) The Dad Who Knew Too Little
+- The Simpsons - Creepy (14x09:2S) The Strong Arms of the Ma
+- The Simpsons - Creepy (14x10:2S) Pray Anything
+- The Simpsons - Creepy (14x11:2S) Barting Over
+- The Simpsons - Creepy (14x12:2S) I’m Spelling As Fast As I Can
+- The Simpsons - Creepy (14x13:3S) A Star Is Born‑Again
+- The Simpsons - Creepy (14x14:3S) Mr. Spritz Goes to Washington
+- The Simpsons - Creepy (14x15:3S) C.E.D’oh
+- The Simpsons - Creepy (14x16:3S) ’⁠Scuse Me While I Miss the Sky
+- The Simpsons - Creepy (14x17:3S) Three Gays of the Condo
+- The Simpsons - Creepy (14x18:4S) Dude, Where’s My Ranch?
+- The Simpsons - Creepy (14x19:4S) Old Yeller Belly
+- The Simpsons - Creepy (14x20:4S) Brake My Wife, Please
+- The Simpsons - Creepy (14x21:4S) The Bart of War
+- The Simpsons - Creepy (14x22:4S) Moe Baby Blues
+- 'The Simpsons - Cautions (15x01a:1S) Treehouse of Horror XIV: Reaper Madness'
+- 'The Simpsons - Cautions (15x01b:1S) Treehouse of Horror XIV: Frinkenstein'
+- 'The Simpsons - Cautions (15x01c:1S) Treehouse of Horror XIV: Stop the World, I Want to Goof Off'
+- The Simpsons - Cautions (15x02:1S) My Mother the Carjacker
+- The Simpsons - Cautions (15x03:1S) The President Wore Pearls
+- The Simpsons - Cautions (15x04:1S) The Regina Monologues
+- The Simpsons - Cautions (15x05:1S) The Fat and the Furriest
+- The Simpsons - Cautions (15x06:2S) Today I am a Clown
+- The Simpsons - Cautions (15x07:2S) ’⁠Tis the Fifteenth Season
+- The Simpsons - Cautions (15x08:2S) Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays
+- The Simpsons - Cautions (15x09:2S) I, D’oh‑Bot
+- The Simpsons - Cautions (15x10:2S) Diatribe of a Mad Housewife
+- 'The Simpsons - Cautions (15x11a:2S) Margical History Tour: Henry VIII'
+- 'The Simpsons - Cautions (15x11b:2S) Margical History Tour: Lewis and Clark and Sacagawea'
+- 'The Simpsons - Cautions (15x11c:2S) Margical History Tour: Mozart and Salieri'
+- The Simpsons - Cautions (15x12:3S) Milhouse Doesn’t Live Here Anymore
+- The Simpsons - Cautions (15x13:3S) Smart &amp; Smarter
+- The Simpsons - Cautions (15x14:3S) The Ziff Who Came to Dinner
+- The Simpsons - Cautions (15x15:3S) Co‑Dependent’s Day
+- The Simpsons - Cautions (15x16:3S) The Wandering Juvie
+- The Simpsons - Cautions (15x17:3S) My Big Fat Geek Wedding
+- The Simpsons - Cautions (15x18:4S) Catch ’Em If You Can
+- The Simpsons - Cautions (15x19:4S) Simple Simpson
+- The Simpsons - Cautions (15x20:4S) The Way We Weren’t
+- The Simpsons - Cautions (15x21:4S) Bart Mangled Banner
+- The Simpsons - Cautions (15x22:4S) Fraudcast News
+- 'The Simpsons - Creatures (16x01a:1S) Treehouse of Horror XV: The Ned Zone'
+- 'The Simpsons - Creatures (16x01b:1S) Treehouse of Horror XV: Four Beheadings and a Funeral'
+- 'The Simpsons - Creatures (16x01c:1S) Treehouse of Horror XV: In the Belly of the Boss'
+- The Simpsons - Creatures (16x02:1S) All’s Fair in Oven War
+- The Simpsons - Creatures (16x03:1S) Sleeping With the Enemy
+- The Simpsons - Creatures (16x04:1S) She Used to Be My Girl
+- The Simpsons - Creatures (16x05:1S) Fat Man and Little Boy
+- The Simpsons - Creatures (16x06:1S) Midnight Rx
+- The Simpsons - Creatures (16x07:2S) Mommie Beerest
+- The Simpsons - Creatures (16x08:2S) Homer and Ned’s Hail Mary Pass
+- The Simpsons - Creatures (16x09:2S) Pranksta Rap
+- The Simpsons - Creatures (16x10:2S) There’s Something About Marrying
+- The Simpsons - Creatures (16x11:2S) On a Clear Day I Can’t See My Sister
+- The Simpsons - Creatures (16x12:3S) Goo Goo Gai Pan
+- The Simpsons - Creatures (16x13:3S) Mobile Homer
+- The Simpsons - Creatures (16x14:3S) The Seven‑Beer Snitch
+- The Simpsons - Creatures (16x15:3S) Future‑Drama
+- The Simpsons - Creatures (16x16:3S) Don’t Fear the Roofer
+- The Simpsons - Creatures (16x17:3S) The Heartbroke Kid
+- The Simpsons - Creatures (16x18:4S) A Star is Torn
+- The Simpsons - Creatures (16x19:4S) Thank God it’s Doomsday
+- The Simpsons - Creatures (16x20:4S) Home Away From Homer
+- The Simpsons - Creatures (16x21:4S) Father, Son and the Holy Guest Star
+- The Simpsons - Costumes (17x01:1S) Bonfire of the Manatees
+- The Simpsons - Costumes (17x02:1S) The Girl Who Slept Too Little
+- The Simpsons - Costumes (17x03:1S) Millhouse Of Sand And Fog
+- 'The Simpsons - Costumes (17x04a:1S) Treehouse of Horror XVI: B.I. Bartificial Intelligence'
+- 'The Simpsons - Costumes (17x04b:1S) Treehouse of Horror XVI: Survival of the Fattest'
+- 'The Simpsons - Costumes (17x04c:1S) Treehouse of Horror XVI: I’ve Grown a Costume on Your Face'
+- The Simpsons - Costumes (17x05:1S) Marge’s Son Poisoning
+- The Simpsons - Costumes (17x06:1S) See Homer Run
+- The Simpsons - Costumes (17x07:1S) The Last of the Red Hat Mamas
+- The Simpsons - Costumes (17x08:2S) The Italian Bob
+- 'The Simpsons - Costumes (17x09a:2S) Simpsons Christmas Stories: The First D’oh-El'
+- 'The Simpsons - Costumes (17x09b:2S) Simpsons Christmas Stories: I Saw Grampa Cussing Santa Claus'
+- 'The Simpsons - Costumes (17x09c:2S) Simpsons Christmas Stories: The Nutcracker… Sweeeeet'
+- The Simpsons - Costumes (17x10:2S) Homer’s Paternity Coot
+- The Simpsons - Costumes (17x11:2S) We’re on the Road to D’oh‑where
+- The Simpsons - Costumes (17x12:2S) My Fair Laddy
+- The Simpsons - Costumes (17x13:2S) The Seemingly Never‑Ending Story
+- The Simpsons - Costumes (17x14:2S) Bart Has Two Mommies
+- The Simpsons - Costumes (17x15:3S) Homer Simpson, This is Your Wife
+- The Simpsons - Costumes (17x16:3S) Million Dollar Abie
+- The Simpsons - Costumes (17x17:3S) Kiss Kiss Bang Bangalore
+- 'The Simpsons - Costumes (17x18a:3S) The Wettest Stories Ever Told: Mayflower Madman'
+- 'The Simpsons - Costumes (17x18b:3S) The Wettest Stories Ever Told: The Whine-Bar Sea'
+- 'The Simpsons - Costumes (17x18c:3S) The Wettest Stories Ever Told: The Neptune Adventure'
+- The Simpsons - Costumes (17x19:3S) Girls Just Want to Have Sums
+- The Simpsons - Costumes (17x20:3S) Regarding Margie
+- The Simpsons - Costumes (17x21:3S) The Monkey Suit
+- The Simpsons - Costumes (17x22:3S) Marge and Homer Turn a Couple Play
+- The Simpsons - Cathode (18x01:1S) The Mook, the Chef, the Wife and Her Homer
+- The Simpsons - Cathode (18x02:1S) Jazzy and the Pussycats
+- The Simpsons - Cathode (18x03:1S) Please Homer, Don’t Hammer ’em
+- 'The Simpsons - Cathode (18x04a:1S) Treehouse of Horror XVII: Married to the Blob'
+- 'The Simpsons - Cathode (18x04b:1S) Treehouse of Horror XVII: You Gotta Know When to Golem'
+- 'The Simpsons - Cathode (18x04c:1S) Treehouse of Horror XVII: The Day the Earth Looked Stupid'
+- The Simpsons - Cathode (18x05:1S) GI (Annoyed Grunt)
+- The Simpsons - Cathode (18x06:1S) Moe’N’a Lisa
+- The Simpsons - Cathode (18x07:2S) Ice Cream of Margie (With the Light Blue Hair)
+- The Simpsons - Cathode (18x08:2S) The Haw‑Hawed Couple
+- The Simpsons - Cathode (18x09:2S) Kill Gil (Parts I &amp; II)
+- The Simpsons - Cathode (18x10:2S) The Wife Aquatic
+- 'The Simpsons - Cathode (18x11a:2S) Revenge is a Dish Best Served Three Times: The Count of Monte Fatso'
+- 'The Simpsons - Cathode (18x11b:2S) Revenge is a Dish Best Served Three Times: Revenge of the Geeks'
+- 'The Simpsons - Cathode (18x11c:2S) Revenge is a Dish Best Served Three Times: Bartman Begins'
+- The Simpsons - Cathode (18x12:3S) Little Big Girl
+- The Simpsons - Cathode (18x13:3S) Springfield Up
+- The Simpsons - Cathode (18x14:3S) Yokel Chords
+- The Simpsons - Cathode (18x15:3S) Rome‑old and Juli‑eh
+- The Simpsons - Cathode (18x16:3S) Homerazzi
+- The Simpsons - Cathode (18x17:3S) Marge Gamer
+- The Simpsons - Cathode (18x18:4S) The Boys of Bummer
+- The Simpsons - Cathode (18x19:4S) Crook and Ladder
+- The Simpsons - Cathode (18x20:4S) Stop or My Dog Will Shoot
+- The Simpsons - Cathode (18x21:4S) 24 Minutes
+- The Simpsons - Cathode (18x22:4S) You Kent Always Say What You Want
+- The Simpsons (19:S) The Simpsons Movie
+- The Simpsons - Crayon (19x01:1S) He Loves to Fly and He D’ohs
+- The Simpsons - Crayon (19x02:1S) Homer of Seville
+- The Simpsons - Crayon (19x03:1S) Midnight Towboy
+- The Simpsons - Crayon (19x04:1S) I Don’t Wanna Know Why the Caged Bird Sings
+- 'The Simpsons - Crayon (19x05a:1S) Treehouse of Horror XVIII: E.T., Go Home'
+- 'The Simpsons - Crayon (19x05b:1S) Treehouse of Horror XVIII: Mr. &amp; Mrs. Simpson'
+- 'The Simpsons - Crayon (19x05c:1S) Treehouse of Horror XVIII: Heck House'
+- The Simpsons - Crayon (19x06:2S) Little Orphan Millie
+- The Simpsons - Crayon (19x07:2S) Husbands and Knives
+- The Simpsons - Crayon (19x08:2S) Funeral for a Fiend
+- The Simpsons - Crayon (19x09:2S) Eternal Moonshine of the Simpson Mind
+- The Simpsons - Crayon (19x10:2S) E Pluribus Wiggum
+- The Simpsons - Crayon (19x11:3S) That 90’s Show
+- 'The Simpsons - Crayon (19x12a:3S) Love, Springfieldian Style: Bonnie and Clyde'
+- 'The Simpsons - Crayon (19x12b:3S) Love, Springfieldian Style: Shady and the Vamp'
+- 'The Simpsons - Crayon (19x12c:3S) Love, Springfieldian Style: Sid and Nancy'
+- The Simpsons - Crayon (19x13:3S) The Debarted
+- The Simpsons - Crayon (19x14:3S) Dial ’N’ for Nerder
+- The Simpsons - Crayon (19x15:3S) Smoke on the Daughter
+- The Simpsons - Crayon (19x16:4S) Papa Don’t Leech
+- The Simpsons - Crayon (19x17:4S) Apocalypse Cow
+- The Simpsons - Crayon (19x18:4S) Any Given Sundance
+- The Simpsons - Crayon (19x19:4S) Mona Leaves‑a
+- The Simpsons - Crayon (19x20:4S) All About Lisa
+- The Simpsons - Combustions (20x01:1S) Sex, Pies and Idiot Scrapes
+- The Simpsons - Combustions (20x02:1S) Lost Verizon
+- The Simpsons - Combustions (20x03:1S) Double, Double, Boy in Trouble
+- 'The Simpsons - Combustions (20x04a:1S) Treehouse of Horror XIX: Untitled Robot Parody'
+- 'The Simpsons - Combustions (20x04b:1S) Treehouse of Horror XIX: How to Get Ahead in Dead‑vertising'
+- 'The Simpsons - Combustions (20x04c:1S) Treehouse of Horror XIX: It’s the Grand Pumpkin, Milhouse'
+- The Simpsons - Combustions (20x05:1S) Dangerous Curves
+- The Simpsons - Combustions (20x06:1S) Homer and Lisa Exchange Cross Words
+- The Simpsons - Combustions (20x07:2S) Mypods and Boomsticks
+- The Simpsons - Combustions (20x08:2S) The Burns and the Bees
+- The Simpsons - Combustions (20x09:2S) Lisa the Drama Queen
+- The Simpsons - Combustions (20x10:2S) Take My Life, Please
+- The Simpsons - Combustions (20x11:2S) How the Test Was Won
+- The Simpsons - Combustions (20x12:3S) No Loan Again, Naturally
+- The Simpsons - Combustions (20x13:3S) Gone Maggie Gone
+- The Simpsons - Combustions (20x14:3S) In the Name of the Grandfather
+- The Simpsons - Combustions (20x15:3S) Wedding for Disaster
+- The Simpsons - Combustions (20x16:3S) Eeny Teeny Maya, Moe
+- The Simpsons - Combustions (20x17:4S) The Good, the Sad and the Drugly
+- The Simpsons - Combustions (20x18:4S) Father Knows Worst
+- The Simpsons - Combustions (20x19:4S) Waverly Hills 9‑0‑2‑1‑D’oh
+- 'The Simpsons - Combustions (20x20a:4S) Four Great Women and a Manicure: Queen Elizabeth'
+- 'The Simpsons - Combustions (20x20b:4S) Four Great Women and a Manicure: Snow White'
+- 'The Simpsons - Combustions (20x20c:4S) Four Great Women and a Manicure: Lady Macbeth'
+- 'The Simpsons - Combustions (20x20d:4S) Four Great Women and a Manicure: Maggie Roark'
+- The Simpsons - Combustions (20x21:4S) Coming to Homerica
+- (59F) Singin’ in the Rain
+- (15F) Sister Act
+- Sister Act (16F) Back in the Habit
+- (C) The Sketch Show
+- (1x01:111B) Sliders
+- Sliders (1x02:112B) Summer of Love
+- Sliders (1x03:112B) The Prince of Wails
+- Sliders (1x04:111B) Fever
+- Sliders (1x05:111B) Last Days
+- Sliders (1x06:112B) The Weaker Sex
+- Sliders (1x07:112B) Eggheads
+- Sliders (1x08:113B) The King is Back
+- Sliders (1x09:113B) Luck of the Draw
+- Sliders (2x01:113B) Into the Mystic
+- Sliders (2x02:114B) Time Again and World
+- Sliders (2x03:114B) El Sid
+- Sliders (2x04:113B) Love Gods
+- Sliders (2x05:116B) As Time Goes By
+- Sliders (2x06:114B) The Good, the Bad and the Wealthy
+- Sliders (2x07:114B) Gillian of the Spirits
+- Sliders (2x08:115B) Obsession
+- Sliders (2x09:116B) Invasion
+- Sliders (2x10:115B) Post‑Traumatic Slide Syndrome
+- Sliders (2x11:115B) In Dino Veritas
+- Sliders (2x12:115B) Greatfellas
+- Sliders (2x13:116B) The Young and the Relentless
+- Sliders (3x01:117B) Rules of the Game
+- Sliders (3x02:117B) Double Cross
+- Sliders (3x03:117B) Electric Twister Acid Test
+- Sliders (3x04:117B) The Guardian
+- Sliders (3x05:118B) The Dream Masters
+- Sliders (3x06:118B) Desert Storm
+- Sliders (3x07:118B) Dragon Slide
+- Sliders (3x08:118B) The Fire Within
+- Sliders (3x09:119B) The Prince of Slides
+- Sliders (3x10:119B) Dead Man Sliding
+- Sliders (3x11:119B) State of the A.R.T.
+- Sliders (3x12:119B) Season’s Greedings
+- Sliders (3x13:120B) Murder Most Foul
+- Sliders (3x14:120B) Slide Like an Egyptian
+- Sliders (3x15:120B) Paradise Lost
+- Sliders (3x16\2:120B) The Exodus
+- Sliders (3x18:121B) Sole Survivors
+- Sliders (3x19:121B) The Breeder
+- Sliders (3x20:121B) The Last of Eden
+- Sliders (3x21:121B) The Other Slide of Darkness
+- Sliders (3x22:122B) Slither
+- Sliders (3x23:122B) Dinoslide
+- Sliders (3x24:122B) Stoker
+- Sliders (3x25:122B) This Slide of Paradise
+- Sliders (4x01:123B) Genesis
+- Sliders (4x02:123B) Prophets and Loss
+- Sliders (4x03:123B) Common Ground
+- Sliders (4x04:123B) Virtual Slide
+- Sliders (4x05:124B) World Killer
+- Sliders (4x06:124B) Oh Brother, Where Art Thou?
+- Sliders (4x07:124B) Just Say Yes
+- Sliders (4x08:124B) The Alternateville Horror
+- Sliders (4x09:125B) Slidecage
+- Sliders (4x10:125B) Asylum
+- Sliders (4x11:125B) California Reich
+- Sliders (4x12:125B) The Dying Fields
+- Sliders (4x13:126B) Lipchitz Live!
+- Sliders (4x14:126B) Mother and Child
+- Sliders (4x15:126B) Net Worth
+- Sliders (4x16:126B) Slide by Wire
+- Sliders (4x17:126B) Data World
+- Sliders (4x18:127B) Way Out West
+- Sliders (4x19:127B) My Brother’s Keeper
+- Sliders (4x20:127B) The Chasm
+- Sliders (4x21:127B) Roads Taken
+- Sliders (4x22:127B) Revelations
+- Sliders (5x01:128B) The Unstuck Man
+- Sliders (5x02:128B) Applied Physics
+- Sliders (5x03:128B) Strangers and Comrades
+- Sliders (5x04:128B) The Great Work
+- Sliders (5x05:129B) New Gods for Old
+- Sliders (5x06:129B) Please Press One
+- Sliders (5x07:129B) A Current Affair
+- Sliders (5x08:129B) Java Jive
+- Sliders (5x09:130B) The Return of Maggie Beckett
+- Sliders (5x10:130B) Easy Slider
+- Sliders (5x11:130B) Requiem
+- Sliders (5x12:130B) Map of the Mind
+- Sliders (5x13:131B) A Thousand Deaths
+- Sliders (5x14:131B) Heavy Metal
+- Sliders (5x15:131B) To Catch a Slider
+- Sliders (5x16:132B) Dust
+- Sliders (5x17:132B) Eye of the Storm
+- Sliders (5x18:132B) The Seer
+- (132F) Sliding Doors
+- (265B) Sorry to Bother You
+- (689B) The Sound of Music
+- (274B) Spaceballs
+- Special Unit 2 (1x01:233B) The Brothers
+- Special Unit 2 (1x02:233B) The Pack
+- Special Unit 2 (1x03:233B) The Wraps
+- Special Unit 2 (1x04:233B) The Web
+- Special Unit 2 (1x05:233B) The Waste
+- Special Unit 2 (1x06:233B) The Depths
+- Special Unit 2 (2x01:234B) The Grain
+- Special Unit 2 (2x02:234B) The Skin
+- Special Unit 2 (2x03:234B) The Years
+- Special Unit 2 (2x04:234B) The Invisible
+- Special Unit 2 (2x05:234B) The Eve
+- Special Unit 2 (2x06:234B) The Rocks
+- Special Unit 2 (2x07:235B) The Drag
+- Special Unit 2 (2x08:235B) The Beast
+- Special Unit 2 (2x09:235B) The Wall
+- Special Unit 2 (2x10:235B) The Straw
+- Special Unit 2 (2x11:235B) The Love
+- Special Unit 2 (2x12:235B) The Piper
+- Special Unit 2 (2x13:235B) The Wish
+- Spellbinder - Riana’s World (1:1C) The Big Bang
+- Spellbinder - Riana’s World (2:1C) Where am I?
+- Spellbinder - Riana’s World (3:1C) Finding the Way Home
+- Spellbinder - Riana’s World (4:1C) It isn’t Magic, it’s Science
+- Spellbinder - Riana’s World (5:1C) Secrets
+- Spellbinder - Riana’s World (6:1C) Show Me Your World
+- Spellbinder - Riana’s World (7:2C) The Gunpowder Plot
+- Spellbinder - Riana’s World (8:2C) Secrets of the Spellbinders
+- Spellbinder - Riana’s World (9:2C) The Labyrinth
+- Spellbinder - Riana’s World (10:2C) Desperate Measures
+- Spellbinder - Riana’s World (11:2C) The Centre of Power
+- Spellbinder - Riana’s World (12:2C) Spellbinder Jack
+- Spellbinder - Riana’s World (13:2C) The Final Challenge
+- Spellbinder - Paul’s World (14:3C) Lost and Found
+- Spellbinder - Paul’s World (15:3C) Hospitality
+- Spellbinder - Paul’s World (16:3C) Breakout
+- Spellbinder - Paul’s World (17:3C) The Trojan Toffee Trolley
+- Spellbinder - Paul’s World (18:3C) Run!
+- Spellbinder - Paul’s World (19:3C) Reunions
+- Spellbinder - Paul’s World (20:4C) Alien Invasion
+- Spellbinder - Paul’s World (21:4C) The Hunt for Ashka
+- Spellbinder - Paul’s World (22:4C) Clowning Around
+- Spellbinder - Paul’s World (23:4C) The High‑Tech Power Suit
+- Spellbinder - Paul’s World (24:4C) A Spellbinder in the House
+- Spellbinder - Paul’s World (25:4C) Breakfast of Champions
+- Spellbinder - Paul’s World (26:4C) Flight
+- 'Spellbinder: Land of the Dragon Lord (1:1C) The Trans‑Dimensional Bamboo Boat'
+- 'Spellbinder: Land of the Dragon Lord (2:1C) Ashka'
+- 'Spellbinder: Land of the Dragon Lord (3:1C) The Dragon Lord'
+- 'Spellbinder: Land of the Dragon Lord (4:1C) Oracle'
+- 'Spellbinder: Land of the Dragon Lord (5:1C) Marooned in a World of Monsters'
+- 'Spellbinder: Land of the Dragon Lord (6:1C) Attack of the Thirty‑Metre Warrior'
+- 'Spellbinder: Land of the Dragon Lord (7:2C) Josh, the Water Spirit'
+- 'Spellbinder: Land of the Dragon Lord (8:2C) Sun Becomes a Star'
+- 'Spellbinder: Land of the Dragon Lord (9:2C) Designation Day'
+- 'Spellbinder: Land of the Dragon Lord (10:2C) The Oracle is Dead'
+- 'Spellbinder: Land of the Dragon Lord - Lost Between Worlds (11:2C) The Only Child in the World'
+- 'Spellbinder: Land of the Dragon Lord - Lost Between Worlds (12:2C) Girl for Sale'
+- 'Spellbinder: Land of the Dragon Lord - Lost Between Worlds (13:2C) To Live Forever'
+- 'Spellbinder: Land of the Dragon Lord - Lost Between Worlds (14:3C) Barbarians at the Gate'
+- 'Spellbinder: Land of the Dragon Lord - Lost Between Worlds (15:3C) The Best‑Laid Plans…'
+- 'Spellbinder: Land of the Dragon Lord - Lost Between Worlds (16:3C) Graveyard of Machines'
+- 'Spellbinder: Land of the Dragon Lord - Lost Between Worlds (17:3C) The Hunter and the Haunting'
+- 'Spellbinder: Land of the Dragon Lord - Lost Between Worlds (18:3C) Stop the Moloch!'
+- 'Spellbinder: Land of the Dragon Lord - Lost Between Worlds (19:3C) Escape from the Palace'
+- 'Spellbinder: Land of the Dragon Lord - Lost Between Worlds (20:4C) Kathy Meets…Herself'
+- 'Spellbinder: Land of the Dragon Lord - Lost Between Worlds (21:4C) The Doublecross'
+- 'Spellbinder: Land of the Dragon Lord - Lost Between Worlds (22:4C) On the Trail'
+- 'Spellbinder: Land of the Dragon Lord - Lost Between Worlds (23:4C) The Two Joshes'
+- 'Spellbinder: Land of the Dragon Lord - Lost Between Worlds (24:4C) Who’s Who?'
+- 'Spellbinder: Land of the Dragon Lord - Lost Between Worlds (25:4C) The Disappearing Act'
+- 'Spellbinder: Land of the Dragon Lord - Lost Between Worlds (26:4C) A Wedding Surprise'
+- (P) Sphere
+- (187F) Spirited Away (千と千尋の神隠し)
+- (1:231T) Star Trek
+- Star Trek (2:233T) Into Darkness
+- Star Trek (3:234T) Beyond
+- 'Star Trek: The Original Series (1:15T) The Cage'
+- 'Star Trek: The Original Series (1x01:16T) Where No Man Has Gone Before'
+- 'Star Trek: The Original Series (1x02:18T) The Corbomite Maneuver'
+- 'Star Trek: The Original Series (1x03:17T) Mudd’s Women'
+- 'Star Trek: The Original Series (1x04:17T) The Enemy Within'
+- 'Star Trek: The Original Series (1x05:16T) The Man Trap'
+- 'Star Trek: The Original Series (1x06:16T) The Naked Time'
+- 'Star Trek: The Original Series (1x07:16T) Charlie X'
+- 'Star Trek: The Original Series (1x08:19T) Balance of Terror'
+- 'Star Trek: The Original Series (1x09:17T) What Are Little Girls Made of?'
+- 'Star Trek: The Original Series (1x10:18T) Dagger of the Mind'
+- 'Star Trek: The Original Series (1x11:17T) Miri'
+- 'Star Trek: The Original Series (1x12:19T) The Conscience of the King'
+- 'Star Trek: The Original Series (1x13:19T) The Galileo Seven'
+- 'Star Trek: The Original Series (1x14:20T) Court Martial'
+- 'Star Trek: The Original Series (1x15\2:18T) The Menagerie'
+- 'Star Trek: The Original Series (1x17:19T) Shore Leave'
+- 'Star Trek: The Original Series (1x18:20T) The Squire of Gothos'
+- 'Star Trek: The Original Series (1x19:20T) Arena'
+- 'Star Trek: The Original Series (1x20:22T) The Alternative Factor'
+- 'Star Trek: The Original Series (1x21:20T) Tomorrow Is Yesterday'
+- 'Star Trek: The Original Series (1x22:21T) The Return of the Archons'
+- 'Star Trek: The Original Series (1x23:21T) A Taste of Armageddon'
+- 'Star Trek: The Original Series (1x24:21T) Space Seed'
+- 'Star Trek: The Original Series (1x25:21T) This Side of Paradise'
+- 'Star Trek: The Original Series (1x26:22T) The Devil in the Dark'
+- 'Star Trek: The Original Series (1x27:22T) Errand of Mercy'
+- 'Star Trek: The Original Series (1x28:22T) The City on the Edge of Forever'
+- 'Star Trek: The Original Series (1x29:23T) Operation ‑‑ Annihilate!'
+- 'Star Trek: The Original Series (2x01:26T) Catspaw'
+- 'Star Trek: The Original Series (2x02:26T) Metamorphosis'
+- 'Star Trek: The Original Series (2x03:27T) Friday’s Child'
+- 'Star Trek: The Original Series (2x04:24T) Who Mourns for Adonais?'
+- 'Star Trek: The Original Series (2x05:24T) Amok Time'
+- 'Star Trek: The Original Series (2x06:25T) The Doomsday Machine'
+- 'Star Trek: The Original Series (2x07:27T) Wolf in the Fold'
+- 'Star Trek: The Original Series (2x08:25T) The Changeling'
+- 'Star Trek: The Original Series (2x09:25T) The Apple'
+- 'Star Trek: The Original Series (2x10:25T) Mirror, Mirror'
+- 'Star Trek: The Original Series (2x11:27T) The Deadly Years'
+- 'Star Trek: The Original Series (2x12:26T) I, Mudd'
+- 'Star Trek: The Original Series (2x13:28T) The Trouble with Tribbles'
+- 'Star Trek: The Original Series (2x14:31T) Bread and Circuses'
+- 'Star Trek: The Original Series (2x15:26T) Journey to Babel'
+- 'Star Trek: The Original Series (2x16:29T) A Private Little War'
+- 'Star Trek: The Original Series (2x17:29T) The Gamesters of Triskelion'
+- 'Star Trek: The Original Series (2x18:27T) Obsession'
+- 'Star Trek: The Original Series (2x19:29T) The Immunity Syndrome'
+- 'Star Trek: The Original Series (2x20:29T) A Piece of the Action'
+- 'Star Trek: The Original Series (2x21:30T) By Any Other Name'
+- 'Star Trek: The Original Series (2x22:30T) Return to Tomorrow'
+- 'Star Trek: The Original Series (2x23:30T) Patterns of Force'
+- 'Star Trek: The Original Series (2x24:31T) The Ultimate Computer'
+- 'Star Trek: The Original Series (2x25:30T) The Omega Glory'
+- 'Star Trek: The Original Series (2x26:31T) Assignment: Earth'
+- 'Star Trek: The Original Series (3x01:33T) Spectre of the Gun'
+- 'Star Trek: The Original Series (3x02:35T) Elaan of Troyius'
+- 'Star Trek: The Original Series (3x03:32T) The Paradise Syndrome'
+- 'Star Trek: The Original Series (3x04:32T) The <i>Enterprise</i> Incident'
+- 'Star Trek: The Original Series (3x05:32T) And the Children Shall Lead'
+- 'Star Trek: The Original Series (3x06:32T) Spock’s Brain'
+- 'Star Trek: The Original Series (3x07:33T) Is There in Truth No Beauty?'
+- 'Star Trek: The Original Series (3x08:34T) The Empath'
+- 'Star Trek: The Original Series (3x09:34T) The Tholian Web'
+- 'Star Trek: The Original Series (3x10:33T) For the World Is Hollow and I Have Touched the Sky'
+- 'Star Trek: The Original Series (3x11:33T) Day of the Dove'
+- 'Star Trek: The Original Series (3x12:34T) Plato’s Stepchildren'
+- 'Star Trek: The Original Series (3x13:34T) Wink of an Eye'
+- 'Star Trek: The Original Series (3x14:36T) That Which Survives'
+- 'Star Trek: The Original Series (3x15:35T) Let That Be Your Last Battlefield'
+- 'Star Trek: The Original Series (3x16:35T) Whom Gods Destroy'
+- 'Star Trek: The Original Series (3x17:35T) The Mark of Gideon'
+- 'Star Trek: The Original Series (3x18:36T) The Lights of Zetar'
+- 'Star Trek: The Original Series (3x19:37T) The Cloud Minders'
+- 'Star Trek: The Original Series (3x20:36T) The Way to Eden'
+- 'Star Trek: The Original Series (3x21:36T) Requiem for Methuselah'
+- 'Star Trek: The Original Series (3x22:37T) The Savage Curtain'
+- 'Star Trek: The Original Series (3x23:37T) All Our Yesterdays'
+- 'Star Trek: The Original Series (3x24:37T) Turnabout Intruder'
+- 'Star Trek: The Original Series (4:209T) The Motion Picture'
+- 'Star Trek: The Original Series (4:211T) The Wrath of Khan'
+- 'Star Trek: The Original Series (4:213T) The Search for Spock'
+- 'Star Trek: The Original Series (4:215T) The Voyage Home'
+- 'Star Trek: The Original Series (4:217T) The Final Frontier'
+- 'Star Trek: The Original Series (4:219T) The Undiscovered Country'
+- 'Star Trek: The Next Generation (79T) Generations'
+- 'Star Trek: The Next Generation (80T) First Contact'
+- 'Star Trek: The Next Generation (82T) Insurrection'
+- 'Star Trek: The Next Generation (84T) Nemesis'
+- 'Star Trek: The Next Generation (1x01:38T) Encounter at Farpoint'
+- 'Star Trek: The Next Generation (1x02:38T) The Naked Now'
+- 'Star Trek: The Next Generation (1x03:38T) Code of Honor'
+- 'Star Trek: The Next Generation (1x04:39T) The Last Outpost'
+- 'Star Trek: The Next Generation (1x05:39T) Where No One Has Gone Before'
+- 'Star Trek: The Next Generation (1x06:39T) Lonely Among Us'
+- 'Star Trek: The Next Generation (1x07:39T) Justice'
+- 'Star Trek: The Next Generation (1x08:39T) The Battle'
+- 'Star Trek: The Next Generation (1x09:40T) Hide and Q'
+- 'Star Trek: The Next Generation (1x10:40T) Haven'
+- 'Star Trek: The Next Generation (1x11:40T) The Big Goodbye'
+- 'Star Trek: The Next Generation (1x12:40T) Datalore'
+- 'Star Trek: The Next Generation (1x13:40T) Angel One'
+- 'Star Trek: The Next Generation (1x14:41T) 11001001'
+- 'Star Trek: The Next Generation (1x15:41T) Too Short a Season'
+- 'Star Trek: The Next Generation (1x16:41T) When the Bough Breaks'
+- 'Star Trek: The Next Generation (1x17:41T) Home Soil'
+- 'Star Trek: The Next Generation (1x18:41T) Coming of Age'
+- 'Star Trek: The Next Generation (1x19:42T) Heart of Glory'
+- 'Star Trek: The Next Generation (1x20:42T) The Arsenal of Freedom'
+- 'Star Trek: The Next Generation (1x21:42T) Symbiosis'
+- 'Star Trek: The Next Generation (1x22:42T) Skin of Evil'
+- 'Star Trek: The Next Generation (1x23:42T) We’ll Always Have Paris'
+- 'Star Trek: The Next Generation (1x24:43T) Conspiracy'
+- 'Star Trek: The Next Generation (1x25:43T) The Neutral Zone'
+- 'Star Trek: The Next Generation (2x01:44T) The Child'
+- 'Star Trek: The Next Generation (2x02:44T) Where Silence Has Lease'
+- 'Star Trek: The Next Generation (2x03:44T) Elementary, Dear Data'
+- 'Star Trek: The Next Generation (2x04:44T) The Outrageous Okona'
+- 'Star Trek: The Next Generation (2x05:44T) Loud as a Whisper'
+- 'Star Trek: The Next Generation (2x06:45T) The Schizoid Man'
+- 'Star Trek: The Next Generation (2x07:45T) Unnatural Selection'
+- 'Star Trek: The Next Generation (2x08:45T) A Matter of Honor'
+- 'Star Trek: The Next Generation (2x09:45T) The Measure of a Man'
+- 'Star Trek: The Next Generation (2x10:46T) The Dauphin'
+- 'Star Trek: The Next Generation (2x11:46T) Contagion'
+- 'Star Trek: The Next Generation (2x12:46T) The Royale'
+- 'Star Trek: The Next Generation (2x13:46T) Time Squared'
+- 'Star Trek: The Next Generation (2x14:46T) The Icarus Factor'
+- 'Star Trek: The Next Generation (2x15:47T) Pen Pals'
+- 'Star Trek: The Next Generation (2x16:47T) Q Who'
+- 'Star Trek: The Next Generation (2x17:47T) Samaritan Snare'
+- 'Star Trek: The Next Generation (2x18:47T) Up the Long Ladder'
+- 'Star Trek: The Next Generation (2x19:47T) Manhunt'
+- 'Star Trek: The Next Generation (2x20:48T) The Emissary'
+- 'Star Trek: The Next Generation (2x21:48T) Peak Performance'
+- 'Star Trek: The Next Generation (2x22:48T) Shades of Gray'
+- 'Star Trek: The Next Generation (3x01:49T) Evolution'
+- 'Star Trek: The Next Generation (3x02:49T) The Ensigns of Command'
+- 'Star Trek: The Next Generation (3x03:49T) The Survivors'
+- 'Star Trek: The Next Generation (3x04:49T) Who Watches the Watchers?'
+- 'Star Trek: The Next Generation (3x05:49T) The Bonding'
+- 'Star Trek: The Next Generation (3x06:50T) Booby Trap'
+- 'Star Trek: The Next Generation (3x07:50T) The Enemy'
+- 'Star Trek: The Next Generation (3x08:50T) The Price'
+- 'Star Trek: The Next Generation (3x09:50T) The Vengeance Factor'
+- 'Star Trek: The Next Generation (3x10:50T) The Defector'
+- 'Star Trek: The Next Generation (3x11:51T) The Hunted'
+- 'Star Trek: The Next Generation (3x12:51T) The High Ground'
+- 'Star Trek: The Next Generation (3x13:51T) Déjà Q'
+- 'Star Trek: The Next Generation (3x14:51T) A Matter of Perspective'
+- 'Star Trek: The Next Generation (3x15:51T) Yesterday’s <i>Enterprise</i>'
+- 'Star Trek: The Next Generation (3x16:52T) The Offspring'
+- 'Star Trek: The Next Generation (3x17:52T) Sins of the Father'
+- 'Star Trek: The Next Generation (3x18:52T) Allegiance'
+- 'Star Trek: The Next Generation (3x19:52T) Captain’s Holiday'
+- 'Star Trek: The Next Generation (3x20:53T) Tin Man'
+- 'Star Trek: The Next Generation (3x21:53T) Hollow Pursuits'
+- 'Star Trek: The Next Generation (3x22:53T) The Most Toys'
+- 'Star Trek: The Next Generation (3x23:53T) Sarek'
+- 'Star Trek: The Next Generation (3x24:53T) Ménage à Troi'
+- 'Star Trek: The Next Generation (3x25:54T) Transfigurations'
+- 'Star Trek: The Next Generation (3x26\2:54T) The Best of Both Worlds'
+- 'Star Trek: The Next Generation (4x02:55T) Family'
+- 'Star Trek: The Next Generation (4x03:55T) Brothers'
+- 'Star Trek: The Next Generation (4x04:55T) Suddenly Human'
+- 'Star Trek: The Next Generation (4x05:55T) Remember Me'
+- 'Star Trek: The Next Generation (4x06:56T) Legacy'
+- 'Star Trek: The Next Generation (4x07:56T) Reunion'
+- 'Star Trek: The Next Generation (4x08:56T) Future Imperfect'
+- 'Star Trek: The Next Generation (4x09:56T) Final Mission'
+- 'Star Trek: The Next Generation (4x10:56T) The Loss'
+- 'Star Trek: The Next Generation (4x11:57T) Data’s Day'
+- 'Star Trek: The Next Generation (4x12:57T) The Wounded'
+- 'Star Trek: The Next Generation (4x13:57T) Devil’s Due'
+- 'Star Trek: The Next Generation (4x14:57T) Clues'
+- 'Star Trek: The Next Generation (4x15:57T) First Contact'
+- 'Star Trek: The Next Generation (4x16:58T) Galaxy’s Child'
+- 'Star Trek: The Next Generation (4x17:58T) Night Terrors'
+- 'Star Trek: The Next Generation (4x18:58T) Identity Crisis'
+- 'Star Trek: The Next Generation (4x19:58T) The Nth Degree'
+- 'Star Trek: The Next Generation (4x20:58T) Qpid'
+- 'Star Trek: The Next Generation (4x21:59T) The Drumhead'
+- 'Star Trek: The Next Generation (4x22:59T) Half a Life'
+- 'Star Trek: The Next Generation (4x23:59T) The Host'
+- 'Star Trek: The Next Generation (4x24:59T) The Mind’s Eye'
+- 'Star Trek: The Next Generation (4x25:60T) In Theory'
+- 'Star Trek: The Next Generation (4x26\2:60T) Redemption'
+- 'Star Trek: The Next Generation (5x01:61T) Darmok'
+- 'Star Trek: The Next Generation (5x02:61T) Ensign Ro'
+- 'Star Trek: The Next Generation (5x03:61T) Silicon Avatar'
+- 'Star Trek: The Next Generation (5x04:61T) Disaster'
+- 'Star Trek: The Next Generation (5x05:62T) The Game'
+- 'Star Trek: The Next Generation (5x06\2:62T) Unification'
+- 'Star Trek: The Next Generation (5x07:62T) A Matter of Time'
+- 'Star Trek: The Next Generation (5x09:62T) New Ground'
+- 'Star Trek: The Next Generation (5x10:63T) Hero Worship'
+- 'Star Trek: The Next Generation (5x11:63T) Violations'
+- 'Star Trek: The Next Generation (5x12:63T) The Masterpiece Society'
+- 'Star Trek: The Next Generation (5x13:63T) Conundrum'
+- 'Star Trek: The Next Generation (5x14:63T) Power Play'
+- 'Star Trek: The Next Generation (5x15:64T) Ethics'
+- 'Star Trek: The Next Generation (5x16:64T) The Outcast'
+- 'Star Trek: The Next Generation (5x17:64T) Cause and Effect'
+- 'Star Trek: The Next Generation (5x18:64T) The First Duty'
+- 'Star Trek: The Next Generation (5x19:64T) Cost of Living'
+- 'Star Trek: The Next Generation (5x20:65T) The Perfect Mate'
+- 'Star Trek: The Next Generation (5x21:65T) Imaginary Friend'
+- 'Star Trek: The Next Generation (5x22:65T) I, Borg'
+- 'Star Trek: The Next Generation (5x23:65T) The Next Phase'
+- 'Star Trek: The Next Generation (5x24:66T) The Inner Light'
+- 'Star Trek: The Next Generation (5x25\2:66T) Time’s Arrow'
+- 'Star Trek: The Next Generation (6x01:67T) Realm of Fear'
+- 'Star Trek: The Next Generation (6x03:67T) Man of the People'
+- 'Star Trek: The Next Generation (6x04:67T) Relics'
+- 'Star Trek: The Next Generation (6x05:67T) Schisms'
+- 'Star Trek: The Next Generation (6x06:68T) True‑Q'
+- 'Star Trek: The Next Generation (6x07:68T) Rascals'
+- 'Star Trek: The Next Generation (6x08:68T) A Fistful of Datas'
+- 'Star Trek: The Next Generation (6x09:68T) The Quality of Life'
+- 'Star Trek: The Next Generation (6x10\2:69T) Chain of Command'
+- 'Star Trek: The Next Generation (6x12:69T) Ship in a Bottle'
+- 'Star Trek: The Next Generation (6x13:69T) Aquiel'
+- 'Star Trek: The Next Generation (6x14:69T) Face of the Enemy'
+- 'Star Trek: The Next Generation (6x15:70T) Tapestry'
+- 'Star Trek: The Next Generation (6x16\2:70T) Birthright'
+- 'Star Trek: The Next Generation (6x17:70T) Starship Mine'
+- 'Star Trek: The Next Generation (6x19:70T) Lessons'
+- 'Star Trek: The Next Generation (6x20:71T) The Chase'
+- 'Star Trek: The Next Generation (6x21:71T) Frame of Mind'
+- 'Star Trek: The Next Generation (6x22:71T) Suspicions'
+- 'Star Trek: The Next Generation (6x23:71T) Rightful Heir'
+- 'Star Trek: The Next Generation (6x24:71T) Second Chances'
+- 'Star Trek: The Next Generation (6x25:72T) Timescape'
+- 'Star Trek: The Next Generation (6x26\2:72T) Descent'
+- 'Star Trek: The Next Generation (7x01:73T) Liaisons'
+- 'Star Trek: The Next Generation (7x03:73T) Interface'
+- 'Star Trek: The Next Generation (7x04\2:73T) Gambit'
+- 'Star Trek: The Next Generation (7x05:74T) Phantasms'
+- 'Star Trek: The Next Generation (7x07:74T) Dark Page'
+- 'Star Trek: The Next Generation (7x08:74T) Attached'
+- 'Star Trek: The Next Generation (7x09:74T) Force of Nature'
+- 'Star Trek: The Next Generation (7x10:75T) Inheritance'
+- 'Star Trek: The Next Generation (7x11:75T) Parallels'
+- 'Star Trek: The Next Generation (7x12:75T) The Pegasus'
+- 'Star Trek: The Next Generation (7x13:75T) Homeward'
+- 'Star Trek: The Next Generation (7x14:75T) Sub Rosa'
+- 'Star Trek: The Next Generation (7x15:76T) Lower Decks'
+- 'Star Trek: The Next Generation (7x16:76T) Thine Own Self'
+- 'Star Trek: The Next Generation (7x17:76T) Masks'
+- 'Star Trek: The Next Generation (7x18:76T) Eye of the Beholder'
+- 'Star Trek: The Next Generation (7x19:76T) Genesis'
+- 'Star Trek: The Next Generation (7x20:77T) Journey’s End'
+- 'Star Trek: The Next Generation (7x21:77T) Firstborn'
+- 'Star Trek: The Next Generation (7x22:77T) Bloodlines'
+- 'Star Trek: The Next Generation (7x23:77T) Emergence'
+- 'Star Trek: The Next Generation (7x24:77T) Preemptive Strike'
+- 'Star Trek: The Next Generation (7x25:78T) All Good Things…'
+- 'Star Trek: Deep Space Nine (1x01:86T) Emissary'
+- 'Star Trek: Deep Space Nine (1x02:86T) A Man Alone'
+- 'Star Trek: Deep Space Nine (1x03:86T) Past Prologue'
+- 'Star Trek: Deep Space Nine (1x04:87T) Babel'
+- 'Star Trek: Deep Space Nine (1x05:87T) Captive Pursuit'
+- 'Star Trek: Deep Space Nine (1x06:87T) Q‑Less'
+- 'Star Trek: Deep Space Nine (1x07:87T) Dax'
+- 'Star Trek: Deep Space Nine (1x08:88T) The Passenger'
+- 'Star Trek: Deep Space Nine (1x09:88T) Move Along Home'
+- 'Star Trek: Deep Space Nine (1x10:88T) The Nagus'
+- 'Star Trek: Deep Space Nine (1x11:88T) Vortex'
+- 'Star Trek: Deep Space Nine (1x12:89T) Battle Lines'
+- 'Star Trek: Deep Space Nine (1x13:89T) The Storyteller'
+- 'Star Trek: Deep Space Nine (1x14:89T) Progress'
+- 'Star Trek: Deep Space Nine (1x15:89T) If Wishes Were Horses'
+- 'Star Trek: Deep Space Nine (1x16:90T) The Forsaken'
+- 'Star Trek: Deep Space Nine (1x17:90T) Dramatis Personae'
+- 'Star Trek: Deep Space Nine (1x18:90T) Duet'
+- 'Star Trek: Deep Space Nine (1x19:90T) In the Hands of the Prophets'
+- 'Star Trek: Deep Space Nine (2x01:92T) The Homecoming'
+- 'Star Trek: Deep Space Nine (2x02:92T) The Circle'
+- 'Star Trek: Deep Space Nine (2x03:92T) The Siege'
+- 'Star Trek: Deep Space Nine (2x04:92T) Invasive Procedures'
+- 'Star Trek: Deep Space Nine (2x05:93T) Cardassians'
+- 'Star Trek: Deep Space Nine (2x06:93T) Melora'
+- 'Star Trek: Deep Space Nine (2x07:93T) Rules of Acquisition'
+- 'Star Trek: Deep Space Nine (2x08:93T) Necessary Evil'
+- 'Star Trek: Deep Space Nine (2x09:94T) Second Sight'
+- 'Star Trek: Deep Space Nine (2x10:94T) Sanctuary'
+- 'Star Trek: Deep Space Nine (2x11:94T) Rivals'
+- 'Star Trek: Deep Space Nine (2x12:94T) The Alternate'
+- 'Star Trek: Deep Space Nine (2x13:95T) Armageddon Game'
+- 'Star Trek: Deep Space Nine (2x14:95T) Whispers'
+- 'Star Trek: Deep Space Nine (2x15:95T) Paradise'
+- 'Star Trek: Deep Space Nine (2x16:95T) Shadowplay'
+- 'Star Trek: Deep Space Nine (2x17:96T) Playing God'
+- 'Star Trek: Deep Space Nine (2x18:96T) Profit and Loss'
+- 'Star Trek: Deep Space Nine (2x19:96T) Blood Oath'
+- 'Star Trek: Deep Space Nine (2x20\2:96T) The Maquis'
+- 'Star Trek: Deep Space Nine (2x21:97T) The Wire'
+- 'Star Trek: Deep Space Nine (2x23:97T) Crossover'
+- 'Star Trek: Deep Space Nine (2x24:97T) The Collaborator'
+- 'Star Trek: Deep Space Nine (2x25:98T) Tribunal'
+- 'Star Trek: Deep Space Nine (2x26:98T) The Jem’Hadar'
+- 'Star Trek: Deep Space Nine (3x01\2:99T) The Search'
+- 'Star Trek: Deep Space Nine (3x03:99T) The House of Quark'
+- 'Star Trek: Deep Space Nine (3x04:99T) Equilibrium'
+- 'Star Trek: Deep Space Nine (3x05:100T) Second Skin'
+- 'Star Trek: Deep Space Nine (3x06:100T) The Abandoned'
+- 'Star Trek: Deep Space Nine (3x07:100T) Civil Defense'
+- 'Star Trek: Deep Space Nine (3x08:100T) Meridian'
+- 'Star Trek: Deep Space Nine (3x09:101T) Defiant'
+- 'Star Trek: Deep Space Nine (3x10:101T) Fascination'
+- 'Star Trek: Deep Space Nine (3x11\2:101T) Past Tense'
+- 'Star Trek: Deep Space Nine (3x12:102T) Life Support'
+- 'Star Trek: Deep Space Nine (3x14:102T) Heart of Stone'
+- 'Star Trek: Deep Space Nine (3x15:102T) Destiny'
+- 'Star Trek: Deep Space Nine (3x16:102T) Prophet Motive'
+- 'Star Trek: Deep Space Nine (3x17:103T) Visionary'
+- 'Star Trek: Deep Space Nine (3x18:103T) Distant Voices'
+- 'Star Trek: Deep Space Nine (3x19:103T) Through the Looking Glass'
+- 'Star Trek: Deep Space Nine (3x20:103T) Improbable Cause'
+- 'Star Trek: Deep Space Nine (3x21:104T) The Die is Cast'
+- 'Star Trek: Deep Space Nine (3x22:104T) Explorers'
+- 'Star Trek: Deep Space Nine (3x23:104T) Family Business'
+- 'Star Trek: Deep Space Nine (3x24:104T) Shakaar'
+- 'Star Trek: Deep Space Nine (3x25:105T) Facets'
+- 'Star Trek: Deep Space Nine (3x26:105T) The Adversary'
+- 'Star Trek: Deep Space Nine (4x01:106T) The Way of the Warrior'
+- 'Star Trek: Deep Space Nine (4x02:106T) The Visitor'
+- 'Star Trek: Deep Space Nine (4x03:106T) Hippocratic Oath'
+- 'Star Trek: Deep Space Nine (4x04:107T) Indiscretion'
+- 'Star Trek: Deep Space Nine (4x05:107T) Rejoined'
+- 'Star Trek: Deep Space Nine (4x06:107T) Little Green Men'
+- 'Star Trek: Deep Space Nine (4x07:107T) Starship Down'
+- 'Star Trek: Deep Space Nine (4x08:108T) The Sword of Kahless'
+- 'Star Trek: Deep Space Nine (4x09:108T) Our Man Bashir'
+- 'Star Trek: Deep Space Nine (4x10:108T) Homefront'
+- 'Star Trek: Deep Space Nine (4x11:108T) Paradise Lost'
+- 'Star Trek: Deep Space Nine (4x12:109T) Crossfire'
+- 'Star Trek: Deep Space Nine (4x13:109T) Return to Grace'
+- 'Star Trek: Deep Space Nine (4x14:109T) Sons of Mogh'
+- 'Star Trek: Deep Space Nine (4x15:109T) Bar Association'
+- 'Star Trek: Deep Space Nine (4x16:110T) Accession'
+- 'Star Trek: Deep Space Nine (4x17:110T) Rules of Engagement'
+- 'Star Trek: Deep Space Nine (4x18:110T) Hard Time'
+- 'Star Trek: Deep Space Nine (4x19:110T) Shattered Mirror'
+- 'Star Trek: Deep Space Nine (4x20:111T) The Muse'
+- 'Star Trek: Deep Space Nine (4x21:111T) For the Cause'
+- 'Star Trek: Deep Space Nine (4x22:111T) To the Death'
+- 'Star Trek: Deep Space Nine (4x23:111T) The Quickening'
+- 'Star Trek: Deep Space Nine (4x24:112T) Body Parts'
+- 'Star Trek: Deep Space Nine (4x25:112T) Broken Link'
+- 'Star Trek: Deep Space Nine (5x01:113T) Apocalypse Rising'
+- 'Star Trek: Deep Space Nine (5x02:113T) The Ship'
+- 'Star Trek: Deep Space Nine (5x03:113T) Looking for par’Mach in All the Wrong Places'
+- 'Star Trek: Deep Space Nine (5x04:113T) Nor the Battle to the Strong'
+- 'Star Trek: Deep Space Nine (5x05:114T) The Assignment'
+- 'Star Trek: Deep Space Nine (5x06:114T) Trials and Tribble‑ations'
+- 'Star Trek: Deep Space Nine (5x07:114T) Let He Who Is Without Sin…'
+- 'Star Trek: Deep Space Nine (5x08:114T) Things Past'
+- 'Star Trek: Deep Space Nine (5x09:115T) The Ascent'
+- 'Star Trek: Deep Space Nine (5x10:115T) Rapture'
+- 'Star Trek: Deep Space Nine (5x11:115T) The Darkness and the Light'
+- 'Star Trek: Deep Space Nine (5x12:115T) The Begotten'
+- 'Star Trek: Deep Space Nine (5x13:116T) For the Uniform'
+- 'Star Trek: Deep Space Nine (5x14:116T) In Purgatory’s Shadow'
+- 'Star Trek: Deep Space Nine (5x15:116T) By Inferno’s Light'
+- 'Star Trek: Deep Space Nine (5x16:116T) Doctor Bashir, I Presume?'
+- 'Star Trek: Deep Space Nine (5x17:117T) A Simple Investigation'
+- 'Star Trek: Deep Space Nine (5x18:117T) Business as Usual'
+- 'Star Trek: Deep Space Nine (5x19:117T) Ties of Blood and Water'
+- 'Star Trek: Deep Space Nine (5x20:117T) Ferengi Love Songs'
+- 'Star Trek: Deep Space Nine (5x21:118T) Soldiers of the Empire'
+- 'Star Trek: Deep Space Nine (5x22:118T) Children of Time'
+- 'Star Trek: Deep Space Nine (5x23:118T) Blaze of Glory'
+- 'Star Trek: Deep Space Nine (5x24:118T) Empok Nor'
+- 'Star Trek: Deep Space Nine (5x25:119T) In the Cards'
+- 'Star Trek: Deep Space Nine (5x26:119T) Call to Arms'
+- 'Star Trek: Deep Space Nine (6x01:120T) A Time to Stand'
+- 'Star Trek: Deep Space Nine (6x02:120T) Rocks and Shoals'
+- 'Star Trek: Deep Space Nine (6x03:120T) Sons and Daughters'
+- 'Star Trek: Deep Space Nine (6x04:120T) Behind the Lines'
+- 'Star Trek: Deep Space Nine (6x05:121T) Favor the Bold'
+- 'Star Trek: Deep Space Nine (6x06:121T) Sacrifice of Angels'
+- 'Star Trek: Deep Space Nine (6x07:121T) You Are Cordially Invited'
+- 'Star Trek: Deep Space Nine (6x08:121T) Resurrection'
+- 'Star Trek: Deep Space Nine (6x09:122T) Statistical Probabilities'
+- 'Star Trek: Deep Space Nine (6x10:122T) The Magnificent Ferengi'
+- 'Star Trek: Deep Space Nine (6x11:122T) Waltz'
+- 'Star Trek: Deep Space Nine (6x12:122T) Who Mourns for Morn?'
+- 'Star Trek: Deep Space Nine (6x13:123T) Far Beyond the Stars'
+- 'Star Trek: Deep Space Nine (6x14:123T) One Little Ship'
+- 'Star Trek: Deep Space Nine (6x15:123T) Honor Among Thieves'
+- 'Star Trek: Deep Space Nine (6x16:123T) Change of Heart'
+- 'Star Trek: Deep Space Nine (6x17:124T) Wrongs Darker than Death or Night'
+- 'Star Trek: Deep Space Nine (6x18:124T) Inquisition'
+- 'Star Trek: Deep Space Nine (6x19:124T) In the Pale Moonlight'
+- 'Star Trek: Deep Space Nine (6x20:124T) His Way'
+- 'Star Trek: Deep Space Nine (6x21:125T) The Reckoning'
+- 'Star Trek: Deep Space Nine (6x22:125T) Valiant'
+- 'Star Trek: Deep Space Nine (6x23:125T) Profit and Lace'
+- 'Star Trek: Deep Space Nine (6x24:125T) Time’s Orphan'
+- 'Star Trek: Deep Space Nine (6x25:126T) The Sound of Her Voice'
+- 'Star Trek: Deep Space Nine (6x26:126T) Tears of the Prophets'
+- 'Star Trek: Deep Space Nine (7x01:127T) Image in the Sand'
+- 'Star Trek: Deep Space Nine (7x02:127T) Shadows and Symbols'
+- 'Star Trek: Deep Space Nine (7x03:127T) Afterimage'
+- 'Star Trek: Deep Space Nine (7x04:127T) Take Me Out to the Holosuite'
+- 'Star Trek: Deep Space Nine (7x05:128T) Chrysalis'
+- 'Star Trek: Deep Space Nine (7x06:128T) Treachery, Faith, and the Great River'
+- 'Star Trek: Deep Space Nine (7x07:128T) Once More Unto the Breach'
+- 'Star Trek: Deep Space Nine (7x08:128T) The Siege of AR‑558'
+- 'Star Trek: Deep Space Nine (7x09:129T) Covenant'
+- 'Star Trek: Deep Space Nine (7x10:129T) It’s Only a Paper Moon'
+- 'Star Trek: Deep Space Nine (7x11:129T) Prodigal Daughter'
+- 'Star Trek: Deep Space Nine (7x12:129T) The Emperor’s New Cloak'
+- 'Star Trek: Deep Space Nine (7x13:130T) Field of Fire'
+- 'Star Trek: Deep Space Nine (7x14:130T) Chimera'
+- 'Star Trek: Deep Space Nine (7x15:130T) Badda‑Bing Badda‑Bang'
+- 'Star Trek: Deep Space Nine (7x16:130T) Inter Arma Enim Silent Leges'
+- 'Star Trek: Deep Space Nine (7x17:131T) Penumbra'
+- 'Star Trek: Deep Space Nine (7x18:131T) ’⁠Til Death Do Us Part'
+- 'Star Trek: Deep Space Nine (7x19:131T) Strange Bedfellows'
+- 'Star Trek: Deep Space Nine (7x20:131T) The Changing Face of Evil'
+- 'Star Trek: Deep Space Nine (7x21:132T) When It Rains…'
+- 'Star Trek: Deep Space Nine (7x22:132T) Tacking Into the Wind'
+- 'Star Trek: Deep Space Nine (7x23:132T) Extreme Measures'
+- 'Star Trek: Deep Space Nine (7x24:132T) The Dogs of War'
+- 'Star Trek: Deep Space Nine (7x25:133T) What You Leave Behind'
+- 'Star Trek: Voyager (1x01:134T) Caretaker'
+- 'Star Trek: Voyager (1x02:134T) Parallax'
+- 'Star Trek: Voyager (1x03:134T) Time and Again'
+- 'Star Trek: Voyager (1x04:135T) Phage'
+- 'Star Trek: Voyager (1x05:135T) The Cloud'
+- 'Star Trek: Voyager (1x06:135T) Eye of the Needle'
+- 'Star Trek: Voyager (1x07:135T) Ex Post Facto'
+- 'Star Trek: Voyager (1x08:136T) Emanations'
+- 'Star Trek: Voyager (1x09:136T) Prime Factors'
+- 'Star Trek: Voyager (1x10:136T) State of Flux'
+- 'Star Trek: Voyager (1x11:136T) Heroes and Demons'
+- 'Star Trek: Voyager (1x12:137T) Cathexis'
+- 'Star Trek: Voyager (1x13:137T) Faces'
+- 'Star Trek: Voyager (1x14:137T) Jetrel'
+- 'Star Trek: Voyager (1x15:137T) Learning Curve'
+- 'Star Trek: Voyager (2x01:140T) The 37’s'
+- 'Star Trek: Voyager (2x02:140T) Initiations'
+- 'Star Trek: Voyager (2x03:140T) Projections'
+- 'Star Trek: Voyager (2x04:140T) Elogium'
+- 'Star Trek: Voyager (2x05:141T) Non Sequitur'
+- 'Star Trek: Voyager (2x06:141T) Twisted'
+- 'Star Trek: Voyager (2x07:141T) Parturition'
+- 'Star Trek: Voyager (2x08:141T) Persistence of Vision'
+- 'Star Trek: Voyager (2x09:142T) Tattoo'
+- 'Star Trek: Voyager (2x10:142T) Cold Fire'
+- 'Star Trek: Voyager (2x11:142T) Maneuvers'
+- 'Star Trek: Voyager (2x12:142T) Resistance'
+- 'Star Trek: Voyager (2x13:143T) Prototype'
+- 'Star Trek: Voyager (2x14:143T) Alliances'
+- 'Star Trek: Voyager (2x15:143T) Threshold'
+- 'Star Trek: Voyager (2x16:143T) Meld'
+- 'Star Trek: Voyager (2x17:144T) Dreadnought'
+- 'Star Trek: Voyager (2x18:144T) Death Wish'
+- 'Star Trek: Voyager (2x19:144T) Lifesigns'
+- 'Star Trek: Voyager (2x20:144T) Investigations'
+- 'Star Trek: Voyager (2x21:145T) Deadlock'
+- 'Star Trek: Voyager (2x22:145T) Innocence'
+- 'Star Trek: Voyager (2x23:145T) The Thaw'
+- 'Star Trek: Voyager (2x24:145T) Tuvix'
+- 'Star Trek: Voyager (2x25:146T) Resolutions'
+- 'Star Trek: Voyager (2x26\2:146T) Basics'
+- 'Star Trek: Voyager (3x02:147T) Flashback'
+- 'Star Trek: Voyager (3x03:147T) The Chute'
+- 'Star Trek: Voyager (3x04:147T) The Swarm'
+- 'Star Trek: Voyager (3x05:148T) False Profits'
+- 'Star Trek: Voyager (3x06:148T) Remember'
+- 'Star Trek: Voyager (3x07:148T) Sacred Ground'
+- 'Star Trek: Voyager (3x08\2:148T) Future’s End'
+- 'Star Trek: Voyager (3x10:149T) Warlord'
+- 'Star Trek: Voyager (3x11:149T) The Q and the Grey'
+- 'Star Trek: Voyager (3x12:149T) Macrocosm'
+- 'Star Trek: Voyager (3x13:150T) Fair Trade'
+- 'Star Trek: Voyager (3x14:150T) Alter Ego'
+- 'Star Trek: Voyager (3x15:150T) Coda'
+- 'Star Trek: Voyager (3x16:150T) Blood Fever'
+- 'Star Trek: Voyager (3x17:151T) Unity'
+- 'Star Trek: Voyager (3x18:151T) Darkling'
+- 'Star Trek: Voyager (3x19:151T) Rise'
+- 'Star Trek: Voyager (3x20:151T) Favorite Son'
+- 'Star Trek: Voyager (3x21:152T) Before and After'
+- 'Star Trek: Voyager (3x22:152T) Real Life'
+- 'Star Trek: Voyager (3x23:152T) Distant Origin'
+- 'Star Trek: Voyager (3x24:152T) Displaced'
+- 'Star Trek: Voyager (3x25:153T) Worst Case Scenario'
+- 'Star Trek: Voyager (3x26\2:153T) Scorpion'
+- 'Star Trek: Voyager (4x01:154T) The Gift'
+- 'Star Trek: Voyager (4x03:154T) Day of Honor'
+- 'Star Trek: Voyager (4x04:154T) Nemesis'
+- 'Star Trek: Voyager (4x05:155T) Revulsion'
+- 'Star Trek: Voyager (4x06:155T) The Raven'
+- 'Star Trek: Voyager (4x07:155T) Scientific Method'
+- 'Star Trek: Voyager (4x08\2:155T) Year of Hell'
+- 'Star Trek: Voyager (4x09:156T) Random Thoughts'
+- 'Star Trek: Voyager (4x11:156T) Concerning Flight'
+- 'Star Trek: Voyager (4x12:156T) Mortal Coil'
+- 'Star Trek: Voyager (4x13:157T) Waking Moments'
+- 'Star Trek: Voyager (4x14:157T) Message in a Bottle'
+- 'Star Trek: Voyager (4x15:157T) Hunters'
+- 'Star Trek: Voyager (4x16:157T) Prey'
+- 'Star Trek: Voyager (4x17:158T) Retrospect'
+- 'Star Trek: Voyager (4x18\2:158T) The Killing Game'
+- 'Star Trek: Voyager (4x19:158T) Vis à Vis'
+- 'Star Trek: Voyager (4x21:159T) The Omega Directive'
+- 'Star Trek: Voyager (4x22:159T) Unforgettable'
+- 'Star Trek: Voyager (4x23:159T) Living Witness'
+- 'Star Trek: Voyager (4x24:159T) Demon'
+- 'Star Trek: Voyager (4x25:160T) One'
+- 'Star Trek: Voyager (4x26:160T) Hope and Fear'
+- 'Star Trek: Voyager (5x01:161T) Night'
+- 'Star Trek: Voyager (5x02:161T) Drone'
+- 'Star Trek: Voyager (5x03:161T) Extreme Risk'
+- 'Star Trek: Voyager (5x04:161T) In the Flesh'
+- 'Star Trek: Voyager (5x05:162T) Once Upon a Time'
+- 'Star Trek: Voyager (5x06:162T) Timeless'
+- 'Star Trek: Voyager (5x07:162T) Infinite Regress'
+- 'Star Trek: Voyager (5x08:162T) Nothing Human'
+- 'Star Trek: Voyager (5x09:163T) Thirty Days'
+- 'Star Trek: Voyager (5x10:163T) Counterpoint'
+- 'Star Trek: Voyager (5x11:163T) Latent Image'
+- 'Star Trek: Voyager (5x12:163T) Bride of Chaotica!'
+- 'Star Trek: Voyager (5x13:164T) Gravity'
+- 'Star Trek: Voyager (5x14:164T) Bliss'
+- 'Star Trek: Voyager (5x15:164T) Dark Frontier'
+- 'Star Trek: Voyager (5x16:165T) The Disease'
+- 'Star Trek: Voyager (5x17:165T) Course: Oblivion'
+- 'Star Trek: Voyager (5x18:165T) The Fight'
+- 'Star Trek: Voyager (5x19:165T) Think Tank'
+- 'Star Trek: Voyager (5x20:166T) Juggernaut'
+- 'Star Trek: Voyager (5x21:166T) Someone to Watch Over Me'
+- 'Star Trek: Voyager (5x22:166T) 11:59'
+- 'Star Trek: Voyager (5x23:166T) Relativity'
+- 'Star Trek: Voyager (5x24:167T) Warhead'
+- 'Star Trek: Voyager (5x25\2:167T) Equinox'
+- 'Star Trek: Voyager (6x01:168T) Survival Instinct'
+- 'Star Trek: Voyager (6x03:168T) Barge of the Dead'
+- 'Star Trek: Voyager (6x04:168T) Tinker Tenor Doctor Spy'
+- 'Star Trek: Voyager (6x05:169T) Alice'
+- 'Star Trek: Voyager (6x06:169T) Riddles'
+- 'Star Trek: Voyager (6x07:169T) Dragon’s Teeth'
+- 'Star Trek: Voyager (6x08:169T) One Small Step'
+- 'Star Trek: Voyager (6x09:170T) The <i>Voyager</i> Conspiracy'
+- 'Star Trek: Voyager (6x10:170T) Pathfinder'
+- 'Star Trek: Voyager (6x11:170T) Fair Haven'
+- 'Star Trek: Voyager (6x12:170T) Blink of an Eye'
+- 'Star Trek: Voyager (6x13:171T) Virtuoso'
+- 'Star Trek: Voyager (6x14:171T) Memorial'
+- 'Star Trek: Voyager (6x15:171T) Tsunkatse'
+- 'Star Trek: Voyager (6x16:171T) Collective'
+- 'Star Trek: Voyager (6x17:172T) Spirit Folk'
+- 'Star Trek: Voyager (6x18:172T) Ashes to Ashes'
+- 'Star Trek: Voyager (6x19:172T) Child’s Play'
+- 'Star Trek: Voyager (6x20:172T) Good Shepherd'
+- 'Star Trek: Voyager (6x21:173T) Live Fast and Prosper'
+- 'Star Trek: Voyager (6x22:173T) Muse'
+- 'Star Trek: Voyager (6x23:173T) Fury'
+- 'Star Trek: Voyager (6x24:173T) Life Line'
+- 'Star Trek: Voyager (6x25:174T) The Haunting of Deck Twelve'
+- 'Star Trek: Voyager (6x26\2:174T) Unimatrix Zero'
+- 'Star Trek: Voyager (7x02:175T) Imperfection'
+- 'Star Trek: Voyager (7x03:175T) Drive'
+- 'Star Trek: Voyager (7x04:175T) Repression'
+- 'Star Trek: Voyager (7x05:176T) Critical Care'
+- 'Star Trek: Voyager (7x06:176T) Inside Man'
+- 'Star Trek: Voyager (7x07:176T) Body and Soul'
+- 'Star Trek: Voyager (7x08:176T) Nightingale'
+- 'Star Trek: Voyager (7x09:177T) Flesh and Blood'
+- 'Star Trek: Voyager (7x10:177T) Shattered'
+- 'Star Trek: Voyager (7x11:177T) Lineage'
+- 'Star Trek: Voyager (7x12:178T) Repentance'
+- 'Star Trek: Voyager (7x13:178T) Prophecy'
+- 'Star Trek: Voyager (7x14:178T) The Void'
+- 'Star Trek: Voyager (7x15\2:178T) Workforce'
+- 'Star Trek: Voyager (7x16:179T) Human Error'
+- 'Star Trek: Voyager (7x18:179T) Q2'
+- 'Star Trek: Voyager (7x19:179T) Author, Author'
+- 'Star Trek: Voyager (7x20:180T) Friendship One'
+- 'Star Trek: Voyager (7x21:180T) Natural Law'
+- 'Star Trek: Voyager (7x22:180T) Homestead'
+- 'Star Trek: Voyager (7x23:180T) Renaissance Man'
+- 'Star Trek: Voyager (7x24:181T) Endgame'
+- Enterprise (1x01:182T) Broken Bow
+- Enterprise (1x02:182T) Fight or Flight
+- Enterprise (1x03:182T) Strange New World
+- Enterprise (1x04:183T) Unexpected
+- Enterprise (1x05:183T) Terra Nova
+- Enterprise (1x06:183T) The Andorian Incident
+- Enterprise (1x07:183T) Breaking the Ice
+- Enterprise (1x08:184T) Civilization
+- Enterprise (1x09:184T) Fortunate Son
+- Enterprise (1x10:184T) Cold Front
+- Enterprise (1x11:184T) Silent Enemy
+- Enterprise (1x12:185T) Dear Doctor
+- Enterprise (1x13:185T) Sleeping Dogs
+- Enterprise (1x14:185T) Shadows of P’Jem
+- Enterprise (1x15:185T) Shuttlepod One
+- Enterprise (1x16:186T) Fusion
+- Enterprise (1x17:186T) Rogue Planet
+- Enterprise (1x18:186T) Acquisition
+- Enterprise (1x19:186T) Oasis
+- Enterprise (1x20:187T) Detained
+- Enterprise (1x21:187T) Vox Sola
+- Enterprise (1x22:187T) Fallen Hero
+- Enterprise (1x23:187T) Desert Crossing
+- Enterprise (1x24:188T) Two Days and Two Nights
+- Enterprise (1x25\2:188T) Shockwave
+- Enterprise (2x02:189T) Carbon Creek
+- Enterprise (2x03:189T) Minefield
+- Enterprise (2x04:189T) Dead Stop
+- Enterprise (2x05:190T) A Night in Sickbay
+- Enterprise (2x06:190T) Marauders
+- Enterprise (2x07:190T) The Seventh
+- Enterprise (2x08:190T) The Communicator
+- Enterprise (2x09:191T) Singularity
+- Enterprise (2x10:191T) Vanishing Point
+- Enterprise (2x11:191T) Precious Cargo
+- Enterprise (2x12:191T) The Catwalk
+- Enterprise (2x13:192T) Dawn
+- Enterprise (2x14:192T) Stigma
+- Enterprise (2x15:192T) Cease Fire
+- Enterprise (2x16:192T) Future Tense
+- Enterprise (2x17:193T) Canamar
+- Enterprise (2x18:193T) The Crossing
+- Enterprise (2x19:193T) Judgment
+- Enterprise (2x20:193T) Horizon
+- Enterprise (2x21:194T) The Breach
+- Enterprise (2x22:194T) Cogenitor
+- Enterprise (2x23:194T) Regeneration
+- Enterprise (2x24:194T) First Flight
+- Enterprise (2x25:195T) Bounty
+- Enterprise (2x26:195T) The Expanse
+- Enterprise (3x01:196T) The Xindi
+- Enterprise (3x02:196T) Anomaly
+- 'Star Trek: Enterprise (3x03:196T) Extinction'
+- 'Star Trek: Enterprise (3x04:196T) Rajiin'
+- 'Star Trek: Enterprise (3x05:197T) Impulse'
+- 'Star Trek: Enterprise (3x06:197T) Exile'
+- 'Star Trek: Enterprise (3x07:197T) The Shipment'
+- 'Star Trek: Enterprise (3x08:197T) Twilight'
+- 'Star Trek: Enterprise (3x09:198T) North Star'
+- 'Star Trek: Enterprise (3x10:198T) Similitude'
+- 'Star Trek: Enterprise (3x11:198T) Carpenter Street'
+- 'Star Trek: Enterprise (3x12:198T) Chosen Realm'
+- 'Star Trek: Enterprise (3x13:199T) Proving Ground'
+- 'Star Trek: Enterprise (3x14:199T) Stratagem'
+- 'Star Trek: Enterprise (3x15:199T) Harbinger'
+- 'Star Trek: Enterprise (3x16:199T) Doctor’s Orders'
+- 'Star Trek: Enterprise (3x17:200T) Hatchery'
+- 'Star Trek: Enterprise (3x18:200T) Azati Prime'
+- 'Star Trek: Enterprise (3x19:200T) Damage'
+- 'Star Trek: Enterprise (3x20:200T) The Forgotten'
+- 'Star Trek: Enterprise (3x21:201T) E²'
+- 'Star Trek: Enterprise (3x22:201T) The Council'
+- 'Star Trek: Enterprise (3x23:201T) Countdown'
+- 'Star Trek: Enterprise (3x24:201T) Zero Hour'
+- 'Star Trek: Enterprise (4x01\2:203T) Storm Front'
+- 'Star Trek: Enterprise (4x02:203T) Home'
+- 'Star Trek: Enterprise (4x04:203T) Borderland'
+- 'Star Trek: Enterprise (4x05:204T) Cold Station 12'
+- 'Star Trek: Enterprise (4x06:204T) The Augments'
+- 'Star Trek: Enterprise (4x07:204T) The Forge'
+- 'Star Trek: Enterprise (4x08:204T) Awakening'
+- 'Star Trek: Enterprise (4x09:205T) Kir’Shara'
+- 'Star Trek: Enterprise (4x10:205T) Daedalus'
+- 'Star Trek: Enterprise (4x11:205T) Observer Effect'
+- 'Star Trek: Enterprise (4x12:205T) Babel One'
+- 'Star Trek: Enterprise (4x13:206T) United'
+- 'Star Trek: Enterprise (4x14:206T) The Aenar'
+- 'Star Trek: Enterprise (4x15:206T) Affliction'
+- 'Star Trek: Enterprise (4x16:206T) Divergence'
+- 'Star Trek: Enterprise (4x17:207T) Bound'
+- 'Star Trek: Enterprise (4x18\2:207T) In a Mirror, Darkly'
+- 'Star Trek: Enterprise (4x19:207T) Demons'
+- 'Star Trek: Enterprise (4x21:208T) Terra Prime'
+- 'Star Trek: Enterprise (4x22:208T) These Are the Voyages…'
+- 'Star Trek: Discovery (1x01:1T) The Vulcan Hello'
+- 'Star Trek: Discovery (1x02:1T) Battle at the Binary Stars'
+- 'Star Trek: Discovery (1x03:1T) Context Is for Kings'
+- 'Star Trek: Discovery (1x04:1T) The Butcher’s Knife Cares Not for the Lamb’s Cry'
+- 'Star Trek: Discovery (1x05:2T) Choose Your Pain'
+- 'Star Trek: Discovery (1x06:2T) Lethe'
+- 'Star Trek: Discovery (1x07:2T) Magic to Make the Sanest Man Go Mad'
+- 'Star Trek: Discovery (1x08:2T) Si Vis Pacem, Para Bellum'
+- 'Star Trek: Discovery (1x09:3T) Into the Forest I Go'
+- 'Star Trek: Discovery (1x10:3T) Despite Yourself'
+- 'Star Trek: Discovery (1x11:3T) The Wolf Inside'
+- 'Star Trek: Discovery (1x12:3T) Vaulting Ambition'
+- 'Star Trek: Discovery (1x13:4T) What’s Past Is Prologue'
+- 'Star Trek: Discovery (1x14:4T) The War Without, the War Within'
+- 'Star Trek: Discovery (1x15:4T) Will You Take My Hand?'
+- 'Star Trek: Discovery (2x01:5T) Brother'
+- 'Star Trek: Discovery (2x02:5T) New Eden'
+- 'Star Trek: Discovery (2x03:5T) Point of Light'
+- 'Star Trek: Discovery (2x04:5T) An Obol for Charon'
+- 'Star Trek: Discovery (2x05:6T) Saints of Imperfection'
+- 'Star Trek: Discovery (2x06:6T) The Sounds of Thunder'
+- 'Star Trek: Discovery (2x07:6T) Light and Shadows'
+- 'Star Trek: Discovery (2x08:6T) If Memory Serves'
+- 'Star Trek: Discovery (2x09:7T) Project Daedalus'
+- 'Star Trek: Discovery (2x10:7T) The Red Angel'
+- 'Star Trek: Discovery (2x11:7T) Perpetual Infinity'
+- 'Star Trek: Discovery (2x12:7T) Through the Valley of Shadows'
+- 'Star Trek: Discovery (2x13\2:8T) Such Sweet Sorrow'
+- 'Star Trek: Discovery (3x01:773B) That Hope Is You, Part 1'
+- 'Star Trek: Discovery (3x02:773B) Far From Home'
+- 'Star Trek: Discovery (3x03:773B) People of Earth'
+- 'Star Trek: Discovery (3x04:773B) Forget Me Not'
+- 'Star Trek: Discovery (3x05:774B) Die Trying'
+- 'Star Trek: Discovery (3x06:774B) Scavengers'
+- 'Star Trek: Discovery (3x07:774B) Unification III'
+- 'Star Trek: Discovery (3x08:774B) The Sanctuary'
+- 'Star Trek: Discovery (3x09\2:775B) Terra Firma'
+- 'Star Trek: Discovery (3x11:775B) Su’Kal'
+- 'Star Trek: Discovery (3x12:775B) There Is a Tide…'
+- 'Star Trek: Discovery (3x13:776B) That Hope Is You, Part 2'
+- 'Star Trek: Discovery (4x01:777B) Kobayashi Maru'
+- 'Star Trek: Discovery (4x02:777B) Anomaly'
+- 'Star Trek: Discovery (4x03:777B) Choose to Live'
+- 'Star Trek: Discovery (4x04:778B) All Is Possible'
+- 'Star Trek: Discovery (4x05:778B) The Examples'
+- 'Star Trek: Discovery (4x06:778B) Stormy Weather'
+- 'Star Trek: Discovery (4x07:778B) …⁠But to Connect'
+- 'Star Trek: Discovery (4x08:779B) All In'
+- 'Star Trek: Discovery (4x09:779B) Rubicon'
+- 'Star Trek: Discovery (4x10:779B) The Galactic Barrier'
+- 'Star Trek: Discovery (4x11:779B) Rosetta'
+- 'Star Trek: Discovery (4x12:780B) Species Ten-C'
+- 'Star Trek: Discovery (4x13:780B) Coming Home'
+- 'Star Trek: Discovery (5x01:1C) Red Directive'
+- 'Star Trek: Discovery (5x02:1C) Under the Twin Moons'
+- 'Star Trek: Discovery (5x03:1C) Jinaal'
+- 'Star Trek: Discovery (5x04:2C) Face the Strange'
+- 'Star Trek: Discovery (5x05:2C) Mirrors'
+- 'Star Trek: Discovery (5x06:2C) Whistlespeak'
+- 'Star Trek: Discovery (5x07:3C) Erigah'
+- 'Star Trek: Discovery (5x08:3C) Labyrinths'
+- 'Star Trek: Discovery (5x09:3C) Lagrange Point'
+- 'Star Trek: Discovery (5x10:4C) Life, Itself'
+- 'Star Trek: Picard (1x01:9T) Remembrance'
+- 'Star Trek: Picard (1x02:9T) Maps and Legends'
+- 'Star Trek: Picard (1x03:9T) The End is the Beginning'
+- 'Star Trek: Picard (1x04:10T) Absolute Candor'
+- 'Star Trek: Picard (1x05:10T) Stardust City Rag'
+- 'Star Trek: Picard (1x06:10T) The Impossible Box'
+- 'Star Trek: Picard (1x07:10T) Nepenthe'
+- 'Star Trek: Picard (1x08:11T) Broken Pieces'
+- 'Star Trek: Picard (1x09\2:11T) Et in Arcadia Ego'
+- 'Star Trek: Picard (2x01:781B) The Star Gazer'
+- 'Star Trek: Picard (2x02:781B) Penance'
+- 'Star Trek: Picard (2x03:781B) Assimilation'
+- 'Star Trek: Picard (2x04:781B) Watcher'
+- 'Star Trek: Picard (2x05:782B) Fly Me to the Moon'
+- 'Star Trek: Picard (2x06:782B) Two of One'
+- 'Star Trek: Picard (2x07:782B) Monsters'
+- 'Star Trek: Picard (2x08:782B) Mercy'
+- 'Star Trek: Picard (2x09:783B) Hide and Seek'
+- 'Star Trek: Picard (2x10:783B) Farewell'
+- 'Star Trek: Picard (3x01:1A) The Next Generation'
+- 'Star Trek: Picard (3x02:1A) Disengage'
+- 'Star Trek: Picard (3x03:1A) Seventeen Seconds'
+- 'Star Trek: Picard (3x04:2A) No Win Scenario'
+- 'Star Trek: Picard (3x05:2A) Imposters'
+- 'Star Trek: Picard (3x06:2A) The Bounty'
+- 'Star Trek: Picard (3x07:2A) Dominion'
+- 'Star Trek: Picard (3x08:3A) Surrender'
+- 'Star Trek: Picard (3x09:3A) Võx'
+- 'Star Trek: Picard (3x10:3A) The Last Generation'
+- 'Star Trek: Lower Decks (1x01:13T) Second Contact'
+- 'Star Trek: Lower Decks (1x02:13T) Envoys'
+- 'Star Trek: Lower Decks (1x03:13T) Temporal Edict'
+- 'Star Trek: Lower Decks (1x04:13T) Moist Vessel'
+- 'Star Trek: Lower Decks (1x05:13T) Cupid’s Errant Arrow'
+- 'Star Trek: Lower Decks (1x06:13T) Terminal Provocations'
+- 'Star Trek: Lower Decks (1x07:14T) Much Ado About Boimler'
+- 'Star Trek: Lower Decks (1x08:14T) Veritas'
+- 'Star Trek: Lower Decks (1x09:14T) Crisis Point'
+- 'Star Trek: Lower Decks (1x10:14T) No Small Parts'
+- 'Star Trek: Lower Decks (2x01:1A) Strange Energies'
+- 'Star Trek: Lower Decks (2x02:1A) Kayshon, His Eyes Open'
+- 'Star Trek: Lower Decks (2x03:1A) We’ll Always Have Tom Paris'
+- 'Star Trek: Lower Decks (2x04:1A) Mugato, Gumato'
+- 'Star Trek: Lower Decks (2x05:1A) An Embarrassment of Dooplers'
+- 'Star Trek: Lower Decks (2x06:1A) The Spy Humongous'
+- 'Star Trek: Lower Decks (2x07:2A) Where Pleasant Fountains Lie'
+- 'Star Trek: Lower Decks (2x08:2A) I, Excretus'
+- 'Star Trek: Lower Decks (2x09:2A) wej Duj'
+- 'Star Trek: Lower Decks (2x10:2A) First First Contact'
+- 'Star Trek: Lower Decks (3x01:923B) Grounded'
+- 'Star Trek: Lower Decks (3x02:923B) The Least Dangerous Game'
+- 'Star Trek: Lower Decks (3x03:923B) Mining the Mind''s Mines'
+- 'Star Trek: Lower Decks (3x04:923B) Room for Growth'
+- 'Star Trek: Lower Decks (3x05:923B) Reflections'
+- 'Star Trek: Lower Decks (3x06:924B) Hear All, Trust Nothing'
+- 'Star Trek: Lower Decks (3x07:924B) A Mathematically Perfect Redemption'
+- 'Star Trek: Lower Decks (3x08:924B) Crisis Point 2: Paradoxus'
+- 'Star Trek: Lower Decks (3x09:924B) Trusted Sources'
+- 'Star Trek: Lower Decks (3x10:924B) The Stars at Night'
+- 'Star Trek: Lower Decks (4x01:925B) Twovix'
+- 'Star Trek: Lower Decks (4x02:925B) I Have No Bones Yet I Must Flee'
+- 'Star Trek: Lower Decks (4x03:925B) In the Cradle of Vexilon'
+- 'Star Trek: Lower Decks (4x04:925B) Something Borrowed, Something Green'
+- 'Star Trek: Lower Decks (4x05:925B) Empathological Fallacies'
+- 'Star Trek: Lower Decks (4x06:926B) Parth Ferengi''s Heart Place'
+- 'Star Trek: Lower Decks (4x07:926B) A Few Badgeys More'
+- 'Star Trek: Lower Decks (4x08:926B) Caves'
+- 'Star Trek: Lower Decks (4x09:926B) The Inner Fight'
+- 'Star Trek: Lower Decks (4x10:926B) Old Friends, New Planets'
+- 'Star Trek: Lower Decks (5x01:1C) Dos Cerritos'
+- 'Star Trek: Lower Decks (5x02:1C) Shades of Green'
+- 'Star Trek: Lower Decks (5x03:1C) The Best Exotic Nanite Hotel'
+- 'Star Trek: Lower Decks (5x04:1C) A Farewell to Farms'
+- 'Star Trek: Lower Decks (5x05:1C) Starbase 80?!'
+- 'Star Trek: Lower Decks (5x06:2C) Of Gods and Angles'
+- 'Star Trek: Lower Decks (5x07:2C) Fully Dilated'
+- 'Star Trek: Lower Decks (5x08:2C) Upper Decks'
+- 'Star Trek: Lower Decks (5x09:2C) Fissure Quest'
+- 'Star Trek: Lower Decks (5x10:2C) The New Next Generation'
+- Star Trek (1:1D) Strange New Worlds
+- 'Star Trek: Strange New Worlds (2:1D) Children of the Comet'
+- 'Star Trek: Strange New Worlds (3:1D) Ghost of Illyria'
+- 'Star Trek: Strange New Worlds (4:1D) Memento Mori'
+- 'Star Trek: Strange New Worlds (5:2D) Spock Amok'
+- 'Star Trek: Strange New Worlds (6:2D) Lift Us Where Suffering Cannot Reach'
+- 'Star Trek: Strange New Worlds (7:2D) The Serene Squall'
+- 'Star Trek: Strange New Worlds (8:2D) The Elysian Kingdom'
+- 'Star Trek: Strange New Worlds (9:3D) All Those Who Wander'
+- 'Star Trek: Strange New Worlds (10:3D) A Quality of Mercy'
+- 'Star Trek: Strange New Worlds (2x01:361B) The Broken Circle'
+- 'Star Trek: Strange New Worlds (2x02:361B) Ad Astra Per Aspera'
+- 'Star Trek: Strange New Worlds (2x03:361B) Tomorrow and Tomorrow and Tomorrow'
+- 'Star Trek: Strange New Worlds (2x04:362B) Among the Lotus Eaters'
+- 'Star Trek: Strange New Worlds (2x05:362B) Charades'
+- 'Star Trek: Strange New Worlds (2x06:362B) Lost in Translation'
+- 'Star Trek: Strange New Worlds (2x07:363B) Those Old Scientists'
+- 'Star Trek: Strange New Worlds (2x08:363B) Under the Cloak of War'
+- 'Star Trek: Strange New Worlds (2x09:363B) Subspace Rhapsody'
+- 'Star Trek: Strange New Worlds (2x10:364B) Hegemony'
+- 'Star Trek: Prodigy (1x01:931B) Lost and Found'
+- 'Star Trek: Prodigy (1x02:931B) Starstruck'
+- 'Star Trek: Prodigy (1x03:931B) Dream Catcher'
+- 'Star Trek: Prodigy (1x04:931B) Terror Firma'
+- 'Star Trek: Prodigy (1x05:931B) Kobayashi'
+- 'Star Trek: Prodigy (1x06:931B) First Con-tact'
+- 'Star Trek: Prodigy (1x07:932B) Time Amok'
+- 'Star Trek: Prodigy (1x08\2:932B) A Moral Star'
+- 'Star Trek: Prodigy (1x10:933B) Asylum'
+- 'Star Trek: Prodigy (1x11:933B) Let Sleeping Borg Lie'
+- 'Star Trek: Prodigy (1x12:933B) All the World''s a Stage'
+- 'Star Trek: Prodigy (1x13:933B) Crossroads'
+- 'Star Trek: Prodigy (1x14:933B) Masquerade'
+- 'Star Trek: Prodigy (1x15:933B) Preludes'
+- 'Star Trek: Prodigy (1x16:934B) Ghost in the Machine'
+- 'Star Trek: Prodigy (1x17:934B) Mindwalk'
+- 'Star Trek: Prodigy (1x18\2:934B) Supernova'
+- 'Star Trek: Prodigy (2x01:1C) Into the Breach'
+- 'Star Trek: Prodigy (2x03:1C) Who Saves the Saviors'
+- 'Star Trek: Prodigy (2x04:1C) Temporal Mechanics 101'
+- 'Star Trek: Prodigy (2x05:1C) Observer''s Paradox'
+- 'Star Trek: Prodigy (2x06:1C) Imposter Syndrome'
+- 'Star Trek: Prodigy (2x07:1C) The Fast and the Curious'
+- 'Star Trek: Prodigy (2x08:2C) Is There in Beauty No Truth?'
+- 'Star Trek: Prodigy (2x09\2:2C) The Devourer of All Things'
+- 'Star Trek: Prodigy (2x11\2:2C) Last Flight of the Protostar'
+- 'Star Trek: Prodigy (2x13:2C) A Tribble Called Quest'
+- 'Star Trek: Prodigy (2x14:2C) Cracked Mirror'
+- 'Star Trek: Prodigy (2x15\2:3C) Ascension'
+- 'Star Trek: Prodigy (2x17:3C) Brink'
+- 'Star Trek: Prodigy (2x18:3C) Touch of Grey'
+- 'Star Trek: Prodigy (2x19:3C) Ouroboros'
+- Star Wars (A) Rogue One
+- Star Wars (A) Solo
+- 'Star Wars (1:A) Episode I: The Phantom Menace'
+- 'Star Wars (2:A) Episode II: Attack of the Clones'
+- 'Star Wars (3:A) Episode III: Revenge of the Sith'
+- 'Star Wars (4:A) Episode IV: A New Hope'
+- 'Star Wars (5:A) Episode V: The Empire Strikes Back'
+- 'Star Wars (6:A) Episode VI: Return of the Jedi'
+- 'Star Wars (7:A) Episode VII: The Force Awakens'
+- 'Star Wars (8:A) Episode VIII: The Last Jedi'
+- 'Star Wars (9:A) Episode IX: The Rise of Skywalker'
+- (72F) Stardust
+- (P) Stargate
+- 'Stargate: SG‑1 (1x01:1P) Children of the Gods'
+- 'Stargate: SG‑1 (1x02:1P) The Enemy Within'
+- 'Stargate: SG‑1 (1x03:1P) Emancipation'
+- 'Stargate: SG‑1 (1x04:2P) The Broca Divide'
+- 'Stargate: SG‑1 (1x05:2P) The First Commandment'
+- 'Stargate: SG‑1 (1x06:2P) Cold Lazarus'
+- 'Stargate: SG‑1 (1x07:2P) The Nox'
+- 'Stargate: SG‑1 (1x08:2P) Brief Candle'
+- 'Stargate: SG‑1 (1x09:3P) Thor’s Hammer'
+- 'Stargate: SG‑1 (1x10:3P) The Torment of Tantalus'
+- 'Stargate: SG‑1 (1x11:3P) Bloodlines'
+- 'Stargate: SG‑1 (1x12:3P) Fire and Water'
+- 'Stargate: SG‑1 (1x13:3P) Hathor'
+- 'Stargate: SG‑1 (1x14:4P) Singularity'
+- 'Stargate: SG‑1 (1x15:4P) Cor‑Ai'
+- 'Stargate: SG‑1 (1x16:4P) Enigma'
+- 'Stargate: SG‑1 (1x17:4P) Solitudes'
+- 'Stargate: SG‑1 (1x18:5P) Tin Man'
+- 'Stargate: SG‑1 (1x19:5P) There But For the Grace of God'
+- 'Stargate: SG‑1 (1x20:5P) Politics'
+- 'Stargate: SG‑1 (1x21:5P) Within the Serpent’s Grasp'
+- 'Stargate: SG‑1 (2x01:1P) The Serpent’s Lair'
+- 'Stargate: SG‑1 (2x02:1P) In the Line of Duty'
+- 'Stargate: SG‑1 (2x03:1P) Prisoners'
+- 'Stargate: SG‑1 (2x04:1P) The Gamekeeper'
+- 'Stargate: SG‑1 (2x05:2P) Need'
+- 'Stargate: SG‑1 (2x06:2P) Thor’s Chariot'
+- 'Stargate: SG‑1 (2x07:2P) Message in a Bottle'
+- 'Stargate: SG‑1 (2x08:2P) Family'
+- 'Stargate: SG‑1 (2x09:3P) Secrets'
+- 'Stargate: SG‑1 (2x10:3P) Bane'
+- 'Stargate: SG‑1 (2x11\2:3P) The Tok’ra'
+- 'Stargate: SG‑1 (2x12:3P) Spirits'
+- 'Stargate: SG‑1 (2x14:4P) Touchstone'
+- 'Stargate: SG‑1 (2x15:4P) A Matter of Time'
+- 'Stargate: SG‑1 (2x16:4P) The Fifth Race'
+- 'Stargate: SG‑1 (2x17:5P) Serpent’s Song'
+- 'Stargate: SG‑1 (2x18:5P) Holiday'
+- 'Stargate: SG‑1 (2x19:5P) One False Step'
+- 'Stargate: SG‑1 (2x20:5P) Show and Tell'
+- 'Stargate: SG‑1 (2x21:6P) 1969'
+- 'Stargate: SG‑1 (2x22:6P) Out of Mind'
+- 'Stargate: SG‑1 (3x01:1P) Into the Fire'
+- 'Stargate: SG‑1 (3x02:1P) Seth'
+- 'Stargate: SG‑1 (3x03:1P) Fair Game'
+- 'Stargate: SG‑1 (3x04:1P) Legacy'
+- 'Stargate: SG‑1 (3x05:2P) Learning Curve'
+- 'Stargate: SG‑1 (3x06:2P) Point of View'
+- 'Stargate: SG‑1 (3x07:2P) Deadman Switch'
+- 'Stargate: SG‑1 (3x08:2P) Demons'
+- 'Stargate: SG‑1 (3x09:3P) Rules of Engagement'
+- 'Stargate: SG‑1 (3x10:3P) Forever in a Day'
+- 'Stargate: SG‑1 (3x11:3P) Past and Present'
+- 'Stargate: SG‑1 (3x12:3P) Jolinar’s Memories'
+- 'Stargate: SG‑1 (3x13:4P) The Devil You Know'
+- 'Stargate: SG‑1 (3x14:4P) Foothold'
+- 'Stargate: SG‑1 (3x15:4P) Pretense'
+- 'Stargate: SG‑1 (3x16:4P) Urgo'
+- 'Stargate: SG‑1 (3x17:5P) A Hundred Days'
+- 'Stargate: SG‑1 (3x18:5P) Shades of Grey'
+- 'Stargate: SG‑1 (3x19:5P) New Ground'
+- 'Stargate: SG‑1 (3x20:5P) Maternal Instinct'
+- 'Stargate: SG‑1 (3x21:6P) Crystal Skull'
+- 'Stargate: SG‑1 (3x22:6P) Nemesis'
+- 'Stargate: SG‑1 (4x01:1P) Small Victories'
+- 'Stargate: SG‑1 (4x02:1P) The Other Side'
+- 'Stargate: SG‑1 (4x03:1P) Upgrades'
+- 'Stargate: SG‑1 (4x04:1P) Crossroads'
+- 'Stargate: SG‑1 (4x05:2P) Divide and Conquer'
+- 'Stargate: SG‑1 (4x06:2P) Window of Opportunity'
+- 'Stargate: SG‑1 (4x07:2P) Watergate'
+- 'Stargate: SG‑1 (4x08:2P) The First Ones'
+- 'Stargate: SG‑1 (4x09:3P) Scorched Earth'
+- 'Stargate: SG‑1 (4x10:3P) Beneath the Surface'
+- 'Stargate: SG‑1 (4x11:3P) Point of No Return'
+- 'Stargate: SG‑1 (4x12:3P) Tangent'
+- 'Stargate: SG‑1 (4x13:4P) The Curse'
+- 'Stargate: SG‑1 (4x14:4P) The Serpent’s Venom'
+- 'Stargate: SG‑1 (4x15:4P) Chain Reaction'
+- 'Stargate: SG‑1 (4x16:4P) 2010'
+- 'Stargate: SG‑1 (4x17:5P) Absolute Power'
+- 'Stargate: SG‑1 (4x18:5P) The Light'
+- 'Stargate: SG‑1 (4x19:5P) Prodigy'
+- 'Stargate: SG‑1 (4x20:5P) Entity'
+- 'Stargate: SG‑1 (4x21:6P) Double Jeopardy'
+- 'Stargate: SG‑1 (4x22:6P) Exodus'
+- 'Stargate: SG‑1 (5x01:1P) Enemies'
+- 'Stargate: SG‑1 (5x02:1P) Threshold'
+- 'Stargate: SG‑1 (5x03:1P) Ascension'
+- 'Stargate: SG‑1 (5x04:1P) The Fifth Man'
+- 'Stargate: SG‑1 (5x05:2P) Red Sky'
+- 'Stargate: SG‑1 (5x06:2P) Rite of Passage'
+- 'Stargate: SG‑1 (5x07:2P) Beast of Burden'
+- 'Stargate: SG‑1 (5x08:2P) The Tomb'
+- 'Stargate: SG‑1 (5x09:3P) Between Two Fires'
+- 'Stargate: SG‑1 (5x10:3P) 2001'
+- 'Stargate: SG‑1 (5x11:3P) Desperate Measures'
+- 'Stargate: SG‑1 (5x12:3P) Wormhole X‑Treme!'
+- 'Stargate: SG‑1 (5x13:4P) Proving Ground'
+- 'Stargate: SG‑1 (5x14:4P) 48 Hours'
+- 'Stargate: SG‑1 (5x15:4P) Summit'
+- 'Stargate: SG‑1 (5x16:4P) Last Stand'
+- 'Stargate: SG‑1 (5x17:5P) Fail Safe'
+- 'Stargate: SG‑1 (5x18:5P) The Warrior'
+- 'Stargate: SG‑1 (5x19:5P) Menace'
+- 'Stargate: SG‑1 (5x20:5P) The Sentinel'
+- 'Stargate: SG‑1 (5x21:6P) Meridian'
+- 'Stargate: SG‑1 (5x22:6P) Revelations'
+- 'Stargate: SG‑1 (6x01\2:1P) Redemption'
+- 'Stargate: SG‑1 (6x02:1P) Descent'
+- 'Stargate: SG‑1 (6x04:1P) Frozen'
+- 'Stargate: SG‑1 (6x05:2P) Nightwalkers'
+- 'Stargate: SG‑1 (6x06:2P) Abyss'
+- 'Stargate: SG‑1 (6x07:2P) Shadow Play'
+- 'Stargate: SG‑1 (6x08:2P) The Other Guys'
+- 'Stargate: SG‑1 (6x09:3P) Allegiance'
+- 'Stargate: SG‑1 (6x10:3P) Cure'
+- 'Stargate: SG‑1 (6x11:3P) Prometheus'
+- 'Stargate: SG‑1 (6x12:3P) Unnatural Selection'
+- 'Stargate: SG‑1 (6x13:4P) Sight Unseen'
+- 'Stargate: SG‑1 (6x14:4P) Smoke and Mirrors'
+- 'Stargate: SG‑1 (6x15:4P) Paradise Lost'
+- 'Stargate: SG‑1 (6x16:4P) Metamorphosis'
+- 'Stargate: SG‑1 (6x17:5P) Disclosure'
+- 'Stargate: SG‑1 (6x18:5P) Forsaken'
+- 'Stargate: SG‑1 (6x19:5P) The Changeling'
+- 'Stargate: SG‑1 (6x20:5P) Memento'
+- 'Stargate: SG‑1 (6x21:6P) Prophecy'
+- 'Stargate: SG‑1 (6x22:6P) Full Circle'
+- 'Stargate: SG‑1 (7x01:1P) Fallen'
+- 'Stargate: SG‑1 (7x02:1P) Homecoming'
+- 'Stargate: SG‑1 (7x03:1P) Fragile Balance'
+- 'Stargate: SG‑1 (7x04:1P) Orpheus'
+- 'Stargate: SG‑1 (7x05:2P) Revisions'
+- 'Stargate: SG‑1 (7x06:2P) Lifeboat'
+- 'Stargate: SG‑1 (7x07:2P) Enemy Mine'
+- 'Stargate: SG‑1 (7x08:2P) Space Race'
+- 'Stargate: SG‑1 (7x09:3P) Avenger 2.0'
+- 'Stargate: SG‑1 (7x10:3P) Birthright'
+- 'Stargate: SG‑1 (7x11\2:3P) Evolution'
+- 'Stargate: SG‑1 (7x12:4P) Grace'
+- 'Stargate: SG‑1 (7x14:4P) Fallout'
+- 'Stargate: SG‑1 (7x15:4P) Chimera'
+- 'Stargate: SG‑1 (7x16:4P) Death Knell'
+- 'Stargate: SG‑1 (7x17\2:5.1P) Heroes'
+- 'Stargate: SG‑1 (7x18:5.1P) Resurrection'
+- 'Stargate: SG‑1 (7x20:5.1P) Inauguration'
+- 'Stargate: SG‑1 (7x21:5.2P) Lost City'
+- 'Stargate: SG‑1 (8x01:1P) New Order'
+- 'Stargate: SG‑1 (8x02:1P) Lockdown'
+- 'Stargate: SG‑1 (8x03:1P) Zero Hour'
+- 'Stargate: SG‑1 (8x04:2P) Icon'
+- 'Stargate: SG‑1 (8x05:2P) Avatar'
+- 'Stargate: SG‑1 (8x06:2P) Affinity'
+- 'Stargate: SG‑1 (8x07:2P) Covenant'
+- 'Stargate: SG‑1 (8x08:3P) Sacrifices'
+- 'Stargate: SG‑1 (8x09:3P) Endgame'
+- 'Stargate: SG‑1 (8x10:3P) <i>Prometheus</i> Unbound'
+- 'Stargate: SG‑1 (8x11:4P) Gemini'
+- 'Stargate: SG‑1 (8x12:4P) It’s Good to be King'
+- 'Stargate: SG‑1 (8x13:4P) Full Alert'
+- 'Stargate: SG‑1 (8x14\2:5P) Reckoning'
+- 'Stargate: SG‑1 (8x16:5P) Threads'
+- 'Stargate: SG‑1 (8x17:6P) Citizen Joe'
+- 'Stargate: SG‑1 (8x18\2:6P) Moebius'
+- 'Stargate: SG‑1 (9x01\2:1P) Avalon'
+- 'Stargate: SG‑1 (9x02:1P) Origin'
+- 'Stargate: SG‑1 (9x04:1P) The Ties That Bind'
+- 'Stargate: SG‑1 (9x05:2P) The Powers That Be'
+- 'Stargate: SG‑1 (9x06:2P) Beachhead'
+- 'Stargate: SG‑1 (9x07:2P) Ex Deus Machina'
+- 'Stargate: SG‑1 (9x08:2P) Babylon'
+- 'Stargate: SG‑1 (9x09:3P) Prototype'
+- 'Stargate: SG‑1 (9x10\2:3P) The Fourth Horseman'
+- 'Stargate: SG‑1 (9x12:4P) Collateral Damage'
+- 'Stargate: SG‑1 (9x13:4P) Ripple Effect'
+- 'Stargate: SG‑1 (9x14:4P) Stronghold'
+- 'Stargate: SG‑1 (9x15:5P) Ethon'
+- 'Stargate: SG‑1 (9x16:5P) Off the Grid'
+- 'Stargate: SG‑1 (9x17:5P) The Scourge'
+- 'Stargate: SG‑1 (9x18:6P) Arthur’s Mantle'
+- 'Stargate: SG‑1 (9x19:6P) Crusade'
+- 'Stargate: SG‑1 (9x20:6P) Camelot'
+- 'Stargate: SG‑1 (10x01:50P) Flesh and Blood'
+- 'Stargate: SG‑1 (10x02:50P) Morpheus'
+- 'Stargate: SG‑1 (10x03:50P) The Pegasus Project'
+- 'Stargate: SG‑1 (10x04:50P) Insiders'
+- 'Stargate: SG‑1 (10x05:51P) Uninvited'
+- 'Stargate: SG‑1 (10x06:51P) 200'
+- 'Stargate: SG‑1 (10x07:51P) Counterstrike'
+- 'Stargate: SG‑1 (10x08:51P) Memento Mori'
+- 'Stargate: SG‑1 (10x09:52P) Company of Thieves'
+- 'Stargate: SG‑1 (10x10\2:52P) The Quest'
+- 'Stargate: SG‑1 (10x11:52P) Line in the Sand'
+- 'Stargate: SG‑1 (10x12:53P) The Road Not Taken'
+- 'Stargate: SG‑1 (10x13:53P) The Shroud'
+- 'Stargate: SG‑1 (10x14:53P) Bounty'
+- 'Stargate: SG‑1 (10x15:53P) Bad Guys'
+- 'Stargate: SG‑1 (10x16:54P) Talion'
+- 'Stargate: SG‑1 (10x17:54P) Family Ties'
+- 'Stargate: SG‑1 (10x18:54P) Dominion'
+- 'Stargate: SG‑1 (10x19:54P) Unending'
+- 'Stargate: SG‑1 (11:P) The Ark of Truth'
+- 'Stargate: SG‑1 (11:P) Continuum'
+- 'Stargate: Atlantis (1x01:1P) Rising'
+- 'Stargate: Atlantis (1x02:1P) Hide and Seek'
+- 'Stargate: Atlantis (1x03:1P) Thirty Eight Minutes'
+- 'Stargate: Atlantis (1x04:2P) Suspicion'
+- 'Stargate: Atlantis (1x05:2P) Childhood’s End'
+- 'Stargate: Atlantis (1x06:2P) Poisoning the Well'
+- 'Stargate: Atlantis (1x07:3P) Underground'
+- 'Stargate: Atlantis (1x08:2P) Home'
+- 'Stargate: Atlantis (1x09:3P) The Storm'
+- 'Stargate: Atlantis (1x10:3P) The Eye'
+- 'Stargate: Atlantis (1x11:3P) The Defiant One'
+- 'Stargate: Atlantis (1x12:4P) Hot Zone'
+- 'Stargate: Atlantis (1x13:4P) Sanctuary'
+- 'Stargate: Atlantis (1x14:4P) Before I Sleep'
+- 'Stargate: Atlantis (1x15:4P) The Brotherhood'
+- 'Stargate: Atlantis (1x16:5P) Letters from Pegasus'
+- 'Stargate: Atlantis (1x17:5P) The Gift'
+- 'Stargate: Atlantis (1x18\3:5P) The Siege'
+- 'Stargate: Atlantis (2x01:1P) The Intruder'
+- 'Stargate: Atlantis (2x03:1P) Runner'
+- 'Stargate: Atlantis (2x04:1P) Duet'
+- 'Stargate: Atlantis (2x05:2P) Condemned'
+- 'Stargate: Atlantis (2x06:2P) Trinity'
+- 'Stargate: Atlantis (2x07:2P) Instinct'
+- 'Stargate: Atlantis (2x08:2P) Conversion'
+- 'Stargate: Atlantis (2x09:3P) Aurora'
+- 'Stargate: Atlantis (2x10:3P) The Lost Boys'
+- 'Stargate: Atlantis (2x11:3P) The Hive'
+- 'Stargate: Atlantis (2x12:3P) Epiphany'
+- 'Stargate: Atlantis (2x13:4P) Critical Mass'
+- 'Stargate: Atlantis (2x14:4P) Grace Under Pressure'
+- 'Stargate: Atlantis (2x15:4P) The Tower'
+- 'Stargate: Atlantis (2x16:4P) The Long Goodbye'
+- 'Stargate: Atlantis (2x17:5P) Coup D’Etat'
+- 'Stargate: Atlantis (2x18:5P) Michael'
+- 'Stargate: Atlantis (2x19:5P) Inferno'
+- 'Stargate: Atlantis (2x20:5P) Allies'
+- 'Stargate: Atlantis (3x01:1P) No Man’s Land'
+- 'Stargate: Atlantis (3x03:1P) Irresistible'
+- 'Stargate: Atlantis (3x04:1P) Sateda'
+- 'Stargate: Atlantis (3x05:2P) Progeny'
+- 'Stargate: Atlantis (3x06:2P) The Real World'
+- 'Stargate: Atlantis (3x07:2P) Common Ground'
+- 'Stargate: Atlantis (3x08:2P) McKay and Mrs Miller'
+- 'Stargate: Atlantis (3x09:3P) Phantoms'
+- 'Stargate: Atlantis (3x10\2:3P) The Return'
+- 'Stargate: Atlantis (3x11:3P) Echoes'
+- 'Stargate: Atlantis (3x13:4P) Irresponsible'
+- 'Stargate: Atlantis (3x14:4P) Tao of Rodney'
+- 'Stargate: Atlantis (3x15:4P) The Game'
+- 'Stargate: Atlantis (3x16:4P) The Ark'
+- 'Stargate: Atlantis (3x17:5P) Sunday'
+- 'Stargate: Atlantis (3x18:5P) Submersion'
+- 'Stargate: Atlantis (3x19:5P) Vengeance'
+- 'Stargate: Atlantis (3x20:5P) First Strike'
+- 'Stargate: Atlantis (3x22:1P) Misbegotten'
+- 'Stargate: Atlantis (4x01:1P) Adrift'
+- 'Stargate: Atlantis (4x02:1P) Lifeline'
+- 'Stargate: Atlantis (4x03:1P) Reunion'
+- 'Stargate: Atlantis (4x04:1P) Doppelgänger'
+- 'Stargate: Atlantis (4x05:2P) Travelers'
+- 'Stargate: Atlantis (4x06:2P) Tabula Rasa'
+- 'Stargate: Atlantis (4x07:2P) Missing'
+- 'Stargate: Atlantis (4x08:2P) The Seer'
+- 'Stargate: Atlantis (4x09:3P) Miller’s Crossing'
+- 'Stargate: Atlantis (4x10:3P) This Mortal Coil'
+- 'Stargate: Atlantis (4x11:3P) Be All My Sins Remember’d'
+- 'Stargate: Atlantis (4x12:3P) Spoils of War'
+- 'Stargate: Atlantis (4x13:4P) Quarantine'
+- 'Stargate: Atlantis (4x14:4P) Harmony'
+- 'Stargate: Atlantis (4x15:4P) Outcast'
+- 'Stargate: Atlantis (4x16:4P) Trio'
+- 'Stargate: Atlantis (4x17:5P) Midway'
+- 'Stargate: Atlantis (4x18\2:5P) The Kindred'
+- 'Stargate: Atlantis (4x20:5P) The Last Man'
+- 'Stargate: Atlantis (5x01:1P) Search and Rescue'
+- 'Stargate: Atlantis (5x02:1P) The Seed'
+- 'Stargate: Atlantis (5x03:1P) Broken Ties'
+- 'Stargate: Atlantis (5x04:1P) The <i>Daedalus</i> Variations'
+- 'Stargate: Atlantis (5x05:2P) Ghost in the Machine'
+- 'Stargate: Atlantis (5x06:2P) The Shrine'
+- 'Stargate: Atlantis (5x07:2P) Whispers'
+- 'Stargate: Atlantis (5x08:2P) The Queen'
+- 'Stargate: Atlantis (5x09:3P) Tracker'
+- 'Stargate: Atlantis (5x10:3P) First Contact'
+- 'Stargate: Atlantis (5x11:3P) The Lost Tribe'
+- 'Stargate: Atlantis (5x12:3P) Outsiders'
+- 'Stargate: Atlantis (5x13:4P) Inquisition'
+- 'Stargate: Atlantis (5x14:4P) The Prodigal'
+- 'Stargate: Atlantis (5x15:4P) Remnants'
+- 'Stargate: Atlantis (5x16:4P) Brain Storm'
+- 'Stargate: Atlantis (5x17:5P) Infection'
+- 'Stargate: Atlantis (5x18:5P) Identity'
+- 'Stargate: Atlantis (5x19:5P) Vegas'
+- 'Stargate: Atlantis (5x20:5P) Enemy at the Gate'
+- 'Stargate: Universe (1x01\3:1P) Air'
+- 'Stargate: Universe (1x04:1P) Darkness'
+- 'Stargate: Universe (1x05:2P) Light'
+- 'Stargate: Universe (1x06:2P) Water'
+- 'Stargate: Universe (1x07:2P) Earth'
+- 'Stargate: Universe (1x08:2P) Time'
+- 'Stargate: Universe (1x09:3P) Life'
+- 'Stargate: Universe (1x10:3P) Justice'
+- 'Stargate: Universe (1x11:3P) Space'
+- 'Stargate: Universe (1x12:3P) Divided'
+- 'Stargate: Universe (1x13:4P) Faith'
+- 'Stargate: Universe (1x14:4P) Human'
+- 'Stargate: Universe (1x15:4P) Lost'
+- 'Stargate: Universe (1x16:4P) Sabotage'
+- 'Stargate: Universe (1x17:5P) Pain'
+- 'Stargate: Universe (1x18:5P) Subversion'
+- 'Stargate: Universe (1x19\2:5P) Incursion'
+- 'Stargate: Universe (2x01:1P) Intervention'
+- 'Stargate: Universe (2x02:1P) Aftermath'
+- 'Stargate: Universe (2x03:1P) Awakenings'
+- 'Stargate: Universe (2x04:1P) Pathogen'
+- 'Stargate: Universe (2x05:2P) Cloverdale'
+- 'Stargate: Universe (2x06:2P) Trial and Error'
+- 'Stargate: Universe (2x07:2P) The Greater Good'
+- 'Stargate: Universe (2x08:2P) Malice'
+- 'Stargate: Universe (2x09:3P) Visitation'
+- 'Stargate: Universe (2x10:3P) Resurgence'
+- 'Stargate: Universe (2x11:3P) Deliverance'
+- 'Stargate: Universe (2x12:3P) Twin Destinies'
+- 'Stargate: Universe (2x13:4P) Alliances'
+- 'Stargate: Universe (2x14:4P) Hope'
+- 'Stargate: Universe (2x15:4P) Seizure'
+- 'Stargate: Universe (2x16:4P) The Hunt'
+- 'Stargate: Universe (2x17:5P) Common Descent'
+- 'Stargate: Universe (2x18:5P) Epilogue'
+- 'Stargate: Universe (2x19:5P) Blockade'
+- 'Stargate: Universe (2x20:5P) Gauntlet'
+- (55F) Stripes
+- (1B) Superman
+- Superman (2:2B) II The Richard Donner Cut
+- (1x01:27B) Smallville
 - Smallville (1x02:27B) Metamorphosis
 - Smallville (1x03:27B) Hothead
-- Smallville (1x04:27B) X-Ray
+- Smallville (1x04:27B) X‑Ray
 - Smallville (1x05:28B) Cool
 - Smallville (1x06:28B) Hourglass
 - Smallville (1x07:28B) Craving
@@ -1844,7 +7670,7 @@ text:
 - Smallville (3x22:44B) Covenant
 - Smallville (4x01:45B) Crusade
 - Smallville (4x02:45B) Gone
-- Smallville (4x03:45B) Fa?ade
+- Smallville (4x03:45B) Façade
 - Smallville (4x04:45B) Devoted
 - Smallville (4x05:46B) Run
 - Smallville (4x06:46B) Transference
@@ -1992,4240 +7818,428 @@ text:
 - Smallville (10x19:85B) Dominion
 - Smallville (10x20:86B) Prophecy
 - Smallville (10x21:86B) Finale
-- 'Lois & Clark: The New Adventures of Superman (1x01:1B)'
-- 'Lois & Clark: The New Adventures of Superman (1x02:1B) Strange Visitor (from Another Planet)'
-- 'Lois & Clark: The New Adventures of Superman (1x03:2B) Neverending Battle'
-- 'Lois & Clark: The New Adventures of Superman (1x04:2B) I’m Looking Through You'
-- 'Lois & Clark: The New Adventures of Superman (1x05:2B) Requiem for a Superhero'
-- 'Lois & Clark: The New Adventures of Superman (1x06:2B) I’ve Got a Crush on You'
-- 'Lois & Clark: The New Adventures of Superman (1x07:3B) Smart Kids'
-- 'Lois & Clark: The New Adventures of Superman (1x08:3B) The Green, Green Glow of Home'
-- 'Lois & Clark: The New Adventures of Superman (1x09:3B) The Man of Steel Bars'
-- 'Lois & Clark: The New Adventures of Superman (1x10:3B) Pheromone, My Lovely'
-- 'Lois & Clark: The New Adventures of Superman (1x11:4B) Honeymoon in Metropolis'
-- 'Lois & Clark: The New Adventures of Superman (1x12:4B) All Shook Up'
-- 'Lois & Clark: The New Adventures of Superman (1x13:4B) Witness'
-- 'Lois & Clark: The New Adventures of Superman (1x14:4B) Illusions of Grandeur'
-- 'Lois & Clark: The New Adventures of Superman (1x15:5B) The Ides of Metropolis'
-- 'Lois & Clark: The New Adventures of Superman (1x16:5B) Foundling'
-- 'Lois & Clark: The New Adventures of Superman (1x17:5B) The Rival'
-- 'Lois & Clark: The New Adventures of Superman (1x18:5B) Vatman'
-- 'Lois & Clark: The New Adventures of Superman (1x19:6B) Fly Hard'
-- 'Lois & Clark: The New Adventures of Superman (1x20:6B) Barbarians at the Planet'
-- 'Lois & Clark: The New Adventures of Superman (1x21:6B) The House of Luthor'
-- 'Lois & Clark: The New Adventures of Superman (2x01:1B) Madame Ex'
-- 'Lois & Clark: The New Adventures of Superman (2x02:1B) Wall of Sound'
-- 'Lois & Clark: The New Adventures of Superman (2x03:1B) The Source'
-- 'Lois & Clark: The New Adventures of Superman (2x04:1B) The Prankster'
-- 'Lois & Clark: The New Adventures of Superman (2x05:2B) Church of Metropolis'
-- 'Lois & Clark: The New Adventures of Superman (2x06:2B) Operation Blackout'
-- 'Lois & Clark: The New Adventures of Superman (2x07:2B) That Old Gang of Mine'
-- 'Lois & Clark: The New Adventures of Superman (2x08:2B) A Bolt from the Blue'
-- 'Lois & Clark: The New Adventures of Superman (2x09:3B) Season’s Greedings'
-- 'Lois & Clark: The New Adventures of Superman (2x10:3B) Metallo'
-- 'Lois & Clark: The New Adventures of Superman (2x11:3B) Chi of Steel'
-- 'Lois & Clark: The New Adventures of Superman (2x12:4B) The Eyes Have It'
-- 'Lois & Clark: The New Adventures of Superman (2x13:4B) The Phoenix'
-- 'Lois & Clark: The New Adventures of Superman (2x14:4B) Top Copy'
-- 'Lois & Clark: The New Adventures of Superman (2x15:4B) Return of the Prankster'
-- 'Lois & Clark: The New Adventures of Superman (2x16:5B) Lucky Leon'
-- 'Lois & Clark: The New Adventures of Superman (2x17:5B) Resurrection'
-- 'Lois & Clark: The New Adventures of Superman (2x18:5B) Tempus Fugitive'
-- 'Lois & Clark: The New Adventures of Superman (2x19:5B) Target: Jimmy Olsen'
-- 'Lois & Clark: The New Adventures of Superman (2x20:6B) Individual Responsibility'
-- 'Lois & Clark: The New Adventures of Superman (2x21:6B) Whine, Whine, Whine'
-- 'Lois & Clark: The New Adventures of Superman (2x22:6B) And the Answer Is?'
-- 'Lois & Clark: The New Adventures of Superman (3x01:1B) We Have a Lot to Talk About'
-- 'Lois & Clark: The New Adventures of Superman (3x02:1B) Ordinary People'
-- 'Lois & Clark: The New Adventures of Superman (3x03:1B) Contact'
-- 'Lois & Clark: The New Adventures of Superman (3x04:1B) When Irish Eyes are Killing'
-- 'Lois & Clark: The New Adventures of Superman (3x05:2B) Just Say Noah'
-- 'Lois & Clark: The New Adventures of Superman (3x06:2B) Don’t Tug on Superman’s Cape'
-- 'Lois & Clark: The New Adventures of Superman (3x07:2B) Ultra Woman'
-- 'Lois & Clark: The New Adventures of Superman (3x08:2B) Chip Off the Old Clark'
-- 'Lois & Clark: The New Adventures of Superman (3x09:3B) Super Mann'
-- 'Lois & Clark: The New Adventures of Superman (3x10:3B) Virtually Destroyed'
-- 'Lois & Clark: The New Adventures of Superman (3x11:3B) Home is Where the Hurt Is'
-- 'Lois & Clark: The New Adventures of Superman (3x12:3B) Never on Sunday'
-- 'Lois & Clark: The New Adventures of Superman (3x13:4B) The Dad Who Came in from the Cold'
-- 'Lois & Clark: The New Adventures of Superman (3x14:4B) Tempus, Anyone?'
-- 'Lois & Clark: The New Adventures of Superman (3x15:4B) I Now Pronounce You?'
-- 'Lois & Clark: The New Adventures of Superman (3x16:4B) Double Jeopardy'
-- 'Lois & Clark: The New Adventures of Superman (3x17:5B) Seconds'
-- 'Lois & Clark: The New Adventures of Superman (3x18:5B) Forget Me Not'
-- 'Lois & Clark: The New Adventures of Superman (3x19:5B) Oedipus Wrecks'
-- 'Lois & Clark: The New Adventures of Superman (3x20:5B) It’s a Small World After All'
-- 'Lois & Clark: The New Adventures of Superman (3x21:6B) Through a Glass, Darkly'
-- 'Lois & Clark: The New Adventures of Superman (3x22:6B) Big Girls Don’t Fly'
-- 'Lois & Clark: The New Adventures of Superman (4x01:1B) Lord of the Flys'
-- 'Lois & Clark: The New Adventures of Superman (4x02:1B) Battleground Earth'
-- 'Lois & Clark: The New Adventures of Superman (4x03:1B) Swear to God, This Time We’re Not Kidding'
-- 'Lois & Clark: The New Adventures of Superman (4x04:1B) Soul Mates'
-- 'Lois & Clark: The New Adventures of Superman (4x05:2B) Brutal Youth'
-- 'Lois & Clark: The New Adventures of Superman (4x06:2B) The People v. Lois Lane'
-- 'Lois & Clark: The New Adventures of Superman (4x07:2B) Dead Lois Walking'
-- 'Lois & Clark: The New Adventures of Superman (4x08:2B) Bob and Carol and Lois and Clark'
-- 'Lois & Clark: The New Adventures of Superman (4x09:3B) Ghosts'
-- 'Lois & Clark: The New Adventures of Superman (4x10:3B) Stop the Presses'
-- 'Lois & Clark: The New Adventures of Superman (4x11:3B) Twas the Night Before Mxymas'
-- 'Lois & Clark: The New Adventures of Superman (4x12:3B) Lethal Weapon'
-- 'Lois & Clark: The New Adventures of Superman (4x13:4B) Sex, Lies and Videotape'
-- 'Lois & Clark: The New Adventures of Superman (4x14:4B) Meet John Doe'
-- 'Lois & Clark: The New Adventures of Superman (4x15:4B) Lois and Clarks'
-- 'Lois & Clark: The New Adventures of Superman (4x16:4B) AKA Superman'
-- 'Lois & Clark: The New Adventures of Superman (4x17:5B) Faster than a Speeding Vixen'
-- 'Lois & Clark: The New Adventures of Superman (4x18:5B) Shadow of a Doubt'
-- 'Lois & Clark: The New Adventures of Superman (4x19:5B) Voice from the Past'
-- 'Lois & Clark: The New Adventures of Superman (4x20:5B) I’ve Got You Under My Skin'
-- 'Lois & Clark: The New Adventures of Superman (4x21:6B) Toy Story'
-- 'Lois & Clark: The New Adventures of Superman (4x22:6B) The Family Hour'
-- Supergirl (1x01) Pilot
-- Supergirl (1x02) Stronger Together
-- Supergirl (1x03) Fight or Flight
-- Supergirl (1x04) Livewire
-- Supergirl (1x05) How Does She Do It?
-- Supergirl (1x06) Red Faced
-- Supergirl (1x07) Human for a Day
-- Supergirl (1x08) Hostile Takeover
-- Supergirl (1x09) Blood Bonds
-- Supergirl (1x10) Childish Things
-- Supergirl (1x11) Strange Visitor from Another Planet
-- Supergirl (1x12) Bizarro
-- Supergirl (1x13) For the Girl Who Has Everything
-- Supergirl (1x14) Truth, Justice and the American Way
-- Supergirl (1x15) Solitude
-- Supergirl (1x16) Falling
-- Supergirl (1x17) Manhunter
-- Supergirl (1x18) Worlds Finest
-- Supergirl (1x19) Myriad
-- Supergirl (1x20) Better Angels
-- Supergirl (2x01) The Adventures of Supergirl
-- Supergirl (2x02) The Last Children of Krypton
-- Supergirl (2x03) Welcome to Earth
-- Supergirl (2x04) Survivors
-- Supergirl (2x05) Crossfire
-- Supergirl (2x06) Changing
-- Supergirl (2x07) The Darkest Place
-- Supergirl (2x08) Medusa
-- Supergirl (2x09) Supergirl Lives
-- Supergirl (2x10) We Can Be Heroes
-- Supergirl (2x11) The Martian Chronicles
-- Supergirl (2x12) Luthors
-- Supergirl (2x13) Mr. & Mrs. Mxyzptlk
-- Supergirl (2x14) Homecoming
-- Supergirl (2x15) Exodus
-- Supergirl (2x16) Star-Crossed
-- Supergirl (2x17) Distant Sun
-- Supergirl (2x18) Ace Reporter
-- Supergirl (2x19) Alex
-- Supergirl (2x20) City of Lost Children
-- Supergirl (2x21) Resist
-- Supergirl (2x22) Nevertheless, She Persisted
-- Supergirl (3x01) Girl of Steel
-- Supergirl (3x02) Triggers
-- Supergirl (3x03) Far from the Tree
-- Supergirl (3x04) The Faithful
-- Supergirl (3x05) Damage
-- Supergirl (3x06) Midvale
-- Supergirl (3x07) Wake Up
-- Supergirl (3x08) Crisis on Earth-X
-- Supergirl (3x09) Reign
-- Supergirl (3x10) Legion of Super-Heroes
-- Supergirl (3x11) Fort Rozz
-- Supergirl (3x12) For Good
-- Supergirl (3x13) Both Sides Now
-- Supergirl (3x14) Schott Through the Heart
-- Supergirl (3x15) In Search of Lost Time
-- Supergirl (3x16) Of Two Minds
-- Supergirl (3x17) Trinity
-- Supergirl (3x18) Shelter from the Storm
-- Supergirl (3x19) The Fanatical
-- Supergirl (3x20) Dark Side of the Moon
-- Supergirl (3x21) Not Kansas
-- Supergirl (3x22) Make It Reign
-- Supergirl (3x23) Battles Lost and Won
-- 'Disney: 101 Dalmatians (F) One Hundred and One Dalmatians'
-- Disney (23F) 101 Dalmatians
-- Disney (14F) The Little Mermaid
-- Disney (A) Beauty and the Beast
-- Disney (A) Aladdin
-- 'Disney: Aladdin (A) The Return of Jafar'
-- 'Disney: Aladdin (A) Aladdin and the King of Thieves'
-- Disney (A) The Lion King
-- Disney (F) The Hunchback of Notre Dame
-- Disney (A) Hercules
-- Disney (A) Mulan
-- Disney (A) Tarzan
-- Disney (174F) The Emperor’s New Groove
-- Disney (190F) Lilo & Stitch
-- Disney (143F) Frozen
-- Dollhouse (0x01:4W) Echo
-- Dollhouse (1x01:1W) Ghost
-- Dollhouse (1x02:1W) The Target
-- Dollhouse (1x03:1W) Stage Fright
-- Dollhouse (1x04:1W) Gray Hour
-- Dollhouse (1x05:2W) True Believer
-- Dollhouse (1x06:2W) Man On The Street
-- Dollhouse (1x07:2W) Echoes
-- Dollhouse (1x08:2W) Needs
-- Dollhouse (1x09:3W) A Spy in the House of Love
-- Dollhouse (1x10:3W) Haunted
-- Dollhouse (1x11:3W) Briar Rose
-- Dollhouse (1x12:3W) Omega
-- Dollhouse (1x13:4W) Epitaph One
-- Dollhouse (2x01:1W) Vows
-- Dollhouse (2x02:1W) Instinct
-- Dollhouse (2x03:1W) Belle Chose
-- Dollhouse (2x04:2W) Belonging
-- Dollhouse (2x05:2W) The Public Eye
-- Dollhouse (2x06:2W) The Left Hand
-- Dollhouse (2x07:2W) Meet Jane Doe
-- Dollhouse (2x08:2W) A Love Supreme
-- Dollhouse (2x09:3W) Stop-Loss
-- Dollhouse (2x10:3W) The Attic
-- Dollhouse (2x11:3W) Getting Closer
-- Dollhouse (2x12:4W) The Hollow Men
-- 'Dollhouse (2x13:4W) Epitaph 2: The Return'
-- Dr. Horrible’s Sing-Along Blog (26F)
-- The Dresden Files (01:70E) Birds of a Feather
-- The Dresden Files (02:70E) The Boone Identity
-- The Dresden Files (03:70E) Hair of the Dog
-- The Dresden Files (04:70E) Rules of Engagement
-- The Dresden Files (05:71E) Bad Blood
-- The Dresden Files (06:71E) Soul Beneficiary
-- The Dresden Files (07:71E) Walls
-- The Dresden Files (08:71E) Storm Front
-- The Dresden Files (09:72E) The Other Dick
-- The Dresden Files (10:72E) What About Bob?
-- The Dresden Files (11:72E) Things That Go Bump
-- The Dresden Files (12:72E) Second City
-- Family Guy (1x01:409B) Death Has a Shadow
-- Family Guy (1x02:409B) I Never Met the Dead Man
-- Family Guy (1x03:409B) Chitty Chitty Death Bang
-- Family Guy (1x04:409B) Mind Over Murder
-- Family Guy (1x05:409B) A Hero Sits Next Door
-- Family Guy (1x06:409B) The Son Also Draws
-- 'Family Guy (1x07:409B) Brian: Portrait of a Dog'
-- Family Guy (2x01:410B) Peter, Peter, Caviar Eater
-- Family Guy (2x02:410B) Holy Crap
-- Family Guy (2x03:411B) DaBoom
-- Family Guy (2x04:411B) Brian in Love
-- Family Guy (2x05:410B) Love Thy Trophy
-- Family Guy (2x06:410B) Death Is a Bitch
-- Family Guy (2x07:410B) The King Is Dead
-- Family Guy (2x08:411B) I am Peter, Hear Me Roar
-- Family Guy (2x09:410B) If I’m Dyin’ I’m Lyin’
-- Family Guy (2x10:410B) Running Mates
-- Family Guy (2x11:411B) A Picture Is Worth 1,000 Bucks
-- Family Guy (2x12:411B) Fifteen Minutes of Shame
-- Family Guy (2x13:411B) Road to Rhode Island
-- Family Guy (2x14:411B) Let’s Go to the Hop
-- Family Guy (2x15:411B) Dammit Janet
-- Family Guy (2x16:412B) There’s Something About Paulie
-- Family Guy (2x17:412B) He’s Too Sexy For His Fat
-- Family Guy (2x18:412B) E. Peterbus Unum
-- Family Guy (2x19:412B) The Story on Page One
-- Family Guy (2x20:412B) Wasted Talent
-- Family Guy (2x21:412B) Fore, Father
-- Family Guy (3x01:413B) The Thin White Line
-- Family Guy (3x02:413B) Brian Does Hollywood
-- Family Guy (3x03:413B) Mr. Griffin Goes to Washington
-- Family Guy (3x04:413B) One If By Clam, Two If By Sea
-- Family Guy (3x05:413B) And the Wiener is?
-- Family Guy (3x06:413B) Death Lives
-- Family Guy (3x07:413B) Lethal Weapons
-- Family Guy (3x08:414B) The Kiss Seen Around the World
-- Family Guy (3x09:414B) Mr. Saturday Knight
-- Family Guy (3x10:414B) A Fish Out of Water
-- Family Guy (3x11:414B) Emission Impossible
-- Family Guy (3x12:414B) To Live and Die in Dixie
-- Family Guy (3x13:414B) Screwed The Pooch
-- 'Family Guy (3x14:414B) Peter Griffin: Husband, Father? Brother?'
-- Family Guy (3x15:415B) Ready, Willing, and Disabled
-- Family Guy (3x16:415B) A Very Special Family Guy Freakin’ Christmas
-- Family Guy (3x17:415B) Brian Wallows and Peter’s Swallows
-- Family Guy (3x18:415B) From Method to Madness
-- Family Guy (3x19:415B) Stuck Together, Torn Apart
-- Family Guy (3x20:415B) Road to Europe
-- 'Family Guy (3x21:415B) Family Guy Viewer Mail #1'
-- Family Guy (3x22:412B) When You Wish Upon a Weinstein
-- Family Guy (4x01:B) North by North Quahog
-- Family Guy (4x02:B) Fast Times at Buddy Cianci Jr. High
-- Family Guy (4x03:B) Blind Ambition
-- Family Guy (4x04:B) Don’t Make Me Over
-- Family Guy (4x05:B) The Cleveland-Loretta Quagmire
-- Family Guy (4x06:B) Petarded
-- Family Guy (4x07:B) Brian the Bachelor
-- Family Guy (4x08:B) 8 Simple Rules for Buying My Teenage Daughter
-- Family Guy (4x09:B) Breaking Out Is Hard to Do
-- Family Guy (4x10:B) Model Misbehavior
-- Family Guy (4x11:B) Peter’s Got Woods
-- Family Guy (4x12:B) Perfect Castaway
-- Family Guy (4x13:B) Jungle Love
-- Family Guy (4x14:B) PTV
-- Family Guy (4x15:B) Brian Goes Back to College
-- Family Guy (4x16:B) The Courtship of Stewie’s Father
-- Family Guy (4x17:B) Fat Guy Strangler
-- Family Guy (4x18:B) The Father, the Son & the Holy Fonz
-- Family Guy (4x19:B) Brian Sings and Swings
-- Family Guy (4x20:B) Patriot Games
-- Family Guy (4x21:B) I Take Thee, Quagmire
-- Family Guy (4x22:B) Sibling Rivalry
-- Family Guy (4x23:B) Deep Throats
-- Family Guy (4x24:B) Peterotica
-- Family Guy (4x25:B) You May Kiss The? Uh? Guy Who Receives
-- Family Guy (4x26:B) Petergeist
-- Family Guy (4x27:B) Untitled Griffin Family History
-- Family Guy (4x28:B) Stewie B. Goode
-- Family Guy (4x29:B) Bango Was His Name-O
-- Family Guy (4x30:B) Stu & Stewie’s Excellent Adventure
-- Family Guy (5x01:B) Stewie Loves Lois
-- Family Guy (5x02:B) Mother Tucker
-- Family Guy (5x03:B) Hell Comes to Quahog
-- Family Guy (5x04:B) Saving Private Brian
-- Family Guy (5x05:B) Whistle While Your Wife Works
-- Family Guy (5x06:B) Prick Up Your Ears
-- Family Guy (5x07:B) Chick Cancer
-- Family Guy (5x08:B) Barely Legal
-- Family Guy (5x09:B) Road to Rupert
-- Family Guy (5x10:B) Peter’s Two Dads
-- Family Guy (5x11:B) The Tan Aquatic with Steve Zissou
-- Family Guy (5x12:B) Airport ’07
-- Family Guy (5x13:B) Bill and Peter’s Bogus Journey
-- Family Guy (5x14:B) No Meals On Wheels
-- Family Guy (5x15:B) Boys Do Cry
-- Family Guy (5x16:B) No Chris Left Behind
-- Family Guy (5x17:B) It Takes A Village Idiot, And I Married One
-- Family Guy (5x18:B) Meet the Quagmires
-- Family Guy (6x01:B) Blue Harvest
-- Family Guy (6x02:B) Movin’ Out (Brian’s Song)
-- Family Guy (6x03:B) Believe It Or Not, Joe’s Walking On Air
-- Family Guy (6x04:B) Stewie Kills Lois
-- Family Guy (6x05:B) Lois Kills Stewie
-- Family Guy (6x06:B) Padre de Familia
-- Family Guy (6x07:B) Peter’s Daughter
-- Family Guy (6x08:B) McStroke
-- Family Guy (6x09:B) Back to the Woods
-- Family Guy (6x10:B) Play it Again, Brian
-- Family Guy (6x11:B) The Former Life of Brian
-- Family Guy (6x12:B) Long John Peter
-- Family Guy (7x01:B) Love Blactually
-- Family Guy (7x02:B) I Dream of Jesus
-- Family Guy (7x03:B) Road to Germany
-- Family Guy (7x04:B) Baby Not On Board
-- Family Guy (7x05:B) The Man With Two Brians
-- Family Guy (7x06:B) Tales of a Third Grade Nothing
-- Family Guy (7x07:B) Ocean’s Three and a Half
-- Family Guy (7x08:B) Family Gay
-- Family Guy (7x09:B) The Juice Is Loose!
-- Family Guy (7x10:B) FOX-y Lady
-- Family Guy (7x11:B) Not All Dogs Go to Heaven
-- Family Guy (7x12:B) 420
-- Family Guy (7x13:B) Stew-Roids
-- Family Guy (7x14:B) We Love You Conrad
-- Family Guy (7x15:B) Three Kings
-- Family Guy (7x16:B) Peter’s Progress
-- Family Guy (B) Stewie Griffin, the Untold Story
-- Farscape (1x01:U) Premiere
-- Farscape (1x02:U) I, E.T.
-- Farscape (1x03:U) Exodus from Genesis
-- Farscape (1x04:U) Throne for a Loss
-- Farscape (1x05:U) Back and Back and Back to the Future
-- Farscape (1x06:U) Thank God It’s Friday, Again
-- Farscape (1x07:U) PK Tech Girl
-- Farscape (1x08:U) That Old Black Magic
-- Farscape (1x09:U) DNA Mad Scientist
-- Farscape (1x10:U) They’ve Got a Secret
-- Farscape (1x11:U) Till the Blood Runs Clear
-- Farscape (1x12:U) Rhapsody in Blue
-- Farscape (1x13:U) The Flax
-- Farscape (1x14:U) Jeremiah Crichton
-- Farscape (1x15:U) Durka Returns
-- Farscape (1x16:U) A Human Reaction
-- Farscape (1x17:U) Through the Looking Glass
-- Farscape (1x18:U) A Bug’s Life
-- Farscape (1x19:U) Nerve
-- Farscape (1x20:U) The Hidden Memory
-- Farscape (1x21:U) Bone to be Wild
-- Farscape (1x22:U) Family Ties
-- Farscape (2x01:U) Mind the Baby
-- Farscape (2x02:U) Vitas Mortis
-- Farscape (2x03:U) Taking the Stone
-- Farscape (2x04:U) Crackers Don’t Matter
-- Farscape (2x05:U) The Way We Weren’t
-- Farscape (2x06:U) Picture if You Will
-- Farscape (2x07:U) Home on the Remains
-- Farscape (2x08:U) Dream a Little Dream
-- Farscape (2x09:U) Out of Their Minds
-- Farscape (2x10:U) My Three Crichtons
-- Farscape (2x11:U) A Kiss Is But a Kiss
-- Farscape (2x12:U) I Do, I Think
-- Farscape (2x13:U) The Maltese Crichton
-- Farscape (2x14:U) Beware of Dog
-- Farscape (2x15:U) Won’t Get Fooled Again
-- Farscape (2x16:U) The Locket
-- Farscape (2x17:U) The Ugly Truth
-- Farscape (2x18:U) A Clockwork Nebari
-- Farscape (2x19:U) A Not So Simple Plan
-- Farscape (2x20:U) With Friends Like These?
-- Farscape (2x21:U) Plan B
-- Farscape (2x22:U) Die Me, Dichotomy
-- Farscape (3x01:U) Season of Death
-- Farscape (3x02:U) Suns & Lovers
-- Farscape (3x03:U) Could’a, Would’a, Should’a
-- Farscape (3x04:U) Wait for the Wheel
-- Farscape (3x05:U) ?Different Destinations
-- Farscape (3x06:U) Eat Me
-- Farscape (3x07:U) Thanks For Sharing
-- Farscape (3x08:U) Green-Eyed Monster
-- Farscape (3x09:U) Losing Time
-- Farscape (3x10:U) Relativity
-- Farscape (3x11:U) Incubator
-- Farscape (3x12:U) Meltdown
-- Farscape (3x13:U) Scratch ’n Sniff
-- Farscape (3x14:U) Daedelus Demands
-- Farscape (3x15:U) Icarus Abides
-- Farscape (3x16:U) Revenging Angel
-- Farscape (3x17:U) The Choice
-- Farscape (3x18:U) Fractures
-- Farscape (3x19:U) I-Yensch, You-Yensch
-- Farscape (3x20:U) Lambs to the Slaughter
-- Farscape (3x21:U) Wolf in Sheep’s Clothing
-- Farscape (3x22:U) Dog With Two Bones
-- Farscape (4x01:U) Crichton Kicks
-- Farscape (4x02:U) Sacrifice
-- Farscape (4x03:U) Resurrection
-- Farscape (4x04:U) Lava’s a Many Splendored Thing
-- Farscape (4x05:U) Promises
-- Farscape (4x06:U) Natural Election
-- Farscape (4x07:U) John Quixote
-- Farscape (4x08:U) I Shrink Therefore I Am
-- Farscape (4x09:U) A Prefect Murder
-- Farscape (4x10:U) Coup By Clam
-- Farscape (4x11:U) Unrealized Reality
-- Farscape (4x12:U) Kansas
-- Farscape (4x13:U) Terra Firma
-- Farscape (4x14:U) Twice Shy
-- Farscape (4x15:U) Mental As Anything
-- Farscape (4x16:U) Bringing Home the Beacon
-- Farscape (4x17:U) A Constellation of Doubt
-- Farscape (4x18:U) Prayer
-- Farscape (4x19:U) Fetal Attraction
-- Farscape (4x20:U) Hot to Katratzi
-- Farscape (4x21:U) La Bomba
-- Farscape (4x22:U) Bad Timing
-- Farscape (5:U) The Peacekeeper Wars
-- Firefly (01:1U) Serenity
-- Firefly (02:1U) The Train Job
-- Firefly (03:1U) Bushwhacked
-- Firefly (04:2U) Shindig
-- Firefly (05:2U) Safe
-- Firefly (06:2U) Our Mrs. Reynolds
-- Firefly (07:2U) Jaynestown
-- Firefly (08:3U) Out of Gas
-- Firefly (09:3U) Ariel
-- Firefly (10:3U) War Stories
-- Firefly (11:3U) Trash
-- Firefly (12:4U) The Message
-- Firefly (13:4U) Heart of Gold
-- Firefly (14:4U) Objects in Space
-- Firefly (U) Serenity
-- Frasier (1x01:D) The Good Son
-- Frasier (1x02:D) Space Quest
-- Frasier (1x03:D) Dinner at Eight
-- Frasier (1x04:D) I Hate Frasier Crane
-- Frasier (1x05:D) Here’s Looking at You
-- Frasier (1x06:D) The Crucible
-- Frasier (1x07:D) Call Me Irresponsible
-- Frasier (1x08:D) Beloved Infidel
-- Frasier (1x09:D) Selling Out
-- Frasier (1x10:D) Oops
-- Frasier (1x11:D) Death Becomes Him
-- Frasier (1x12:D) Miracle on Third or Fourth Street
-- Frasier (1x13:D) Guess Who’s Coming to Breakfast
-- Frasier (1x14:D) Can’t Buy Me Love
-- Frasier (1x15:D) You Can’t Tell a Crook by His Cover
-- Frasier (1x16:D) The Show Where Lilith Comes Back
-- Frasier (1x17:D) A Midwinter Night’s Dream
-- Frasier (1x18:D) And the Whimper is?
-- Frasier (1x19:D) Give Him the Chair
-- Frasier (1x20:D) Fortysomething
-- Frasier (1x21:D) Travels with Martin
-- Frasier (1x22:D) Author, Author
-- Frasier (1x23:D) Frasier Crane’s Day Off
-- Frasier (1x24:D) My Coffee with Niles
-- Frasier (2x01:1D) Slow Tango in South Seattle
-- Frasier (2x02:1D) The Unkindest Cut of All
-- Frasier (2x03:1D) The Matchmaker
-- Frasier (2x04:1D) Flour Child
-- Frasier (2x05:1D) Duke’s, We Hardly Knew Ye
-- Frasier (2x06:1D) The Botched Language of Cranes
-- Frasier (2x07:2D) The Candidate
-- Frasier (2x08:2D) Adventures in Paradise
-- Frasier (2x09:2D) Burying a Grudge
-- Frasier (2x11:2D) Seat of Power
-- Frasier (2x12:2D) Roz in the Doghouse
-- Frasier (2x13:3D) Retirement is Murder
-- Frasier (2x14:3D) Fool Me Once, Shame on You, Fool Me Twice?
-- Frasier (2x15:3D) You Scratch My Book?
-- Frasier (2x16:3D) The Show Where Sam Shows Up
-- Frasier (2x17:3D) Daphne’s Room
-- Frasier (2x18:3D) The Club
-- Frasier (2x19:4D) Someone to Watch Over Me
-- Frasier (2x20:4D) Breaking the Ice
-- Frasier (2x21:4D) An Affair to Forget
-- Frasier (2x22:4D) Agents in America, Part III
-- Frasier (2x23:4D) The Innkeepers
-- Frasier (2x24:4D) Dark Victory
-- Frasier (3x01:1D) She’s the Boss
-- Frasier (3x02:1D) Shrink Rap
-- Frasier (3x03:1D) Martin Does It His Way
-- Frasier (3x04:1D) Leapin’ Lizards
-- Frasier (3x05:1D) Kisses Sweeter Than Wine
-- Frasier (3x06:1D) Sleeping with the Enemy
-- Frasier (3x07:2D) The Adventures of Bad Boy and Dirty Girl
-- Frasier (3x08:2D) The Last Time I Saw Maris
-- Frasier (3x09:2D) Frasier Grinch
-- Frasier (3x10:2D) It’s Hard to Say Goodbye If You Won’t Leave
-- Frasier (3x11:2D) The Friend
-- Frasier (3x12:2D) Come Lie with Me
-- Frasier (3x13:3D) Moon Dance
-- Frasier (3x14:3D) The Show Where Diane Comes Back
-- Frasier (3x15:3D) A Word to the Wiseguy
-- Frasier (3x16:3D) Look Before You Leap
-- Frasier (3x17:3D) High Crane Drifter
-- Frasier (3x18:3D) Chess Pains
-- Frasier (3x19:4D) Crane vs. Crane
-- Frasier (3x20:4D) Police Story
-- Frasier (3x21:4D) Where There’s Smoke There’s Fired
-- Frasier (3x22:4D) Frasier Loves Roz
-- Frasier (3x23:4D) The Focus Group
-- Frasier (3x24:4D) You Can Go Home Again
-- Frasier (4x01:D) The Two Mrs. Cranes
-- Frasier (4x02:D) Love Bites Dog
-- Frasier (4x03:D) The Impossible Dream
-- Frasier (4x04:D) A Crane’s Critique
-- Frasier (4x05:D) Head Game
-- Frasier (4x06:D) Mixed Doubles
-- Frasier (4x07:D) A Lilith Thanksgiving
-- Frasier (4x08:D) Our Father Whose Art Ain’t Heaven
-- Frasier (4x09:D) Dad Loves Sherry, the Boys Just Whine
-- Frasier (4x10:D) Liar, Liar!
-- Frasier (4x11:D) Three Days of the Condo
-- Frasier (4x12:D) Death and the Dog
-- Frasier (4x13:D) Four for the Seesaw
-- Frasier (4x14:D) To Kill a Talking Bird
-- Frasier (4x15:D) Roz’s Krantz & Gouldenstein are Dead
-- Frasier (4x16:D) The Unnatural
-- Frasier (4x17:D) Roz’s Turn
-- Frasier (4x18:D) Ham Radio
-- Frasier (4x19:D) Three Dates and a Breakup
-- Frasier (4x20:D) Daphne Hates Sherry
-- Frasier (4x21:D) Are You Being Served?
-- Frasier (4x22:D) Ask Me No Questions
-- Frasier (4x23:D) Odd Man Out
-- Frasier (5x01:D) Frasier’s Imaginary Friend
-- Frasier (5x02:D) The Gift Horse
-- Frasier (5x03:D) Halloween
-- Frasier (5x04:D) The Kid
-- Frasier (5x05:D) The 1000th Show
-- Frasier (5x06:D) Voyage of the Damned
-- Frasier (5x07:D) My Fair Frasier
-- Frasier (5x08:D) Desperately Seeking Closure
-- Frasier (5x09:D) Perspectives on Christmas
-- Frasier (5x10:D) Where Every Bloke Knows Your Name
-- Frasier (5x11:D) Ain’t Nobody’s Business If I Do
-- Frasier (5x12:D) The Zoo Story
-- Frasier (5x13:D) The Maris Counselor
-- Frasier (5x14:D) The Ski Lodge
-- Frasier (5x15:D) Room Service
-- Frasier (5x16:D) Beware of Greeks
-- Frasier (5x17:D) The Perfect Guy
-- Frasier (5x18:D) Bad Dog
-- Frasier (5x19:D) Frasier Gotta Have It
-- Frasier (5x20:D) First Date
-- Frasier (5x21:D) Roz and the Schnoz
-- Frasier (5x22:D) The Life of the Party
-- Frasier (5x23:D) Party, Party
-- Frasier (5x24:D) Sweet Dreams
-- Frasier (6x01:D) Good Grief
-- Frasier (6x02:D) Frasier’s Curse
-- Frasier (6x03:D) Dial M For Martin
-- Frasier (6x04:D) Hot Ticket
-- Frasier (6x05:D) First, Do No Harm
-- Frasier (6x06:D) Secret Admirer
-- Frasier (6x07:D) How to Bury a Millionaire
-- Frasier (6x08:D) The Seal Who Came to Dinner
-- Frasier (6x09:D) Roz, a Loan
-- Frasier (6x10:D) Merry Christmas, Mrs. Moskowitz
-- Frasier (6x11:D) The Good Samaritan
-- Frasier (6x12:D) Our Parents, Ourselves
-- Frasier (6x13:D) The Show Where Woody Shows Up
-- Frasier (6x14:D) Three Valentines
-- Frasier (6x15:D) To Tell the Truth
-- Frasier (6x16:D) Decoys
-- Frasier (6x17:D) Dinner Party
-- Frasier (6x18:D) Taps at the Montana
-- Frasier (6x19:D) IQ
-- Frasier (6x20:D) Dr. Nora
-- Frasier (6x21:D) When a Man Loves Two Women
-- Frasier (6x22:D) Visions of Daphne
-- Frasier (6x23:D) Shutout in Seattle
-- Frasier (7x01:D) Momma Mia
-- Frasier (7x02:D) Father of the Bride
-- Frasier (7x03:D) Radio Wars
-- Frasier (7x04:D) Everyone’s a Critic
-- Frasier (7x05:D) The Dog That Rocks the Cradle
-- Frasier (7x06:D) Rivals
-- Frasier (7x07:D) A Tsar is Born
-- Frasier (7x08:D) The Late Dr. Crane
-- Frasier (7x09:D) The Apparent Trap
-- Frasier (7x10:D) Back Talk
-- Frasier (7x11:D) The Fight Before Christmas
-- Frasier (7x12:D) RDWRER
-- Frasier (7x13:D) They’re Playing Our Song
-- Frasier (7x14:D) Big Crane on Campus
-- Frasier (7x15:D) Out With Dad
-- Frasier (7x16:D) Something About Dr. Mary
-- Frasier (7x17:D) Whine Club
-- Frasier (7x18:D) Hot Pursuit
-- Frasier (7x19:D) Morning Becomes Entertainment
-- Frasier (7x20:D) To Thine Old Self Be True
-- Frasier (7x21:D) Three Faces of Frasier
-- Frasier (7x22:D) Dark Side of the Moon
-- Frasier (7x23:D) Something Borrowed, Someone Blue
-- Frasier (8x01:D) And the Dish Ran Away with the Spoon
-- Frasier (8x02:D) The Bad Son
-- Frasier (8x04:D) The Great Crane Robbery
-- Frasier (8x05:D) Taking Liberties
-- Frasier (8x06:D) Legal Tender Love and Care
-- Frasier (8x07:D) The New Friend
-- Frasier (8x08:D) Mary Christmas
-- Frasier (8x09:D) Frasier’s Edge
-- Frasier (8x10:D) Cranes Unplugged
-- Frasier (8x11:D) Motor Skills
-- Frasier (8x12:D) The Show Must Go Off
-- Frasier (8x13:D) Sliding Frasiers
-- Frasier (8x14:D) Hungry Heart
-- Frasier (8x15:D) Hooping Cranes
-- Frasier (8x16:D) Docu.drama
-- Frasier (8x17:D) It Takes Two to Tangle
-- Frasier (8x18:D) Forgotten But Not Gone
-- Frasier (8x19:D) Daphne Returns
-- Frasier (8x20:D) The Wizard and Roz
-- Frasier (8x21:D) Semi-Decent Proposal
-- Frasier (8x22:D) A Passing Fancy
-- Frasier (8x22:D) A Day in May
-- Frasier (8x23:D) The Cranes Go Caribbean
-- Frasier (9x01:D) Don Juan in Hell
-- Frasier (9x02:D) The First Temptation of Daphne
-- Frasier (9x04:D) The Return of Martin Crane
-- Frasier (9x05:D) Love Stinks
-- Frasier (9x06:D) Room Full of Heroes
-- Frasier (9x07:D) Bla-Z-Boy
-- Frasier (9x08:D) The Two Hundredth Episode
-- Frasier (9x09:D) Sharing Kirby
-- Frasier (9x10:D) Junior Agent
-- Frasier (9x11:D) Bully for Martin
-- Frasier (9x12:D) Mother Load
-- Frasier (9x14:D) Juvenilia
-- Frasier (9x15:D) The Proposal
-- Frasier (9x16:D) Wheels of Fortune
-- Frasier (9x17:D) Three Blind Dates
-- Frasier (9x18:D) War of the Words
-- Frasier (9x19:D) Deathtrap
-- Frasier (9x20:D) The Love You Fake
-- Frasier (9x21:D) Cheerful Goodbyes
-- Frasier (9x22:D) Frasier Has Spokane
-- Frasier (9x23:D) The Guilt Trippers
-- Frasier (9x24:D) Moons Over Seattle
-- Frasier (10x01:D) The Ring Cycle
-- Frasier (10x02:D) Enemy at the Gate
-- Frasier (10x03:D) Proxy Prexy
-- Frasier (10x04:D) Kissing Cousin
-- Frasier (10x05:D) Tales From the Crypt
-- Frasier (10x06:D) Star Mitzvah
-- Frasier (10x07:D) Bristle While You Work
-- Frasier (10x08:D) Rooms With a View
-- Frasier (10x09:D) Don’t Go Breaking My Heart
-- Frasier (10x10:D) We Two Kings
-- Frasier (10x11:D) Door Jam
-- Frasier (10x12:D) The Harassed
-- Frasier (10x13:D) Lilith Needs a Favor
-- Frasier (10x14:D) Daphne Does Dinner
-- Frasier (10x15:D) Trophy Girlfriend
-- Frasier (10x16:D) Fraternal Schwinns
-- Frasier (10x17:D) Kenny on the Couch
-- Frasier (10x18:D) Roe to Perdition
-- Frasier (10x19:D) Some Assembly Required
-- Frasier (10x20:D) Farewell, Nervosa
-- Frasier (10x21:D) The Devil and Dr. Phil
-- Frasier (10x22:D) Fathers and Sons
-- Frasier (10x23:D) Analyzed Kiss
-- Frasier (10x24:D) A New Position for Roz
-- Frasier (11x01:D) No Sex Please, We’re Skittish
-- 'Frasier (11x02:D) A Man, a Plan and a Gal: Julia'
-- Frasier (11x03:D) The Doctor Is Out
-- Frasier (11x04:D) The Babysitter
-- Frasier (11x05:D) The Placeholder
-- Frasier (11x06:D) I’m Listening
-- Frasier (11x07:D) Maris Returns
-- Frasier (11x08:D) Murder Most Maris
-- Frasier (11x09:D) Guns N’ Neuroses
-- Frasier (11x10:D) Seabee Jeebies
-- Frasier (11x11:D) High Holidays
-- Frasier (11x12:D) Frasier-Lite
-- Frasier (11x13:D) The Ann Who Came to Dinner
-- Frasier (11x14:D) Freudian Sleep
-- Frasier (11x15:D) Caught in the Act
-- Frasier (11x16:D) Boo!
-- Frasier (11x17:D) Coots and Ladders
-- Frasier (11x18:D) Match Game
-- Frasier (11x19:D) Miss Right Now
-- Frasier (11x20:D) And Frasier Makes Three
-- Frasier (11x21:D) Detour
-- Frasier (11x22:D) Crock Tales
-- Frasier (11x23:D) Goodnight, Seattle
-- Fringe (1x01:B)
-- Fringe (1x02:B) The Same Old Story
-- Fringe (1x03:B) The Ghost Network
-- Fringe (1x04:B) The Arrival
-- Fringe (1x05:B) Power Hungry
-- Fringe (1x06:B) The Cure
-- Fringe (1x07:B) In Which We Meet Mr. Jones
-- Fringe (1x08:B) The Equation
-- Fringe (1x09:B) The Dreamscape
-- Fringe (1x10:B) Safe
-- Fringe (1x11:B) Bound
-- Fringe (1x12:B) The No-Brainer
-- Fringe (1x13:B) The Transformation
-- Fringe (1x14:B) Ability
-- Fringe (1x15:B) Inner Child
-- Fringe (1x16:B) Unleashed
-- Fringe (1x17:B) Bad Dreams
-- Fringe (1x18:B) Midnight
-- Fringe (1x19:B) The Road Not Taken
-- Fringe (1x20:B) There’s More than One of Everything
-- Fringe (2x01:B) A New Day in the Old Town
-- Fringe (2x02:B) Night of Desirable Objects
-- Fringe (2x03:B) Fracture
-- Fringe (2x04:B) Momentum Deferred
-- Fringe (2x05:B) Dream Logic
-- Fringe (2x06:B) Earthling
-- Fringe (2x07:B) Of Human Action
-- Fringe (2x08:B) August
-- Fringe (2x09:B) Snakehead
-- Fringe (2x10:B) Grey Matters
-- Fringe (2x11:B) Unearthed
-- Fringe (2x12:B) Johari Window
-- Fringe (2x13:B) What Lies Below
-- Fringe (2x14:B) The Bishop Revival
-- Fringe (2x15:B) Jacksonville
-- Fringe (2x16:B) Peter
-- Fringe (2x17:B) Olivia. In the Lab. With the Revolver.
-- Fringe (2x18:B) White Tulip
-- Fringe (2x19:B) The Man from the Other Side
-- Fringe (2x20:B) Brown Betty
-- Fringe (2x21:B) Northwest Passage
-- Fringe (2x22:B) Over There
-- Fringe (3x01:B) Olivia
-- Fringe (3x02:B) The Box
-- Fringe (3x03:B) The Plateau
-- Fringe (3x04:B) Do Shapeshifters Dream of Electric Sheep?
-- Fringe (3x05:B) Amber 31422
-- Fringe (3x06:B) 6955 kHz
-- Fringe (3x07:B) The Abducted
-- Fringe (3x08:B) Entrada
-- Fringe (3x09:B) Marionette
-- Fringe (3x10:B) The Firefly
-- Fringe (3x11:B) Reciprocity
-- Fringe (3x12:B) Concentrate and Ask Again
-- Fringe (3x13:B) Immortality
-- Fringe (3x14:B) 6B
-- Fringe (3x15:B) Subject 13
-- Fringe (3x16:B) Os
-- Fringe (3x17:B) Stowaway
-- Fringe (3x18:B) Bloodline
-- Fringe (3x19:B) Lysergic Acid Diethylamide
-- Fringe (3x20:B) 6:02 AM EST
-- Fringe (3x21:B) The Last Sam Weiss
-- Fringe (3x22:B) The Day We Died
-- Fringe (4x01:B) Neither Here Nor There
-- Fringe (4x02:B) One Night in October
-- Fringe (4x03:B) Alone in the World
-- Fringe (4x04:B) Subject 9
-- Fringe (4x05:B) Novation
-- Fringe (4x06:B) And Those We’ve Left Behind
-- Fringe (4x07:B) Wallflower
-- Fringe (4x08:B) Back to Where You’ve Never Been
-- Fringe (4x09:B) Enemy of My Enemy
-- Fringe (4x10:B) Forced Perspective
-- Fringe (4x11:B) Making Angels
-- Fringe (4x12:B) Welcome to Westfield
-- Fringe (4x13:B) A Better Human Being
-- Fringe (4x14:B) The End of All Things
-- Fringe (4x15:B) A Short Story About Love
-- Fringe (4x16:B) Nothing as It Seems
-- Fringe (4x17:B) Everything in Its Right Place
-- Fringe (4x18:B) The Consultant
-- Fringe (4x19:B) Letters of Transit
-- Fringe (4x20:B) Worlds Apart
-- Fringe (4x21:B) Brave New World
-- Fringe (5x01:B) Transilience Thought Unifier Model-11
-- Fringe (5x02:B) In Absentia
-- Fringe (5x03:B) The Recordist
-- Fringe (5x04:B) The Bullet that Saved the World
-- Fringe (5x05:B) An Origin Story
-- Fringe (5x06:B) Through the Looking Glass and What Walter Found There
-- Fringe (5x07:B) Five-Twenty-Ten
-- Fringe (5x08:B) The Human Kind
-- Fringe (5x09:B) Black Blotter
-- Fringe (5x10:B) Anomaly XB-6783746
-- Fringe (5x11:B) The Boy Must Live
-- Fringe (5x12:B) Liberty
-- Fringe (5x13:B) An Enemy of Fate
-- Funny (134F) 10 Things I Hate About You
-- Funny (94F) Liar Liar
-- Funny (98F) Mrs. Doubtfire
-- Funny (15F) Sister Act
-- 'Funny: Sister Act (16F) Back in the Habit'
-- Funny (E) Bewitched
-- Funny (F) The Castle
-- Funny (111F) Blazing Saddles
-- 'Funny (112F) Robin Hood: Men in Tights'
-- 'Funny: Austin Powers (81F) International Man of Mystery'
-- 'Funny: Austin Powers (82F) The Spy Who Shagged Me'
-- 'Funny: Austin Powers (83F) Goldmember'
-- 'Funny (84F) Team America: World Police'
-- Funny (100F) Ted
-- Funny (55F) Stripes
-- 'Funny (13F) Rowan Atkinson: Live'
-- Futurama (1x01:1G) Space Pilot 3000
-- Futurama (1x02:1G) The Series Has Landed
-- Futurama (1x03:1G) I, Roommate
-- Futurama (1x04:1G) Love’s Labors Lost in Space
-- Futurama (1x05:2G) Fear of a Bot Planet
-- Futurama (1x06:2G) A Fishful of Dollars
-- Futurama (1x07:2G) My Three Suns
-- Futurama (1x08:2G) A Big Piece of Garbage
-- Futurama (1x09:2G) Hell is Other Robots
-- Futurama (1x10:3G) A Flight to Remember
-- Futurama (1x11:3G) Mars University
-- Futurama (1x12:3G) When Aliens Attack
-- Futurama (1x13:3G) Fry and the Slurm Factory
-- Futurama (2x01:1G) I Second that Emotion
-- Futurama (2x02:1G) Brannigan Begin Again
-- Futurama (2x03:1G) A Head in the Polls
-- Futurama (2x04:1G) Xmas Story
-- Futurama (2x05:1G) Why Must I Be a Crustacean in Love?
-- Futurama (2x06:2G) The Lesser of Two Evils
-- Futurama (2x07:2G) Put Your Head on my Shoulders
-- Futurama (2x08:2G) Raging Bender
-- Futurama (2x09:2G) A Bicyclops Built for Two
-- Futurama (2x10:2G) A Clone of My Own
-- Futurama (2x11:3G) How Hermes Requisitioned His Groove Back
-- Futurama (2x12:3G) The Deep South
-- Futurama (2x13:3G) Bender Gets Made
-- Futurama (2x14:3G) Mother’s Day
-- Futurama (2x15:3G) The Problem with Popplers
-- Futurama (2x16:4G) Anthology of Interest I
-- Futurama (2x17:4G) War is the H-Word
-- Futurama (2x18:4G) The Honking
-- Futurama (2x19:4G) The Cryonic Woman
-- Futurama (3x01:1G) Amazon Women in the Mood
-- Futurama (3x02:1G) Parasites Lost
-- Futurama (3x03:1G) A Tale of Two Santas
-- Futurama (3x04:1G) The Luck of the Fryrish
-- Futurama (3x05:1G) The Birdbot of Ice-Catraz
-- Futurama (3x06:1G) Bendless Love
-- Futurama (3x07:2G) The Day the Earth Stood Stupid
-- Futurama (3x08:2G) That’s Lobstertainment!
-- Futurama (3x09:2G) The Cyber House Rules
-- Futurama (3x10:2G) Where the Buggalo Roam
-- Futurama (3x11:2G) Insane in the Mainframe
-- Futurama (3x12:2G) The Route of All Evil
-- Futurama (3x13:3G) Bendin’ in the Wind
-- Futurama (3x14:3G) Time Keeps on Slipping
-- Futurama (3x15:3G) I Dated a Robot
-- Futurama (3x16:3G) A Leela of Her Own
-- Futurama (3x17:3G) A Pharaoh to Remember
-- Futurama (3x18:4G) Anthology of Interest II
-- Futurama (3x19:4G) Roswell That Ends Well
-- Futurama (3x20:4G) Godfellas
-- Futurama (3x21:4G) Future Stock
-- Futurama (3x22:4G) The 30% Iron Chef
-- Futurama (4x01:1G) Kif Gets Knocked Up a Notch
-- Futurama (4x02:1G) Leela’s Homeworld
-- Futurama (4x03:1G) Love and Rocket
-- Futurama (4x04:1G) Less Than Hero
-- Futurama (4x05:1G) A Taste of Freedom
-- Futurama (4x06:2G) Bender Should Not Be Allowed on TV
-- Futurama (4x07:2G) Jurassic Bark
-- Futurama (4x08:2G) Crimes of the Hot
-- Futurama (4x09:2G) Teenage Mutant Leela’s Hurdles
-- Futurama (4x10:2G) The Why of Fry
-- Futurama (4x11:3G) Where No Fan Has Gone Before
-- Futurama (4x12:3G) The Sting
-- Futurama (4x13:3G) Bend Her
-- Futurama (4x14:3G) Obsoletely Fabulous
-- Futurama (4x15:4G) The Farnsworth Parabox
-- Futurama (4x16:4G) Three Hundred Big Boys
-- Futurama (4x17:4G) Spanish Fry
-- Futurama (4x18:4G) The Devil’s Hands are Idle Playthings
-- Futurama (5:G) Bender’s Big Score
-- Game of Thrones (1x01:29E) Winter is Coming
-- Game of Thrones (1x02:29E) The Kingsroad
-- Game of Thrones (1x03:30E) Lord Snow
-- Game of Thrones (1x04:30E) Cripples, Bastards, and Broken Things
-- Game of Thrones (1x05:30E) The Wolf and the Lion
-- Game of Thrones (1x06:31E) A Golden Crown
-- Game of Thrones (1x07:32E) You Win or You Die
-- Game of Thrones (1x08:32E) The Pointy End
-- Game of Thrones (1x09:32E) Baelor
-- Game of Thrones (1x10:33E) Fire and Blood
-- Game of Thrones (2x01:34E) The North Remembers
-- Game of Thrones (2x02:34E) The Night Lands
-- Game of Thrones (2x03:35E) What is Dead May Never Die
-- Game of Thrones (2x04:35E) Garden of Bones
-- Game of Thrones (2x05:36E) The Ghost of Harrenhal
-- Game of Thrones (2x06:36E) The Old Gods and the New
-- Game of Thrones (2x07:36E) A Man Without Honor
-- Game of Thrones (2x08:37E) The Prince of Winterfell
-- Game of Thrones (2x09:37E) Blackwater
-- Game of Thrones (2x10:38E) Valar Morghulis
-- Game of Thrones (3x01:156E) Valar Dohaeris
-- Game of Thrones (3x02:156E) Dark Wings, Dark Words
-- Game of Thrones (3x03:157E) Walk of Punishment
-- Game of Thrones (3x04:157E) And Now His Watch is Ended
-- Game of Thrones (3x05:158E) Kissed by Fire
-- Game of Thrones (3x06:158E) The Climb
-- Game of Thrones (3x07:158E) The Bear and the Maiden Fair
-- Game of Thrones (3x08:159E) Second Sons
-- Game of Thrones (3x09:159E) The Rains of Castamere
-- Game of Thrones (3x10:160E) Mhysa
-- Game of Thrones (4x01:E) Two Swords
-- Game of Thrones (4x02:E) The Lion and the Rose
-- Game of Thrones (4x03:E) Breaker of Chains
-- Game of Thrones (4x04:E) Oathkeeper
-- Game of Thrones (4x05:E) First of His Name
-- Game of Thrones (4x06:E) The Laws of Gods and Men
-- Game of Thrones (4x07:E) Mockingbird
-- Game of Thrones (4x08:E) The Mountain and the Viper
-- Game of Thrones (4x09:E) The Watchers on the Wall
-- Game of Thrones (4x10:E) The Children
-- Game of Thrones (5x01:E) The Wars to Come
-- Game of Thrones (5x02:E) The House of Black and White
-- Game of Thrones (5x03:E) High Sparrow
-- Game of Thrones (5x04:E) Sons of the Harpy
-- Game of Thrones (5x05:E) Kill the Boy
-- Game of Thrones (5x06:E) Unbowed, Unbent, Unbroken
-- Game of Thrones (5x07:E) The Gift
-- Game of Thrones (5x08:E) Hardhome
-- Game of Thrones (5x09:E) The Dance of Dragons
-- Game of Thrones (5x10:E) Mother’s Mercy
-- Game of Thrones (6x01:E) The Red Woman
-- Game of Thrones (6x02:E) Home
-- Game of Thrones (6x03:E) Oathbreaker
-- Game of Thrones (6x04:E) Book of the Stranger
-- Game of Thrones (6x05:E) The Door
-- Game of Thrones (6x06:E) Blood of My Blood
-- Game of Thrones (6x07:E) The Broken Man
-- Game of Thrones (6x08:E) No One
-- Game of Thrones (6x09:E) Battle of the Bastards
-- Game of Thrones (6x10:E) The Winds of Winter
-- Game of Thrones (7x01:E) Dragonstone
-- Game of Thrones (7x02:E) Stormborn
-- Game of Thrones (7x03:E) The Queen’s Justice
-- Game of Thrones (7x04:E) The Spoils of War
-- Game of Thrones (7x05:E) Eastwatch
-- Game of Thrones (7x06:E) Beyond the Wall
-- Game of Thrones (7x07:E) The Dragon and the Wolf
-- Get Smart (1x01:B) Mr. Big
-- Get Smart (1x02:B) Diplomat’s Daughter
-- Get Smart (1x03:B) School Days
-- Get Smart (1x04:B) Our Man in Toyland
-- Get Smart (1x05:B) Now You See Him·. Now You Don’t
-- Get Smart (1x06:B) Washington 4, Indians 3
-- Get Smart (1x07:B) KAOS in CONTROL
-- Get Smart (1x08:B) The Day Smart Turned Chicken
-- Get Smart (1x09:B) Satan Place
-- Get Smart (1x10:B) Our Man in Leotards
-- Get Smart (1x11:B) Too Many Chiefs
-- Get Smart (1x12:B) My Nephew the Spy
-- Get Smart (1x13:B) Aboard the Orient Express
-- Get Smart (1x14:B) Weekend Vampire
-- Get Smart (1x15:B) Survival of the Fattest
-- Get Smart (1x16:B) Double Agent
-- Get Smart (1x17:B) Kisses for KAOS
-- Get Smart (1x18:B) The Dead Spy Scrawls
-- Get Smart (1x19:B) Back to the Old Drawing Board
-- Get Smart (1x20:B) All in the Mind
-- Get Smart (1x21:B) Dear Diary
-- Get Smart (1x22:B) Smart, the Assassin
-- Get Smart (1x23:B) I’m Only Human
-- Get Smart (1x24:B) Stakeout on Blue Mist Mountain
-- Get Smart (1x25:B) The Amazing Harry Hoo
-- Get Smart (1x26:B) Hubert’s Unfinished Symphony
-- Get Smart (1x27:B) Ship of Spies
-- Get Smart (1x29:B) Shipment to Beirut
-- Get Smart (1x30:B) The Last One in is a Rotten Spy
-- Get Smart (2x01:B) Anatomy of a Lover
-- Get Smart (2x02:B) Strike While the Agent is Hot
-- Get Smart (2x03:B) A Spy for a Spy
-- Get Smart (2x04:B) The Only Way to Die
-- Get Smart (2x05:B) Maxwell Smart, Alias Jimmy Ballantine
-- Get Smart (2x06:B) Casablanca
-- Get Smart (2x07:B) The Decoy
-- Get Smart (2x08:B) Hoo Done It
-- Get Smart (2x09:B) Rub-a-Dub-Dub . . .Three Spies in a Sub
-- Get Smart (2x10:B) The Greatest Spy on Earth
-- Get Smart (2x11:B) Island of the Darned
-- Get Smart (2x12:B) Bronzefinger
-- Get Smart (2x13:B) Perils in a Pet Shop
-- Get Smart (2x14:B) The Whole Tooth and . . .
-- Get Smart (2x15:B) Kiss of Death
-- Get Smart (2x16:B) It Takes One to Know One
-- Get Smart (2x17:B) Someone Down Here Hates Me
-- Get Smart (2x18:B) Cutback at CONTROL
-- Get Smart (2x19:B) The Man from YENTA
-- Get Smart (2x20:B) The Mummy
-- Get Smart (2x21:B) The Girls from KAOS
-- Get Smart (2x22:B) Smart Fit the Battle of Jericho
-- Get Smart (2x23:B) Where-What-How-Who Am I?
-- Get Smart (2x24:B) The Expendable Agent
-- Get Smart (2x25:B) How to Succeed in the Spy Business Without Really Trying
-- Get Smart (2x26:B) Appointment in Sahara
-- Get Smart (2x27:B) Pussycats Galore
-- Get Smart (2x28:B) A Man Called Smart
-- Get Smart (3x01:B) The Spy Who Met Himself
-- Get Smart (3x02:B) Viva Smart
-- Get Smart (3x03:B) Witness for the Persecution
-- Get Smart (3x04:B) The Spirit is Willing
-- Get Smart (3x05:B) Maxwell Smart, Private Eye
-- Get Smart (3x06:B) Supersonic Boom
-- Get Smart (3x07:B) One of Our Olives is Missing
-- Get Smart (3x08:B) When Good Fellows Get Together
-- Get Smart (3x09:B) Dr. Yes
-- Get Smart (3x10:B) That Old Gang of Mine
-- Get Smart (3x11:B) The Mild Ones
-- 'Get Smart (3x12:B) Classification: Dead'
-- Get Smart (3x13:B) The Mysterious Dr. T
-- Get Smart (3x14:B) The King Lives?
-- Get Smart (3x15:B) The Groovy Guru
-- Get Smart (3x16:B) The Little Black Book
-- Get Smart (3x18:B) Don’t Look Back
-- Get Smart (3x19:B) 99 Loses CONTROL
-- Get Smart (3x20:B) The Wax Max
-- Get Smart (3x21:B) Operation Ridiculous
-- Get Smart (3x22:B) Spy, Spy, Birdie
-- Get Smart (3x23:B) Run, Robot, Run
-- Get Smart (3x24:B) The Hot Line
-- Get Smart (3x25:B) Die, Spy
-- Get Smart (3x26:B) The Reluctant Redhead
-- Get Smart (4x01:B) The Impossible Mission
-- Get Smart (4x02:B) Snoopy Smart vs. the Red Baron
-- Get Smart (4x03:B) Closely Watched Planes
-- Get Smart (4x04:B) The Secret of Sam Vittorio
-- Get Smart (4x05:B) Diamonds Are a Spy’s Best Friend
-- Get Smart (4x06:B) The Worst Best Man
-- Get Smart (4x07:B) A Tale of Two Tails
-- Get Smart (4x08:B) The Return of the Ancient Mariner
-- Get Smart (4x09:B) With Love and Twitches
-- Get Smart (4x10:B) The Laser Blazer
-- Get Smart (4x11:B) The Farkas Fracas
-- Get Smart (4x12:B) Temporarily Out of CONTROL
-- Get Smart (4x13:B) Schwartz’s Island
-- Get Smart (4x14:B) One Nation Invisible
-- Get Smart (4x15:B) Hurray for Hollywood
-- Get Smart (4x16:B) The Day They Raided the Knights
-- Get Smart (4x17:B) Tequila Mockingbird
-- Get Smart (4x18:B) I Shot 86 Today
-- Get Smart (4x19:B) Absorb the Greek
-- Get Smart (4x20:B) To Sire, with Love
-- Get Smart (4x22:B) Shock It to Me
-- Get Smart (4x23:B) Leadside
-- Get Smart (4x24:B) Greer Window
-- Get Smart (4x25:B) The Not-So-Great Escape
-- Get Smart (5x01:B) Pheasant Under Glass
-- Get Smart (5x02:B) Ironhand
-- Get Smart (5x03:B) Valerie of the Dolls
-- Get Smart (5x04:B) Widow Often Annie
-- Get Smart (5x05:B) The Treasure of C. Errol Madre
-- Get Smart (5x06:B) Smart Fell on Alabama
-- Get Smart (5x07:B) And Baby Makes Four
-- 'Get Smart (5x09:B) Physician: Impossible'
-- Get Smart (5x10:B) The Apes of Wrath
-- Get Smart (5x11:B) Age Before Duty
-- Get Smart (5x12:B) Is This Trip Necessary?
-- Get Smart (5x13:B) Ice Station Siegfried
-- Get Smart (5x14:B) Moonlighting Becomes You
-- Get Smart (5x15:B) House of Max
-- Get Smart (5x17:B) Rebecca of Funny-Folk Farm
-- Get Smart (5x18:B) The Mess of Adrian Listenger
-- Get Smart (5x19:B) Witness for the Execution
-- Get Smart (5x20:B) How Green Was My Valet
-- Get Smart (5x21:B) And Only Two Ninety-Nine
-- Get Smart (5x22:B) Smartacus
-- Get Smart (5x23:B) What’s It All About, Algie?
-- Get Smart (5x24:B) Hello, Columbus - Goodbye, America
-- Get Smart (5x25:B) Do I Hear a Vaults?
-- Get Smart (5x26:B) I Am Curiously Yellow
-- Ghibli Studio (187A) Spirited Away
-- The Girl From Tomorrow (1x01:1C) Future Shock
-- The Girl From Tomorrow (1x02:1C) A Primitive and Dangerous Time
-- The Girl From Tomorrow (1x03:1C) Sanctuary
-- The Girl From Tomorrow (1x04:2C) Sweetness and Fright
-- The Girl From Tomorrow (1x05:2C) Don’t Tell Mum
-- The Girl From Tomorrow (1x06:2C) Computer Games
-- The Girl From Tomorrow (1x07:3C) Stake-Out
-- The Girl From Tomorrow (1x08:3C) Newsprobe
-- The Girl From Tomorrow (1x09:3C) Truth and Lies
-- The Girl From Tomorrow (1x10:4C) Betrayed
-- The Girl From Tomorrow (1x11:4C) Captain Zero Strikes Again
-- The Girl From Tomorrow (1x12:4C) Last Stand at the Kelly Deli
-- The Girl From Tomorrow (2x01:1C) A Time Without Vegemite
-- The Girl From Tomorrow (2x02:1C) The End of Everything
-- The Girl From Tomorrow (2x03:1C) The Other Alana
-- The Girl From Tomorrow (2x04:2C) The Time Gate
-- The Girl From Tomorrow (2x05:2C) Sucked Into The Future
-- The Girl From Tomorrow (2x06:2C) The Grandmother Of Invention
-- The Girl From Tomorrow (2x07:3C) Escape From Globecorp
-- The Girl From Tomorrow (2x08:3C) A Chase Through Time
-- The Girl From Tomorrow (2x09:3C) Showdown at ’Eddie’s Pools’
-- The Girl From Tomorrow (2x10:4C) In The Nik Of Time
-- The Girl From Tomorrow (2x11:4C) The Great Disaster Begins
-- The Girl From Tomorrow (2x12:4C) Kings Of The Dinosaurs
-- 'Graphic Novel: Superman (B) Superman: The Movie'
-- 'Graphic Novel: Superman (B) Superman II'
-- Graphic Novel (101F) Batman
-- 'Graphic Novel: Batman (102F) Batman Returns'
-- 'Graphic Novel: Batman (103F) Batman Forever'
-- 'Graphic Novel: Batman (104F) Batman and Robin'
-- 'Graphic Novel: The Dark Knight (41F) Batman Begins'
-- Graphic Novel (42F) The Dark Knight
-- 'Graphic Novel: The Dark Knight (43F) The Dark Knight Rises'
-- Graphic Novel (187F) Unbreakable
-- 'Graphic Novel (176F) Akira ??? '
-- Graphic Novel (A) Teenage Mutant Ninja Turtles
-- 'Graphic Novel: Teenage Mutant Ninja Turtles (A) The Secret of the Ooze'
-- Graphic Novel (95F) The Mask
-- Graphic Novel (A) Megamind
-- Heroes (1x01:1A) In His Own Image
-- Heroes (1x02:1A) Don’t Look Back
-- Heroes (1x03:2A) One Giant Leap
-- Heroes (1x04:2A) Collision
-- Heroes (1x05:2A) Hiros
-- Heroes (1x06:3A) Better Halves
-- Heroes (1x07:3A) Nothing to Hide
-- Heroes (1x08:3A) Seven Minutes to Midnight
-- Heroes (1x09:4A) Homecoming
-- Heroes (1x10:4A) Six Months Ago?
-- Heroes (1x11:4A) Fallout
-- Heroes (1x12:5A) Godsend
-- Heroes (1x13:5A) The Fix
-- Heroes (1x14:5A) Distractions
-- Heroes (1x15:5A) Run!
-- Heroes (1x16:6A) Unexpected
-- Heroes (1x17:6A) Company Man
-- Heroes (1x18:6A) Parasite
-- Heroes (1x19:6A) 0.07%
-- Heroes (1x20:7A) Five Years Gone
-- Heroes (1x21:7A) The Hard Part
-- Heroes (1x22:7A) Landslide
-- Heroes (1x23:7A) How to Stop an Exploding Man
-- Heroes (2x01:1A) Four Months Later?
-- Heroes (2x02:1A) Lizards
-- Heroes (2x03:1A) Kindred
-- Heroes (2x04:1A) The Kindess of Strangers
-- Heroes (2x05:2A) Fight or Flight
-- Heroes (2x06:2A) The Line
-- Heroes (2x07:2A) Out of Time
-- Heroes (2x08:2A) Four Months Ago?
-- Heroes (2x09:3A) Cautionary Tales
-- Heroes (2x10:3A) Truth & Consequences
-- Heroes (2x11:3A) Powerless
-- Heroes (3x01:1A) The Second Coming
-- Heroes (3x02:1A) Butterfly Effect
-- Heroes (3x03:1A) One of Us, One of Them
-- Heroes (3x04:1A) I Am Become Death
-- Heroes (3x05:2A) Angels And Monsters
-- Heroes (3x06:2A) Dying of the Light
-- Heroes (3x07:2A) Eris Quod Sum
-- Heroes (3x08:2A) Villains
-- Heroes (3x09:3A) It’s Coming
-- Heroes (3x10:3A) The Eclipse
-- Heroes (3x11:3A) Our Father
-- Heroes (3x13:4A) Dual
-- Heroes (3x14:4A) A Clear and Present Danger
-- Heroes (3x15:4A) Trust and Blood
-- Heroes (3x16:4A) Building 26
-- Heroes (3x17:5A) Cold Wars
-- Heroes (3x18:5A) Exposed
-- Heroes (3x19:5A) Shades of Gray
-- Heroes (3x20:5A) Cold Snap
-- Heroes (3x21:6A) Into Asylum
-- Heroes (3x22:6A) Turn and Face the Strange
-- Heroes (3x23:6A) 1961
-- Heroes (3x24:6A) I Am Sylar
-- Heroes (3x25:6A) An Invisible Thread
-- Heroes (4x01:1A) Orientation
-- Heroes (4x02:1A) Ink
-- Heroes (4x03:1A) Acceptance
-- Heroes (4x04:2A) Hysterical Blindness
-- Heroes (4x05:2A) Tabula Rasa
-- Heroes (4x06:2A) Strange Attractors
-- Heroes (4x07:2A) Once Upon A Time In Texas
-- Heroes (4x08:3A) Shadowboxing
-- Heroes (4x09:3A) Brother’s Keeper
-- Heroes (4x10:3A) Thanksgiving
-- Heroes (4x11:3A) The Fifth Stage
-- Heroes (4x12:4A) Upon This Rock
-- Heroes (4x13:4A) Let It Bleed
-- Heroes (4x14:4A) Close to You
-- Heroes (4x15:4A) Pass/Fail
-- Heroes (4x16:5A) The Art of Deception
-- Heroes (4x17:5A) The Wall
-- Heroes (4x18:5A) Brave New World
-- 'History: Monty Python (C) Monty Python and the Holy Grail'
-- 'History: Monty Python (C) Life of Brian'
-- History (60F) Calamity Jane
-- History (19F) Schindler’s List
-- History (79F) Born Free
-- 'History: Born Free (79F) Living Free'
-- History (141F) Saving Mr. Banks
-- History (186F) The Dish
-- History (21F) Good Morning Vietnam
-- History (D) Mask
-- The IT Crowd (1x01:W) Yesterday’s Jam
-- The IT Crowd (1x02:W) Calamity Jen
-- The IT Crowd (1x03:W) Fifty-Fifty
-- The IT Crowd (1x04:W) The Red Door
-- The IT Crowd (1x05:W) The Haunting of Bill Crouse
-- The IT Crowd (1x06:W) Aunt Irma Visits
-- The IT Crowd (2x01:W) The Work Outing
-- The IT Crowd (2x02:W) Return of the Golden Child
-- The IT Crowd (2x03:W) Moss and the German
-- The IT Crowd (2x04:W) The Dinner Party
-- The IT Crowd (2x05:W) Smoke and Mirrors
-- The IT Crowd (2x06:W) Men Without Women
-- The IT Crowd (3x01:W) From Hell
-- The IT Crowd (3x02:W) Are We Not Men?
-- The IT Crowd (3x03:W) Tramps Like Us
-- The IT Crowd (3x04:W) The Speech
-- The IT Crowd (3x05:W) Friendface
-- The IT Crowd (3x06:W) Calendar Geeks
-- The IT Crowd (4x01:W) Jen The Fredo
-- The IT Crowd (4x02:W) The Final Countdown
-- The IT Crowd (4x03:W) Something Happened
-- The IT Crowd (4x04:W) Italian for Beginners
-- The IT Crowd (4x05:W) Bad Boys
-- The IT Crowd (4x06:W) Reynholm vs Reynholm
-- JAG (1x01:171B) A New Life
-- JAG (1x03:171B) Shadow
-- JAG (1x04:171B) Desert Son
-- JAG (1x05:172B) Deja Vu
-- JAG (1x06:172B) Pilot Error
-- JAG (1x07:172B) War Cries
-- JAG (1x08:172B) Brig Break
-- JAG (1x09:173B) Scimitar
-- JAG (1x10:173B) Boot
-- JAG (1x11:173B) Sightings
-- JAG (1x12:173B) The Brotherhood
-- JAG (1x13:174B) Defensive Action
-- JAG (1x14:174B) Smoked
-- JAG (1x15:174B) Hemlock
-- JAG (1x16:174B) High Ground
-- JAG (1x17:175B) Black Ops
-- JAG (1x18:175B) Survivors
-- JAG (1x19:175B) Recovery
-- JAG (1x20:175B) The Prisoner
-- JAG (1x21:176B) Ares
-- JAG (1x22:176B) Skeleton Crew
-- JAG (2x01:177B) We the People
-- JAG (2x02:177B) Secrets
-- JAG (2x03:177B) Jinx
-- JAG (2x04:177B) Heroes
-- JAG (2x05:178B) Crossing the Line
-- JAG (2x06:178B) Trinity
-- JAG (2x07:178B) Ghosts
-- JAG (2x08:178B) Full Engagement
-- JAG (2x09:179B) Washington Holiday
-- JAG (2x10:179B) The Game of Go
-- JAG (2x11:179B) Force Recon
-- JAG (2x12:179B) The Guardian
-- JAG (2x13:180B) Code Blue
-- JAG (2x14:180B) Cowboys and Cossacks
-- JAG (2x15:180B) Rendezvous
-- JAG (3x01:181B) Ghost Ship
-- JAG (3x02:181B) The Court-Martial of Sandra Gilbert
-- JAG (3x03:181B) The Good of the Service
-- JAG (3x04:181B) Blind Side
-- JAG (3x05:182B) King of the Fleas
-- JAG (3x06:182B) Vanished
-- JAG (3x07:182B) Against All Enemies
-- JAG (3x08:182B) Above and Beyond
-- JAG (3x09:183B) Impact
-- JAG (3x10:183B) People v. Rabb
-- JAG (3x11:183B) Defenseless
-- JAG (3x12:183B) Someone to Watch Over Annie
-- JAG (3x13:184B) With Intent to Die
-- JAG (3x14:184B) Father’s Day
-- JAG (3x15:184B) Yesterday’s Heroes
-- JAG (3x16:184B) Chains of Command
-- JAG (3x17:185B) The Stalker
-- JAG (3x18:185B) Tiger, Tiger
-- JAG (3x19:185B) Death Watch
-- JAG (3x20:185B) Imposter
-- JAG (3x21:186B) The Return of Jimmy Blackhorse
-- JAG (3x22:186B) Clipped Wings
-- JAG (3x23:186B) Wedding Bell Blues
-- JAG (3x24:186B) To Russia with Love
-- JAG (4x01:187B) Gypsy Eyes
-- JAG (4x02:187B) Embassy
-- JAG (4x03:187B) Innocence
-- JAG (4x04:187B) Going After Francesca
-- JAG (4x05:188B) The Martin Baker Fan Club
-- JAG (4x06:188B) Act of Terror
-- JAG (4x07:188B) Angels 30
-- JAG (4x08:188B) Mr. Rabb Goes to Washington
-- JAG (4x09:189B) People v. Mac
-- JAG (4x10:189B) The Black Jet
-- JAG (4x11:189B) Jaggle Bells
-- JAG (4x12:189B) Dungaree Justice
-- JAG (4x13:190B) War Stories
-- JAG (4x14:190B) Webb of Lies
-- JAG (4x15:190B) Rivers’ Run
-- JAG (4x16:190B) Silent Service
-- JAG (4x17:191B) Nobody’s Child
-- JAG (4x18:191B) Shakedown
-- JAG (4x19:191B) The Adversaries
-- JAG (4x20:191B) Second Sight
-- JAG (4x21:192B) Wilderness of Mirrors
-- JAG (4x22:192B) Soul Searching
-- JAG (4x23:192B) Yeah Baby
-- JAG (4x24:192B) Goodbyes
-- JAG (5x01:193B) King of the Greenie Board
-- JAG (5x02:193B) Rules of Engagement
-- JAG (5x03:193B) True Callings
-- JAG (5x04:193B) The Return
-- JAG (5x05:194B) Front and Center
-- JAG (5x06:194B) Psychic Warrior
-- JAG (5x07:194B) Rogue
-- JAG (5x08:194B) The Colonel’s Wife
-- JAG (5x09:195B) Contemptuous Words
-- JAG (5x10:195B) Mishap
-- JAG (5x11:195B) Ghosts of Christmas Past
-- JAG (5x12:195B) Into the Breech
-- JAG (5x13:196B) Life or Death
-- JAG (5x14:196B) Cabin Pressure
-- JAG (5x15:196B) Boomerang
-- JAG (5x17:197B) People v. Gunny
-- JAG (5x18:197B) The Bridge at Kang So Ri
-- JAG (5x19:197B) Promises
-- JAG (5x20:197B) Drop Zone
-- JAG (5x21:198B) The Witches of Gulfport
-- JAG (5x22:198B) Overdue and Presumed Lost
-- JAG (5x23:198B) Real Deal SEAL
-- JAG (5x24:198B) Body Talk
-- JAG (5x25:198B) Surface Warfare
-- JAG (6x01:199B) Legacy
-- JAG (6x03:199B) Florida Straits
-- JAG (6x04:199B) Flight Risk
-- JAG (6x05:200B) JAG TV
-- JAG (6x06:200B) The Princess and the Petty Officer
-- JAG (6x07:200B) A Separate Peace
-- JAG (6x09:201B) Family Secrets
-- JAG (6x10:201B) Touch and Go
-- JAG (6x11:201B) Baby, It’s Cold Outside
-- JAG (6x12:201B) Collision Course
-- JAG (6x13:202B) Miracles
-- JAG (6x14:202B) Killer Instinct
-- JAG (6x15:202B) Iron Coffin
-- JAG (6x16:202B) Retreat, Hell
-- JAG (6x17:203B) Valor
-- JAG (6x18:203B) Liberty
-- JAG (6x19:203B) Salvation
-- JAG (6x20:203B) To Walk on Wings
-- JAG (6x21:204B) Past Tense
-- JAG (6x22:204B) Lifeline
-- JAG (6x23:204B) Mutiny
-- JAG (6x24:204B) Adrift
-- JAG (7x02:205B) New Gun in Town
-- JAG (7x03:205B) Measure of Men
-- JAG (7x04:205B) Guilt
-- JAG (7x05:206B) Mixed Messages
-- JAG (7x06:206B) Redemption
-- JAG (7x07:206B) Ambush
-- JAG (7x08:206B) Jag-a-thon
-- JAG (7x09:206B) Dog Robber
-- JAG (7x11:207B) Answered Prayers
-- JAG (7x12:207B) Capital Crime
-- JAG (7x13:207B) Code of Conduct
-- JAG (7x14:207B) Odd Man Out
-- JAG (7x15:208B) Head to Toe
-- JAG (7x16:208B) The Mission
-- JAG (7x17:208B) Exculpatory Evidence
-- JAG (7x18:208B) Hero Worship
-- JAG (7x19:208B) First Casualty
-- JAG (7x20:209B) Port Chicago
-- JAG (7x21:209B) Tribunal
-- JAG (7x22:209B) Defending His Honor
-- JAG (7x23:209B) In Country
-- JAG (7x24:209B) Enemy Below
-- JAG (8x01:210B) Critical Condition
-- JAG (8x02:210B) The Promised Land
-- JAG (8x03:210B) Family Business
-- JAG (8x04:210B) Dangerous Game
-- JAG (8x05:211B) In Thin Air
-- JAG (8x06:211B) Offensive Action
-- JAG (8x07:211B) Need to Know
-- JAG (8x08:211B) Ready or Not
-- JAG (8x09:211B) When the Bough Breaks
-- JAG (8x10:212B) The Killer
-- JAG (8x11:212B) All Ye Faithful
-- JAG (8x12:212B) Complications
-- JAG (8x13:212B) Standards of Conduct
-- JAG (8x14:212B) Each of Us Angels
-- JAG (8x15:213B) Friendly Fire
-- JAG (8x16:213B) Heart & Soul
-- JAG (8x17:213B) Empty Quiver
-- JAG (8x18:213B) Fortunate Son
-- JAG (8x19:213B) Second Acts
-- JAG (8x20:214B) Ice Queen
-- JAG (8x21:214B) Meltdown
-- JAG (8x22:214B) Lawyers, Guns & Money
-- JAG (8x23:214B) Pas de Deux
-- JAG (8x24:214B) A Tangled Webb
-- JAG (9x02:215B) Shifting Sands
-- JAG (9x03:215B) Secret Agent Man
-- JAG (9x04:215B) The One Who Got Away
-- JAG (9x05:216B) Touchdown
-- JAG (9x06:216B) Back in the Saddle
-- JAG (9x07:216B) Close Quarters
-- JAG (9x08:216B) Posse Comitatus
-- JAG (9x09:217B) The Boast
-- JAG (9x10:217B) Pulse Rate
-- JAG (9x11:217B) A Merry Little Christmas
-- JAG (9x12:217B) A Girl’s Best Friend
-- JAG (9x13:217B) Good Intentions
-- JAG (9x14:218B) People v. SecNav
-- JAG (9x15:218B) Crash
-- JAG (9x16:218B) Persian Gulf
-- JAG (9x17:218B) Take It Like a Man
-- JAG (9x18:218B) What If
-- JAG (9x19:219B) Hard Time
-- JAG (9x20:219B) Fighting Words
-- JAG (9x21:219B) Coming Home
-- JAG (9x22:219B) Trojan Horse
-- JAG (9x23:219B) Hail and Farewell
-- JAG (10x02:220B) Corporate Raiders
-- JAG (10x03:220B) Retrial
-- JAG (10x04:220B) Whole New Ball Game
-- JAG (10x05:221B) This Just In from Baghdad
-- JAG (10x06:221B) One Big Boat
-- JAG (10x07:221B) Camp Delta
-- JAG (10x08:221B) There Goes the Neighborhood
-- JAG (10x09:222B) The Man on the Bridge
-- JAG (10x10:222B) The Four Percent Solution
-- JAG (10x11:222B) Automatic for the People
-- JAG (10x12:222B) The Sixth Juror
-- JAG (10x13:223B) Heart of Darkness
-- JAG (10x14:223B) Fit for Duty
-- JAG (10x15:223B) Bridging the Gulf
-- JAG (10x16:223B) Straits of Malacca
-- 'JAG (10x17:223B) JAG: San Diego'
-- JAG (10x18:224B) Death at the Mosque
-- JAG (10x19:224B) Two Towns
-- JAG (10x20:224B) Unknown Soldier
-- JAG (10x21:224B) Dream Team
-- JAG (10x22:224B) Fair Winds and Following Seas
-- Kids (28F) Crystalstone
-- Kids (A) Bedknobs and Broomsticks
-- Kids (A) Mary Poppins
-- Kids (C) Casper
-- 'Kids: The Muppets (5F) A Muppet Christmas Carol'
-- 'Kids: The Muppets (6F) Muppet Treasure Island'
-- Kids (145F) Chicken Run
-- Kids (2F) Willy Wonka and the Chocolate Factory
-- Kids (99F) Matilda
-- Kids (97F) Jumanji
-- Kids (87F) George of the Jungle
-- Languourous (33F) Chocolat
-- 'Languourous (32F) Life is Beautiful: La vita ? bella'
-- Languourous (129F) The Shawshank Redemption
-- Languourous (34F) Rain Man
-- Languourous (93F) The Truman Show
-- Languourous (132F) Sliding Doors
-- Languourous (49F) Cast Away
-- Languourous (22F) Dead Poets Society
-- 'Languourous (31F) Crouching Tiger, Hidden Dragon:  ???? '
-- Lexx (1x01:U) I Worship His Shadow
-- Lexx (1x02:U) Supernova
-- Lexx (1x03:U) Eating Pattern
-- Lexx (1x04:U) Giga Shadow
-- Lexx (2x01:1U) Mantrid
-- Lexx (2x02:1U) Terminal
-- Lexx (2x03:1U) Lyekka
-- Lexx (2x04:1U) Luvliner
-- Lexx (2x05:2U) Lafftrak
-- Lexx (2x06:2U) Stan’s Trial
-- Lexx (2x07:2U) Love Grows
-- Lexx (2x08:2U) White Trash
-- Lexx (2x09:3U) 791
-- Lexx (2x10:3U) Wake the Dead
-- Lexx (2x11:3U) Nook
-- Lexx (2x12:3U) Norb
-- Lexx (2x13:4U) Twilight
-- Lexx (2x14:4U) Patches in the Sky
-- Lexx (2x15:4U) Woz
-- Lexx (2x16:4U) The Web
-- Lexx (2x17:5U) The Net
-- Lexx (2x18:5U) Brigadoom
-- Lexx (2x19:5U) Brizon
-- Lexx (2x20:5U) End of the Universe
-- Lexx (3x01:1U) Fire and Water
-- Lexx (3x02:1U) May
-- Lexx (3x03:1U) Gametown
-- Lexx (3x04:2U) Boomtown
-- Lexx (3x05:2U) Gondola
-- Lexx (3x06:2U) K-Town
-- Lexx (3x07:3U) Tunnels
-- Lexx (3x08:3U) The Key
-- Lexx (3x09:3U) Garden
-- Lexx (3x10:4U) Battle
-- Lexx (3x11:4U) Girltown
-- Lexx (3x12:4U) The Beach
-- Lexx (3x13:4U) Heaven & Hell
-- Lexx (4x01:1U) Little Blue Planet
-- Lexx (4x02:1U) Texx Lexx
-- Lexx (4x03:1U) P4X
-- Lexx (4x04:1U) Stan Down
-- Lexx (4x05:2U) Xevivor
-- Lexx (4x06:2U) The Rock
-- Lexx (4x07:2U) Walpurgis Night
-- Lexx (4x08:2U) Vlad
-- Lexx (4x09:3U) Fluff Daddy
-- Lexx (4x10:3U) Magic Baby
-- Lexx (4x11:3U) A Midsummer’s Nightmare
-- Lexx (4x12:3U) Bad Carrot
-- Lexx (4x13:4U) 769
-- Lexx (4x14:4U) Prime Ridge
-- Lexx (4x15:4U) Mort
-- Lexx (4x16:4U) Moss
-- Lexx (4x17:5U) Dutch Treat
-- Lexx (4x18:5U) The Game
-- Lexx (4x19:5U) Haley’s Comet
-- Lexx (4x20:5U) ApocaLexx Now
-- Lexx (4x21:6U) Viva Lexx Vegas
-- Lexx (4x22:6U) Trip
-- Lexx (4x23:6U) Lyekka vs. Japan
-- Lexx (4x24:6U) Yo Way Yo
-- Look Around You (1x00:C) Calcium
-- Look Around You (1x01:C) Maths
-- Look Around You (1x02:C) Water
-- Look Around You (1x03:C) Germs
-- Look Around You (1x04:C) Ghosts
-- Look Around You (1x05:C) Sulphur
-- Look Around You (1x06:C) Music
-- Look Around You (1x07:C) Iron
-- Look Around You (1x08:C) The Brain
-- Look Around You (2x01:C) Music 2000
-- Look Around You (2x02:C) Health
-- Look Around You (2x03:C) Sport
-- Look Around You (2x04:C) Food
-- Look Around You (2x05:C) Computers
-- Look Around You (2x06:C) Live Final
-- The Lost Room (Mum’s Place) The Key, the Clock, the Comb, the Box, the Eye, and the Prime Object
-- M*A*S*H (1x01:1W)
-- M*A*S*H (1x02:1W) To Market, to Market
-- M*A*S*H (1x03:1W) Requiem for a Lightweight
-- M*A*S*H (1x04:1W) Chief Surgeon Who?
-- M*A*S*H (1x05:1W) The Moose
-- M*A*S*H (1x06:1W) Yankee Doodle Doctor
-- M*A*S*H (1x07:1W) Bananas, Crackers and Nuts
-- M*A*S*H (1x08:1W) Cowboy
-- M*A*S*H (1x09:2W) Henry, Please Come Home
-- M*A*S*H (1x10:2W) I Hate a Mystery
-- M*A*S*H (1x11:2W) Germ Warfare
-- M*A*S*H (1x12:2W) Dear Dad
-- M*A*S*H (1x13:2W) Edwina
-- M*A*S*H (1x14:2W) Love Story
-- M*A*S*H (1x15:2W) Tuttle
-- M*A*S*H (1x16:2W) The Ringbanger
-- M*A*S*H (1x17:3W) Sometimes You Hear the Bullet
-- M*A*S*H (1x18:3W) Dear Dad, Again
-- M*A*S*H (1x19:3W) The Long-John Flap
-- M*A*S*H (1x20:3W) The Army-Navy Game
-- M*A*S*H (1x21:3W) Sticky Wicket
-- M*A*S*H (1x22:3W) Major Fred C. Dobbs
-- M*A*S*H (1x23:3W) Ceasefire
-- M*A*S*H (1x24:3W) Showtime
-- M*A*S*H (2x01:1W) Divided We Stand
-- M*A*S*H (2x02:1W) 5 O’Clock Charlie
-- M*A*S*H (2x03:1W) Radar’s Report
-- M*A*S*H (2x04:1W) For the Good of the Outfit
-- M*A*S*H (2x05:1W) Dr. Pierce and Mr. Hyde
-- M*A*S*H (2x06:1W) Kim
-- M*A*S*H (2x07:1W) L.I.P. (Local Indigenous Personnel)
-- M*A*S*H (2x08:1W) The Trial of Henry Blake
-- M*A*S*H (2x09:2W) Dear Dad?Three
-- M*A*S*H (2x10:2W) The Sniper
-- M*A*S*H (2x11:2W) Carry On Hawkeye
-- M*A*S*H (2x12:2W) The Incubator
-- M*A*S*H (2x13:2W) Deal Me Out
-- M*A*S*H (2x14:2W) Hot Lips and Empty Arms
-- M*A*S*H (2x15:2W) Officers Only
-- M*A*S*H (2x16:2W) Henry in Love
-- M*A*S*H (2x17:3W) For Want of a Boot
-- M*A*S*H (2x18:3W) Operation Noselift
-- M*A*S*H (2x19:3W) The Chosen People
-- M*A*S*H (2x20:3W) As You Were
-- M*A*S*H (2x21:3W) Crisis
-- M*A*S*H (2x22:3W) George
-- M*A*S*H (2x23:3W) Mail Call
-- M*A*S*H (2x24:3W) A Smattering of Intelligence
-- M*A*S*H (3x01:1W) The General Flipped at Dawn
-- M*A*S*H (3x02:1W) Rainbow Bridge
-- M*A*S*H (3x03:1W) Officer of the Day
-- M*A*S*H (3x04:1W) Iron Guts Kelly
-- M*A*S*H (3x05:1W) O.R.
-- M*A*S*H (3x06:1W) Springtime
-- M*A*S*H (3x07:1W) Check-Up
-- M*A*S*H (3x08:1W) Life With Father
-- M*A*S*H (3x09:2W) Alcoholics Unanimous
-- M*A*S*H (3x10:2W) There is Nothing Like a Nurse
-- M*A*S*H (3x11:2W) Adam’s Rib
-- M*A*S*H (3x12:2W) A Full Rich Day
-- M*A*S*H (3x13:2W) Mad Dogs and Servicemen
-- M*A*S*H (3x14:2W) Private Charles Lamb
-- M*A*S*H (3x15:2W) Bombed
-- M*A*S*H (3x16:2W) Bulletin Board
-- M*A*S*H (3x17:3W) The Consultant
-- M*A*S*H (3x18:3W) House Arrest
-- M*A*S*H (3x19:3W) Aid Station
-- M*A*S*H (3x20:3W) Love and Marriage
-- M*A*S*H (3x21:3W) Big Mac
-- M*A*S*H (3x22:3W) Payday
-- M*A*S*H (3x23:3W) White Gold
-- M*A*S*H (3x24:3W) Abyssinia, Henry
-- M*A*S*H (4x01:1W) Welcome to Korea
-- M*A*S*H (4x02:1W) Change of Command
-- M*A*S*H (4x03:1W) It Happened One Night
-- M*A*S*H (4x04:1W) The Late Captain Pierce
-- M*A*S*H (4x05:1W) Hey, Doc
-- M*A*S*H (4x06:1W) The Bus
-- M*A*S*H (4x07:1W) Dear Mildred
-- M*A*S*H (4x08:1W) The Kids
-- M*A*S*H (4x09:2W) Quo Vadis, Captain Chandler?
-- M*A*S*H (4x10:2W) Dear Peggy
-- M*A*S*H (4x11:2W) Of Moose and Men
-- M*A*S*H (4x12:2W) Soldier of the Month
-- M*A*S*H (4x13:2W) The Gun
-- M*A*S*H (4x14:2W) Mail Call Again
-- M*A*S*H (4x15:2W) The Price of Tomato Juice
-- M*A*S*H (4x16:2W) Dear Ma
-- M*A*S*H (4x17:3W) Der Tag
-- M*A*S*H (4x18:3W) Hawkeye
-- M*A*S*H (4x19:3W) Some 38th Parallels
-- M*A*S*H (4x20:3W) The Novocaine Mutiny
-- M*A*S*H (4x21:3W) Smilin’ Jack
-- M*A*S*H (4x22:3W) The More I See You
-- M*A*S*H (4x23:3W) Deluge
-- M*A*S*H (4x24:3W) The Interview
-- M*A*S*H (5x01:1W) Bug Out
-- M*A*S*H (5x02:1W) Margaret’s Engagement
-- M*A*S*H (5x03:1W) Out of Sight, Out of Mind
-- M*A*S*H (5x04:1W) Lt. Radar O’Reilly
-- M*A*S*H (5x05:1W) The Nurses
-- M*A*S*H (5x06:1W) The Abduction of Margaret Houlihan
-- M*A*S*H (5x07:1W) Dear Sigmund
-- M*A*S*H (5x08:1W) Mulcahy’s War
-- M*A*S*H (5x09:2W) The Korean Surgeon
-- M*A*S*H (5x10:2W) Hawkeye Get Your Gun
-- M*A*S*H (5x11:2W) The Colonel’s Horse
-- M*A*S*H (5x12:2W) Exorcism
-- M*A*S*H (5x13:2W) Hawk’s Nightmare
-- M*A*S*H (5x14:2W) The Most Unforgettable Characters
-- M*A*S*H (5x15:2W) 38 Across
-- M*A*S*H (5x16:2W) Ping Pong
-- M*A*S*H (5x17:3W) End Run
-- M*A*S*H (5x18:3W) Hanky Panky
-- M*A*S*H (5x19:3W) Hepatitis
-- M*A*S*H (5x20:3W) The General’s Practitioner
-- M*A*S*H (5x21:3W) Movie Tonight
-- M*A*S*H (5x22:3W) Souvenirs
-- M*A*S*H (5x23:3W) Post-Op
-- M*A*S*H (5x24:3W) Margaret’s Marriage
-- M*A*S*H (6x01:1W) Fade Out, Fade In
-- M*A*S*H (6x02:1W) Fallen Idol
-- M*A*S*H (6x03:1W) Last Laugh
-- M*A*S*H (6x04:1W) War of Nerves
-- M*A*S*H (6x05:1W) The Winchester Tapes
-- M*A*S*H (6x06:1W) The Light That Failed
-- M*A*S*H (6x07:1W) In Love and War
-- M*A*S*H (6x08:1W) Change Day
-- M*A*S*H (6x09:2W) Images
-- M*A*S*H (6x10:2W) The M*A*S*H Olympics
-- M*A*S*H (6x11:2W) The Grim Reaper
-- M*A*S*H (6x12:2W) Comrades in Arms
-- M*A*S*H (6x13:2W) The Merchant of Korea
-- M*A*S*H (6x15:2W) The Smell of Music
-- M*A*S*H (6x16:2W) Patent 4077
-- M*A*S*H (6x17:3W) Tea and Empathy
-- M*A*S*H (6x18:3W) Your Hit Parade
-- M*A*S*H (6x19:3W) What’s Up, Doc?
-- M*A*S*H (6x20:3W) Mail Call Three
-- M*A*S*H (6x21:3W) Temporary Duty
-- M*A*S*H (6x22:3W) Potter’s Retirement
-- M*A*S*H (6x23:3W) Dr. Winchester and Mr. Hyde
-- M*A*S*H (6x24:3W) Major Topper
-- M*A*S*H (7x01:1W) Commander Pierce
-- M*A*S*H (7x02:1W) Peace On Us
-- M*A*S*H (7x03:1W) Lil
-- M*A*S*H (7x04:1W) Our Finest Hour
-- M*A*S*H (7x05:1W) The Billfold Syndrome
-- M*A*S*H (7x07:1W) None Like it Hot
-- M*A*S*H (7x08:1W) They Call the Wind Korea
-- M*A*S*H (7x09:1W) Major Ego
-- M*A*S*H (7x10:2W) Baby, it’s Cold Outside
-- M*A*S*H (7x11:2W) Point of View
-- M*A*S*H (7x12:2W) Dear Comrade
-- M*A*S*H (7x13:2W) Out of Gas
-- M*A*S*H (7x14:2W) An Eye for a Tooth
-- M*A*S*H (7x15:2W) Dear Sis
-- M*A*S*H (7x16:2W) B.J. Papa San
-- M*A*S*H (7x17:2W) Inga
-- M*A*S*H (7x18:3W) The Price
-- M*A*S*H (7x19:3W) The Young and the Restless
-- M*A*S*H (7x20:3W) Hot Lips is Back in Town
-- M*A*S*H (7x21:3W) C*A*V*E
-- M*A*S*H (7x22:3W) Rally Round the Flagg, Boys
-- M*A*S*H (7x23:3W) Preventive Medicine
-- M*A*S*H (7x24:3W) A Night at Rosie’s
-- M*A*S*H (7x25:3W) Ain’t Love Grand
-- M*A*S*H (7x26:3W) The Party
-- M*A*S*H (8x01:1W) Too Many Cooks
-- M*A*S*H (8x02:1W) Are You Now, Margaret?
-- M*A*S*H (8x03:1W) Guerilla My Dreams
-- M*A*S*H (8x04:1W) Good-Bye Radar
-- M*A*S*H (8x06:1W) Period of Adjustment
-- M*A*S*H (8x07:1W) Nurse Doctor
-- M*A*S*H (8x08:1W) Private Finance
-- M*A*S*H (8x09:2W) Mr. and Mrs. Who?
-- M*A*S*H (8x10:2W) The Yalu Brick Road
-- M*A*S*H (8x11:2W) Life Time
-- M*A*S*H (8x12:2W) Dear Uncle Abdul
-- M*A*S*H (8x13:2W) Captains Outrageous
-- M*A*S*H (8x14:2W) Stars and Stripes
-- M*A*S*H (8x15:2W) Yessir, That’s Our Baby
-- M*A*S*H (8x16:2W) Bottle Fatigue
-- M*A*S*H (8x17:3W) Heal Thyself
-- M*A*S*H (8x18:3W) Old Soldiers
-- M*A*S*H (8x19:3W) Morale Victory
-- M*A*S*H (8x20:3W) Lend a Hand
-- M*A*S*H (8x21:3W) Goodbye, Cruel World
-- M*A*S*H (8x22:3W) Dreams
-- M*A*S*H (8x23:3W) War Co-Respondent
-- M*A*S*H (8x24:3W) Back Pay
-- M*A*S*H (8x25:3W) April Fools
-- M*A*S*H (9x01:1W) The Best of Enemies
-- M*A*S*H (9x02:1W) Letters
-- M*A*S*H (9x03:1W) Cementing Relationships
-- M*A*S*H (9x04:1W) Father’s Day
-- M*A*S*H (9x05:1W) Death Takes a Holiday
-- M*A*S*H (9x06:1W) A War for all Seasons
-- M*A*S*H (9x07:1W) Your Retention Please
-- M*A*S*H (9x08:2W) Tell it to the Marines
-- M*A*S*H (9x09:2W) Taking the Fifth
-- M*A*S*H (9x10:2W) Operation Friendship
-- M*A*S*H (9x11:2W) No Sweat
-- M*A*S*H (9x12:2W) Depressing News
-- M*A*S*H (9x13:2W) No Laughing Matter
-- M*A*S*H (9x14:2W) Oh, How We Danced
-- M*A*S*H (9x15:3W) Bottoms Up
-- M*A*S*H (9x16:3W) The Red/White Blues
-- M*A*S*H (9x17:3W) Bless You, Hawkeye
-- M*A*S*H (9x18:3W) Blood Brothers
-- M*A*S*H (9x19:3W) The Foresight Saga
-- M*A*S*H (9x20:3W) The Life You Save
-- M*A*S*H (10x01:1W) That’s Show Biz
-- M*A*S*H (10x02:1W) Identity Crisis
-- M*A*S*H (10x03:1W) Rumor at the Top
-- M*A*S*H (10x04:1W) Give ’em Hell, Hawkeye
-- M*A*S*H (10x05:1W) Wheelers and Dealers
-- M*A*S*H (10x06:1W) Communication Breakdown
-- M*A*S*H (10x07:1W) Snap Judgment
-- M*A*S*H (10x08:2W) Snappier Judgment
-- M*A*S*H (10x09:2W) Twas the Day after Christmas
-- M*A*S*H (10x10:2W) Follies of the Living - Concerns of the Dead
-- M*A*S*H (10x11:2W) The Birthday Girls
-- M*A*S*H (10x12:2W) Blood and Guts
-- M*A*S*H (10x13:2W) A Holy Mess
-- M*A*S*H (10x14:2W) The Tooth Shall Set You Free
-- M*A*S*H (10x15:3W) Pressure Points
-- M*A*S*H (10x16:3W) Where There’s a Will, There’s a War
-- M*A*S*H (10x17:3W) Promotion Commotion
-- M*A*S*H (10x18:3W) Heroes
-- M*A*S*H (10x19:3W) Sons and Bowlers
-- M*A*S*H (10x20:3W) Picture This
-- M*A*S*H (10x21:3W) That Darn Kid
-- M*A*S*H (11x01:1W) Hey, Look Me Over
-- M*A*S*H (11x02:1W) Trick or Treatment
-- M*A*S*H (11x03:1W) Foreign Affairs
-- M*A*S*H (11x04:1W) The Joker is Wild
-- M*A*S*H (11x05:1W) Who Knew?
-- M*A*S*H (11x06:1W) Bombshells
-- M*A*S*H (11x07:1W) Settling Debts
-- M*A*S*H (11x08:1W) The Moon is Not Blue
-- M*A*S*H (11x09:2W) Run For the Money
-- M*A*S*H (11x10:2W) U.N., the Night and the Music
-- M*A*S*H (11x11:2W) Strange Bedfellows
-- M*A*S*H (11x12:2W) Say No More
-- M*A*S*H (11x13:2W) Friends and Enemies
-- M*A*S*H (11x14:2W) Give and Take
-- M*A*S*H (11x15:2W) As Time Goes By
-- M*A*S*H (11x16:3W) Goodbye, Farewell and Amen
-- M*A*S*H (W)
-- 'Mortality: Ghosts, Spirits, Souls, and Gods: Night of the Shooting Stars ????? (F) Night of the Shooting Stars: ?????'
-- 'Mortality: Ghosts, Spirits, Souls, and Gods (62F) Just Like Heaven'
-- 'Mortality: Ghosts, Spirits, Souls, and Gods (64F) Ghost'
-- 'Mortality: Ghosts, Spirits, Souls, and Gods (18F) Edward Scissorhands'
-- 'Mortality: Ghosts, Spirits, Souls, and Gods (88F) Beetlejuice'
-- 'Mortality: Ghosts, Spirits, Souls, and Gods (57F) Death Becomes Her'
-- 'Mortality: Ghosts, Spirits, Souls, and Gods (37F) Ghostbusters'
-- 'Mortality: Ghosts, Spirits, Souls, and Gods: Ghostbusters (38F) Ghostbusters II'
-- 'Mortality: Ghosts, Spirits, Souls, and Gods (159D) The Mummy'
-- 'Mortality: Ghosts, Spirits, Souls, and Gods: The Mummy (160D) The Mummy Returns'
-- 'Mortality: Ghosts, Spirits, Souls, and Gods: The Mummy (161D) The Tomb of the Dragon Emperor'
-- 'Mortality: Ghosts, Spirits, Souls, and Gods: Pirates of the Caribbean (89F) Curse of the Black Pearl'
-- 'Mortality: Ghosts, Spirits, Souls, and Gods: Pirates of the Caribbean (90F) Dead Man’s Chest'
-- 'Mortality: Ghosts, Spirits, Souls, and Gods: Pirates of the Caribbean (91F) At World’s End'
-- 'Mortality: Ghosts, Spirits, Souls, and Gods (78F) Clash of the Titans'
-- 'Mortality: Ghosts, Spirits, Souls, and Gods (47F) Immortals'
-- My Hero (1x02:E) Guess Who’s Coming to Lunch
-- My Hero (1x03:E) Mission Impossible
-- My Hero (1x04:E) Thermoman’s Greatest Challenge
-- My Hero (1x05:E) Old Man Riverdance
-- My Hero (1x06:E) The Party’s Over
-- My Hero (2x00:E) Christmas
-- My Hero (2x01:E) Parents
-- My Hero (2x02:E) Girlfriend
-- My Hero (2x03:E) Car
-- My Hero (2x04:E) Nemesis
-- My Hero (2x05:E) Pregnant
-- My Hero (2x06:E) Wedding
-- My Hero (3x01:E) Baby Talk
-- My Hero (3x02:E) Zero Tolerance
-- My Hero (3x03:E) Pet Rescue
-- My Hero (3x04:E) The Older Man
-- My Hero (3x05:E) Puttin’ on the Writs
-- My Hero (3x06:E) Shock, Horror!
-- My Hero (3x07:E) Little Green Man
-- My Hero (3x08:E) Mine’s a Double
-- My Hero (3x09:E) A Little Learning
-- My Hero (3x10:E) A Day to Remember
-- My Hero (E)
-- Ocean Girl (1x01:13B) The Girl in the Sea
-- Ocean Girl (1x02:13B) Set Adrift
-- Ocean Girl (1x03:13B) Wall of Death
-- Ocean Girl (1x04:13B) The Earthquake
-- Ocean Girl (1x05:13B) Human Tears
-- Ocean Girl (1x06:13B) Property Developers!
-- Ocean Girl (1x07:13B) Toxic Waste
-- Ocean Girl (1x08:14B) Day Pass
-- Ocean Girl (1x09:14B) Romance
-- Ocean Girl (1x10:14B) Major Breakthrough
-- Ocean Girl (1x11:14B) Industrial Spy
-- Ocean Girl (1x12:14B) Neri’s Secret
-- Ocean Girl (1x13:14B) Tough Decision
-- Ocean Girl (2x01:15B) The Return
-- Ocean Girl (2x02:15B) Where No Whale Swims
-- Ocean Girl (2x03:15B) Father’s Message
-- Ocean Girl (2x04:15B) Records and Recollections
-- Ocean Girl (2x05:15B) Mera
-- Ocean Girl (2x06:15B) The Institute
-- Ocean Girl (2x07:16B) No Place Like Home
-- Ocean Girl (2x08:16B) Our Island
-- Ocean Girl (2x09:16B) Underwater and Undercover
-- Ocean Girl (2x10:16B) Secrets Out
-- Ocean Girl (2x11:16B) Sabotage
-- Ocean Girl (2x12:16B) The Arrival
-- Ocean Girl (2x13:16B) The Return
-- Ocean Girl (3x01:17B) Danger in the Reef
-- Ocean Girl (3x02:17B) Amnesia
-- Ocean Girl (3x03:17B) Draining the Spaceship
-- Ocean Girl (3x04:17B) Kal Who Knows No Fear
-- Ocean Girl (3x05:17B) Diving Around Obstacles
-- Ocean Girl (3x06:17B) Winston and Water
-- Ocean Girl (3x07:17B) A Super-Sportsman
-- Ocean Girl (3x08:17B) Extraterrestrial Abilities
-- Ocean Girl (3x09:17B) The Capsule in the Desert
-- Ocean Girl (3x10:18B) Benny in Trouble
-- Ocean Girl (3x11:18B) Cassandra’s Nightmare
-- Ocean Girl (3x12:18B) The Helicopter Exam
-- Ocean Girl (3x13:18B) Lena’s Betrayal
-- Ocean Girl (3x14:18B) Changes
-- Ocean Girl (3x15:18B) The Spy
-- 'Ocean Girl (3x16:18B) Gamma Level: Radioactive'
-- Ocean Girl (3x17:18B) Charlie is Stranded
-- Ocean Girl (3x18:18B) The Love Letter
-- Ocean Girl (3x19:19B) Jason and the Abyss
-- Ocean Girl (3x20:19B) Eavesdropper
-- Ocean Girl (3x21:19B) Water in the Desert
-- Ocean Girl (3x22:19B) The Safe Deposit Key
-- Ocean Girl (3x23:19B) The China Man
-- Ocean Girl (3x24:19B) The Stone Fish
-- Ocean Girl (3x25:19B) Time Bomb in the Jungle
-- Ocean Girl (3x26:19B) The Last Chance
-- Ocean Girl (4x01:20B) Operation Sphinx
-- Ocean Girl (4x02:20B) The Mysterious Pyramid
-- Ocean Girl (4x03:20B) The Transport
-- Ocean Girl (4x04:20B) The Golden Ankh
-- Ocean Girl (4x05:20B) Stranded in the Desert
-- Ocean Girl (4x06:20B) The Lie Detector
-- Ocean Girl (4x07:20B) The Bug
-- Ocean Girl (4x08:20B) A Wrong Friend
-- Ocean Girl (4x09:20B) The Hunt for the Golden Ankh
-- Ocean Girl (4x10:21B) The History of the Whale Woman
-- Ocean Girl (4x11:21B) Cheat
-- Ocean Girl (4x12:21B) Imprisoned in the Bunker
-- Ocean Girl (4x13:21B) Attempt at Revival
-- Ocean Girl (4x14:21B) The Snake Bite
-- Ocean Girl (4x15:21B) A Spirit Appears
-- Ocean Girl (4x16:21B) Helen Learns the Laughter
-- Ocean Girl (4x17:21B) Mera Escapes to Earth
-- Ocean Girl (4x18:21B) The Race
-- Ocean Girl (4x19:22B) The Attack
-- Ocean Girl (4x20:22B) The Taking of Hostages
-- Ocean Girl (4x21:22B) The Red Virus
-- Ocean Girl (4x22:22B) Before the Countdown
-- Ocean Girl (4x23:22B) The Countdown
-- Ocean Girl (4x24:22B) The Ice Melts
-- Ocean Girl (4x25:22B) The Blood Test
-- Ocean Girl (4x26:22B) The Queen
-- Odyssey 5 (01:1R)
-- Odyssey 5 (02:1R) The Shatterer
-- Odyssey 5 (03:1R) Astronaut Dreams
-- Odyssey 5 (04:2R) Time Out of Mind
-- Odyssey 5 (05:2R) Symbiosis
-- Odyssey 5 (06:2R) The Choices We Make
-- Odyssey 5 (07:2R) Rapture
-- Odyssey 5 (08:3R) L.D.U.-7
-- Odyssey 5 (09:3R) Flux
-- Odyssey 5 (10:3R) Kitten
-- Odyssey 5 (11:3R) Dark at the End of the Tunnel
-- Odyssey 5 (12:4R) The Trouble with Harry
-- Odyssey 5 (13:4R) Skin
-- Odyssey 5 (14:4R) Begotten
-- Odyssey 5 (15:4R) Vanishing Point
-- Odyssey 5 (16:5R) Follow the Leader
-- Odyssey 5 (17:5R) Half-Life
-- Odyssey 5 (18:5R) Rage
-- Odyssey 5 (19:5R) Fossil
-- Once Upon a Time (1x01:L)
-- Once Upon a Time (1x02:L) The Thing You Love Most
-- Once Upon a Time (1x03:L) Snow Falls
-- Once Upon a Time (1x04:L) The Price of Gold
-- Once Upon a Time (1x05:L) That Still Small Voice
-- Once Upon a Time (1x06:L) The Shepherd
-- Once Upon a Time (1x07:L) The Heart is a Lonely Hunter
-- Once Upon a Time (1x08:L) Desperate Souls
-- Once Upon a Time (1x09:L) True North
-- Once Upon a Time (1x10:L) 7:15 A.M.
-- Once Upon a Time (1x11:L) Fruit of the Poisonous Tree
-- Once Upon a Time (1x12:L) Skin Deep
-- Once Upon a Time (1x13:L) What Happened to Frederick
-- Once Upon a Time (1x14:L) Dreamy
-- Once Upon a Time (1x15:L) Red-Handed
-- Once Upon a Time (1x16:L) Heart of Darkness
-- Once Upon a Time (1x17:L) Hat Trick
-- Once Upon a Time (1x18:L) The Stable Boy
-- Once Upon a Time (1x19:L) The Return
-- Once Upon a Time (1x20:L) The Stranger
-- Once Upon a Time (1x21:L) An Apple Red as Blood
-- Once Upon a Time (1x22:L) A Land Without Magic
-- Once Upon a Time (2x01:L) Broken
-- Once Upon a Time (2x02:L) We Are Both
-- Once Upon a Time (2x03:L) Lady of the Lake
-- Once Upon a Time (2x04:L) The Crocodile
-- Once Upon a Time (2x05:L) The Doctor
-- Once Upon a Time (2x06:L) Tallahassee
-- Once Upon a Time (2x07:L) Child of the Moon
-- Once Upon a Time (2x08:L) Into the Deep
-- Once Upon a Time (2x09:L) Queen of Hearts
-- Once Upon a Time (2x10:L) The Cricket Game
-- Once Upon a Time (2x11:L) The Outsider
-- Once Upon a Time (2x12:L) In the Name of the Brother
-- Once Upon a Time (2x13:L) Tiny
-- Once Upon a Time (2x14:L) Manhattan
-- Once Upon a Time (2x15:L) The Queen is Dead
-- Once Upon a Time (2x16:L) The Miller’s Daughter
-- Once Upon a Time (2x17:L) Welcome to Storybrooke
-- Once Upon a Time (2x18:L) Selfless, Brave and True
-- Once Upon a Time (2x19:L) Lacey
-- Once Upon a Time (2x20:L) The Evil Queen
-- Once Upon a Time (2x21:L) Second Star to the Right
-- Once Upon a Time (2x22:L) And Straight On ’Til Morning
-- Once Upon a Time (3x01:L) The Heart of the Truest Believer
-- Once Upon a Time (3x02:L) Lost Girl
-- Once Upon a Time (3x03:L) Quite a Common Fairy
-- Once Upon a Time (3x04:L) Nasty Habits
-- Once Upon a Time (3x05:L) Good Form
-- Once Upon a Time (3x06:L) Ariel
-- Once Upon a Time (3x07:L) Dark Hollow
-- Once Upon a Time (3x08:L) Think Lovely Thoughts
-- Once Upon a Time (3x09:L) Save Henry
-- Once Upon a Time (3x10:L) The New Neverland
-- Once Upon a Time (3x11:L) Going Home
-- Once Upon a Time (3x12:L) New York City Serenade
-- Once Upon a Time (3x13:L) Witch Hunt
-- Once Upon a Time (3x14:L) The Tower
-- Once Upon a Time (3x15:L) Quiet Minds
-- Once Upon a Time (3x16:L) It?s Not Easy Being Green
-- Once Upon a Time (3x17:L) The Jolly Roger
-- Once Upon a Time (3x18:L) Bleeding Through
-- Once Upon a Time (3x19:L) A Curious Thing
-- Once Upon a Time (3x20:L) Kansas
-- Once Upon a Time (3x21:L) Snow Drifts
-- Once Upon a Time (3x22:L) There’s No Place Like Home
-- Once Upon a Time (4x01:1L) A Tale of Two Sisters
-- Once Upon a Time (4x02:1L) White Out
-- Once Upon a Time (4x03:1L) Rocky Road
-- Once Upon a Time (4x04:1L) The Apprentice
-- Once Upon a Time (4x05:1L) Breaking Glass
-- Once Upon a Time (4x06:2L) Family Business
-- Once Upon a Time (4x07:2L) The Snow Queen
-- Once Upon a Time (4x08:2L) Smash the Mirror
-- Once Upon a Time (4x10:2L) Fall
-- Once Upon a Time (4x11:3L) Shattered Sight
-- Once Upon a Time (4x12:3L) Heroes and Villains
-- Once Upon a Time (4x13:3L) Darkness on the Edge of Town
-- Once Upon a Time (4x14:3L) Unforgiven
-- Once Upon a Time (4x15:3L) Enter the Dragon
-- Once Upon a Time (4x16:4L) Poor Unfortunate Soul
-- Once Upon a Time (4x17:4L) Best Laid Plans
-- Once Upon a Time (4x18:4L) Heart of Gold
-- Once Upon a Time (4x19:4L) Sympathy for the De Vil
-- Once Upon a Time (4x20:4L) Lily
-- Once Upon a Time (4x21:5L) Mother
-- Once Upon a Time (4x22:5L) Operation Mongoose
-- Once Upon a Time (5x01:L) The Dark Swan
-- Once Upon a Time (5x02:L) The Price
-- Once Upon a Time (5x03:L) Siege Perilous
-- Once Upon a Time (5x04:L) The Broken Kingdom
-- Once Upon a Time (5x05:L) Dreamcatcher
-- Once Upon a Time (5x06:L) The Bear and the Bow
-- Once Upon a Time (5x07:L) Nimue
-- Once Upon a Time (5x08:L) Birth
-- Once Upon a Time (5x09:L) The Bear King
-- Once Upon a Time (5x10:L) Broken Heart
-- Once Upon a Time (5x11:L) Swan Song
-- Once Upon a Time (5x12:L) Souls of the Departed
-- Once Upon a Time (5x13:L) Labor of Love
-- Once Upon a Time (5x14:L) Devil’s Due
-- Once Upon a Time (5x15:L) The Brothers Jones
-- Once Upon a Time (5x16:L) Our Decay
-- Once Upon a Time (5x17:L) Her Handsome Hero
-- Once Upon a Time (5x18:L) Ruby Slippers
-- Once Upon a Time (5x19:L) Sisters
-- Once Upon a Time (5x20:L) Firebird
-- Once Upon a Time (5x21:L) Last Rites
-- Once Upon a Time (5x22:L) Only You
-- Once Upon a Time (5x23:L) An Untold Story
-- Once Upon a Time (6x01:L) The Savior
-- Once Upon a Time (6x02:L) A Bitter Draught
-- Once Upon a Time (6x03:L) The Other Shoe
-- Once Upon a Time (6x04:L) Strange Case
-- Once Upon a Time (6x05:L) Street Rats
-- Once Upon a Time (6x06:L) Dark Waters
-- Once Upon a Time (6x07:L) Heartless
-- Once Upon a Time (6x08:L) I’ll Be Your Mirror
-- Once Upon a Time (6x09:L) Changelings
-- Once Upon a Time (6x10:L) Wish You Were Here
-- Once Upon a Time (6x11:L) Tougher Than the Rest
-- Once Upon a Time (6x12:L) Murder Most Foul
-- Once Upon a Time (6x13:L) Ill-Boding Patterns
-- Once Upon a Time (6x14:L) Page 23
-- Once Upon a Time (6x15:L) A Wondrous Place
-- Once Upon a Time (6x16:L) Mother’s Little Helper
-- Once Upon a Time (6x17:L) Awake
-- Once Upon a Time (6x18:L) Where Bluebirds Fly
-- Once Upon a Time (6x19:L) The Black Fairy
-- Once Upon a Time (6x20:L) The Song in Your Heart
-- Once Upon a Time (6x21:L) The Final Battle
-- Once Upon a Time (7x01) Hyperion Heights
-- Once Upon a Time (7x02) A Pirate’s Life
-- Once Upon a Time (7x03) The Garden of Forking Paths
-- Once Upon a Time (7x04) Beauty
-- Once Upon a Time (7x05) Greenbacks
-- Once Upon a Time (7x06) Wake Up Call
-- Once Upon a Time (7x07) Eloise Gardener
-- Once Upon a Time (7x08) Pretty in Blue
-- Once Upon a Time (7x09) One Little Tear
-- Once Upon a Time (7x10) The Eighth Witch
-- Once Upon a Time (7x11) Secret Garden
-- Once Upon a Time (7x12) A Taste of the Heights
-- Once Upon a Time (7x13) Knightfall
-- Once Upon a Time (7x14) The Girl in the Tower
-- Once Upon a Time (7x15) Sisterhood
-- Once Upon a Time (7x16) Breadcrumbs
-- Once Upon a Time (7x17) Chosen
-- Once Upon a Time (7x18) The Guardian
-- Once Upon a Time (7x19) Flower Child
-- Once Upon a Time (7x20) Is This Henry Mills?
-- Once Upon a Time (7x21) Homecoming
-- Once Upon a Time (7x22) Leaving Storybrooke
-- Otherworld (61F) The Wizard of Oz
-- 'Otherworld: The Chronicles of Narnia (3F) The Lion, the Witch and the Wardrobe'
-- 'Otherworld: The Chronicles of Narnia (4F) Prince Caspian'
-- Otherworld (85F) The Never-Ending Story
-- Otherworld (72F) Stardust
-- Otherworld (96F) Hook
-- Otherworld (1F) Last Action Hero
-- 'Otherworld: The Lord of the Rings (117F) The Fellowship of the Ring'
-- 'Otherworld: The Lord of the Rings (119F) The Two Towers'
-- 'Otherworld: The Lord of the Rings (121F) The Return of the King'
-- Otherworld (75F) The Princess Bride
-- Otherworld (77F) Willow
-- Otherworld (A) The Nightmare Before Christmas
-- Otherworld (177A) Shrek
-- 'Otherworld: Shrek (178A) Shrek 2'
-- Otherworld (17F) The Lego Movie
-- The Outer Limits (1x01:W) The Sandkings
-- The Outer Limits (1x02:W) Valerie 23
-- The Outer Limits (1x03:W) Blood Brothers
-- The Outer Limits (1x04:W) The Second Soul
-- The Outer Limits (1x05:W) White Light Fever
-- The Outer Limits (1x06:W) The Choice
-- The Outer Limits (1x07:W) Virtual Future
-- The Outer Limits (1x08:W) Living Hell
-- The Outer Limits (1x09:W) Corner of the Eye
-- The Outer Limits (1x10:W) Under the Bed
-- The Outer Limits (1x11:W) Dark Matters
-- The Outer Limits (1x12:W) The Conversion
-- The Outer Limits (1x13:W) Quality of Mercy
-- The Outer Limits (1x14:W) The New Breed
-- The Outer Limits (1x15:W) The Voyage Home
-- The Outer Limits (1x16:W) Caught in the Act
-- The Outer Limits (1x17:W) The Message
-- The Outer Limits (1x18:W) I, Robot
-- The Outer Limits (1x19:W) If These Walls Could Talk
-- The Outer Limits (1x20:W) Birthright
-- The Outer Limits (1x21:W) The Voice of Reason
-- The Outer Limits (2x01:W) A Stitch in Time
-- The Outer Limits (2x02:W) Resurrection
-- The Outer Limits (2x03:W) Unnatural Selection
-- The Outer Limits (2x04:W) I Hear You Calling
-- The Outer Limits (2x05:W) Mind Over Matter
-- The Outer Limits (2x06:W) Beyond the Veil
-- The Outer Limits (2x07:W) First Anniversary
-- The Outer Limits (2x08:W) Straight and Narrow
-- The Outer Limits (2x09:W) Trial by Fire
-- The Outer Limits (2x10:W) Worlds Apart
-- The Outer Limits (2x11:W) The Refuge
-- The Outer Limits (2x12:W) Inconstant Moon
-- The Outer Limits (2x13:W) From Within
-- The Outer Limits (2x14:W) The Heist
-- The Outer Limits (2x15:W) Afterlife
-- The Outer Limits (2x16:W) The Deprogrammers
-- The Outer Limits (2x17:W) Paradise
-- The Outer Limits (2x18:W) The Light Brigade
-- The Outer Limits (2x19:W) Falling Star
-- The Outer Limits (2x20:W) Out of Body
-- The Outer Limits (2x21:W) Vanishing Act
-- The Outer Limits (2x22:W) The Sentence
-- The Outer Limits (3x01:W) Bits of Love
-- The Outer Limits (3x02:W) Second Thoughts
-- The Outer Limits (3x03:W) Re-generation
-- The Outer Limits (3x04:W) Last Supper
-- The Outer Limits (3x05:W) Stream of Consciousness
-- The Outer Limits (3x06:W) Dark Rain
-- The Outer Limits (3x07:W) The Camp
-- The Outer Limits (3x08:W) Heart’s Desire
-- The Outer Limits (3x09:W) Tempests
-- The Outer Limits (3x10:W) Awakening
-- The Outer Limits (3x11:W) New Lease
-- The Outer Limits (3x12:W) Double Helix
-- The Outer Limits (3x13:W) Dead Man’s Switch
-- The Outer Limits (3x14:W) Music of the Spheres
-- The Outer Limits (3x15:W) The Revelations of ?Becka Paulson
-- The Outer Limits (3x16:W) Bodies of Evidence
-- The Outer Limits (3x17:W) Feasibility Study
-- The Outer Limits (3x18:W) A Special Edition
-- The Outer Limits (4x01:W) Criminal Nature
-- The Outer Limits (4x02:W) The Hunt
-- The Outer Limits (4x03:W) Hearts and Minds
-- The Outer Limits (4x04:W) In Another Life
-- The Outer Limits (4x05:W) In The Zone
-- The Outer Limits (4x06:W) Relativity Theory
-- The Outer Limits (4x07:W) Josh
-- The Outer Limits (4x08:W) Rite of Passage
-- The Outer Limits (4x09:W) Glyphic
-- The Outer Limits (4x10:W) Identity Crisis
-- The Outer Limits (4x11:W) The Vaccine
-- The Outer Limits (4x12:W) Fear Itself
-- The Outer Limits (4x13:W) The Joining
-- The Outer Limits (4x14:W) To Tell the Truth
-- The Outer Limits (4x15:W) Mary 25
-- The Outer Limits (4x16:W) Final Exam
-- The Outer Limits (4x17:W) Lithia
-- The Outer Limits (4x18:W) Monster
-- The Outer Limits (4x19:W) Sarcophagus
-- The Outer Limits (4x20:W) Nightmare
-- The Outer Limits (4x21:W) Promised Land
-- The Outer Limits (4x22:W) The Balance of Nature
-- The Outer Limits (4x23:W) The Origin of Species
-- The Outer Limits (4x24:W) Phobos Rising
-- The Outer Limits (4x25:W) Black Box
-- The Outer Limits (4x26:W) In Our Own Image
-- The Outer Limits (5x01:W) Alien Radio
-- The Outer Limits (5x02:W) Donor
-- The Outer Limits (5x03:W) Small Friends
-- The Outer Limits (5x04:W) The Grell
-- The Outer Limits (5x05:W) The Other Side
-- The Outer Limits (5x06:W) Joyride
-- The Outer Limits (5x07:W) The Human Operators
-- The Outer Limits (5x08:W) Blank Slate
-- The Outer Limits (5x09:W) What Will The Neighbors Think
-- The Outer Limits (5x10:W) The Shroud
-- The Outer Limits (5x11:W) Ripper
-- The Outer Limits (5x12:W) Tribunal
-- The Outer Limits (5x13:W) Summit
-- The Outer Limits (5x14:W) Descent
-- The Outer Limits (5x15:W) The Haven
-- The Outer Limits (5x16:W) D?j? Vu
-- The Outer Limits (5x17:W) The Inheritors
-- The Outer Limits (5x18:W) Essence of Life
-- The Outer Limits (5x19:W) Stranded
-- The Outer Limits (5x20:W) Fathers and Sons
-- The Outer Limits (5x21:W) Star Crossed
-- The Outer Limits (5x22:W) Better Luck Next Time
-- The Outer Limits (6x01:W) Judgment Day
-- The Outer Limits (6x02:W) The Gun
-- The Outer Limits (6x03:W) Skin Deep
-- The Outer Limits (6x04:W) Manifest Destiny
-- The Outer Limits (6x05:W) Breaking Point
-- The Outer Limits (6x06:W) The Beholder
-- The Outer Limits (6x07:W) Seeds of Destruction
-- The Outer Limits (6x08:W) Simon Says
-- The Outer Limits (6x09:W) Stasis
-- The Outer Limits (6x10:W) Down to Earth
-- The Outer Limits (6x11:W) The Inner Child
-- The Outer Limits (6x12:W) Glitch
-- The Outer Limits (6x13:W) Decompression
-- The Outer Limits (6x14:W) Abaddon
-- The Outer Limits (6x15:W) The Grid
-- The Outer Limits (6x16:W) Revival
-- The Outer Limits (6x17:W) Gettysburg
-- The Outer Limits (6x18:W) Something About Harry
-- The Outer Limits (6x19:W) Zig Zag
-- The Outer Limits (6x20:W) Nest
-- The Outer Limits (6x21:W) Final Appeal
-- The Outer Limits (7x01:W) Family Values
-- The Outer Limits (7x02:W) Patient Zero
-- The Outer Limits (7x03:W) A New Life
-- The Outer Limits (7x04:W) The Surrogate
-- The Outer Limits (7x05:W) The Vessel
-- The Outer Limits (7x06:W) Mona Lisa
-- The Outer Limits (7x07:W) Replica
-- The Outer Limits (7x08:W) Think Like a Dinosaur
-- The Outer Limits (7x09:W) Alien Shop
-- The Outer Limits (7x10:W) Worlds Within
-- The Outer Limits (7x11:W) In the Blood
-- The Outer Limits (7x12:W) Flower Child
-- The Outer Limits (7x13:W) Free Spirit
-- The Outer Limits (7x14:W) Mindreacher
-- The Outer Limits (7x15:W) Time to Time
-- The Outer Limits (7x16:W) Abduction
-- The Outer Limits (7x17:W) Rule of Law
-- The Outer Limits (7x18:W) Lion’s Den
-- The Outer Limits (7x19:W) The Tipping Point
-- The Outer Limits (7x20:W) Dark Child
-- The Outer Limits (7x21:W) The Human Factor
-- The Outer Limits (7x22:W) Human Trials
-- Pixar (A) Toy Story
-- 'Pixar: Toy Story (A) Toy Story 2'
-- 'Pixar: Toy Story (A) Toy Story 3'
-- Pixar (A) Monsters, Inc.
-- Pixar (153A) Finding Nemo
-- Pixar (155A) The Incredibles
-- Pixar (A) Ratatouille
-- Pixar (A) Wall?E
-- Pixar (A) Up
-- Pushing Daisies (1x01:1A) Pie-lette
-- Pushing Daisies (1x02:1A) Dummy
-- Pushing Daisies (1x03:1A) The Fun in Funeral
-- Pushing Daisies (1x04:2A) Pigeon
-- Pushing Daisies (1x05:2A) Girth
-- Pushing Daisies (1x06:2A) Bitches
-- Pushing Daisies (1x07:3A) Smell of Success
-- Pushing Daisies (1x08:3A) Bitter Sweets
-- Pushing Daisies (1x09:3A) Corpsicle
-- Pushing Daisies (2x01:1A) Bzzzzzzz!
-- Pushing Daisies (2x02:1A) Circus Circus
-- Pushing Daisies (2x03:1A) Bad Habits
-- Pushing Daisies (2x04:1A) Frescorts
-- Pushing Daisies (2x05:2A) Dim Sum Lose Some
-- Pushing Daisies (2x06:2A) Oh Oh Oh? It’s Magic
-- Pushing Daisies (2x07:2A) Robbing Hood
-- Pushing Daisies (2x08:2A) Comfort Food
-- Pushing Daisies (2x09:3A) The Legend of Merle McQuoddy
-- Pushing Daisies (2x10:3A) The Norwegians
-- Pushing Daisies (2x11:3A) Window Dressed to Kill
-- Pushing Daisies (2x12:3A) Water and Power
-- Pushing Daisies (2x13:4A) Kerplunk
-- Reaper (1x01:1A)
-- Reaper (1x02:1A) Charged
-- Reaper (1x03:1A) All Mine
-- Reaper (1x04:1A) Magic
-- Reaper (1x05:2A) What About Blob
-- Reaper (1x06:2A) Leon
-- Reaper (1x07:2A) Love, Bullets and Blacktop
-- Reaper (1x08:2A) The Cop
-- Reaper (1x09:3A) Ashes to Ashes
-- Reaper (1x10:3A) Cash Out
-- Reaper (1x11:3A) Hungry for Fame
-- Reaper (1x12:3A) Unseen
-- Reaper (1x13:4A) Acid Queen
-- Reaper (1x14:4A) Rebellion
-- Reaper (1x15:4A) Coming to Grips
-- Reaper (1x16:4A) Greg, Schmeg
-- Reaper (1x17:5A) The Leak
-- Reaper (1x18:5A) Cancun
-- 'Reaper (2x01:1A) Episode IV: A New Hope'
-- Reaper (2x02:1A) Dirty Sexy Mongol
-- Reaper (2x03:1A) The Sweet Science
-- Reaper (2x04:1A) The Favorite
-- Reaper (2x05:2A) I Want My Baby Back
-- Reaper (2x06:2A) Underbelly
-- Reaper (2x07:2A) The Good Soil
-- Reaper (2x08:2A) The Home Stretch
-- Reaper (2x09:3A) No Reaper Left Behind
-- Reaper (2x10:3A) My Brother’s Reaper
-- Reaper (2x11:3A) To Sprong, With Love
-- Reaper (2x12:3A) Business Casualty
-- Reaper (2x13:4A) The Devil and Sam Oliver
-- Red Dwarf (1x01:U) The End
-- Red Dwarf (1x02:U) Future Echoes
-- Red Dwarf (1x03:U) Balance of Power
-- Red Dwarf (1x04:U) Waiting For God
-- Red Dwarf (1x05:U) Confidence and Paranoia
-- Red Dwarf (1x06:U) Me?
-- Red Dwarf (2x01:U) Kryten
-- Red Dwarf (2x02:U) Better Than Life
-- Red Dwarf (2x03:U) Thanks For The Memory
-- Red Dwarf (2x04:U) Stasis Leak
-- Red Dwarf (2x05:U) Queeg
-- Red Dwarf (2x06:U) Parallel Universe
-- Red Dwarf (3x01:U) Backwards
-- Red Dwarf (3x02:U) Marooned
-- Red Dwarf (3x03:U) Polymorph
-- Red Dwarf (3x04:U) Bodyswap
-- Red Dwarf (3x05:U) Timeslides
-- Red Dwarf (3x06:U) The Last Day
-- Red Dwarf (4x01:U) Camille
-- Red Dwarf (4x02:U) D.N.A.
-- Red Dwarf (4x03:U) Justice
-- Red Dwarf (4x04:U) White Hole
-- Red Dwarf (4x05:U) Dimension Jump
-- Red Dwarf (4x06:U) Meltdown
-- Red Dwarf (5x01:U) Holoship
-- Red Dwarf (5x02:U) The Inquisitor
-- Red Dwarf (5x03:U) Terrorform
-- Red Dwarf (5x04:U) Quarantine
-- Red Dwarf (5x05:U) Demons & Angels
-- Red Dwarf (5x06:U) Back To Reality
-- Red Dwarf (6x01:U) Psirens
-- Red Dwarf (6x02:U) Legion
-- Red Dwarf (6x03:U) Gunmen of the Apocalypse
-- Red Dwarf (6x04:U) Emohawk - Polymorph II
-- Red Dwarf (6x05:U) Rimmerworld
-- Red Dwarf (6x06:U) Out of Time
-- Red Dwarf (7x01:1U) Tikka To Ride
-- Red Dwarf (7x02:1U) Stoke Me A Clipper
-- Red Dwarf (7x03:1U) Ouroboros
-- Red Dwarf (7x04:1U) Duct Soup
-- Red Dwarf (7x05:2U) Blue
-- Red Dwarf (7x06:2U) Beyond a Joke
-- Red Dwarf (7x07:2U) Epideme
-- Red Dwarf (7x08:2U) Nanarchy
-- Red Dwarf (8x01:1U) Back in the Red
-- Red Dwarf (8x02:1U) Cassandra
-- Red Dwarf (8x05:2U) Krytie TV
-- Red Dwarf (8x06:2U) Pete
-- Red Dwarf (8x08:2U) Only The Good?
-- Robots and Aliens (51F) The Day the Earth Stood Still
-- Robots and Aliens (R) V
-- 'Robots and Aliens: V (R) The Final Battle'
-- Robots and Aliens (48F) District 9
-- 'Robots and Aliens: Star Wars (65F) A New Hope'
-- 'Robots and Aliens: Star Wars (67F) The Empire Strikes Back'
-- 'Robots and Aliens: Star Wars (69F) Return of the Jedi'
-- Robots and Aliens (80F) Flight of the Navigator
-- Robots and Aliens (71F) The Hitchhiker’s Guide to the Galaxy
-- Robots and Aliens (180F) Evolution
-- 'Robots and Aliens (25F) The Adventures of Buckaroo Banzai: Across the 8th Dimension'
-- Robots and Aliens (7F) The Fifth Element
-- Robots and Aliens (231T) Star Trek
-- 'Robots and Aliens: Star Trek (239T) Into Darkness'
-- Robots and Aliens (131E) Galaxy Quest
-- Robots and Aliens (E) Paul
-- Robots and Aliens (P) Stargate
-- Robots and Aliens (86F) Short Circuit
-- Robots and Aliens (F) Arrival
-- Robots and Aliens (A) Men in Black
-- 'Robots and Aliens: Men in Black (184A) Men in Black II'
-- 'Robots and Aliens: Men in Black (A) Men in Black III'
-- Robots and Aliens (50F) Dark City
-- Robots and Aliens (9F) The Matrix
-- 'Robots and Aliens: The Matrix (12F) The Animatrix'
-- 'Robots and Aliens: The Matrix (10F) Reloaded'
-- 'Robots and Aliens: The Matrix (11F) Revolutions'
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (1x01:C) Alpha
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (1x02:C) Beta
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (1x03:C) Gamma
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (1x04:C) Delta
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (1x05:C) Epsilon
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (1x06:C) Digamma
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (1x07:C) Zeta
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (1x08:C) Eta
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (1x09:C) Theta
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (1x10:C) Iota
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (1x11:C) Kappa
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (1x12:C) Mu
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (1x13:C) Lambda
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (2x01:C) Nu
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (2x02:C) Xi
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (2x03:C) Omicron
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (2x04:C) Pi
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (2x05:C) Qoppa
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (2x06:C) Rho
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (2x07:C) Sigma
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (2x08:C) Tau
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (2x09:C) Upsilon
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (2x10:C) Phi
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (2x11:C) Chi
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (2x12:C) Psi
-- The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television) (2x13:C) Omega
-- Sapphire & Steel (1:A) Escape Through a Crack in Time
-- Sapphire & Steel (2:A) The Railway Station
-- Sapphire & Steel (3:A) The Creature’s Revenge
-- Sapphire & Steel (4:A) The Man Without a Face
-- Sapphire & Steel (5:A) Doctor McDee Must Die
-- Sapphire & Steel (6:A) The Trap
-- Scrubs (1x01:1D) My First Day
-- Scrubs (1x02:1D) My Mentor
-- Scrubs (1x03:1D) My Best Friend’s Mistake
-- Scrubs (1x04:1D) My Old Lady
-- Scrubs (1x05:1D) My Two Dads
-- Scrubs (1x06:1D) My Bad
-- Scrubs (1x07:1D) My Super Ego
-- Scrubs (1x08:2D) My Fifteen Minutes
-- Scrubs (1x09:2D) My Day Off
-- Scrubs (1x10:2D) My Nickname
-- Scrubs (1x11:2D) My Own Personal Jesus
-- Scrubs (1x12:2D) My Blind Date
-- Scrubs (1x13:2D) My Balancing Act
-- Scrubs (1x14:2D) My Drug Buddy
-- Scrubs (1x15:3D) My Bed Banter & Beyond
-- Scrubs (1x16:3D) My Heavy Meddle
-- Scrubs (1x17:3D) My Student
-- Scrubs (1x18:3D) My Tuscaloosa Heart
-- Scrubs (1x19:3D) My Old Man
-- Scrubs (1x20:3D) My Way or the Highway
-- Scrubs (1x21:3D) My Sacrificial Clam
-- Scrubs (1x22:4D) My Occurrence
-- Scrubs (1x23:4D) My Hero
-- Scrubs (1x24:4D) My Last Day
-- Scrubs (2x01:1D) My Overkill
-- Scrubs (2x02:1D) My Nightingale
-- Scrubs (2x03:1D) My Case Study
-- Scrubs (2x04:1D) My Big Mouth
-- Scrubs (2x05:1D) My New Coat
-- Scrubs (2x06:1D) My Big Brother
-- Scrubs (2x07:2D) My First Step
-- Scrubs (2x08:2D) My Fruit Cups
-- Scrubs (2x09:2D) My Lucky Day
-- Scrubs (2x10:2D) My Monster
-- Scrubs (2x11:2D) My Sex Buddy
-- Scrubs (2x12:2D) My New Old Friend
-- Scrubs (2x13:3D) My Philosophy
-- Scrubs (2x14:3D) My Brother, My Keeper
-- Scrubs (2x15:3D) His Story
-- Scrubs (2x16:3D) My Karma
-- Scrubs (2x17:3D) My Own Private Practice Guy
-- Scrubs (2x18:3D) My T.C.W.
-- Scrubs (2x19:4D) My Kingdom
-- Scrubs (2x20:4D) My Interpretation
-- Scrubs (2x21:4D) My Drama Queen
-- Scrubs (2x22:4D) My Dream Job
-- Scrubs (3x01:1D) My American Girl
-- Scrubs (3x02:1D) My Journey
-- Scrubs (3x03:1D) My White Whale
-- Scrubs (3x04:1D) My Lucky Night
-- Scrubs (3x05:1D) My Brother, Where Art Thou?
-- Scrubs (3x06:1D) My Advice to You
-- Scrubs (3x07:2D) My Fifteen Seconds
-- Scrubs (3x08:2D) My Friend, the Doctor
-- Scrubs (3x09:2D) My Dirty Secret
-- Scrubs (3x10:2D) My Rule of Thumb
-- Scrubs (3x11:2D) My Clean Break
-- Scrubs (3x12:2D) My Catalyst
-- Scrubs (3x13:3D) My Porcelain God
-- Scrubs (3x14:3D) My Screw Up
-- Scrubs (3x15:3D) My Tormented Mentor
-- Scrubs (3x16:3D) My Butterfly
-- Scrubs (3x17:3D) My Moment of Un-Truth
-- Scrubs (3x18:3D) His Story II
-- Scrubs (3x19:4D) My Choosiest Choice of All
-- Scrubs (3x20:4D) My Fault
-- Scrubs (3x21:4D) My Self-Examination
-- Scrubs (3x22:4D) My Best Friend’s Wedding
-- Scrubs (4x01:D) My Old Friend’s New Friend
-- Scrubs (4x02:D) My Office
-- Scrubs (4x03:D) My New Game
-- Scrubs (4x04:D) My First Kill
-- Scrubs (4x05:D) Her Story
-- Scrubs (4x06:D) My Cake
-- Scrubs (4x07:D) My Common Enemy
-- Scrubs (4x08:D) My Last Chance
-- Scrubs (4x09:D) My Malpractical Decision
-- Scrubs (4x10:D) My Female Trouble
-- Scrubs (4x11:D) My Unicorn
-- Scrubs (4x12:D) My Best Moment
-- Scrubs (4x13:D) My Ocardial Infarction
-- Scrubs (4x14:D) My Lucky Charm
-- Scrubs (4x15:D) My Hypocritical Oath
-- Scrubs (4x16:D) My Quarantine
-- Scrubs (4x17:D) My Life in Four Cameras
-- Scrubs (4x18:D) My Roommates
-- Scrubs (4x19:D) My Best Laid Plans
-- Scrubs (4x20:D) My Boss’ Free Haircut
-- Scrubs (4x21:D) My Lips are Sealed
-- Scrubs (4x22:D) My Big Move
-- Scrubs (4x23:D) My Faith in Humanity
-- Scrubs (4x24:D) My Drive-by
-- Scrubs (4x25:D) My Changing Ways
-- Scrubs (5x01:D) My Intern’s Eyes
-- Scrubs (5x02:D) My Rite of Passage
-- Scrubs (5x03:D) My Day at the Races
-- Scrubs (5x04:D) My Jiggly Ball
-- Scrubs (5x05:D) My New God
-- Scrubs (5x06:D) My Missed Perception
-- Scrubs (5x07:D) My Way Home
-- Scrubs (5x08:D) My Big Bird
-- Scrubs (5x09:D) My Half-Acre
-- Scrubs (5x10:D) Her Story II
-- Scrubs (5x11:D) My Buddy’s Booty
-- Scrubs (5x12:D) My Cabbage
-- Scrubs (5x13:D) My Five Stages
-- Scrubs (5x14:D) My Own Personal Hell
-- Scrubs (5x15:D) My Extra Mile
-- Scrubs (5x16:D) My Bright Idea
-- Scrubs (5x17:D) My Chopped Liver
-- Scrubs (5x18:D) My New Suit
-- Scrubs (5x19:D) His Story III
-- Scrubs (5x20:D) My Lunch
-- Scrubs (5x21:D) My Fallen Idol
-- Scrubs (5x22:D) My D?j? Vu, My D?j? Vu
-- Scrubs (5x23:D) My Urologist
-- Scrubs (5x24:D) My Transition
-- Scrubs (6x01:D) My Mirror Image
-- Scrubs (6x02:D) My Best Friend’s Baby’s Baby and My Baby’s Baby
-- Scrubs (6x03:D) My Coffee
-- Scrubs (6x04:D) My House
-- Scrubs (6x05:D) My Friend With Money
-- Scrubs (6x06:D) My Musical
-- Scrubs (6x07:D) His Story IV
-- Scrubs (6x08:D) My Road to Nowhere
-- Scrubs (6x09:D) My Perspective
-- Scrubs (6x10:D) My Therapeutic Month
-- Scrubs (6x11:D) My Night to Remember
-- Scrubs (6x12:D) My Fishbowl
-- My Scrubs (6x13:D)
-- Scrubs (6x14:D) My No Good Reason
-- Scrubs (6x15:D) My Long Goodbye
-- Scrubs (6x16:D) My Words of Wisdom
-- Scrubs (6x17:D) Their Story
-- Scrubs (6x18:D) My Turf War
-- Scrubs (6x19:D) My Cold Shower
-- Scrubs (6x20:D) My Conventional Wisdom
-- Scrubs (6x21:D) My Rabbit
-- Scrubs (6x22:D) My Point of No Return
-- Scrubs (7x01:D) My Own Worst Enemy
-- Scrubs (7x02:D) My Hard Labor
-- Scrubs (7x03:D) My Inconvenient Truth
-- Scrubs (7x04:D) My Identity Crisis
-- Scrubs (7x05:D) My Growing Pains
-- 'Scrubs (7x06:D) My #1 Doctor'
-- Scrubs (7x07:D) My Bad Too
-- Scrubs (7x08:D) My Manhood
-- Scrubs (7x09:D) My Dumb Luck
-- Scrubs (7x10:D) My Waste of Time
-- Scrubs (7x11:D) My Princess
-- Scrubs (8x01:D) My Jerks
-- Scrubs (8x02:D) My Last Words
-- Scrubs (8x03:D) My Saving Grace
-- Scrubs (8x04:D) My Happy Place
-- Scrubs (8x05:D) My ABC’s
-- Scrubs (8x06:D) My Cookie Pants
-- Scrubs (8x07:D) My New Role
-- Scrubs (8x08:D) My Lawyer’s In Love
-- Scrubs (8x09:D) My Absence
-- Scrubs (8x10:D) My Comedy Show
-- Scrubs (8x11:D) My Nah Nah Nah
-- Scrubs (8x12:D) Their Story II
-- Scrubs (8x13:D) My Full Moon
-- Scrubs (8x14:D) My Soul On Fire
-- Scrubs (8x16:D) My Cuz
-- Scrubs (8x17:D) My Chief Concern
-- Scrubs (8x18:D) My Finale
-- The Simpsons (1x01:1G) Simpsons Roasting on an Open Fire
-- The Simpsons (1x02:1G) Bart the Elephant
-- The Simpsons (1x03:1G) Homer’s Odyssey
-- The Simpsons (1x04:1G) There’s No Disgrace Like Home
-- The Simpsons (1x05:1G) Bart the General
-- The Simpsons (1x06:2G) Moaning Lisa
-- The Simpsons (1x07:2G) The Call of the Simpsons
-- The Simpsons (1x08:2G) The Telltale Head
-- The Simpsons (1x09:2G) Life on the Fast Lane
-- The Simpsons (1x10:2G) Homer’s Night Out
-- The Simpsons (1x11:3G) The Crepes of Wrath
-- The Simpsons (1x12:3G) Krusty Gets Busted
-- The Simpsons (1x13:3G) Some Enchanted Evening
-- The Simpsons (2x01:1G) Bart Gets an F
-- The Simpsons (2x02:1G) Simpson and Delilah
-- The Simpsons (2x03:1G) Halloween Special - Bad Dream House / Hungry are the Damned / The Raven
-- The Simpsons (2x04:1G) Two Cars in Every Garage and Three Eyes on Every Fish
-- The Simpsons (2x05:1G) Dancin’ Homer
-- The Simpsons (2x06:1G) Dead Putting Society
-- The Simpsons (2x07:2G) Bart vs. Thanksgiving
-- The Simpsons (2x08:2G) Bart the Daredevil
-- The Simpsons (2x09:2G) Itchy & Scratchy & Marge
-- The Simpsons (2x10:2G) Bart Gets Hit by a Car
-- The Simpsons (2x11:2G) One Fish, Two Fish, Blowfish, Blue Fish
-- The Simpsons (2x12:2G) The Way We Was
-- The Simpsons (2x13:3G) Homer vs. Lisa and the 8th Commandment
-- The Simpsons (2x14:3G) Principal Charming
-- The Simpsons (2x15:3G) Oh Brother, Where Art Thou?
-- The Simpsons (2x16:3G) Bart’s Dog Gets an F
-- The Simpsons (2x17:3G) Old Money
-- The Simpsons (2x18:3G) Brush with Greatness
-- The Simpsons (2x19:4G) Lisa’s Substitute
-- The Simpsons (2x20:4G) The War of the Simpsons
-- The Simpsons (2x21:4G) Three Men and a Comic Book
-- The Simpsons (2x22:4G) Blood Feud
-- The Simpsons (3x01:1G) Stark Raving Dad
-- The Simpsons (3x02:1G) Mr. Lisa Goes to Washington
-- The Simpsons (3x03:1G) When Flanders Failed
-- The Simpsons (3x04:1G) Bart the Murderer
-- The Simpsons (3x05:1G) Homer Defined
-- The Simpsons (3x06:1G) Like Father, Like Clown
-- The Simpsons (3x07:2G) Halloween Special II - The Monkey’s Paw / The Bart Zone / If I Only Had a Brain
-- The Simpsons (3x08:2G) Lisa’s Pony
-- The Simpsons (3x09:2G) Saturdays of Thunder
-- The Simpsons (3x10:2G) Flaming Moe’s
-- The Simpsons (3x11:2G) Burns Verkaufen der Kraftwerk
-- The Simpsons (3x12:2G) I Married Marge
-- The Simpsons (3x13:3G) Radio Bart
-- The Simpsons (3x14:3G) Lisa the Greek
-- The Simpsons (3x15:3G) Homer Alone
-- The Simpsons (3x16:3G) Bart the Lover
-- The Simpsons (3x17:3G) Homer at the Bat
-- The Simpsons (3x18:3G) Separate Vocations
-- The Simpsons (3x19:4G) Dog of Death
-- The Simpsons (3x20:4G) Colonel Homer
-- The Simpsons (3x21:4G) Black Widower
-- The Simpsons (3x22:4G) The Otto Show
-- The Simpsons (3x23:4G) Bart’s Friend Falls in Love
-- The Simpsons (3x24:4G) Brother, Can You Spare Two Dimes?
-- The Simpsons (4x01:1G) Kamp Krusty
-- The Simpsons (4x02:1G) A Streetcar Named Marge
-- The Simpsons (4x03:1G) Homer the Heretic
-- The Simpsons (4x04:1G) Lisa the Beauty Queen
-- The Simpsons (4x05:2G) Halloween Special III - Clown Without Pity / King Homer / Dial ’Z’ for Zombies
-- 'The Simpsons (4x06:2G) Itchy & Scratchy: The Movie'
-- The Simpsons (4x07:2G) Marge Gets a Job
-- The Simpsons (4x08:2G) New Kid on the Block
-- The Simpsons (4x09:2G) Mr. Plow
-- The Simpsons (4x10:2G) Lisa’s First Word
-- The Simpsons (4x11:3G) Homer’s Triple Bypass
-- The Simpsons (4x12:3G) Marge vs. the Monorail
-- The Simpsons (4x13:3G) Selma’s Choice
-- The Simpsons (4x14:3G) Brother From the Same Planet
-- The Simpsons (4x15:3G) I Love Lisa
-- The Simpsons (4x16:3G) Duffless
-- The Simpsons (4x17:4G) Last Exit to Springfield
-- 'The Simpsons (4x18:4G) So It’s Come to This: A Simpsons Clip Show'
-- The Simpsons (4x19:4G) The Front
-- The Simpsons (4x20:4G) Whacking Day
-- The Simpsons (4x21:4G) Marge in Chains
-- The Simpsons (4x22:4G) Krusty Gets Kancelled
-- The Simpsons (5x01:1G) Homer’s Barbershop Quartet
-- The Simpsons (5x02:1G) Cape Feare
-- The Simpsons (5x03:1G) Homer Goes to College
-- The Simpsons (5x04:1G) Rosebud
-- The Simpsons (5x05:1G) Halloween Special IV - The Devil and Homer Simpson / Terror at 5? Feet / Bart Simpson’s ’Dracula’
-- The Simpsons (5x06:2G) Marge on the Lam
-- The Simpsons (5x07:2G) Bart’s Inner Child
-- The Simpsons (5x08:2G) Boy-Scoutz ’n the Hood
-- The Simpsons (5x09:2G) The Last Temptation of Homer
-- The Simpsons (5x10:2G) $pringfield ór, How I Learned to Stop Worrying and Love Legalized Gambling)
-- The Simpsons (5x11:2G) Homer the Vigilante
-- The Simpsons (5x12:3G) Bart Gets Famous
-- The Simpsons (5x13:3G) Homer and Apu
-- The Simpsons (5x14:3G) Lisa vs. Malibu Stacy
-- The Simpsons (5x15:3G) Deep Space Homer
-- The Simpsons (5x16:3G) Homer Loves Flanders
-- The Simpsons (5x17:3G) Bart Gets an Elephant
-- The Simpsons (5x18:4G) Burns’ Heir
-- The Simpsons (5x19:4G) Sweet Seymour Skinner’s Baadasssss Song
-- The Simpsons (5x20:4G) The Boy Who Knew Too Much
-- The Simpsons (5x21:4G) Lady Bouvier’s Lover
-- The Simpsons (5x22:4G) Secrets of a Successful Marriage
-- The Simpsons (6x01:1G) Bart of Darkness
-- The Simpsons (6x02:1G) Lisa’s Rival
-- The Simpsons (6x03:1G) Another Simpsons Clip Show
-- The Simpsons (6x04:1G) Itchy & Scratchy Land
-- The Simpsons (6x05:1G) Sideshow Bob Roberts
-- The Simpsons (6x06:1G) Treehouse of Horror V - The Shinning / Time and Punishment / Nightmare Cafeteria
-- The Simpsons (6x07:1G) Bart’s Girlfriend
-- The Simpsons (6x08:2G) Lisa on Ice
-- The Simpsons (6x09:2G) Homer Badman
-- The Simpsons (6x10:2G) Grampa vs. Sexual Inadequacy
-- The Simpsons (6x11:2G) Fear of Flying
-- The Simpsons (6x12:2G) Homer the Great
-- The Simpsons (6x13:2G) And Maggie Makes Three
-- The Simpsons (6x14:2G) Bart’s Comet
-- The Simpsons (6x15:3G) Homie the Clown
-- The Simpsons (6x16:3G) Bart vs. Australia
-- The Simpsons (6x17:3G) Homer vs. Patty and Selma
-- The Simpsons (6x18:3G) A Star Is Burns
-- The Simpsons (6x19:3G) Lisa’s Wedding
-- The Simpsons (6x20:3G) Two Dozen and One Greyhounds
-- The Simpsons (6x21:3G) The PTA Disbands!
-- The Simpsons (6x22:4G) Round Springfield
-- The Simpsons (6x23:4G) The Springfield Connection
-- The Simpsons (6x24:4G) Lemon of Troy
-- The Simpsons (6x25:4G) Who Shot Mr. Burns?
-- The Simpsons (7x02:1G) Radioactive Man
-- The Simpsons (7x03:1G) Home Sweet Homediddly-Dum-Doodily
-- The Simpsons (7x04:1G) Bart Sells His Soul
-- The Simpsons (7x05:1G) Lisa the Vegetarian
-- The Simpsons (7x06:1G) Treehouse of Horror VI - Attack of the 50-Foot Eyesores / Nightmare on Evergreen Terrace / Homer?
-- The Simpsons (7x07:2G) King-Size Homer
-- The Simpsons (7x08:2G) Mother Simpson
-- The Simpsons (7x09:2G) Sideshow Bob’s Last Gleaming
-- The Simpsons (7x10:2G) The Simpsons 138th Episode Spectacular
-- The Simpsons (7x11:2G) Marge Be Not Proud
-- The Simpsons (7x12:2G) Team Homer
-- The Simpsons (7x13:2G) Two Bad Neighbors
-- The Simpsons (7x14:3G) Scenes From the Class Struggle in Springfield
-- The Simpsons (7x15:3G) Bart the Fink
-- The Simpsons (7x16:3G) Lisa the Iconoclast
-- The Simpsons (7x17:3G) Homer the Smithers
-- The Simpsons (7x18:3G) The Day the Violence Died
-- The Simpsons (7x19:3G) A Fish Called Selma
-- The Simpsons (7x20:3G) Bart on the Road
-- The Simpsons (7x21:4G) 22 Short Films About Springfield
-- 'The Simpsons (7x22:4G) Raging Abe Simpson and His Grumbling Grandson in: ?The Curse of the Flying Hellfish?'
-- The Simpsons (7x23:4G) Much Apu About Nothing
-- The Simpsons (7x24:4G) Homerpalooza
-- The Simpsons (7x25:4G) Summer of 4 Ft. 2
-- The Simpsons (8x01:1G) Treehouse of Horror VII- The Thing and I / The Genesis Tub / Citizen Kang
-- The Simpsons (8x02:1G) You Only Move Twice
-- The Simpsons (8x03:1G) The Homer They Fall
-- The Simpsons (8x04:1G) Burns, Baby Burns
-- The Simpsons (8x05:1G) Bart After Dark
-- The Simpsons (8x06:1G) A Milhouse Divided
-- The Simpsons (8x07:2G) Lisa’s Date with Density
-- The Simpsons (8x08:2G) Hurricane Neddy
-- The Simpsons (8x09:2G) El Viaje Misterioso de Nuestro Jomer
-- The Simpsons (8x10:2G) The Springfield Files
-- The Simpsons (8x11:2G) The Twisted World of Marge Simpson
-- The Simpsons (8x12:2G) Mountain of Madness
-- The Simpsons (8x13:2G) Simpsoncalifragilisticexpiala-D’oh-cious
-- The Simpsons (8x14:3G) The Itchy & Scratchy & Poochie Show
-- The Simpsons (8x15:3G) Homer’s Phobia
-- The Simpsons (8x16:3G) Brother from Another Series
-- The Simpsons (8x17:3G) My Sister, My Sitter
-- The Simpsons (8x18:3G) Homer vs. the 18th Amendment
-- The Simpsons (8x19:3G) Grade School Confidential
-- The Simpsons (8x20:3G) The Canine Mutiny
-- The Simpsons (8x21:4G) The Old Man and the Lisa
-- The Simpsons (8x22:4G) In Marge We Trust
-- The Simpsons (8x23:4G) Homer’s Enemy
-- The Simpsons (8x24:4G) The Simpsons Spin-off Showcase
-- The Simpsons (8x25:4G) The Secret War of Lisa Simpson
-- The Simpsons (9x01:G) The City of New York vs. Homer Simpson
-- The Simpsons (9x02:G) The Principal and The Pauper
-- The Simpsons (9x03:G) Lisa’s Sax
-- The Simpsons (9x04:G) Treehouse of Horror VIII - The H?mega Man / Fly vs. Fly / Easy-Bake Coven
-- The Simpsons (9x05:G) The Cartridge Family
-- The Simpsons (9x06:G) Bart Star
-- The Simpsons (9x07:G) The Two Mrs. Nahasapeemapetilons
-- The Simpsons (9x08:G) Lisa the Skeptic
-- The Simpsons (9x09:G) Realty Bites
-- The Simpsons (9x10:G) Miracle on Evergreen Terrace
-- The Simpsons (9x11:G) All Singing, All Dancing
-- The Simpsons (9x12:G) Bart Carny
-- The Simpsons (9x13:G) The Joy of Sect
-- The Simpsons (9x14:G) Das Bus
-- The Simpsons (9x15:G) The Last Temptation of Krust
-- The Simpsons (9x16:G) Dumbbell Indemnity
-- The Simpsons (9x17:G) Lisa the Simpson
-- The Simpsons (9x18:G) This Little Wiggy
-- The Simpsons (9x19:G) Simpson Tide
-- The Simpsons (9x20:G) The Trouble with Trillions
-- The Simpsons (9x21:G) Girly Edition
-- The Simpsons (9x22:G) Trash of the Titans
-- The Simpsons (9x23:G) King of the Hill
-- The Simpsons (9x24:G) Lost Our Lisa
-- The Simpsons (9x25:G) Natural Born Kissers
-- The Simpsons (10x01:1G) Lard of the Dance
-- The Simpsons (10x02:1G) The Wizard of Evergreen Terrace
-- The Simpsons (10x03:1G) Bart the Mother
-- The Simpsons (10x04:1G) Treehouse of Horror IX - Hell Toupé / The Terror of Tiny Toon / Starship Poopers
-- The Simpsons (10x05:1G) When You Dish Upon a Star
-- The Simpsons (10x06:1G) D’oh-in’ in the Wind
-- The Simpsons (10x07:2G) Lisa Gets an ?A?
-- 'The Simpsons (10x08:2G) Homer Simpson in: ?Kidney Trouble?'
-- The Simpsons (10x09:2G) Mayored to the Mob
-- The Simpsons (10x10:2G) Viva Ned Flanders
-- The Simpsons (10x11:2G) Wild Barts Can’t Be Broken
-- The Simpsons (10x12:2G) Sunday, Cruddy Sunday
-- The Simpsons (10x13:3G) Homer to the Max
-- The Simpsons (10x14:3G) I’m With Cupid
-- 'The Simpsons (10x15:3G) Marge Simpson in: ?Screaming Yellow Honkers?'
-- The Simpsons (10x16:3G) Make Room for Lisa
-- The Simpsons (10x17:3G) Maximum Homerdrive
-- The Simpsons (10x18:3G) Simpsons Bible Stories
-- The Simpsons (10x19:4G) Mom and Pop Art
-- The Simpsons (10x20:4G) The Old Man and The ?C? Student
-- The Simpsons (10x21:4G) Monty Can’t Buy Me Love
-- The Simpsons (10x22:4G) They Saved Lisa’s Brain
-- The Simpsons (10x23:4G) Thirty Minutes Over Tokyo
-- The Simpsons (11x01:1G) Beyond Blunderdome
-- The Simpsons (11x02:1G) Brother’s Little Helper
-- The Simpsons (11x03:1G) Guess Who’s Coming to Criticize Dinner
-- The Simpsons (11x04:1G) Treehouse of Horror X - I Know What You Diddily-Iddily-Did / Desperately Xeeking Xena / Life’s a Glitch, Then You Die
-- The Simpsons (11x05:1G) E-I-E-I-D’oh
-- The Simpsons (11x06:2G) Hello Gutter, Hello Fadder
-- The Simpsons (11x07:2G) Eight Misbehavin’
-- The Simpsons (11x08:2G) Take My Wife, Sleaze
-- The Simpsons (11x09:2G) Grift of the Magi
-- The Simpsons (11x10:2G) Little Big Mom
-- The Simpsons (11x11:2G) Faith Off
-- The Simpsons (11x12:3G) The Mansion Family
-- The Simpsons (11x13:3G) Saddlesore Galactica
-- The Simpsons (11x14:3G) Alone Again, Natura-Diddily
-- 'The Simpsons (11x15:3G) Missionary: Impossible'
-- The Simpsons (11x16:3G) Pygmoelian
-- The Simpsons (11x17:3G) Bart to the Future
-- The Simpsons (11x18:4G) Days of Wine and D’oh’ses
-- The Simpsons (11x19:4G) Kill the Alligator and Run
-- The Simpsons (11x20:4G) Last Tap Dance in Springfield
-- The Simpsons (11x21:4G) It’s A Mad, Mad, Mad, Mad Marge
-- The Simpsons (11x22:4G) Behind the Laughter
-- The Simpsons (12x01:1G) Treehouse of Horror XI - G-G-Ghost D-D-Dad / Scary Tales Can Come True / Night of the Dolphin
-- The Simpsons (12x02:1G) A Tale of Two Springfields
-- The Simpsons (12x03:1G) Insane Clown Poppy
-- The Simpsons (12x04:1G) Lisa the Tree Hugger
-- The Simpsons (12x05:1G) Homer vs. Dignity
-- The Simpsons (12x06:2G) The Computer Wore Menace Shoes
-- The Simpsons (12x07:2G) The Great Money Caper
-- The Simpsons (12x08:2G) Skinner’s Sense of Snow
-- The Simpsons (12x09:2G) HOM?
-- The Simpsons (12x10:2G) Pokey Mom
-- The Simpsons (12x11:2G) Worst Episode Ever
-- The Simpsons (12x12:3G) Tennis the Menace
-- The Simpsons (12x13:3G) Day of the Jackanapes
-- The Simpsons (12x14:3G) New Kids on the Blecch
-- The Simpsons (12x15:3G) Hungry, Hungry Homer
-- The Simpsons (12x16:3G) Bye, Bye, Nerdie
-- The Simpsons (12x17:3G) Simpson Safari
-- The Simpsons (12x18:4G) Trilogy of Error
-- The Simpsons (12x19:4G) I’m Goin’ to Praiseland
-- The Simpsons (12x20:4G) Children of a Lesser Clod
-- The Simpsons (12x21:4G) Simpsons Tall Tales
-- The Simpsons (13x01:1G) Treehouse of Horror XII - Hex and the City / House of Whacks / Wiz Kids
-- The Simpsons (13x02:1G) The Parent Rap
-- The Simpsons (13x03:1G) Homer the Moe
-- The Simpsons (13x04:1G) A Hunka Hunka Burns in Love
-- The Simpsons (13x05:1G) The Blunder Years
-- The Simpsons (13x06:2G) She of Little Faith
-- The Simpsons (13x07:2G) Brawl in the Family
-- The Simpsons (13x08:2G) Sweets and Sour Marge
-- The Simpsons (13x09:2G) Jaws Wired Shut
-- The Simpsons (13x10:2G) Half-Decent Proposal
-- The Simpsons (13x11:2G) The Bart Wants What It Wants
-- The Simpsons (13x12:3G) The Lastest Gun in the West
-- The Simpsons (13x13:3G) The Old Man and the Key
-- The Simpsons (13x14:3G) Tales From the Public Domain
-- The Simpsons (13x15:3G) Blame it on Lisa
-- The Simpsons (13x16:3G) Weekend at Burnsie’s
-- The Simpsons (13x17:3G) Gump Roast
-- The Simpsons (13x18:4G) I Am Furious (Yellow)
-- The Simpsons (13x19:4G) The Sweetest Apu
-- The Simpsons (13x20:4G) Little Girl in the Big Ten
-- The Simpsons (13x21:4G) The Frying Game
-- The Simpsons (13x22:4G) Poppa’s Got a Brand New Badge
-- The Simpsons (14x01:1G) Treehouse of Horror XIII - Send in the Clones / The Fright to Creep and Scare Harms / The Island of Dr. Hibbert
-- The Simpsons (14x02:1G) How I Spent My Strummer Vacation
-- The Simpsons (14x03:1G) Bart vs. Lisa vs. The Third Grade
-- The Simpsons (14x04:1G) Large Marge
-- The Simpsons (14x05:1G) Helter Shelter
-- The Simpsons (14x06:2G) The Great Louse Detective
-- The Simpsons (14x07:2G) Special Edna
-- The Simpsons (14x08:2G) The Dad Who Knew Too Little
-- The Simpsons (14x09:2G) The Strong Arms of the Ma
-- The Simpsons (14x10:2G) Pray Anything
-- The Simpsons (14x11:2G) Barting Over
-- The Simpsons (14x12:2G) I’m Spelling As Fast As I Can
-- The Simpsons (14x13:3G) A Star Is Born-Again
-- The Simpsons (14x14:3G) Mr. Spritz Goes to Washington
-- The Simpsons (14x15:3G) C.E.D’oh
-- The Simpsons (14x16:3G) Scuse Me While I Miss the Sky
-- The Simpsons (14x17:3G) Three Gays of the Condo
-- The Simpsons (14x18:4G) Dude, Where’s My Ranch?
-- The Simpsons (14x19:4G) Old Yeller Belly
-- The Simpsons (14x20:4G) Brake My Wife, Please
-- The Simpsons (14x21:4G) The Bart of War
-- The Simpsons (14x22:4G) Moe Baby Blues
-- The Simpsons (15x01:1G) Treehouse of Horror XIV - Reaper Madness / Frinkenstein / Stop the World, I Want to Goof Off
-- The Simpsons (15x02:1G) My Mother the Carjacker
-- The Simpsons (15x03:1G) The President Wore Pearls
-- The Simpsons (15x04:1G) The Regina Monologues
-- The Simpsons (15x05:1G) The Fat and the Furriest
-- The Simpsons (15x06:2G) Today I am a Clown
-- The Simpsons (15x07:2G) ?Tis the Fifteenth Season
-- The Simpsons (15x08:2G) Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays
-- The Simpsons (15x09:2G) I, D’oh-Bot
-- The Simpsons (15x10:2G) Diatribe of a Mad Housewife
-- The Simpsons (15x11:2G) Margical History Tour
-- The Simpsons (15x12:3G) Milhouse Doesn’t Live Here Anymore
-- The Simpsons (15x13:3G) Smart & Smarter
-- The Simpsons (15x14:3G) The Ziff Who Came to Dinner
-- The Simpsons (15x15:3G) Co-Dependent’s Day
-- The Simpsons (15x16:3G) The Wandering Juvie
-- The Simpsons (15x17:3G) My Big Fat Geek Wedding
-- The Simpsons (15x18:4G) Catch ’Em If You Can
-- The Simpsons (15x19:4G) Simple Simpson
-- The Simpsons (15x20:4G) The Way We Weren’t
-- The Simpsons (15x21:4G) Bart Mangled Banner
-- The Simpsons (15x22:4G) Fraudcast News
-- The Simpsons (16x01:1G) Treehouse of Horror XV - The Ned Zone / Four Beheadings and a Funeral / In the Belly of the Boss
-- The Simpsons (16x02:1G) All’s Fair in Oven War
-- The Simpsons (16x03:1G) Sleeping With the Enemy
-- The Simpsons (16x04:1G) She Used to Be My Girl
-- The Simpsons (16x05:1G) Fat Man and Little Boy
-- The Simpsons (16x06:1G) Midnight Rx
-- The Simpsons (16x07:2G) Mommie Beerest
-- The Simpsons (16x08:2G) Homer and Ned’s Hail Mary Pass
-- The Simpsons (16x09:2G) Pranksta Rap
-- The Simpsons (16x10:2G) There’s Something About Marrying
-- The Simpsons (16x11:2G) On a Clear Day I Can’t See My Sister
-- The Simpsons (16x12:3G) Goo Goo Gai Pan
-- The Simpsons (16x13:3G) Mobile Homer
-- The Simpsons (16x14:3G) The Seven-Beer Snitch
-- The Simpsons (16x15:3G) Future-Drama
-- The Simpsons (16x16:3G) Don’t Fear the Roofer
-- The Simpsons (16x17:3G) The Heartbroke Kid
-- The Simpsons (16x18:4G) A Star is Torn
-- The Simpsons (16x19:4G) Thank God it’s Doomsday
-- The Simpsons (16x20:4G) Home Away From Homer
-- The Simpsons (16x21:4G) Father, Son and the Holy Guest Star
-- The Simpsons (20x01:1G) Sex, Pies and Idiot Scrapes
-- The Simpsons (20x02:1G) Lost Verizon
-- The Simpsons (20x03:1G) Double, Double, Boy in Trouble
-- The Simpsons (20x04:1G) Treehouse of Horror XIX - Untitled Robot Parody / How to Get Ahead in Dead-vertising / It’s the Grand Pumpkin, Milhouse
-- The Simpsons (20x05:1G) Dangerous Curves
-- The Simpsons (20x06:1G) Homer and Lisa Exchange Cross Words
-- The Simpsons (20x07:2G) Mypods and Boomsticks
-- The Simpsons (20x08:2G) The Burns and the Bees
-- The Simpsons (20x09:2G) Lisa the Drama Queen
-- The Simpsons (20x10:2G) Take My Life, Please
-- The Simpsons (20x11:2G) How the Test Was Won
-- The Simpsons (20x12:3G) No Loan Again, Naturally
-- The Simpsons (20x13:3G) Gone Maggie Gone
-- The Simpsons (20x14:3G) In the Name of the Grandfather
-- The Simpsons (20x15:3G) Wedding for Disaster
-- The Simpsons (20x16:3G) Eeny Teeny Maya, Moe
-- The Simpsons (20x17:4G) The Good, the Sad and the Drugly
-- The Simpsons (20x18:4G) Father Knows Worst
-- The Simpsons (20x19:4G) Waverly Hills 9-0-2-1-D’oh
-- The Simpsons (20x20:4G) Four Great Women and a Manicure
-- The Simpsons (20x21:4G) Coming to Homerica
-- The Simpsons (G) The Simpsons Movie
-- The Sketch Show (C)
-- Sliders (1x01:111B)
-- Sliders (1x02:112B) Summer of Love
-- Sliders (1x03:112B) The Prince of Wails
-- Sliders (1x04:111B) Fever
-- Sliders (1x05:111B) Last Days
-- Sliders (1x06:112B) The Weaker Sex
-- Sliders (1x07:112B) Eggheads
-- Sliders (1x08:113B) The King is Back
-- Sliders (1x09:113B) Luck of the Draw
-- Sliders (2x01:113B) Into the Mystic
-- Sliders (2x02:114B) Time Again and World
-- Sliders (2x03:114B) El Sid
-- Sliders (2x04:113B) Love Gods
-- Sliders (2x05:116B) As Time Goes By
-- Sliders (2x06:114B) The Good, the Bad and the Wealthy
-- Sliders (2x07:114B) Gillian of the Spirits
-- Sliders (2x08:115B) Obsession
-- Sliders (2x09:116B) Invasion
-- Sliders (2x10:115B) Post-Traumatic Slide Syndrome
-- Sliders (2x11:115B) In Dino Veritas
-- Sliders (2x12:115B) Greatfellas
-- Sliders (2x13:116B) The Young and the Relentless
-- Sliders (3x01:117B) Rules of the Game
-- Sliders (3x02:117B) Double Cross
-- Sliders (3x03:117B) Electric Twister Acid Test
-- Sliders (3x04:117B) The Guardian
-- Sliders (3x05:118B) The Dream Masters
-- Sliders (3x06:118B) Desert Storm
-- Sliders (3x07:118B) Dragon Slide
-- Sliders (3x08:118B) The Fire Within
-- Sliders (3x09:119B) The Prince of Slides
-- Sliders (3x10:119B) Dead Man Sliding
-- Sliders (3x11:119B) State of the A.R.T.
-- Sliders (3x12:119B) Season’s Greedings
-- Sliders (3x13:120B) Murder Most Foul
-- Sliders (3x14:120B) Slide Like an Egyptian
-- Sliders (3x15:120B) Paradise Lost
-- Sliders (3x16:120B) The Exodus
-- Sliders (3x18:121B) Sole Survivors
-- Sliders (3x19:121B) The Breeder
-- Sliders (3x20:121B) The Last of Eden
-- Sliders (3x21:121B) The Other Slide of Darkness
-- Sliders (3x22:122B) Slither
-- Sliders (3x23:122B) Dinoslide
-- Sliders (3x24:122B) Stoker
-- Sliders (3x25:122B) This Slide of Paradise
-- Sliders (4x01:123B) Genesis
-- Sliders (4x02:123B) Prophets and Loss
-- Sliders (4x03:123B) Common Ground
-- Sliders (4x04:123B) Virtual Slide
-- Sliders (4x05:124B) World Killer
-- Sliders (4x06:124B) Oh Brother, Where Art Thou?
-- Sliders (4x07:124B) Just Say Yes
-- Sliders (4x08:124B) The Alternateville Horror
-- Sliders (4x09:125B) Slidecage
-- Sliders (4x10:125B) Asylum
-- Sliders (4x11:125B) California Reich
-- Sliders (4x12:125B) The Dying Fields
-- Sliders (4x13:126B) Lipchitz Live!
-- Sliders (4x14:126B) Mother and Child
-- Sliders (4x15:126B) Net Worth
-- Sliders (4x16:126B) Slide by Wire
-- Sliders (4x17:126B) Data World
-- Sliders (4x18:127B) Way Out West
-- Sliders (4x19:127B) My Brother’s Keeper
-- Sliders (4x20:127B) The Chasm
-- Sliders (4x21:127B) Roads Taken
-- Sliders (4x22:127B) Revelations
-- Sliders (5x01:128B) The Unstuck Man
-- Sliders (5x02:128B) Applied Physics
-- Sliders (5x03:128B) Strangers and Comrades
-- Sliders (5x04:128B) The Great Work
-- Sliders (5x05:129B) New Gods for Old
-- Sliders (5x06:129B) Please Press One
-- Sliders (5x07:129B) A Current Affair
-- Sliders (5x08:129B) Java Jive
-- Sliders (5x09:130B) The Return of Maggie Beckett
-- Sliders (5x10:130B) Easy Slider
-- Sliders (5x11:130B) Requiem
-- Sliders (5x12:130B) Map of the Mind
-- Sliders (5x13:131B) A Thousand Deaths
-- Sliders (5x14:131B) Heavy Metal
-- Sliders (5x15:131B) To Catch a Slider
-- Sliders (5x16:132B) Dust
-- Sliders (5x17:132B) Eye of the Storm
-- Sliders (5x18:132B) The Seer
-- Special Unit 2 (1x01:233B) The Brothers
-- Special Unit 2 (1x02:233B) The Pack
-- Special Unit 2 (1x03:233B) The Wraps
-- Special Unit 2 (1x04:233B) The Web
-- Special Unit 2 (1x05:233B) The Waste
-- Special Unit 2 (1x06:233B) The Depths
-- Special Unit 2 (2x01:234B) The Grain
-- Special Unit 2 (2x02:234B) The Skin
-- Special Unit 2 (2x03:234B) The Years
-- Special Unit 2 (2x04:234B) The Invisible
-- Special Unit 2 (2x05:234B) The Eve
-- Special Unit 2 (2x06:234B) The Rocks
-- Special Unit 2 (2x07:235B) The Drag
-- Special Unit 2 (2x08:235B) The Beast
-- Special Unit 2 (2x09:235B) The Wall
-- Special Unit 2 (2x10:235B) The Straw
-- Special Unit 2 (2x11:235B) The Love
-- Special Unit 2 (2x12:235B) The Piper
-- Special Unit 2 (2x13:235B) The Wish
-- Spellbinder (1x01:C) The Big Bang
-- Spellbinder (1x02:C) Where am I?
-- Spellbinder (1x03:C) Finding the Way Home
-- Spellbinder (1x04:C) It isn’t Magic, it’s Science
-- Spellbinder (1x05:C) Secrets
-- Spellbinder (1x06:C) Show Me Your World
-- Spellbinder (1x07:C) The Gunpowder Plot
-- Spellbinder (1x08:C) Secrets of the Spellbinders
-- Spellbinder (1x09:C) The Labyrinth
-- Spellbinder (1x10:C) Desperate Measures
-- Spellbinder (1x11:C) The Centre of Power
-- Spellbinder (1x12:C) Spellbinder Jack
-- Spellbinder (1x13:C) The Final Challenge
-- Spellbinder (1x14:C) Lost and Found
-- Spellbinder (1x15:C) Hospitality
-- Spellbinder (1x16:C) Breakout
-- Spellbinder (1x17:C) The Trojan Toffee Trolley
-- Spellbinder (1x18:C) Run!
-- Spellbinder (1x19:C) Reunions
-- Spellbinder (1x20:C) Alien Invasion
-- Spellbinder (1x21:C) The Hunt for Ashka
-- Spellbinder (1x22:C) Clowning Around
-- Spellbinder (1x23:C) The High-Tech Power Suit
-- Spellbinder (1x24:C) A Spellbinder in the House
-- Spellbinder (1x25:C) Breakfast of Champions
-- Spellbinder (1x26:C) Flight
-- 'Spellbinder 2: Land of the Dragon Lord (2x01:1C) The Trans-Dimensional Bamboo Boat'
-- 'Spellbinder 2: Land of the Dragon Lord (2x02:1C) Ashka'
-- 'Spellbinder 2: Land of the Dragon Lord (2x03:1C) The Dragon Lord'
-- 'Spellbinder 2: Land of the Dragon Lord (2x04:1C) Oracle'
-- 'Spellbinder 2: Land of the Dragon Lord (2x05:1C) Marooned in a World of Monsters'
-- 'Spellbinder 2: Land of the Dragon Lord (2x06:1C) Attack of the Thirty-Metre Warrior'
-- 'Spellbinder 2: Land of the Dragon Lord (2x07:2C) Josh, the Water Spirit'
-- 'Spellbinder 2: Land of the Dragon Lord (2x08:2C) Sun Becomes a Star'
-- 'Spellbinder 2: Land of the Dragon Lord (2x09:2C) Designation Day'
-- 'Spellbinder 2: Land of the Dragon Lord (2x10:2C) The Oracle is Dead'
-- 'Spellbinder 2: Land of the Dragon Lord (2x11:2C) The Only Child in the World'
-- 'Spellbinder 2: Land of the Dragon Lord (2x12:2C) Girl for Sale'
-- 'Spellbinder 2: Land of the Dragon Lord (2x13:2C) To Live Forever'
-- 'Spellbinder 2: Land of the Dragon Lord (2x14:3C) Barbarians at the Gate'
-- 'Spellbinder 2: Land of the Dragon Lord (2x15:3C) The Best-Laid Plans?'
-- 'Spellbinder 2: Land of the Dragon Lord (2x16:3C) Graveyard of Machines'
-- 'Spellbinder 2: Land of the Dragon Lord (2x17:3C) The Hunter and the Haunting'
-- 'Spellbinder 2: Land of the Dragon Lord (2x18:3C) Stop the Moloch!'
-- 'Spellbinder 2: Land of the Dragon Lord (2x19:3C) Escape from the Palace'
-- 'Spellbinder 2: Land of the Dragon Lord (2x20:4C) Kathy Meets?Herself'
-- 'Spellbinder 2: Land of the Dragon Lord (2x21:4C) The Doublecross'
-- 'Spellbinder 2: Land of the Dragon Lord (2x22:4C) On the Trail'
-- 'Spellbinder 2: Land of the Dragon Lord (2x23:4C) The Two Joshes'
-- 'Spellbinder 2: Land of the Dragon Lord (2x24:4C) Who’s Who?'
-- 'Spellbinder 2: Land of the Dragon Lord (2x25:4C) The Disappearing Act'
-- 'Spellbinder 2: Land of the Dragon Lord (2x26:4C) A Wedding Surprise'
-- 'Star Trek: The Original Series (0x01:15T) The Cage'
-- 'Star Trek: The Original Series (1x01:16T) Where No Man Has Gone Before'
-- 'Star Trek: The Original Series (1x02:18T) The Corbomite Maneuver'
-- 'Star Trek: The Original Series (1x03:17T) Mudd’s Women'
-- 'Star Trek: The Original Series (1x04:17T) The Enemy Within'
-- 'Star Trek: The Original Series (1x05:16T) The Man Trap'
-- 'Star Trek: The Original Series (1x06:16T) The Naked Time'
-- 'Star Trek: The Original Series (1x07:16T) Charlie X'
-- 'Star Trek: The Original Series (1x08:19T) Balance of Terror'
-- 'Star Trek: The Original Series (1x09:17T) What Are Little Girls Made of?'
-- 'Star Trek: The Original Series (1x10:18T) Dagger of the Mind'
-- 'Star Trek: The Original Series (1x11:17T) Miri'
-- 'Star Trek: The Original Series (1x12:19T) The Conscience of the King'
-- 'Star Trek: The Original Series (1x13:19T) The Galileo Seven'
-- 'Star Trek: The Original Series (1x14:20T) Court Martial'
-- 'Star Trek: The Original Series (1x15:18T) The Menagerie'
-- 'Star Trek: The Original Series (1x17:19T) Shore Leave'
-- 'Star Trek: The Original Series (1x18:20T) The Squire of Gothos'
-- 'Star Trek: The Original Series (1x19:20T) Arena'
-- 'Star Trek: The Original Series (1x20:22T) The Alternative Factor'
-- 'Star Trek: The Original Series (1x21:20T) Tomorrow Is Yesterday'
-- 'Star Trek: The Original Series (1x22:21T) The Return of the Archons'
-- 'Star Trek: The Original Series (1x23:21T) A Taste of Armageddon'
-- 'Star Trek: The Original Series (1x24:21T) Space Seed'
-- 'Star Trek: The Original Series (1x25:21T) This Side of Paradise'
-- 'Star Trek: The Original Series (1x26:22T) The Devil in the Dark'
-- 'Star Trek: The Original Series (1x27:22T) Errand of Mercy'
-- 'Star Trek: The Original Series (1x28:22T) The City on the Edge of Forever'
-- 'Star Trek: The Original Series (1x29:23T) Operation -- Annihilate!'
-- 'Star Trek: The Original Series (2x01:26T) Catspaw'
-- 'Star Trek: The Original Series (2x02:26T) Metamorphosis'
-- 'Star Trek: The Original Series (2x03:27T) Friday’s Child'
-- 'Star Trek: The Original Series (2x04:24T) Who Mourns for Adonais?'
-- 'Star Trek: The Original Series (2x05:24T) Amok Time'
-- 'Star Trek: The Original Series (2x06:25T) The Doomsday Machine'
-- 'Star Trek: The Original Series (2x07:27T) Wolf in the Fold'
-- 'Star Trek: The Original Series (2x08:25T) The Changeling'
-- 'Star Trek: The Original Series (2x09:25T) The Apple'
-- 'Star Trek: The Original Series (2x10:25T) Mirror, Mirror'
-- 'Star Trek: The Original Series (2x11:27T) The Deadly Years'
-- 'Star Trek: The Original Series (2x12:26T) I, Mudd'
-- 'Star Trek: The Original Series (2x13:28T) The Trouble with Tribbles'
-- 'Star Trek: The Original Series (2x14:31T) Bread and Circuses'
-- 'Star Trek: The Original Series (2x15:26T) Journey to Babel'
-- 'Star Trek: The Original Series (2x16:29T) A Private Little War'
-- 'Star Trek: The Original Series (2x17:29T) The Gamesters of Triskelion'
-- 'Star Trek: The Original Series (2x18:27T) Obsession'
-- 'Star Trek: The Original Series (2x19:29T) The Immunity Syndrome'
-- 'Star Trek: The Original Series (2x20:29T) A Piece of the Action'
-- 'Star Trek: The Original Series (2x21:30T) By Any Other Name'
-- 'Star Trek: The Original Series (2x22:30T) Return to Tomorrow'
-- 'Star Trek: The Original Series (2x23:30T) Patterns of Force'
-- 'Star Trek: The Original Series (2x24:31T) The Ultimate Computer'
-- 'Star Trek: The Original Series (2x25:30T) The Omega Glory'
-- 'Star Trek: The Original Series (2x26:31T) Assignment: Earth'
-- 'Star Trek: The Original Series (3x01:33T) Spectre of the Gun'
-- 'Star Trek: The Original Series (3x02:35T) Elaan of Troyius'
-- 'Star Trek: The Original Series (3x03:32T) The Paradise Syndrome'
-- 'Star Trek: The Original Series (3x04:32T) The Enterprise Incident'
-- 'Star Trek: The Original Series (3x05:32T) And the Children Shall Lead'
-- 'Star Trek: The Original Series (3x06:32T) Spock’s Brain'
-- 'Star Trek: The Original Series (3x07:33T) Is There in Truth No Beauty?'
-- 'Star Trek: The Original Series (3x08:34T) The Empath'
-- 'Star Trek: The Original Series (3x09:34T) The Tholian Web'
-- 'Star Trek: The Original Series (3x10:33T) For the World Is Hollow and I Have Touched the Sky'
-- 'Star Trek: The Original Series (3x11:33T) Day of the Dove'
-- 'Star Trek: The Original Series (3x12:34T) Plato’s Stepchildren'
-- 'Star Trek: The Original Series (3x13:34T) Wink of an Eye'
-- 'Star Trek: The Original Series (3x14:36T) That Which Survives'
-- 'Star Trek: The Original Series (3x15:35T) Let That Be Your Last Battlefield'
-- 'Star Trek: The Original Series (3x16:35T) Whom Gods Destroy'
-- 'Star Trek: The Original Series (3x17:35T) The Mark of Gideon'
-- 'Star Trek: The Original Series (3x18:36T) The Lights of Zetar'
-- 'Star Trek: The Original Series (3x19:37T) The Cloud Minders'
-- 'Star Trek: The Original Series (3x20:36T) The Way to Eden'
-- 'Star Trek: The Original Series (3x21:36T) Requiem for Methuselah'
-- 'Star Trek: The Original Series (3x22:37T) The Savage Curtain'
-- 'Star Trek: The Original Series (3x23:37T) All Our Yesterdays'
-- 'Star Trek: The Original Series (3x24:37T) Turnabout Intruder'
-- 'Star Trek: The Original Series (T) The Motion Picture'
-- 'Star Trek: The Original Series (211T) The Wrath of Khan'
-- 'Star Trek: The Original Series (213T) The Search for Spock'
-- 'Star Trek: The Original Series (215T) The Voyage Home'
-- 'Star Trek: The Original Series (217T) The Final Frontier'
-- 'Star Trek: The Original Series (219T) The Undiscovered Country'
-- 'Star Trek: The Next Generation (1x01:38T) Encounter at Farpoint'
-- 'Star Trek: The Next Generation (1x02:38T) The Naked Now'
-- 'Star Trek: The Next Generation (1x03:38T) Code of Honor'
-- 'Star Trek: The Next Generation (1x04:39T) The Last Outpost'
-- 'Star Trek: The Next Generation (1x05:39T) Where No One Has Gone Before'
-- 'Star Trek: The Next Generation (1x06:39T) Lonely Among Us'
-- 'Star Trek: The Next Generation (1x07:39T) Justice'
-- 'Star Trek: The Next Generation (1x08:40T) The Battle'
-- 'Star Trek: The Next Generation (1x09:40T) Hide and Q'
-- 'Star Trek: The Next Generation (1x10:40T) Haven'
-- 'Star Trek: The Next Generation (1x11:40T) The Big Goodbye'
-- 'Star Trek: The Next Generation (1x12:41T) Datalore'
-- 'Star Trek: The Next Generation (1x13:41T) Angel One'
-- 'Star Trek: The Next Generation (1x14:41T) 11001001'
-- 'Star Trek: The Next Generation (1x15:41T) Too Short a Season'
-- 'Star Trek: The Next Generation (1x16:42T) When the Bough Breaks'
-- 'Star Trek: The Next Generation (1x17:42T) Home Soil'
-- 'Star Trek: The Next Generation (1x18:42T) Coming of Age'
-- 'Star Trek: The Next Generation (1x19:42T) Heart of Glory'
-- 'Star Trek: The Next Generation (1x20:43T) The Arsenal of Freedom'
-- 'Star Trek: The Next Generation (1x21:43T) Symbiosis'
-- 'Star Trek: The Next Generation (1x22:43T) Skin of Evil'
-- 'Star Trek: The Next Generation (1x23:43T) We’ll Always Have Paris'
-- 'Star Trek: The Next Generation (1x24:44T) Conspiracy'
-- 'Star Trek: The Next Generation (1x25:44T) The Neutral Zone'
-- 'Star Trek: The Next Generation (2x01:45T) The Child'
-- 'Star Trek: The Next Generation (2x02:45T) Where Silence Has Lease'
-- 'Star Trek: The Next Generation (2x03:45T) Elementary, Dear Data'
-- 'Star Trek: The Next Generation (2x04:45T) The Outrageous Okona'
-- 'Star Trek: The Next Generation (2x05:46T) Loud as a Whisper'
-- 'Star Trek: The Next Generation (2x06:46T) The Schizoid Man'
-- 'Star Trek: The Next Generation (2x07:46T) Unnatural Selection'
-- 'Star Trek: The Next Generation (2x08:46T) A Matter of Honor'
-- 'Star Trek: The Next Generation (2x09:47T) The Measure of a Man'
-- 'Star Trek: The Next Generation (2x10:47T) The Dauphin'
-- 'Star Trek: The Next Generation (2x11:47T) Contagion'
-- 'Star Trek: The Next Generation (2x12:47T) The Royale'
-- 'Star Trek: The Next Generation (2x13:48T) Time Squared'
-- 'Star Trek: The Next Generation (2x14:48T) The Icarus Factor'
-- 'Star Trek: The Next Generation (2x15:48T) Pen Pals'
-- 'Star Trek: The Next Generation (2x16:48T) Q Who'
-- 'Star Trek: The Next Generation (2x17:49T) Samaritan Snare'
-- 'Star Trek: The Next Generation (2x18:49T) Up the Long Ladder'
-- 'Star Trek: The Next Generation (2x19:49T) Manhunt'
-- 'Star Trek: The Next Generation (2x20:49T) The Emissary'
-- 'Star Trek: The Next Generation (2x21:50T) Peak Performance'
-- 'Star Trek: The Next Generation (2x22:50T) Shades of Gray'
-- 'Star Trek: The Next Generation (3x01:51T) Evolution'
-- 'Star Trek: The Next Generation (3x02:51T) The Ensigns of Command'
-- 'Star Trek: The Next Generation (3x03:51T) The Survivors'
-- 'Star Trek: The Next Generation (3x04:51T) Who Watches the Watchers?'
-- 'Star Trek: The Next Generation (3x05:52T) The Bonding'
-- 'Star Trek: The Next Generation (3x06:52T) Booby Trap'
-- 'Star Trek: The Next Generation (3x07:52T) The Enemy'
-- 'Star Trek: The Next Generation (3x08:52T) The Price'
-- 'Star Trek: The Next Generation (3x09:53T) The Vengeance Factor'
-- 'Star Trek: The Next Generation (3x10:53T) The Defector'
-- 'Star Trek: The Next Generation (3x11:53T) The Hunted'
-- 'Star Trek: The Next Generation (3x12:53T) The High Ground'
-- 'Star Trek: The Next Generation (3x13:54T) Deja Q'
-- 'Star Trek: The Next Generation (3x14:54T) A Matter of Perspective'
-- 'Star Trek: The Next Generation (3x15:54T) Yesterday’s Enterprise'
-- 'Star Trek: The Next Generation (3x16:54T) The Offspring'
-- 'Star Trek: The Next Generation (3x17:55T) Sins of the Father'
-- 'Star Trek: The Next Generation (3x18:55T) Allegiance'
-- 'Star Trek: The Next Generation (3x19:55T) Captain’s Holiday'
-- 'Star Trek: The Next Generation (3x20:55T) Tin Man'
-- 'Star Trek: The Next Generation (3x21:56T) Hollow Pursuits'
-- 'Star Trek: The Next Generation (3x22:56T) The Most Toys'
-- 'Star Trek: The Next Generation (3x23:56T) Sarek'
-- 'Star Trek: The Next Generation (3x24:56T) M?nage ? Troi'
-- 'Star Trek: The Next Generation (3x25:57T) Transfigurations'
-- 'Star Trek: The Next Generation (3x26:57T) The Best of Both Worlds'
-- 'Star Trek: The Next Generation (4x02:58T) Family'
-- 'Star Trek: The Next Generation (4x03:58T) Brothers'
-- 'Star Trek: The Next Generation (4x04:58T) Suddenly Human'
-- 'Star Trek: The Next Generation (4x05:59T) Remember Me'
-- 'Star Trek: The Next Generation (4x06:59T) Legacy'
-- 'Star Trek: The Next Generation (4x07:59T) Reunion'
-- 'Star Trek: The Next Generation (4x08:59T) Future Imperfect'
-- 'Star Trek: The Next Generation (4x09:60T) Final Mission'
-- 'Star Trek: The Next Generation (4x10:60T) The Loss'
-- 'Star Trek: The Next Generation (4x11:60T) Data’s Day'
-- 'Star Trek: The Next Generation (4x12:60T) The Wounded'
-- 'Star Trek: The Next Generation (4x13:61T) Devil’s Due'
-- 'Star Trek: The Next Generation (4x14:61T) Clues'
-- 'Star Trek: The Next Generation (4x15:61T) First Contact'
-- 'Star Trek: The Next Generation (4x16:61T) Galaxy’s Child'
-- 'Star Trek: The Next Generation (4x17:62T) Night Terrors'
-- 'Star Trek: The Next Generation (4x18:62T) Identity Crisis'
-- 'Star Trek: The Next Generation (4x19:62T) The Nth Degree'
-- 'Star Trek: The Next Generation (4x20:62T) Qpid'
-- 'Star Trek: The Next Generation (4x21:63T) The Drumhead'
-- 'Star Trek: The Next Generation (4x22:63T) Half a Life'
-- 'Star Trek: The Next Generation (4x23:63T) The Host'
-- 'Star Trek: The Next Generation (4x24:63T) The Mind’s Eye'
-- 'Star Trek: The Next Generation (4x25:64T) In Theory'
-- 'Star Trek: The Next Generation (4x26:64T) Redemption'
-- 'Star Trek: The Next Generation (5x01:65T) Darmok'
-- 'Star Trek: The Next Generation (5x02:65T) Ensign Ro'
-- 'Star Trek: The Next Generation (5x03:65T) Silicon Avatar'
-- 'Star Trek: The Next Generation (5x04:66T) Disaster'
-- 'Star Trek: The Next Generation (5x05:66T) The Game'
-- 'Star Trek: The Next Generation (5x06:66T) Unification'
-- 'Star Trek: The Next Generation (5x07:67T) A Matter of Time'
-- 'Star Trek: The Next Generation (5x09:67T) New Ground'
-- 'Star Trek: The Next Generation (5x10:67T) Hero Worship'
-- 'Star Trek: The Next Generation (5x11:67T) Violations'
-- 'Star Trek: The Next Generation (5x12:68T) The Masterpiece Society'
-- 'Star Trek: The Next Generation (5x13:68T) Conundrum'
-- 'Star Trek: The Next Generation (5x14:68T) Power Play'
-- 'Star Trek: The Next Generation (5x15:68T) Ethics'
-- 'Star Trek: The Next Generation (5x16:69T) The Outcast'
-- 'Star Trek: The Next Generation (5x17:69T) Cause and Effect'
-- 'Star Trek: The Next Generation (5x18:69T) The First Duty'
-- 'Star Trek: The Next Generation (5x19:69T) Cost of Living'
-- 'Star Trek: The Next Generation (5x20:70T) The Perfect Mate'
-- 'Star Trek: The Next Generation (5x21:70T) Imaginary Friend'
-- 'Star Trek: The Next Generation (5x22:70T) I, Borg'
-- 'Star Trek: The Next Generation (5x23:70T) The Next Phase'
-- 'Star Trek: The Next Generation (5x24:71T) The Inner Light'
-- 'Star Trek: The Next Generation (5x25:71T) Time’s Arrow'
-- 'Star Trek: The Next Generation (6x01:72T) Realm of Fear'
-- 'Star Trek: The Next Generation (6x03:72T) Man of the People'
-- 'Star Trek: The Next Generation (6x04:72T) Relics'
-- 'Star Trek: The Next Generation (6x05:73T) Schisms'
-- 'Star Trek: The Next Generation (6x06:73T) True-Q'
-- 'Star Trek: The Next Generation (6x07:73T) Rascals'
-- 'Star Trek: The Next Generation (6x08:73T) A Fistful of Datas'
-- 'Star Trek: The Next Generation (6x09:74T) The Quality of Life'
-- 'Star Trek: The Next Generation (6x10:74T) Chain of Command'
-- 'Star Trek: The Next Generation (6x12:74T) Ship in a Bottle'
-- 'Star Trek: The Next Generation (6x13:75T) Aquiel'
-- 'Star Trek: The Next Generation (6x14:75T) Face of the Enemy'
-- 'Star Trek: The Next Generation (6x15:75T) Tapestry'
-- 'Star Trek: The Next Generation (6x16:75T) Birthright'
-- 'Star Trek: The Next Generation (6x17:76T) Starship Mine'
-- 'Star Trek: The Next Generation (6x19:76T) Lessons'
-- 'Star Trek: The Next Generation (6x20:76T) The Chase'
-- 'Star Trek: The Next Generation (6x21:77T) Frame of Mind'
-- 'Star Trek: The Next Generation (6x22:77T) Suspicions'
-- 'Star Trek: The Next Generation (6x23:77T) Rightful Heir'
-- 'Star Trek: The Next Generation (6x24:77T) Second Chances'
-- 'Star Trek: The Next Generation (6x25:78T) Timescape'
-- 'Star Trek: The Next Generation (6x26:78T) Descent'
-- 'Star Trek: The Next Generation (7x01:79T) Liaisons'
-- 'Star Trek: The Next Generation (7x03:79T) Interface'
-- 'Star Trek: The Next Generation (7x04:79T) Gambit'
-- 'Star Trek: The Next Generation (7x05:80T) Phantasms'
-- 'Star Trek: The Next Generation (7x07:80T) Dark Page'
-- 'Star Trek: The Next Generation (7x08:80T) Attached'
-- 'Star Trek: The Next Generation (7x09:81T) Force of Nature'
-- 'Star Trek: The Next Generation (7x10:81T) Inheritance'
-- 'Star Trek: The Next Generation (7x11:81T) Parallels'
-- 'Star Trek: The Next Generation (7x12:81T) The Pegasus'
-- 'Star Trek: The Next Generation (7x13:82T) Homeward'
-- 'Star Trek: The Next Generation (7x14:82T) Sub Rosa'
-- 'Star Trek: The Next Generation (7x15:82T) Lower Decks'
-- 'Star Trek: The Next Generation (7x16:82T) Thine Own Self'
-- 'Star Trek: The Next Generation (7x17:83T) Masks'
-- 'Star Trek: The Next Generation (7x18:83T) Eye of the Beholder'
-- 'Star Trek: The Next Generation (7x19:83T) Genesis'
-- 'Star Trek: The Next Generation (7x20:83T) Journey’s End'
-- 'Star Trek: The Next Generation (7x21:84T) Firstborn'
-- 'Star Trek: The Next Generation (7x22:84T) Bloodlines'
-- 'Star Trek: The Next Generation (7x23:84T) Emergence'
-- 'Star Trek: The Next Generation (7x24:84T) Preemptive Strike'
-- 'Star Trek: The Next Generation (7x25:85T) All Good Things?'
-- 'Star Trek: The Next Generation (223T) Generations'
-- 'Star Trek: The Next Generation (225T) First Contact'
-- 'Star Trek: The Next Generation (227T) Insurrection'
-- 'Star Trek: The Next Generation (229T) Nemesis'
-- 'Star Trek: Deep Space Nine (1x01:86T) Emissary'
-- 'Star Trek: Deep Space Nine (1x02:86T) A Man Alone'
-- 'Star Trek: Deep Space Nine (1x03:86T) Past Prologue'
-- 'Star Trek: Deep Space Nine (1x04:87T) Babel'
-- 'Star Trek: Deep Space Nine (1x05:87T) Captive Pursuit'
-- 'Star Trek: Deep Space Nine (1x06:87T) Q-Less'
-- 'Star Trek: Deep Space Nine (1x07:87T) Dax'
-- 'Star Trek: Deep Space Nine (1x08:88T) The Passenger'
-- 'Star Trek: Deep Space Nine (1x09:88T) Move Along Home'
-- 'Star Trek: Deep Space Nine (1x10:88T) The Nagus'
-- 'Star Trek: Deep Space Nine (1x11:88T) Vortex'
-- 'Star Trek: Deep Space Nine (1x12:89T) Battle Lines'
-- 'Star Trek: Deep Space Nine (1x13:89T) The Storyteller'
-- 'Star Trek: Deep Space Nine (1x14:89T) Progress'
-- 'Star Trek: Deep Space Nine (1x15:89T) If Wishes Were Horses'
-- 'Star Trek: Deep Space Nine (1x16:90T) The Forsaken'
-- 'Star Trek: Deep Space Nine (1x17:90T) Dramatis Personae'
-- 'Star Trek: Deep Space Nine (1x18:90T) Duet'
-- 'Star Trek: Deep Space Nine (1x19:90T) In the Hands of the Prophets'
-- 'Star Trek: Deep Space Nine (2x01:92T) The Homecoming'
-- 'Star Trek: Deep Space Nine (2x02:92T) The Circle'
-- 'Star Trek: Deep Space Nine (2x03:92T) The Siege'
-- 'Star Trek: Deep Space Nine (2x04:92T) Invasive Procedures'
-- 'Star Trek: Deep Space Nine (2x05:93T) Cardassians'
-- 'Star Trek: Deep Space Nine (2x06:93T) Melora'
-- 'Star Trek: Deep Space Nine (2x07:93T) Rules of Acquisition'
-- 'Star Trek: Deep Space Nine (2x08:93T) Necessary Evil'
-- 'Star Trek: Deep Space Nine (2x09:94T) Second Sight'
-- 'Star Trek: Deep Space Nine (2x10:94T) Sanctuary'
-- 'Star Trek: Deep Space Nine (2x11:94T) Rivals'
-- 'Star Trek: Deep Space Nine (2x12:94T) The Alternate'
-- 'Star Trek: Deep Space Nine (2x13:95T) Armageddon Game'
-- 'Star Trek: Deep Space Nine (2x14:95T) Whispers'
-- 'Star Trek: Deep Space Nine (2x15:95T) Paradise'
-- 'Star Trek: Deep Space Nine (2x16:95T) Shadowplay'
-- 'Star Trek: Deep Space Nine (2x17:96T) Playing God'
-- 'Star Trek: Deep Space Nine (2x18:96T) Profit and Loss'
-- 'Star Trek: Deep Space Nine (2x19:96T) Blood Oath'
-- 'Star Trek: Deep Space Nine (2x20:96T) The Maquis'
-- 'Star Trek: Deep Space Nine (2x21:97T) The Wire'
-- 'Star Trek: Deep Space Nine (2x23:97T) Crossover'
-- 'Star Trek: Deep Space Nine (2x24:97T) The Collaborator'
-- 'Star Trek: Deep Space Nine (2x25:98T) Tribunal'
-- 'Star Trek: Deep Space Nine (2x26:98T) The Jem’Hadar'
-- 'Star Trek: Deep Space Nine (3x01:99T) The Search'
-- 'Star Trek: Deep Space Nine (3x03:99T) The House of Quark'
-- 'Star Trek: Deep Space Nine (3x04:99T) Equilibrium'
-- 'Star Trek: Deep Space Nine (3x05:100T) Second Skin'
-- 'Star Trek: Deep Space Nine (3x06:100T) The Abandoned'
-- 'Star Trek: Deep Space Nine (3x07:100T) Civil Defense'
-- 'Star Trek: Deep Space Nine (3x08:100T) Meridian'
-- 'Star Trek: Deep Space Nine (3x09:101T) Defiant'
-- 'Star Trek: Deep Space Nine (3x10:101T) Fascination'
-- 'Star Trek: Deep Space Nine (3x11:101T) Past Tense'
-- 'Star Trek: Deep Space Nine (3x12:102T) Life Support'
-- 'Star Trek: Deep Space Nine (3x14:102T) Heart of Stone'
-- 'Star Trek: Deep Space Nine (3x15:102T) Destiny'
-- 'Star Trek: Deep Space Nine (3x16:102T) Prophet Motive'
-- 'Star Trek: Deep Space Nine (3x17:103T) Visionary'
-- 'Star Trek: Deep Space Nine (3x18:103T) Distant Voices'
-- 'Star Trek: Deep Space Nine (3x19:103T) Through the Looking Glass'
-- 'Star Trek: Deep Space Nine (3x20:103T) Improbable Cause'
-- 'Star Trek: Deep Space Nine (3x21:104T) The Die is Cast'
-- 'Star Trek: Deep Space Nine (3x22:104T) Explorers'
-- 'Star Trek: Deep Space Nine (3x23:104T) Family Business'
-- 'Star Trek: Deep Space Nine (3x24:104T) Shakaar'
-- 'Star Trek: Deep Space Nine (3x25:105T) Facets'
-- 'Star Trek: Deep Space Nine (3x26:105T) The Adversary'
-- 'Star Trek: Deep Space Nine (4x01:106T) The Way of the Warrior'
-- 'Star Trek: Deep Space Nine (4x02:106T) The Visitor'
-- 'Star Trek: Deep Space Nine (4x03:106T) Hippocratic Oath'
-- 'Star Trek: Deep Space Nine (4x04:107T) Indiscretion'
-- 'Star Trek: Deep Space Nine (4x05:107T) Rejoined'
-- 'Star Trek: Deep Space Nine (4x06:107T) Little Green Men'
-- 'Star Trek: Deep Space Nine (4x07:107T) Starship Down'
-- 'Star Trek: Deep Space Nine (4x08:108T) The Sword of Kahless'
-- 'Star Trek: Deep Space Nine (4x09:108T) Our Man Bashir'
-- 'Star Trek: Deep Space Nine (4x10:108T) Homefront'
-- 'Star Trek: Deep Space Nine (4x11:108T) Paradise Lost'
-- 'Star Trek: Deep Space Nine (4x12:109T) Crossfire'
-- 'Star Trek: Deep Space Nine (4x13:109T) Return to Grace'
-- 'Star Trek: Deep Space Nine (4x14:109T) Sons of Mogh'
-- 'Star Trek: Deep Space Nine (4x15:109T) Bar Association'
-- 'Star Trek: Deep Space Nine (4x16:110T) Accession'
-- 'Star Trek: Deep Space Nine (4x17:110T) Rules of Engagement'
-- 'Star Trek: Deep Space Nine (4x18:110T) Hard Time'
-- 'Star Trek: Deep Space Nine (4x19:110T) Shattered Mirror'
-- 'Star Trek: Deep Space Nine (4x20:111T) The Muse'
-- 'Star Trek: Deep Space Nine (4x21:111T) For the Cause'
-- 'Star Trek: Deep Space Nine (4x22:111T) To the Death'
-- 'Star Trek: Deep Space Nine (4x23:111T) The Quickening'
-- 'Star Trek: Deep Space Nine (4x24:112T) Body Parts'
-- 'Star Trek: Deep Space Nine (4x25:112T) Broken Link'
-- 'Star Trek: Deep Space Nine (5x01:113T) Apocalypse Rising'
-- 'Star Trek: Deep Space Nine (5x02:113T) The Ship'
-- 'Star Trek: Deep Space Nine (5x03:113T) Looking for par’Mach in All the Wrong Places'
-- 'Star Trek: Deep Space Nine (5x04:113T) Nor the Battle to the Strong'
-- 'Star Trek: Deep Space Nine (5x05:114T) The Assignment'
-- 'Star Trek: Deep Space Nine (5x06:114T) Trials and Tribble-ations'
-- 'Star Trek: Deep Space Nine (5x07:114T) Let He Who Is Without Sin?'
-- 'Star Trek: Deep Space Nine (5x08:114T) Things Past'
-- 'Star Trek: Deep Space Nine (5x09:115T) The Ascent'
-- 'Star Trek: Deep Space Nine (5x10:115T) Rapture'
-- 'Star Trek: Deep Space Nine (5x11:115T) The Darkness and the Light'
-- 'Star Trek: Deep Space Nine (5x12:115T) The Begotten'
-- 'Star Trek: Deep Space Nine (5x13:116T) For the Uniform'
-- 'Star Trek: Deep Space Nine (5x14:116T) In Purgatory’s Shadow'
-- 'Star Trek: Deep Space Nine (5x15:116T) By Inferno’s Light'
-- 'Star Trek: Deep Space Nine (5x16:116T) Doctor Bashir, I Presume?'
-- 'Star Trek: Deep Space Nine (5x17:117T) A Simple Investigation'
-- 'Star Trek: Deep Space Nine (5x18:117T) Business as Usual'
-- 'Star Trek: Deep Space Nine (5x19:117T) Ties of Blood and Water'
-- 'Star Trek: Deep Space Nine (5x20:117T) Ferengi Love Songs'
-- 'Star Trek: Deep Space Nine (5x21:118T) Soldiers of the Empire'
-- 'Star Trek: Deep Space Nine (5x22:118T) Children of Time'
-- 'Star Trek: Deep Space Nine (5x23:118T) Blaze of Glory'
-- 'Star Trek: Deep Space Nine (5x24:118T) Empok Nor'
-- 'Star Trek: Deep Space Nine (5x25:119T) In the Cards'
-- 'Star Trek: Deep Space Nine (5x26:119T) Call to Arms'
-- 'Star Trek: Deep Space Nine (6x01:120T) A Time to Stand'
-- 'Star Trek: Deep Space Nine (6x02:120T) Rocks and Shoals'
-- 'Star Trek: Deep Space Nine (6x03:120T) Sons and Daughters'
-- 'Star Trek: Deep Space Nine (6x04:120T) Behind the Lines'
-- 'Star Trek: Deep Space Nine (6x05:121T) Favor the Bold'
-- 'Star Trek: Deep Space Nine (6x06:121T) Sacrifice of Angels'
-- 'Star Trek: Deep Space Nine (6x07:121T) You Are Cordially Invited'
-- 'Star Trek: Deep Space Nine (6x08:121T) Resurrection'
-- 'Star Trek: Deep Space Nine (6x09:122T) Statistical Probabilities'
-- 'Star Trek: Deep Space Nine (6x10:122T) The Magnificent Ferengi'
-- 'Star Trek: Deep Space Nine (6x11:122T) Waltz'
-- 'Star Trek: Deep Space Nine (6x12:122T) Who Mourns for Morn?'
-- 'Star Trek: Deep Space Nine (6x13:123T) Far Beyond the Stars'
-- 'Star Trek: Deep Space Nine (6x14:123T) One Little Ship'
-- 'Star Trek: Deep Space Nine (6x15:123T) Honor Among Thieves'
-- 'Star Trek: Deep Space Nine (6x16:123T) Change of Heart'
-- 'Star Trek: Deep Space Nine (6x17:124T) Wrongs Darker than Death or Night'
-- 'Star Trek: Deep Space Nine (6x18:124T) Inquisition'
-- 'Star Trek: Deep Space Nine (6x19:124T) In the Pale Moonlight'
-- 'Star Trek: Deep Space Nine (6x20:124T) His Way'
-- 'Star Trek: Deep Space Nine (6x21:125T) The Reckoning'
-- 'Star Trek: Deep Space Nine (6x22:125T) Valiant'
-- 'Star Trek: Deep Space Nine (6x23:125T) Profit and Lace'
-- 'Star Trek: Deep Space Nine (6x24:125T) Time’s Orphan'
-- 'Star Trek: Deep Space Nine (6x25:126T) The Sound of Her Voice'
-- 'Star Trek: Deep Space Nine (6x26:126T) Tears of the Prophets'
-- 'Star Trek: Deep Space Nine (7x01:127T) Image in the Sand'
-- 'Star Trek: Deep Space Nine (7x02:127T) Shadows and Symbols'
-- 'Star Trek: Deep Space Nine (7x03:127T) Afterimage'
-- 'Star Trek: Deep Space Nine (7x04:127T) Take Me Out to the Holosuite'
-- 'Star Trek: Deep Space Nine (7x05:128T) Chrysalis'
-- 'Star Trek: Deep Space Nine (7x06:128T) Treachery, Faith, and the Great River'
-- 'Star Trek: Deep Space Nine (7x07:128T) Once More Unto the Breach'
-- 'Star Trek: Deep Space Nine (7x08:128T) The Siege of AR-558'
-- 'Star Trek: Deep Space Nine (7x09:129T) Covenant'
-- 'Star Trek: Deep Space Nine (7x10:129T) It’s Only a Paper Moon'
-- 'Star Trek: Deep Space Nine (7x11:129T) Prodigal Daughter'
-- 'Star Trek: Deep Space Nine (7x12:129T) The Emperor’s New Cloak'
-- 'Star Trek: Deep Space Nine (7x13:130T) Field of Fire'
-- 'Star Trek: Deep Space Nine (7x14:130T) Chimera'
-- 'Star Trek: Deep Space Nine (7x15:130T) Badda-Bing Badda-Bang'
-- 'Star Trek: Deep Space Nine (7x16:130T) Inter Arma Enim Silent Leges'
-- 'Star Trek: Deep Space Nine (7x17:131T) Penumbra'
-- 'Star Trek: Deep Space Nine (7x18:131T) ?Til Death Do Us Part'
-- 'Star Trek: Deep Space Nine (7x19:131T) Strange Bedfellows'
-- 'Star Trek: Deep Space Nine (7x20:131T) The Changing Face of Evil'
-- 'Star Trek: Deep Space Nine (7x21:132T) When It Rains?'
-- 'Star Trek: Deep Space Nine (7x22:132T) Tacking Into the Wind'
-- 'Star Trek: Deep Space Nine (7x23:132T) Extreme Measures'
-- 'Star Trek: Deep Space Nine (7x24:132T) The Dogs of War'
-- 'Star Trek: Deep Space Nine (7x25:133T) What You Leave Behind'
-- 'Star Trek: Voyager (1x01:134T) Caretaker'
-- 'Star Trek: Voyager (1x02:134T) Parallax'
-- 'Star Trek: Voyager (1x03:134T) Time and Again'
-- 'Star Trek: Voyager (1x04:135T) Phage'
-- 'Star Trek: Voyager (1x05:135T) The Cloud'
-- 'Star Trek: Voyager (1x06:135T) Eye of the Needle'
-- 'Star Trek: Voyager (1x07:135T) Ex Post Facto'
-- 'Star Trek: Voyager (1x08:136T) Emanations'
-- 'Star Trek: Voyager (1x09:136T) Prime Factors'
-- 'Star Trek: Voyager (1x10:136T) State of Flux'
-- 'Star Trek: Voyager (1x11:136T) Heroes and Demons'
-- 'Star Trek: Voyager (1x12:137T) Cathexis'
-- 'Star Trek: Voyager (1x13:137T) Faces'
-- 'Star Trek: Voyager (1x14:137T) Jetrel'
-- 'Star Trek: Voyager (1x15:137T) Learning Curve'
-- 'Star Trek: Voyager (2x01:140T) The 37’s'
-- 'Star Trek: Voyager (2x02:140T) Initiations'
-- 'Star Trek: Voyager (2x03:140T) Projections'
-- 'Star Trek: Voyager (2x04:140T) Elogium'
-- 'Star Trek: Voyager (2x05:141T) Non Sequitur'
-- 'Star Trek: Voyager (2x06:141T) Twisted'
-- 'Star Trek: Voyager (2x07:141T) Parturition'
-- 'Star Trek: Voyager (2x08:141T) Persistence of Vision'
-- 'Star Trek: Voyager (2x09:142T) Tattoo'
-- 'Star Trek: Voyager (2x10:142T) Cold Fire'
-- 'Star Trek: Voyager (2x11:142T) Maneuvers'
-- 'Star Trek: Voyager (2x12:142T) Resistance'
-- 'Star Trek: Voyager (2x13:143T) Prototype'
-- 'Star Trek: Voyager (2x14:143T) Alliances'
-- 'Star Trek: Voyager (2x15:143T) Threshold'
-- 'Star Trek: Voyager (2x16:143T) Meld'
-- 'Star Trek: Voyager (2x17:144T) Dreadnought'
-- 'Star Trek: Voyager (2x18:144T) Death Wish'
-- 'Star Trek: Voyager (2x19:144T) Lifesigns'
-- 'Star Trek: Voyager (2x20:144T) Investigations'
-- 'Star Trek: Voyager (2x21:145T) Deadlock'
-- 'Star Trek: Voyager (2x22:145T) Innocence'
-- 'Star Trek: Voyager (2x23:145T) The Thaw'
-- 'Star Trek: Voyager (2x24:145T) Tuvix'
-- 'Star Trek: Voyager (2x25:146T) Resolutions'
-- 'Star Trek: Voyager (2x26:146T) Basics'
-- 'Star Trek: Voyager (3x02:147T) Flashback'
-- 'Star Trek: Voyager (3x03:147T) The Chute'
-- 'Star Trek: Voyager (3x04:147T) The Swarm'
-- 'Star Trek: Voyager (3x05:148T) False Profits'
-- 'Star Trek: Voyager (3x06:148T) Remember'
-- 'Star Trek: Voyager (3x07:148T) Sacred Ground'
-- 'Star Trek: Voyager (3x08:148T) Future’s End'
-- 'Star Trek: Voyager (3x10:149T) Warlord'
-- 'Star Trek: Voyager (3x11:149T) The Q and the Grey'
-- 'Star Trek: Voyager (3x12:149T) Macrocosm'
-- 'Star Trek: Voyager (3x13:150T) Fair Trade'
-- 'Star Trek: Voyager (3x14:150T) Alter Ego'
-- 'Star Trek: Voyager (3x15:150T) Coda'
-- 'Star Trek: Voyager (3x16:150T) Blood Fever'
-- 'Star Trek: Voyager (3x17:151T) Unity'
-- 'Star Trek: Voyager (3x18:151T) Darkling'
-- 'Star Trek: Voyager (3x19:151T) Rise'
-- 'Star Trek: Voyager (3x20:151T) Favorite Son'
-- 'Star Trek: Voyager (3x21:152T) Before and After'
-- 'Star Trek: Voyager (3x22:152T) Real Life'
-- 'Star Trek: Voyager (3x23:152T) Distant Origin'
-- 'Star Trek: Voyager (3x24:152T) Displaced'
-- 'Star Trek: Voyager (3x25:153T) Worst Case Scenario'
-- 'Star Trek: Voyager (3x26:153T) Scorpion'
-- 'Star Trek: Voyager (4x01:154T) The Gift'
-- 'Star Trek: Voyager (4x03:154T) Day of Honor'
-- 'Star Trek: Voyager (4x04:154T) Nemesis'
-- 'Star Trek: Voyager (4x05:155T) Revulsion'
-- 'Star Trek: Voyager (4x06:155T) The Raven'
-- 'Star Trek: Voyager (4x07:155T) Scientific Method'
-- 'Star Trek: Voyager (4x08:155T) Year of Hell'
-- 'Star Trek: Voyager (4x09:156T) Random Thoughts'
-- 'Star Trek: Voyager (4x11:156T) Concerning Flight'
-- 'Star Trek: Voyager (4x12:156T) Mortal Coil'
-- 'Star Trek: Voyager (4x13:157T) Waking Moments'
-- 'Star Trek: Voyager (4x14:157T) Message in a Bottle'
-- 'Star Trek: Voyager (4x15:157T) Hunters'
-- 'Star Trek: Voyager (4x16:157T) Prey'
-- 'Star Trek: Voyager (4x17:158T) Retrospect'
-- 'Star Trek: Voyager (4x18:158T) The Killing Game'
-- 'Star Trek: Voyager (4x19:158T) Vis ? Vis'
-- 'Star Trek: Voyager (4x21:159T) The Omega Directive'
-- 'Star Trek: Voyager (4x22:159T) Unforgettable'
-- 'Star Trek: Voyager (4x23:159T) Living Witness'
-- 'Star Trek: Voyager (4x24:159T) Demon'
-- 'Star Trek: Voyager (4x25:160T) One'
-- 'Star Trek: Voyager (4x26:160T) Hope and Fear'
-- 'Star Trek: Voyager (5x01:161T) Night'
-- 'Star Trek: Voyager (5x02:161T) Drone'
-- 'Star Trek: Voyager (5x03:161T) Extreme Risk'
-- 'Star Trek: Voyager (5x04:161T) In the Flesh'
-- 'Star Trek: Voyager (5x05:162T) Once Upon a Time'
-- 'Star Trek: Voyager (5x06:162T) Timeless'
-- 'Star Trek: Voyager (5x07:162T) Infinite Regress'
-- 'Star Trek: Voyager (5x08:162T) Nothing Human'
-- 'Star Trek: Voyager (5x09:163T) Thirty Days'
-- 'Star Trek: Voyager (5x10:163T) Counterpoint'
-- 'Star Trek: Voyager (5x11:163T) Latent Image'
-- 'Star Trek: Voyager (5x12:163T) Bride of Chaotica!'
-- 'Star Trek: Voyager (5x13:164T) Gravity'
-- 'Star Trek: Voyager (5x14:164T) Bliss'
-- 'Star Trek: Voyager (5x15:164T) Dark Frontier'
-- 'Star Trek: Voyager (5x16:165T) The Disease'
-- 'Star Trek: Voyager (5x17:165T) Course: Oblivion'
-- 'Star Trek: Voyager (5x18:165T) The Fight'
-- 'Star Trek: Voyager (5x19:165T) Think Tank'
-- 'Star Trek: Voyager (5x20:166T) Juggernaut'
-- 'Star Trek: Voyager (5x21:166T) Someone to Watch Over Me'
-- 'Star Trek: Voyager (5x22:166T) 11:59'
-- 'Star Trek: Voyager (5x23:166T) Relativity'
-- 'Star Trek: Voyager (5x24:167T) Warhead'
-- 'Star Trek: Voyager (5x25:167T) Equinox'
-- 'Star Trek: Voyager (6x01:168T) Survival Instinct'
-- 'Star Trek: Voyager (6x03:168T) Barge of the Dead'
-- 'Star Trek: Voyager (6x04:168T) Tinker Tenor Doctor Spy'
-- 'Star Trek: Voyager (6x05:169T) Alice'
-- 'Star Trek: Voyager (6x06:169T) Riddles'
-- 'Star Trek: Voyager (6x07:169T) Dragon’s Teeth'
-- 'Star Trek: Voyager (6x08:169T) One Small Step'
-- 'Star Trek: Voyager (6x09:170T) The Voyager Conspiracy'
-- 'Star Trek: Voyager (6x10:170T) Pathfinder'
-- 'Star Trek: Voyager (6x11:170T) Fair Haven'
-- 'Star Trek: Voyager (6x12:170T) Blink of an Eye'
-- 'Star Trek: Voyager (6x13:171T) Virtuoso'
-- 'Star Trek: Voyager (6x14:171T) Memorial'
-- 'Star Trek: Voyager (6x15:171T) Tsunkatse'
-- 'Star Trek: Voyager (6x16:171T) Collective'
-- 'Star Trek: Voyager (6x17:172T) Spirit Folk'
-- 'Star Trek: Voyager (6x18:172T) Ashes to Ashes'
-- 'Star Trek: Voyager (6x19:172T) Child’s Play'
-- 'Star Trek: Voyager (6x20:172T) Good Shepherd'
-- 'Star Trek: Voyager (6x21:173T) Live Fast and Prosper'
-- 'Star Trek: Voyager (6x22:173T) Muse'
-- 'Star Trek: Voyager (6x23:173T) Fury'
-- 'Star Trek: Voyager (6x24:173T) Life Line'
-- 'Star Trek: Voyager (6x25:174T) The Haunting of Deck Twelve'
-- 'Star Trek: Voyager (6x26:174T) Unimatrix Zero'
-- 'Star Trek: Voyager (7x02:175T) Imperfection'
-- 'Star Trek: Voyager (7x03:175T) Drive'
-- 'Star Trek: Voyager (7x04:175T) Repression'
-- 'Star Trek: Voyager (7x05:176T) Critical Care'
-- 'Star Trek: Voyager (7x06:176T) Inside Man'
-- 'Star Trek: Voyager (7x07:176T) Body and Soul'
-- 'Star Trek: Voyager (7x08:176T) Nightingale'
-- 'Star Trek: Voyager (7x09:177T) Flesh and Blood'
-- 'Star Trek: Voyager (7x10:177T) Shattered'
-- 'Star Trek: Voyager (7x11:177T) Lineage'
-- 'Star Trek: Voyager (7x12:178T) Repentance'
-- 'Star Trek: Voyager (7x13:178T) Prophecy'
-- 'Star Trek: Voyager (7x14:178T) The Void'
-- 'Star Trek: Voyager (7x15:178T) Workforce'
-- 'Star Trek: Voyager (7x16:179T) Human Error'
-- 'Star Trek: Voyager (7x18:179T) Q2'
-- 'Star Trek: Voyager (7x19:179T) Author, Author'
-- 'Star Trek: Voyager (7x20:180T) Friendship One'
-- 'Star Trek: Voyager (7x21:180T) Natural Law'
-- 'Star Trek: Voyager (7x22:180T) Homestead'
-- 'Star Trek: Voyager (7x23:180T) Renaissance Man'
-- 'Star Trek: Voyager (7x24:181T) Endgame'
-- 'Star Trek: Enterprise (1x01:182T) Broken Bow'
-- 'Star Trek: Enterprise (1x02:182T) Fight or Flight'
-- 'Star Trek: Enterprise (1x03:182T) Strange New World'
-- 'Star Trek: Enterprise (1x04:183T) Unexpected'
-- 'Star Trek: Enterprise (1x05:183T) Terra Nova'
-- 'Star Trek: Enterprise (1x06:183T) The Andorian Incident'
-- 'Star Trek: Enterprise (1x07:183T) Breaking the Ice'
-- 'Star Trek: Enterprise (1x08:184T) Civilization'
-- 'Star Trek: Enterprise (1x09:184T) Fortunate Son'
-- 'Star Trek: Enterprise (1x10:184T) Cold Front'
-- 'Star Trek: Enterprise (1x11:184T) Silent Enemy'
-- 'Star Trek: Enterprise (1x12:185T) Dear Doctor'
-- 'Star Trek: Enterprise (1x13:185T) Sleeping Dogs'
-- 'Star Trek: Enterprise (1x14:185T) Shadows of P’Jem'
-- 'Star Trek: Enterprise (1x15:185T) Shuttlepod One'
-- 'Star Trek: Enterprise (1x16:186T) Fusion'
-- 'Star Trek: Enterprise (1x17:186T) Rogue Planet'
-- 'Star Trek: Enterprise (1x18:186T) Acquisition'
-- 'Star Trek: Enterprise (1x19:186T) Oasis'
-- 'Star Trek: Enterprise (1x20:187T) Detained'
-- 'Star Trek: Enterprise (1x21:187T) Vox Sola'
-- 'Star Trek: Enterprise (1x22:187T) Fallen Hero'
-- 'Star Trek: Enterprise (1x23:187T) Desert Crossing'
-- 'Star Trek: Enterprise (1x24:188T) Two Days and Two Nights'
-- 'Star Trek: Enterprise (1x25:188T) Shockwave'
-- 'Star Trek: Enterprise (2x02:189T) Carbon Creek'
-- 'Star Trek: Enterprise (2x03:189T) Minefield'
-- 'Star Trek: Enterprise (2x04:189T) Dead Stop'
-- 'Star Trek: Enterprise (2x05:190T) A Night in Sickbay'
-- 'Star Trek: Enterprise (2x06:190T) Marauders'
-- 'Star Trek: Enterprise (2x07:190T) The Seventh'
-- 'Star Trek: Enterprise (2x08:190T) The Communicator'
-- 'Star Trek: Enterprise (2x09:191T) Singularity'
-- 'Star Trek: Enterprise (2x10:191T) Vanishing Point'
-- 'Star Trek: Enterprise (2x11:191T) Precious Cargo'
-- 'Star Trek: Enterprise (2x12:191T) The Catwalk'
-- 'Star Trek: Enterprise (2x13:192T) Dawn'
-- 'Star Trek: Enterprise (2x14:192T) Stigma'
-- 'Star Trek: Enterprise (2x15:192T) Cease Fire'
-- 'Star Trek: Enterprise (2x16:192T) Future Tense'
-- 'Star Trek: Enterprise (2x17:193T) Canamar'
-- 'Star Trek: Enterprise (2x18:193T) The Crossing'
-- 'Star Trek: Enterprise (2x19:193T) Judgment'
-- 'Star Trek: Enterprise (2x20:193T) Horizon'
-- 'Star Trek: Enterprise (2x21:194T) The Breach'
-- 'Star Trek: Enterprise (2x22:194T) Cogenitor'
-- 'Star Trek: Enterprise (2x23:194T) Regeneration'
-- 'Star Trek: Enterprise (2x24:194T) First Flight'
-- 'Star Trek: Enterprise (2x25:194T) Bounty'
-- 'Star Trek: Enterprise (2x26:195T) The Expanse'
-- 'Star Trek: Enterprise (3x01:196T) The Xindi'
-- 'Star Trek: Enterprise (3x02:196T) Anomaly'
-- 'Star Trek: Enterprise (3x03:196T) Extinction'
-- 'Star Trek: Enterprise (3x04:196T) Rajiin'
-- 'Star Trek: Enterprise (3x05:197T) Impulse'
-- 'Star Trek: Enterprise (3x06:197T) Exile'
-- 'Star Trek: Enterprise (3x07:197T) The Shipment'
-- 'Star Trek: Enterprise (3x08:197T) Twilight'
-- 'Star Trek: Enterprise (3x09:198T) North Star'
-- 'Star Trek: Enterprise (3x10:198T) Similitude'
-- 'Star Trek: Enterprise (3x11:198T) Carpenter Street'
-- 'Star Trek: Enterprise (3x12:198T) Chosen Realm'
-- 'Star Trek: Enterprise (3x13:199T) Proving Ground'
-- 'Star Trek: Enterprise (3x14:199T) Stratagem'
-- 'Star Trek: Enterprise (3x15:199T) Harbinger'
-- 'Star Trek: Enterprise (3x16:199T) Doctor’s Orders'
-- 'Star Trek: Enterprise (3x17:200T) Hatchery'
-- 'Star Trek: Enterprise (3x18:200T) Azati Prime'
-- 'Star Trek: Enterprise (3x19:200T) Damage'
-- 'Star Trek: Enterprise (3x20:200T) The Forgotten'
-- 'Star Trek: Enterprise (3x21:201T) E?'
-- 'Star Trek: Enterprise (3x22:201T) The Council'
-- 'Star Trek: Enterprise (3x23:201T) Countdown'
-- 'Star Trek: Enterprise (3x24:201T) Zero Hour'
-- 'Star Trek: Enterprise (4x01:203T) Storm Front'
-- 'Star Trek: Enterprise (4x02:203T) Home'
-- 'Star Trek: Enterprise (4x04:203T) Borderland'
-- 'Star Trek: Enterprise (4x05:204T) Cold Station 12'
-- 'Star Trek: Enterprise (4x06:204T) The Augments'
-- 'Star Trek: Enterprise (4x07:204T) The Forge'
-- 'Star Trek: Enterprise (4x08:204T) Awakening'
-- 'Star Trek: Enterprise (4x09:205T) Kir’Shara'
-- 'Star Trek: Enterprise (4x10:205T) Daedalus'
-- 'Star Trek: Enterprise (4x11:205T) Observer Effect'
-- 'Star Trek: Enterprise (4x12:205T) Babel One'
-- 'Star Trek: Enterprise (4x13:206T) United'
-- 'Star Trek: Enterprise (4x14:206T) The Aenar'
-- 'Star Trek: Enterprise (4x15:206T) Affliction'
-- 'Star Trek: Enterprise (4x16:206T) Divergence'
-- 'Star Trek: Enterprise (4x17:207T) Bound'
-- 'Star Trek: Enterprise (4x18:207T) In a Mirror, Darkly'
-- 'Star Trek: Enterprise (4x19:207T) Demons'
-- 'Star Trek: Enterprise (4x21:208T) Terra Prime'
-- 'Star Trek: Enterprise (4x21:208T) These Are the Voyages?'
-- 'Stargate: SG-1 (1x01:1P) Children of the Gods'
-- 'Stargate: SG-1 (1x02:1P) The Enemy Within'
-- 'Stargate: SG-1 (1x03:1P) Emancipation'
-- 'Stargate: SG-1 (1x04:2P) The Broca Divide'
-- 'Stargate: SG-1 (1x05:2P) The First Commandment'
-- 'Stargate: SG-1 (1x06:2P) Cold Lazarus'
-- 'Stargate: SG-1 (1x07:2P) The Nox'
-- 'Stargate: SG-1 (1x08:2P) Brief Candle'
-- 'Stargate: SG-1 (1x09:3P) Thor’s Hammer'
-- 'Stargate: SG-1 (1x10:3P) The Torment of Tantalus'
-- 'Stargate: SG-1 (1x11:3P) Bloodlines'
-- 'Stargate: SG-1 (1x12:3P) Fire and Water'
-- 'Stargate: SG-1 (1x13:3P) Hathor'
-- 'Stargate: SG-1 (1x14:4P) Singularity'
-- 'Stargate: SG-1 (1x15:4P) Cor-Ai'
-- 'Stargate: SG-1 (1x16:4P) Enigma'
-- 'Stargate: SG-1 (1x17:4P) Solitudes'
-- 'Stargate: SG-1 (1x18:5P) Tin Man'
-- 'Stargate: SG-1 (1x19:5P) There But For the Grace of God'
-- 'Stargate: SG-1 (1x20:5P) Politics'
-- 'Stargate: SG-1 (1x21:5P) Within the Serpent’s Grasp'
-- 'Stargate: SG-1 (2x01:1P) The Serpent’s Lair'
-- 'Stargate: SG-1 (2x02:1P) In the Line of Duty'
-- 'Stargate: SG-1 (2x03:1P) Prisoners'
-- 'Stargate: SG-1 (2x04:1P) The Gamekeeper'
-- 'Stargate: SG-1 (2x05:2P) Need'
-- 'Stargate: SG-1 (2x06:2P) Thor’s Chariot'
-- 'Stargate: SG-1 (2x07:2P) Message in a Bottle'
-- 'Stargate: SG-1 (2x08:2P) Family'
-- 'Stargate: SG-1 (2x09:3P) Secrets'
-- 'Stargate: SG-1 (2x10:3P) Bane'
-- 'Stargate: SG-1 (2x11:3P) The Tok’ra'
-- 'Stargate: SG-1 (2x12:3P) Spirits'
-- 'Stargate: SG-1 (2x14:4P) Touchstone'
-- 'Stargate: SG-1 (2x15:4P) A Matter of Time'
-- 'Stargate: SG-1 (2x16:4P) The Fifth Race'
-- 'Stargate: SG-1 (2x17:5P) Serpent’s Song'
-- 'Stargate: SG-1 (2x18:5P) Holiday'
-- 'Stargate: SG-1 (2x19:5P) One False Step'
-- 'Stargate: SG-1 (2x20:5P) Show and Tell'
-- 'Stargate: SG-1 (2x21:6P) 1969'
-- 'Stargate: SG-1 (2x22:6P) Out of Mind'
-- 'Stargate: SG-1 (3x01:1P) Into the Fire'
-- 'Stargate: SG-1 (3x02:1P) Seth'
-- 'Stargate: SG-1 (3x03:1P) Fair Game'
-- 'Stargate: SG-1 (3x04:1P) Legacy'
-- 'Stargate: SG-1 (3x05:2P) Learning Curve'
-- 'Stargate: SG-1 (3x06:2P) Point of View'
-- 'Stargate: SG-1 (3x07:2P) Deadman Switch'
-- 'Stargate: SG-1 (3x08:2P) Demons'
-- 'Stargate: SG-1 (3x09:3P) Rules of Engagement'
-- 'Stargate: SG-1 (3x10:3P) Forever in a Day'
-- 'Stargate: SG-1 (3x11:3P) Past and Present'
-- 'Stargate: SG-1 (3x12:3P) Jolinar’s Memories'
-- 'Stargate: SG-1 (3x13:4P) The Devil You Know'
-- 'Stargate: SG-1 (3x14:4P) Foothold'
-- 'Stargate: SG-1 (3x15:4P) Pretense'
-- 'Stargate: SG-1 (3x16:4P) Urgo'
-- 'Stargate: SG-1 (3x17:5P) A Hundred Days'
-- 'Stargate: SG-1 (3x18:5P) Shades of Grey'
-- 'Stargate: SG-1 (3x19:5P) New Ground'
-- 'Stargate: SG-1 (3x20:5P) Maternal Instinct'
-- 'Stargate: SG-1 (3x21:6P) Crystal Skull'
-- 'Stargate: SG-1 (3x22:6P) Nemesis'
-- 'Stargate: SG-1 (4x01:1P) Small Victories'
-- 'Stargate: SG-1 (4x02:1P) The Other Side'
-- 'Stargate: SG-1 (4x03:1P) Upgrades'
-- 'Stargate: SG-1 (4x04:1P) Crossroads'
-- 'Stargate: SG-1 (4x05:2P) Divide and Conquer'
-- 'Stargate: SG-1 (4x06:2P) Window of Opportunity'
-- 'Stargate: SG-1 (4x07:2P) Watergate'
-- 'Stargate: SG-1 (4x08:2P) The First Ones'
-- 'Stargate: SG-1 (4x09:3P) Scorched Earth'
-- 'Stargate: SG-1 (4x10:3P) Beneath the Surface'
-- 'Stargate: SG-1 (4x11:3P) Point of No Return'
-- 'Stargate: SG-1 (4x12:3P) Tangent'
-- 'Stargate: SG-1 (4x13:4P) The Curse'
-- 'Stargate: SG-1 (4x14:4P) The Serpent’s Venom'
-- 'Stargate: SG-1 (4x15:4P) Chain Reaction'
-- 'Stargate: SG-1 (4x16:4P) 2010'
-- 'Stargate: SG-1 (4x17:5P) Absolute Power'
-- 'Stargate: SG-1 (4x18:5P) The Light'
-- 'Stargate: SG-1 (4x19:5P) Prodigy'
-- 'Stargate: SG-1 (4x20:5P) Entity'
-- 'Stargate: SG-1 (4x21:6P) Double Jeopardy'
-- 'Stargate: SG-1 (4x22:6P) Exodus'
-- 'Stargate: SG-1 (5x01:1P) Enemies'
-- 'Stargate: SG-1 (5x02:1P) Threshold'
-- 'Stargate: SG-1 (5x03:1P) Ascension'
-- 'Stargate: SG-1 (5x04:1P) The Fifth Man'
-- 'Stargate: SG-1 (5x05:2P) Red Sky'
-- 'Stargate: SG-1 (5x06:2P) Rite of Passage'
-- 'Stargate: SG-1 (5x07:2P) Beast of Burden'
-- 'Stargate: SG-1 (5x08:2P) The Tomb'
-- 'Stargate: SG-1 (5x09:3P) Between Two Fires'
-- 'Stargate: SG-1 (5x10:3P) 2001'
-- 'Stargate: SG-1 (5x11:3P) Desperate Measures'
-- 'Stargate: SG-1 (5x12:3P) Wormhole X-Treme!'
-- 'Stargate: SG-1 (5x13:4P) Proving Ground'
-- 'Stargate: SG-1 (5x14:4P) 48 Hours'
-- 'Stargate: SG-1 (5x15:4P) Summit'
-- 'Stargate: SG-1 (5x16:4P) Last Stand'
-- 'Stargate: SG-1 (5x17:5P) Fail Safe'
-- 'Stargate: SG-1 (5x18:5P) The Warrior'
-- 'Stargate: SG-1 (5x19:5P) Menace'
-- 'Stargate: SG-1 (5x20:5P) The Sentinel'
-- 'Stargate: SG-1 (5x21:6P) Meridian'
-- 'Stargate: SG-1 (5x22:6P) Revelations'
-- 'Stargate: SG-1 (6x01:1P) Redemption'
-- 'Stargate: SG-1 (6x02:1P) Descent'
-- 'Stargate: SG-1 (6x04:1P) Frozen'
-- 'Stargate: SG-1 (6x05:2P) Nightwalkers'
-- 'Stargate: SG-1 (6x06:2P) Abyss'
-- 'Stargate: SG-1 (6x07:2P) Shadow Play'
-- 'Stargate: SG-1 (6x08:2P) The Other Guys'
-- 'Stargate: SG-1 (6x09:3P) Allegiance'
-- 'Stargate: SG-1 (6x10:3P) Cure'
-- 'Stargate: SG-1 (6x11:3P) Prometheus'
-- 'Stargate: SG-1 (6x12:3P) Unnatural Selection'
-- 'Stargate: SG-1 (6x13:4P) Sight Unseen'
-- 'Stargate: SG-1 (6x14:4P) Smoke and Mirrors'
-- 'Stargate: SG-1 (6x15:4P) Paradise Lost'
-- 'Stargate: SG-1 (6x16:4P) Metamorphosis'
-- 'Stargate: SG-1 (6x17:5P) Disclosure'
-- 'Stargate: SG-1 (6x18:5P) Forsaken'
-- 'Stargate: SG-1 (6x19:5P) The Changeling'
-- 'Stargate: SG-1 (6x20:5P) Memento'
-- 'Stargate: SG-1 (6x21:6P) Prophecy'
-- 'Stargate: SG-1 (6x22:6P) Full Circle'
-- 'Stargate: SG-1 (7x01:1P) Fallen'
-- 'Stargate: SG-1 (7x02:1P) Homecoming'
-- 'Stargate: SG-1 (7x03:1P) Fragile Balance'
-- 'Stargate: SG-1 (7x04:1P) Orpheus'
-- 'Stargate: SG-1 (7x05:2P) Revisions'
-- 'Stargate: SG-1 (7x06:2P) Lifeboat'
-- 'Stargate: SG-1 (7x07:2P) Enemy Mine'
-- 'Stargate: SG-1 (7x08:2P) Space Race'
-- 'Stargate: SG-1 (7x09:3P) Avenger 2.0'
-- 'Stargate: SG-1 (7x10:3P) Birthright'
-- 'Stargate: SG-1 (7x11:3P) Evolution'
-- 'Stargate: SG-1 (7x12:4P) Grace'
-- 'Stargate: SG-1 (7x14:4P) Fallout'
-- 'Stargate: SG-1 (7x15:4P) Chimera'
-- 'Stargate: SG-1 (7x16:4P) Death Knell'
-- 'Stargate: SG-1 (7x17:5.1P) Heroes'
-- 'Stargate: SG-1 (7x18:5.1P) Resurrection'
-- 'Stargate: SG-1 (7x20:5.1P) Inauguration'
-- 'Stargate: SG-1 (7x21:5.2P) Lost City'
-- 'Stargate: SG-1 (8x01:1P) New Order'
-- 'Stargate: SG-1 (8x02:1P) Lockdown'
-- 'Stargate: SG-1 (8x03:1P) Zero Hour'
-- 'Stargate: SG-1 (8x04:2P) Icon'
-- 'Stargate: SG-1 (8x05:2P) Avatar'
-- 'Stargate: SG-1 (8x06:2P) Affinity'
-- 'Stargate: SG-1 (8x07:2P) Covenant'
-- 'Stargate: SG-1 (8x08:3P) Sacrifices'
-- 'Stargate: SG-1 (8x09:3P) Endgame'
-- 'Stargate: SG-1 (8x10:3P) Prometheus Unbound'
-- 'Stargate: SG-1 (8x11:4P) Gemini'
-- 'Stargate: SG-1 (8x12:4P) It’s Good to be King'
-- 'Stargate: SG-1 (8x13:4P) Full Alert'
-- 'Stargate: SG-1 (8x14:5P) Reckoning'
-- 'Stargate: SG-1 (8x16:5P) Threads'
-- 'Stargate: SG-1 (8x17:6P) Citizen Joe'
-- 'Stargate: SG-1 (8x18:6P) Moebius'
-- 'Stargate: SG-1 (9x01:1P) Avalon'
-- 'Stargate: SG-1 (9x02:1P) Origin'
-- 'Stargate: SG-1 (9x04:1P) The Ties That Bind'
-- 'Stargate: SG-1 (9x05:2P) The Powers That Be'
-- 'Stargate: SG-1 (9x06:2P) Beachhead'
-- 'Stargate: SG-1 (9x07:2P) Ex Deus Machina'
-- 'Stargate: SG-1 (9x08:2P) Babylon'
-- 'Stargate: SG-1 (9x09:3P) Prototype'
-- 'Stargate: SG-1 (9x10:3P) The Fourth Horseman'
-- 'Stargate: SG-1 (9x12:4P) Collateral Damage'
-- 'Stargate: SG-1 (9x13:4P) Ripple Effect'
-- 'Stargate: SG-1 (9x14:4P) Stronghold'
-- 'Stargate: SG-1 (9x15:5P) Ethon'
-- 'Stargate: SG-1 (9x16:5P) Off the Grid'
-- 'Stargate: SG-1 (9x17:5P) The Scourge'
-- 'Stargate: SG-1 (9x18:6P) Arthur’s Mantle'
-- 'Stargate: SG-1 (9x19:6P) Crusade'
-- 'Stargate: SG-1 (9x20:6P) Camelot'
-- 'Stargate: SG-1 (10x01:50P) Flesh and Blood'
-- 'Stargate: SG-1 (10x02:50P) Morpheus'
-- 'Stargate: SG-1 (10x03:50P) The Pegasus Project'
-- 'Stargate: SG-1 (10x04:50P) Insiders'
-- 'Stargate: SG-1 (10x05:51P) Uninvited'
-- 'Stargate: SG-1 (10x06:51P) 200'
-- 'Stargate: SG-1 (10x07:51P) Counterstrike'
-- 'Stargate: SG-1 (10x08:51P) Memento Mori'
-- 'Stargate: SG-1 (10x09:52P) Company of Thieves'
-- 'Stargate: SG-1 (10x10:52P) The Quest'
-- 'Stargate: SG-1 (10x11:52P) Line in the Sand'
-- 'Stargate: SG-1 (10x12:53P) The Road Not Taken'
-- 'Stargate: SG-1 (10x13:53P) The Shroud'
-- 'Stargate: SG-1 (10x14:53P) Bounty'
-- 'Stargate: SG-1 (10x15:53P) Bad Guys'
-- 'Stargate: SG-1 (10x16:54P) Talion'
-- 'Stargate: SG-1 (10x17:54P) Family Ties'
-- 'Stargate: SG-1 (10x18:54P) Dominion'
-- 'Stargate: SG-1 (10x19:54P) Unending'
-- 'Stargate: SG-1 (P) The Ark of Truth'
-- 'Stargate: SG-1 (P) Continuum'
-- 'Stargate: Atlantis (1x01:1P) Rising'
-- 'Stargate: Atlantis (1x02:1P) Hide and Seek'
-- 'Stargate: Atlantis (1x03:1P) Thirty Eight Minutes'
-- 'Stargate: Atlantis (1x04:2P) Suspicion'
-- 'Stargate: Atlantis (1x05:2P) Childhood’s End'
-- 'Stargate: Atlantis (1x06:2P) Poisoning the Well'
-- 'Stargate: Atlantis (1x07:3P) Underground'
-- 'Stargate: Atlantis (1x08:2P) Home'
-- 'Stargate: Atlantis (1x09:3P) The Storm'
-- 'Stargate: Atlantis (1x10:3P) The Eye'
-- 'Stargate: Atlantis (1x11:3P) The Defiant One'
-- 'Stargate: Atlantis (1x12:4P) Hot Zone'
-- 'Stargate: Atlantis (1x13:4P) Sanctuary'
-- 'Stargate: Atlantis (1x14:4P) Before I Sleep'
-- 'Stargate: Atlantis (1x15:4P) The Brotherhood'
-- 'Stargate: Atlantis (1x16:5P) Letters from Pegasus'
-- 'Stargate: Atlantis (1x17:5P) The Gift'
-- 'Stargate: Atlantis (1x18:5P) The Siege'
-- 'Stargate: Atlantis (2x01:1P) The Intruder'
-- 'Stargate: Atlantis (2x03:1P) Runner'
-- 'Stargate: Atlantis (2x04:1P) Duet'
-- 'Stargate: Atlantis (2x05:2P) Condemned'
-- 'Stargate: Atlantis (2x06:2P) Trinity'
-- 'Stargate: Atlantis (2x07:2P) Instinct'
-- 'Stargate: Atlantis (2x08:2P) Conversion'
-- 'Stargate: Atlantis (2x09:3P) Aurora'
-- 'Stargate: Atlantis (2x10:3P) The Lost Boys'
-- 'Stargate: Atlantis (2x11:3P) The Hive'
-- 'Stargate: Atlantis (2x12:3P) Epiphany'
-- 'Stargate: Atlantis (2x13:4P) Critical Mass'
-- 'Stargate: Atlantis (2x14:4P) Grace Under Pressure'
-- 'Stargate: Atlantis (2x15:4P) The Tower'
-- 'Stargate: Atlantis (2x16:4P) The Long Goodbye'
-- 'Stargate: Atlantis (2x17:5P) Coup D’Etat'
-- 'Stargate: Atlantis (2x18:5P) Michael'
-- 'Stargate: Atlantis (2x19:5P) Inferno'
-- 'Stargate: Atlantis (2x20:5P) Allies'
-- 'Stargate: Atlantis (3x01:1P) No Man’s Land'
-- 'Stargate: Atlantis (3x02:1P) Misbegotten'
-- 'Stargate: Atlantis (3x03:1P) Irresistible'
-- 'Stargate: Atlantis (3x04:1P) Sateda'
-- 'Stargate: Atlantis (3x05:2P) Progeny'
-- 'Stargate: Atlantis (3x06:2P) The Real World'
-- 'Stargate: Atlantis (3x07:2P) Common Ground'
-- 'Stargate: Atlantis (3x08:2P) McKay and Mrs Miller'
-- 'Stargate: Atlantis (3x09:3P) Phantoms'
-- 'Stargate: Atlantis (3x10:3P) The Return'
-- 'Stargate: Atlantis (3x11:3P) Echoes'
-- 'Stargate: Atlantis (3x13:4P) Irresponsible'
-- 'Stargate: Atlantis (3x14:4P) Tao of Rodney'
-- 'Stargate: Atlantis (3x15:4P) The Game'
-- 'Stargate: Atlantis (3x16:4P) The Ark'
-- 'Stargate: Atlantis (3x17:5P) Sunday'
-- 'Stargate: Atlantis (3x18:5P) Submersion'
-- 'Stargate: Atlantis (3x19:5P) Vengeance'
-- 'Stargate: Atlantis (3x20:5P) First Strike'
-- 'Stargate: Atlantis (4x01:1P) Adrift'
-- 'Stargate: Atlantis (4x02:1P) Lifeline'
-- 'Stargate: Atlantis (4x03:1P) Reunion'
-- 'Stargate: Atlantis (4x04:1P) Doppelg?nger'
-- 'Stargate: Atlantis (4x05:2P) Travelers'
-- 'Stargate: Atlantis (4x06:2P) Tabula Rasa'
-- 'Stargate: Atlantis (4x07:2P) Missing'
-- 'Stargate: Atlantis (4x08:2P) The Seer'
-- 'Stargate: Atlantis (4x09:3P) Miller’s Crossing'
-- 'Stargate: Atlantis (4x10:3P) This Mortal Coil'
-- 'Stargate: Atlantis (4x11:3P) Be All My Sins Remember’d'
-- 'Stargate: Atlantis (4x12:3P) Spoils of War'
-- 'Stargate: Atlantis (4x13:4P) Quarantine'
-- 'Stargate: Atlantis (4x14:4P) Harmony'
-- 'Stargate: Atlantis (4x15:4P) Outcast'
-- 'Stargate: Atlantis (4x16:4P) Trio'
-- 'Stargate: Atlantis (4x17:5P) Midway'
-- 'Stargate: Atlantis (4x18:5P) The Kindred'
-- 'Stargate: Atlantis (4x20:5P) The Last Man'
-- 'Stargate: Atlantis (5x01:1P) Search and Rescue'
-- 'Stargate: Atlantis (5x02:1P) The Seed'
-- 'Stargate: Atlantis (5x03:1P) Broken Ties'
-- 'Stargate: Atlantis (5x04:1P) The Daedalus Variations'
-- 'Stargate: Atlantis (5x05:2P) Ghost in the Machine'
-- 'Stargate: Atlantis (5x06:2P) The Shrine'
-- 'Stargate: Atlantis (5x07:2P) Whispers'
-- 'Stargate: Atlantis (5x08:2P) The Queen'
-- 'Stargate: Atlantis (5x09:3P) Tracker'
-- 'Stargate: Atlantis (5x10:3P) First Contact'
-- 'Stargate: Atlantis (5x11:3P) The Lost Tribe'
-- 'Stargate: Atlantis (5x12:3P) Outsiders'
-- 'Stargate: Atlantis (5x13:4P) Inquisition'
-- 'Stargate: Atlantis (5x14:4P) The Prodigal'
-- 'Stargate: Atlantis (5x15:4P) Remnants'
-- 'Stargate: Atlantis (5x16:4P) Brain Storm'
-- 'Stargate: Atlantis (5x17:5P) Infection'
-- 'Stargate: Atlantis (5x18:5P) Identity'
-- 'Stargate: Atlantis (5x19:5P) Vegas'
-- 'Stargate: Atlantis (5x20:5P) Enemy at the Gate'
-- 'Stargate: Universe (1x01:B) Air'
-- 'Stargate: Universe (1x04:B) Darkness'
-- 'Stargate: Universe (1x05:B) Light'
-- 'Stargate: Universe (1x06:B) Water'
-- 'Stargate: Universe (1x07:B) Earth'
-- 'Stargate: Universe (1x08:B) Time'
-- 'Stargate: Universe (1x09:B) Life'
-- 'Stargate: Universe (1x10:B) Justice'
-- 'Stargate: Universe (1x11:B) Space'
-- 'Stargate: Universe (1x12:B) Divided'
-- 'Stargate: Universe (1x13:B) Faith'
-- 'Stargate: Universe (1x14:B) Human'
-- 'Stargate: Universe (1x15:B) Lost'
-- 'Stargate: Universe (1x16:B) Sabotage'
-- 'Stargate: Universe (1x17:B) Pain'
-- 'Stargate: Universe (1x18:B) Subversion'
-- 'Stargate: Universe (1x19:B) Incursion'
-- 'Stargate: Universe (2x01:B) Intervention'
-- 'Stargate: Universe (2x02:B) Aftermath'
-- 'Stargate: Universe (2x03:B) Awakenings'
-- 'Stargate: Universe (2x04:B) Pathogen'
-- 'Stargate: Universe (2x05:B) Cloverdale'
-- 'Stargate: Universe (2x06:B) Trial and Error'
-- 'Stargate: Universe (2x07:B) The Greater Good'
-- 'Stargate: Universe (2x08:B) Malice'
-- 'Stargate: Universe (2x09:B) Visitation'
-- 'Stargate: Universe (2x10:B) Resurgence'
-- 'Stargate: Universe (2x11:B) Deliverance'
-- 'Stargate: Universe (2x12:B) Twin Destinies'
-- 'Stargate: Universe (2x13:B) Alliances'
-- 'Stargate: Universe (2x14:B) Hope'
-- 'Stargate: Universe (2x15:B) Seizure'
-- 'Stargate: Universe (2x16:B) The Hunt'
-- 'Stargate: Universe (2x17:B) Common Descent'
-- 'Stargate: Universe (2x18:B) Epilogue'
-- 'Stargate: Universe (2x19:B) Blockade'
-- 'Stargate: Universe (2x20:B) Gauntlet'
-- The Thin Blue Line (1x01) The Queen’s Birthday Present
-- The Thin Blue Line (1x02) Fire and Terror
-- The Thin Blue Line (1x03) Honey Trap
-- The Thin Blue Line (1x04) Rag Week
-- The Thin Blue Line (1x05) Night Shift
-- The Thin Blue Line (1x06) Kids Today
-- The Thin Blue Line (1x07) Yuletide Spirit
-- The Thin Blue Line (2x01) Court in the Act
-- The Thin Blue Line (2x02) Ism Ism Ism
-- The Thin Blue Line (2x03) Fly on the Wall
-- The Thin Blue Line (2x04) Alternative Culture
-- The Thin Blue Line (2x05) Come on You Blues
-- The Thin Blue Line (2x06) Road Rage
-- The Thin Blue Line (2x07) The Green Eyed Monster
-- Time Manipulation (113F) Back to the Future
-- 'Time Manipulation: Back to the Future (114F) Back to the Future Part II'
-- 'Time Manipulation: Back to the Future (115F) Back to the Future, Part III'
-- Time Manipulation (35F) Time After Time
-- Time Manipulation (46F) Timecop
-- 'Time Manipulation: Bill and Ted (53F) Bill & Ted’s Excellent Adventure'
-- 'Time Manipulation: Bill and Ted (54F) Bill & Ted’s Bogus Journey'
-- Time Manipulation (92F) Groundhog Day
-- Time Manipulation (133F) Click
-- Time Manipulation (63F) The Time Traveller’s Wife
-- Time Manipulation (27F) The Boy and the Pirates
-- Time Trax (1x01:1B) A Stranger In Time
-- Time Trax (1x03:1B) To Kill a Billionaire
-- Time Trax (1x04:1B) Fire and Ice
-- Time Trax (1x05:2B) Showdown
-- Time Trax (1x06:2B) The Prodigy
-- Time Trax (1x07:2B) Death Takes a Holiday
-- Time Trax (1x08:2B) The Contender
-- Time Trax (1x09:3B) Night of the Savage
-- Time Trax (1x10:3B) Treasure of the Ages
-- Time Trax (1x11:3B) The Price of Honor
-- Time Trax (1x12:3B) Face of Death
-- Time Trax (1x13:4B) Revenge
-- Time Trax (1x14:4B) Darien Comes Home
-- Time Trax (1x15:4B) Two Beans in a Wheel
-- Time Trax (1x16:4B) Little Boy Lost
-- Time Trax (1x17:5B) The Mysterious Stranger
-- Time Trax (1x18:5B) Framed
-- Time Trax (1x19:5B) Beautiful Songbird
-- Time Trax (1x20:5B) Photo Finish
-- Time Trax (1x21:6B) Darrow for the Defense
-- Time Trax (1x22:6B) One on One
-- Time Trax (2x01:2B) Return of the Yakuza
-- Time Trax (2x02:2B) Missing
-- Time Trax (2x03:2B) To Live and Die in Docker Flats
-- Time Trax (2x04:2B) A Close Encounter
-- Time Trax (2x05:2B) The Gravity of It All
-- Time Trax (2x06:2B) Happy Valley
-- Time Trax (2x07:2B) Lethal Weapons
-- Time Trax (2x08:2B) The Cure
-- Time Trax (2x09:2B) Perfect Pair
-- Time Trax (2x10:2B) Catch Me If You Can
-- Time Trax (2x11:2B) The Dream Team
-- Time Trax (2x12:2B) Almost Human
-- Time Trax (2x13:2B) Mother
-- Time Trax (2x14:2B) The Last M.I.A.
-- Time Trax (2x15:2B) Split Image
-- Time Trax (2x16:2B) Cool Hand Darien
-- Time Trax (2x17:2B) The Lottery
-- Time Trax (2x18:2B) Out For Blood
-- Time Trax (2x19:2B) The Scarlet Koala
-- Time Trax (2x20:2B) Optic Nerve
-- Time Trax (2x21:2B) The Crash
-- Time Trax (2x22:2B) Forgotten Tomorrows
-- Tru Calling (1x01:A)
-- Tru Calling (1x02:A) Putting Out Fires
-- Tru Calling (1x03:A) Brother’s Keeper
-- Tru Calling (1x04:A) Past Tense
-- Tru Calling (1x05:A) Haunted
-- Tru Calling (1x06:A) Star Crossed
-- Tru Calling (1x07:A) Morning After
-- Tru Calling (1x08:A) Closure
-- Tru Calling (1x09:A) Murder in the Morgue
-- Tru Calling (1x10:A) Reunion
-- Tru Calling (1x11:A) The Longest Day
-- Tru Calling (1x12:A) Valentine
-- Tru Calling (1x13:A) Drop Dead Gorgeous
-- Tru Calling (1x14:A) Daddy’s Girl
-- Tru Calling (1x15:A) The Getaway
-- Tru Calling (1x16:A) Two Pair
-- Tru Calling (1x17:A) Death Becomes Her
-- Tru Calling (1x18:A) Rear Window
-- Tru Calling (1x19:A) D.O.A.
-- Tru Calling (1x20:A) Two Weddings and a Funeral
-- Tru Calling (2x01:A) Perfect Storm
-- Tru Calling (2x02:A) Grace
-- Tru Calling (2x03:A) In the Dark
-- Tru Calling (2x04:A) The Last Good Day
-- Tru Calling (2x05:A) Enough
-- Tru Calling (2x06:A) Twas the Night Before Christmas? Again
+- '(1x01:3B) Lois &amp; Clark: The New Adventures of Superman'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x02:3B) Strange Visitor (from Another Planet)'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x03:4B) Neverending Battle'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x04:4B) I’m Looking Through You'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x05:4B) Requiem for a Superhero'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x06:4B) I’ve Got a Crush on You'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x07:5B) Smart Kids'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x08:5B) The Green, Green Glow of Home'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x09:5B) The Man of Steel Bars'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x10:5B) Pheromone, My Lovely'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x11:6B) Honeymoon in Metropolis'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x12:6B) All Shook Up'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x13:6B) Witness'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x14:6B) Illusions of Grandeur'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x15:7B) The Ides of Metropolis'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x16:7B) Foundling'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x17:7B) The Rival'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x18:7B) Vatman'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x19:8B) Fly Hard'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x20:8B) Barbarians at the Planet'
+- 'Lois &amp; Clark: The New Adventures of Superman (1x21:8B) The House of Luthor'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x01:9B) Madame Ex'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x02:9B) Wall of Sound'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x03:9B) The Source'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x04:9B) The Prankster'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x05:10B) Church of Metropolis'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x06:10B) Operation Blackout'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x07:10B) That Old Gang of Mine'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x08:10B) A Bolt from the Blue'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x09:11B) Season’s Greedings'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x10:11B) Metallo'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x11:11B) Chi of Steel'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x12:12B) The Eyes Have It'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x13:12B) The Phoenix'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x14:12B) Top Copy'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x15:12B) Return of the Prankster'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x16:13B) Lucky Leon'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x17:13B) Resurrection'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x18:13B) Tempus Fugitive'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x19:13B) Target: Jimmy Olsen'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x20:14B) Individual Responsibility'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x21:14B) Whine, Whine, Whine'
+- 'Lois &amp; Clark: The New Adventures of Superman (2x22:14B) And the Answer Is…'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x01:15B) We Have a Lot to Talk About'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x02:15B) Ordinary People'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x03:15B) Contact'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x04:15B) When Irish Eyes are Killing'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x05:16B) Just Say Noah'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x06:16B) Don’t Tug on Superman’s Cape'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x07:16B) Ultra Woman'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x08:16B) Chip Off the Old Clark'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x09:17B) Super Mann'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x10:17B) Virtually Destroyed'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x11:17B) Home is Where the Hurt Is'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x12:17B) Never on Sunday'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x13:18B) The Dad Who Came in from the Cold'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x14:18B) Tempus, Anyone?'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x15:18B) I Now Pronounce You…'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x16:18B) Double Jeopardy'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x17:19B) Seconds'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x18:19B) Forget Me Not'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x19:19B) Oedipus Wrecks'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x20:19B) It’s a Small World After All'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x21:20B) Through a Glass, Darkly'
+- 'Lois &amp; Clark: The New Adventures of Superman (3x22:20B) Big Girls Don’t Fly'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x01:21B) Lord of the Flys'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x02:21B) Battleground Earth'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x03:21B) Swear to God, This Time We’re Not Kidding'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x04:21B) Soul Mates'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x05:22B) Brutal Youth'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x06:22B) The People v. Lois Lane'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x07:22B) Dead Lois Walking'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x08:22B) Bob and Carol and Lois and Clark'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x09:23B) Ghosts'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x10:23B) Stop the Presses'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x11:23B) ’⁠Twas the Night Before Mxymas'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x12:23B) Lethal Weapon'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x13:24B) Sex, Lies and Videotape'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x14:24B) Meet John Doe'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x15:24B) Lois and Clarks'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x16:24B) AKA Superman'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x17:25B) Faster than a Speeding Vixen'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x18:25B) Shadow of a Doubt'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x19:25B) Voice from the Past'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x20:25B) I’ve Got You Under My Skin'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x21:26B) Toy Story'
+- 'Lois &amp; Clark: The New Adventures of Superman (4x22:26B) The Family Hour'
+- (1x01:405B) Krypton
+- Krypton (1x02:405B) House of El
+- Krypton (1x03:405B) The Rankless Initiative
+- Krypton (1x04:405B) The Word of Rao
+- Krypton (1x05:405B) House of Zod
+- Krypton (1x06:406B) Civil Wars
+- Krypton (1x07:406B) Transformation
+- Krypton (1x08:406B) Savage Night
+- Krypton (1x09:406B) Hope
+- Krypton (1x10:406B) The Phantom Zone
+- Krypton (2x01:407B) Light‑Years from Home
+- Krypton (2x02:407B) Ghost in the Fire
+- Krypton (2x03:407B) Will to Power
+- Krypton (2x04:407B) Danger Close
+- Krypton (2x05:407B) A Better Yesterday
+- Krypton (2x06:408B) In Zod We Trust
+- Krypton (2x07:408B) Zods and Monsters
+- Krypton (2x08:408B) Mercy
+- Krypton (2x09:408B) Blood Moon
+- Krypton (2x10:408B) The Alpha and the Omega
+- (1x01:369B) Supergirl
+- Supergirl (1x02:369B) Stronger Together
+- Supergirl (1x03:369B) Fight or Flight
+- Supergirl (1x04:369B) Livewire
+- Supergirl (1x05:369B) How Does She Do It?
+- Supergirl (1x06:369B) Red Faced
+- Supergirl (1x07:369B) Human for a Day
+- Supergirl (1x08:370B) Hostile Takeover
+- Supergirl (1x09:370B) Blood Bonds
+- Supergirl (1x10:370B) Childish Things
+- Supergirl (1x11:370B) Strange Visitor from Another Planet
+- Supergirl (1x12:370B) Bizarro
+- Supergirl (1x13:370B) For the Girl Who Has Everything
+- Supergirl (1x14:370B) Truth, Justice and the American Way
+- Supergirl (1x15:371B) Solitude
+- Supergirl (1x16:371B) Falling
+- Supergirl (1x17:371B) Manhunter
+- Supergirl (1x18:371B) Worlds Finest
+- Supergirl (1x19:371B) Myriad
+- Supergirl (1x20:371B) Better Angels
+- Supergirl (2x01:372B) The Adventures of Supergirl
+- Supergirl (2x02:372B) The Last Children of Krypton
+- Supergirl (2x03:372B) Welcome to Earth
+- Supergirl (2x04:372B) Survivors
+- Supergirl (2x05:372B) Crossfire
+- Supergirl (2x06:372B) Changing
+- Supergirl (2x07:373B) The Darkest Place
+- Supergirl (2x08:373B) Medusa
+- Supergirl (2x09:373B) Supergirl Lives
+- Supergirl (2x10:373B) We Can Be Heroes
+- Supergirl (2x11:373B) The Martian Chronicles
+- Supergirl (2x12:373B) Luthors
+- Supergirl (2x13:374B) Mr. &amp; Mrs. Mxyzptlk
+- Supergirl (2x14:374B) Homecoming
+- Supergirl (2x15:374B) Exodus
+- Supergirl (2x16:374B) Star‑Crossed
+- Supergirl (2x17:374B) Distant Sun
+- Supergirl (2x18:374B) Ace Reporter
+- Supergirl (2x19:375B) Alex
+- Supergirl (2x20:375B) City of Lost Children
+- Supergirl (2x21:375B) Resist
+- Supergirl (2x22:375B) Nevertheless, She Persisted
+- Supergirl (3x01:376B) Girl of Steel
+- Supergirl (3x02:376B) Triggers
+- Supergirl (3x03:376B) Far from the Tree
+- Supergirl (3x04:376B) The Faithful
+- Supergirl (3x05:376B) Damage
+- Supergirl (3x06:376B) Midvale
+- Supergirl (3x07:376B) Wake Up
+- Supergirl (3x08\5:377B) Crisis on Earth‑X
+- Supergirl (3x09:377B) Reign
+- Supergirl (3x10:377B) Legion of Super‑Heroes
+- Supergirl (3x11:378B) Fort Rozz
+- Supergirl (3x12:378B) For Good
+- Supergirl (3x13:378B) Both Sides Now
+- Supergirl (3x14:378B) Schott Through the Heart
+- Supergirl (3x15:378B) In Search of Lost Time
+- Supergirl (3x16:378B) Of Two Minds
+- Supergirl (3x17:378B) Trinity
+- Supergirl (3x18:379B) Shelter from the Storm
+- Supergirl (3x19:379B) The Fanatical
+- Supergirl (3x20:379B) Dark Side of the Moon
+- Supergirl (3x21:379B) Not Kansas
+- Supergirl (3x22:379B) Make It Reign
+- Supergirl (3x23:379B) Battles Lost and Won
+- Supergirl (4x01:380B) The American Alien
+- Supergirl (4x02:380B) Fallout
+- Supergirl (4x03:380B) Man of Steel
+- Supergirl (4x04:380B) Ahimsa
+- Supergirl (4x05:380B) Parasite Lost
+- Supergirl (4x06:380B) Call to Action
+- Supergirl (4x07:381B) Rather the Fallen Angel
+- Supergirl (4x08:381B) Bunker Hill
+- Supergirl (4x09:381B) Elseworlds
+- Supergirl (4x10:381B) Suspicious Minds
+- Supergirl (4x11:382B) Blood Memory
+- Supergirl (4x12:382B) Menagerie
+- Supergirl (4x13:382B) What’s So Funny About Truth, Justice, and the American Way?
+- Supergirl (4x14:382B) Stand and Deliver
+- Supergirl (4x15:382B) O Brother, Where Art Thou?
+- Supergirl (4x16:382B) The House of L
+- Supergirl (4x17:383B) All About Eve
+- Supergirl (4x18:383B) Crime and Punishment
+- Supergirl (4x19:383B) American Dreamer
+- Supergirl (4x20:383B) Will the Real Miss Tessmacher Please Stand Up?
+- Supergirl (4x21:383B) Red Dawn
+- Supergirl (4x22:383B) The Quest for Peace
+- Supergirl (5x01:384B) Event Horizon
+- Supergirl (5x02:384B) Stranger Beside Me
+- Supergirl (5x03:384B) Blurred Lines
+- Supergirl (5x04:384B) In Plain Sight
+- Supergirl (5x05:384B) Dangerous Liaisons
+- Supergirl (5x06:385B) Confidence Women
+- Supergirl (5x07:385B) Tremors
+- Supergirl (5x08:385B) The Wrath of Rama Khan
+- Supergirl (5x09\5:386B) Crisis on Infinite Earths
+- Supergirl (5x10:385B) The Bottle Episode
+- Supergirl (5x11\2:387B) Back from the Future
+- Supergirl (5x13:387B) It’s a Super Life
+- Supergirl (5x14:387B) The Bodyguard
+- Supergirl (5x15:387B) Reality Bytes
+- Supergirl (5x16:388B) Alex in Wonderland
+- Supergirl (5x17:388B) Deus Lex Machina
+- Supergirl (5x18:388B) The Missing Link
+- Supergirl (5x19:388B) Immortal Kombat
+- Supergirl (6x01:389B) Rebirth
+- Supergirl (6x02:389B) A Few Good Women
+- Supergirl (6x03:389B) Phantom Menaces
+- Supergirl (6x04:389B) Lost Souls
+- Supergirl (6x05:389B) Prom Night!
+- Supergirl (6x06:390B) Prom Again!
+- Supergirl (6x07:390B) Fear Knot
+- Supergirl (6x08:390B) Welcome Back, Kara!
+- Supergirl (6x09:390B) Dream Weaver
+- Supergirl (6x10:390B) Still I Rise
+- Supergirl (6x11:391B) Mxy in the Middle
+- Supergirl (6x12:391B) Blind Spots
+- Supergirl (6x13:391B) The Gauntlet
+- Supergirl (6x14:391B) Magical Thinking
+- Supergirl (6x15:391B) Hope for Tomorrow
+- Supergirl (6x16:392B) Nightmare in National City
+- Supergirl (6x17:392B) I Believe in a Thing Called Love
+- Supergirl (6x18:392B) Truth or Consequences
+- Supergirl (6x19:392B) The Last Gauntlet
+- Supergirl (6x20:392B) Kara
+- (282B) The Sword in the Stone
+- (326B) Tales from Earthsea (ゲド戦記)
+- (283B) Tangled
+- (169F) Tarzan
+- '(84F) Team America: World Police'
+- (100F) Ted
+- (1:139F) Teenage Mutant Ninja Turtles
+- Teenage Mutant Ninja Turtles (2:140F) The Secret of the Ooze
+- (360B) Tempest
+- (\2:241B) The Ten Commandments
+- (317B) Tenet
+- The Thames Shakespeare Collection (296B) King Lear
+- The Thames Shakespeare Collection (294B) Romeo &amp; Juliet
+- The Thames Shakespeare Collection (293B) Macbeth
+- The Thames Shakespeare Collection (295B) Twelfth Night
+- The Thin Blue Line (1x01:229B) The Queen’s Birthday Present
+- The Thin Blue Line (1x02:229B) Fire and Terror
+- The Thin Blue Line (1x03:229B) Honey Trap
+- The Thin Blue Line (1x04:229B) Rag Week
+- The Thin Blue Line (1x05:229B) Night Shift
+- The Thin Blue Line (1x06:229B) Kids Today
+- The Thin Blue Line (1x07:229B) Yuletide Spirit
+- The Thin Blue Line (2x01:230B) Court in the Act
+- The Thin Blue Line (2x02:230B) Ism Ism Ism
+- The Thin Blue Line (2x03:230B) Fly on the Wall
+- The Thin Blue Line (2x04:230B) Alternative Culture
+- The Thin Blue Line (2x05:230B) Come on You Blues
+- The Thin Blue Line (2x06:230B) Road Rage
+- The Thin Blue Line (2x07:230B) The Green Eyed Monster
+- (685B) This Is Spın̈al Tap
+- 'Three Body: 三体 (1x01:929B) The Frontiers of Science'
+- 'Three Body: 三体 (1x02:929B) A Game of Pool'
+- 'Three Body: 三体 (1x03:929B) The Shooter and the Farmer'
+- 'Three Body: 三体 (1x04:929B) Sophon'
+- 'Three Body: 三体 (1x05:929B) The Universe Flickers'
+- 'Three Body: 三体 (1x06:929B) Da Shi'
+- 'Three Body: 三体 (1x07:929B) King Wen of Zhou and the Long Night'
+- 'Three Body: 三体 (1x08:929B) No One Repents'
+- 'Three Body: 三体 (1x09:929B) Copernicus, Universal Football, and the Tri-Solar Day'
+- 'Three Body: 三体 (1x10:929B) Silent Spring'
+- 'Three Body: 三体 (1x11:929B) Ye Wenjie'
+- 'Three Body: 三体 (1x12:929B) Mozi and Fiery Flames'
+- 'Three Body: 三体 (1x13:929B) Red Coast'
+- 'Three Body: 三体 (1x14:929B) The Ruins'
+- 'Three Body: 三体 (1x15:929B) Newton, Von Neumann, the First Emperor, and Tri-Solar Syzygy'
+- 'Three Body: 三体 (1x16:930B) The Three-Body Problem'
+- 'Three Body: 三体 (1x17:930B) The Madness Years'
+- 'Three Body: 三体 (1x18:930B) The Listener'
+- 'Three Body: 三体 (1x19:930B) The Second Red Coast Base'
+- 'Three Body: 三体 (1x20:930B) Einstein, the Pendulum Monument, and the Great Rip'
+- 'Three Body: 三体 (1x21:930B) The Earth-Trisolaris Movement'
+- 'Three Body: 三体 (1x22:930B) Rebels of Earth'
+- 'Three Body: 三体 (1x23:930B) Meet-Up'
+- 'Three Body: 三体 (1x24:930B) Rebellion'
+- 'Three Body: 三体 (1x25:930B) Expedition'
+- 'Three Body: 三体 (1x26:930B) The Deaths of Lei Zhicheng and Yang Weining'
+- 'Three Body: 三体 (1x27:930B) Evans'
+- 'Three Body: 三体 (1x28:930B) Two Protons'
+- 'Three Body: 三体 (1x29:930B) Operation Guzheng'
+- 'Three Body: 三体 (1x30:930B) Bugs'
+- (58F) The Three Musketeers
+- (35F) Time After Time
+- (63F) The Time Traveller’s Wife
+- Time Trax (1x01:89B) A Stranger In Time
+- Time Trax (1x03:89B) To Kill a Billionaire
+- Time Trax (1x04:89B) Fire and Ice
+- Time Trax (1x05:90B) Showdown
+- Time Trax (1x06:90B) The Prodigy
+- Time Trax (1x07:90B) Death Takes a Holiday
+- Time Trax (1x08:90B) The Contender
+- Time Trax (1x09:91B) Night of the Savage
+- Time Trax (1x10:91B) Treasure of the Ages
+- Time Trax (1x11:91B) The Price of Honor
+- Time Trax (1x12:91B) Face of Death
+- Time Trax (1x13:92B) Revenge
+- Time Trax (1x14:92B) Darien Comes Home
+- Time Trax (1x15:92B) Two Beans in a Wheel
+- Time Trax (1x16:92B) Little Boy Lost
+- Time Trax (1x17:93B) The Mysterious Stranger
+- Time Trax (1x18:93B) Framed
+- Time Trax (1x19:93B) Beautiful Songbird
+- Time Trax (1x20:93B) Photo Finish
+- Time Trax (1x21:94B) Darrow for the Defense
+- Time Trax (1x22:94B) One on One
+- Time Trax (2x01:95B) Return of the Yakuza
+- Time Trax (2x02:95B) Missing
+- Time Trax (2x03:95B) To Live and Die in Docker Flats
+- Time Trax (2x04:95B) A Close Encounter
+- Time Trax (2x05:96B) The Gravity of It All
+- Time Trax (2x06:96B) Happy Valley
+- Time Trax (2x07:96B) Lethal Weapons
+- Time Trax (2x08:96B) The Cure
+- Time Trax (2x09:97B) Perfect Pair
+- Time Trax (2x10:97B) Catch Me If You Can
+- Time Trax (2x11:97B) The Dream Team
+- Time Trax (2x12:97B) Almost Human
+- Time Trax (2x13:98B) Mother
+- Time Trax (2x14:98B) The Last M.I.A.
+- Time Trax (2x15:98B) Split Image
+- Time Trax (2x16:98B) Cool Hand Darien
+- Time Trax (2x17:99B) The Lottery
+- Time Trax (2x18:99B) Out For Blood
+- Time Trax (2x19:99B) The Scarlet Koala
+- Time Trax (2x20:99B) Optic Nerve
+- Time Trax (2x21:100B) The Crash
+- Time Trax (2x22:100B) Forgotten Tomorrows
+- (46F) Timecop
+- (1:147F) Toy Story
+- Toy Story (2:149F) Al’s Toy Barn
+- Toy Story (3:151F) Sunnyside Daycare
+- Toy Story (4:197F) Second Chance Antiques
+- (285B) Treasure Planet
+- (328B) Tropic Thunder
+- (1x01:1A) Tru Calling
+- Tru Calling (1x02:1A) Putting Out Fires
+- Tru Calling (1x03:1A) Brother’s Keeper
+- Tru Calling (1x04:1A) Past Tense
+- Tru Calling (1x05:2A) Haunted
+- Tru Calling (1x06:2A) Star Crossed
+- Tru Calling (1x07:2A) Morning After
+- Tru Calling (1x08:2A) Closure
+- Tru Calling (1x09:3A) Murder in the Morgue
+- Tru Calling (1x10:3A) Reunion
+- Tru Calling (1x11:3A) The Longest Day
+- Tru Calling (1x12:3A) Valentine
+- Tru Calling (1x13:4A) Drop Dead Gorgeous
+- Tru Calling (1x14:4A) Daddy’s Girl
+- Tru Calling (1x15:4A) The Getaway
+- Tru Calling (1x16:5A) Two Pair
+- Tru Calling (1x17:5A) Death Becomes Her
+- Tru Calling (1x18:5A) Rear Window
+- Tru Calling (1x19:6A) D.O.A.
+- Tru Calling (1x20:6A) Two Weddings and a Funeral
+- Tru Calling (2x01:1A) Perfect Storm
+- Tru Calling (2x02:1A) Grace
+- Tru Calling (2x03:1A) In the Dark
+- Tru Calling (2x04:1A) The Last Good Day
+- Tru Calling (2x05:2A) Enough
+- Tru Calling (2x06:2A) ’⁠Twas the Night Before Christmas… Again
+- (93F) The Truman Show
+- Twin Peaks (1:409B) Northwest Passage
+- Twin Peaks (1x01:409B) Traces to Nowhere
+- Twin Peaks (1x02:410B) Zen, or the Skill to Catch a Killer
+- Twin Peaks (1x03:410B) Rest in Pain
+- Twin Peaks (1x04:410B) The One-Armed Man
+- Twin Peaks (1x05:411B) Cooper’s Dreams
+- Twin Peaks (1x06:411B) Realization Time
+- Twin Peaks (1x07:411B) The Last Evening
+- Twin Peaks (2x08:412B) May the Giant Be with You
+- Twin Peaks (2x09:412B) Coma
+- Twin Peaks (2x10:412B) The Man Behind the Glass
+- Twin Peaks (2x11:413B) Laura’s Secret Diary
+- Twin Peaks (2x12:413B) The Orchid’s Curse
+- Twin Peaks (2x13:413B) Demons
+- Twin Peaks (2x14:413B) Lonely Souls
+- Twin Peaks (2x15:414B) Drive with a Dead Girl
+- Twin Peaks (2x16:414B) Arbitrary Law
+- Twin Peaks (2x17:414B) Dispute Between Brothers
+- Twin Peaks (2x18:414B) Masked Ball
+- Twin Peaks (2.2x19:415B) The Black Widow
+- Twin Peaks (2.2x20:415B) Checkmate
+- Twin Peaks (2.2x21:415B) Double Play
+- Twin Peaks (2.2x22:415B) Slaves and Masters
+- Twin Peaks (2.2x23:416B) The Condemned Woman
+- Twin Peaks (2.2x24:416B) Wounds and Scars
+- Twin Peaks (2.2x25:416B) On the Wings of Love
+- Twin Peaks (2.2x26:416B) Variations and Relations
+- Twin Peaks (2.2x27:417B) The Path to the Black Lodge
+- Twin Peaks (2.2x28:417B) Miss Twin Peaks
+- Twin Peaks (2.2x29:417B) Beyond Life and Death
+- 'Twin Peaks: The Return (3x01:418B) My Log Has a Message For You'
+- 'Twin Peaks: The Return (3x02:418B) The Stars Turn and a Time Presents Itself'
+- 'Twin Peaks: The Return (3x03:419B) Call for Help'
+- 'Twin Peaks: The Return (3x04:419B) …⁠Brings Back Some Memories'
+- 'Twin Peaks: The Return (3x05:420B) Case Files'
+- 'Twin Peaks: The Return (3x06:420B) Don’t Die'
+- 'Twin Peaks: The Return (3x07:420B) There’s a Body All Right'
+- 'Twin Peaks: The Return (3x08:421B) Gotta Light?'
+- 'Twin Peaks: The Return (3x09:421B) This is the Chair'
+- 'Twin Peaks: The Return (3x10:421B) Laura is the One'
+- 'Twin Peaks: The Return (3x11:422B) There’s Fire Where You Are Going'
+- 'Twin Peaks: The Return (3x12:422B) Let’s Rock'
+- 'Twin Peaks: The Return (3x13:422B) What Story is That, Charlie?'
+- 'Twin Peaks: The Return (3x14:423B) We Are Like the Dreamer'
+- 'Twin Peaks: The Return (3x15:423B) There’s Some Fear about Letting Go'
+- 'Twin Peaks: The Return (3x16:423B) No Knock, No Doorbell'
+- 'Twin Peaks: The Return (3x17:424B) The Past Dictates the Future'
+- 'Twin Peaks: The Return (3x18:424B) What is Your Name?'
+- (175F) Unbreakable
+- (1:1W) United States of Tara
 - United States of Tara (1x02:1W) Aftermath
 - United States of Tara (1x03:1W) Work
 - United States of Tara (1x04:1W) Inspiration
@@ -6249,167 +8263,257 @@ text:
 - United States of Tara (2x10:2W) Open House
 - United States of Tara (2x11:2W) To Have And To Hold
 - United States of Tara (2x12:2W) From This Day Forward
-- United States of Tara (3x01:1W) ?youwillnotwin?
+- United States of Tara (3x01:1W) …⁠youwillnotwin…
 - United States of Tara (3x02:1W) Crackerjack
 - United States of Tara (3x03:1W) The Full Fuck You Finger
 - United States of Tara (3x04:1W) Wheels
 - United States of Tara (3x05:1W) Dr. Hattaras’ Miracle Elixir
 - United States of Tara (3x06:1W) The Road to Hell Is Paved With Breast Intentions
-- United States of Tara (3x07:2W) The Electrifying & Magnanimous Return of Beaverlamp
+- United States of Tara (3x07:2W) The Electrifying &amp; Magnanimous Return of Beaverlamp
 - United States of Tara (3x08:2W) Chicken ’n’ Corn
 - United States of Tara (3x09:2W) Bryce Will Play
 - United States of Tara (3x10:2W) Train Wreck
 - United States of Tara (3x11:2W) Crunchy Ice
 - United States of Tara (3x12:2W) The Good Parts
-- United States of Tara (W)
-- The Venture Bros. (1x00:226B) The Terrible Secret of Turtle Bay
-- The Venture Bros. (1x01:225B) Dia de los Dangerous!
-- The Venture Bros. (1x02:225B) Careers in Science
-- The Venture Bros. (1x03:225B) Home Insecurity
-- The Venture Bros. (1x04:225B) The Incredible Mr. Brisby
-- The Venture Bros. (1x05:225B) Eeny, Meeny, Miney·. Magic
-- The Venture Bros. (1x06:225B) Ghosts of the Sargasso
-- The Venture Bros. (1x07:226B) Ice Station - Impossible!
-- The Venture Bros. (1x08:225B) Midlife Chrysalis
-- The Venture Bros. (1x09:226B) Are You There God? It’s Me, Dean
-- The Venture Bros. (1x10:225B) Tag Sale - You’re IT!
-- The Venture Bros. (1x11:226B) Past Tense
-- The Venture Bros. (1x12:226B) The Trial of the Monarch
-- The Venture Bros. (1x13:226B) Return to Spider-Skull Island
-- The Venture Bros. (2x01:B) Powerless in the Face of Death
-- The Venture Bros. (2x02:B) Hate Floats
-- The Venture Bros. (2x03:B) Assassinanny 911
-- The Venture Bros. (2x04:B) Escape to the House of Mummies Part II
-- The Venture Bros. (2x05:B) 20 Years to Midnight
-- The Venture Bros. (2x06:B) Victor. Echo. November.
-- The Venture Bros. (2x07:B) Love-Bheits
-- The Venture Bros. (2x08:B) Fallen Arches
-- The Venture Bros. (2x09:B) Guess Who?s Coming to State Dinner?
-- The Venture Bros. (2x10:B) I Know Why the Caged Bird Kills
-- The Venture Bros. (2x11:B) ?Viva los Muertos!
-- The Venture Bros. (2x12:B) Showdown at Cremation Creek
-- The Venture Bros. (3x01:B) A Very Venture Christmas
-- 'The Venture Bros. (3x01:B) Shadowman 9: In the Cradle of Destiny'
-- The Venture Bros. (3x02:B) The Doctor is Sin
-- The Venture Bros. (3x03:B) The Invisible Hand of Fate
-- The Venture Bros. (3x04:B) Home is Where the Hate Is
-- The Venture Bros. (3x05:B) The Buddy System
-- The Venture Bros. (3x06:B) Dr. Quymn, Medicine Woman
-- The Venture Bros. (3x07:B) What Goes Down Must Come Up
-- The Venture Bros. (3x08:B) Tears of a Sea Cow
-- The Venture Bros. (3x09:B) Now Museum--Now You Don’t!
-- The Venture Bros. (3x10:B) The Lepidopterists
-- The Venture Bros. (3x11:B) ORB
-- The Venture Bros. (3x12:B) The Family That Slays Together, Stays Together
-- The Venture Bros. (4x01:B) Blood of the Father, Heart of Steel
-- The Venture Bros. (4x02:B) Handsome Ransom
-- The Venture Bros. (4x03:B) Perchance to Dean
-- The Venture Bros. (4x04:B) Return to Malice
-- The Venture Bros. (4x05:B) The Revenge Society
-- The Venture Bros. (4x06:B) Self-Medication
-- The Venture Bros. (4x07:B) The Better Man
-- The Venture Bros. (4x08:B) Pinstripes & Poltergeists
-- The Venture Bros. (4x09:B) The Diving Bell vs. The Butter-Glider
-- The Venture Bros. (4x10:B) Pomp and Circuitry
-- The Venture Bros. (4x11:B) Every Which Way But Zeus
-- The Venture Bros. (4x12:B) Everybody Comes to Hank’s
-- The Venture Bros. (4x13:B) Bright Lights, Dean City
-- The Venture Bros. (4x14:B) Assisted Suicide
-- The Venture Bros. (4x15:B) The Silent Partners
-- 'The Venture Bros. (4x16:B) Operation: P.R.O.M.'
-- 'The Venture Bros. (4x17:B) From the Ladle to the Grave: The Shallow Gravy Story'
-- The Venture Bros. (5x01:B) A Very Venture Halloween
-- The Venture Bros. (5x02:B) What Color is Your Cleansuit?
-- The Venture Bros. (5x03:B) Venture Libre
-- The Venture Bros. (5x04:B) SPHINX Rising
-- The Venture Bros. (5x05:B) Spanakopita
-- The Venture Bros. (5x06:B) O.S.I. Love You
-- The Venture Bros. (5x07:B) Momma’s Boys
-- The Venture Bros. (5x08:B) Bot Seeks Bot
-- The Venture Bros. (5x09:B) The Devil’s Grip
-- The Venture Bros. (6x01:B) All This and Gargantua-2
-- The Venture Bros. (6x02:B) Hostile Makeover
-- The Venture Bros. (6x03:B) Maybe No Go
-- The Venture Bros. (6x04:B) Faking Miracles
-- The Venture Bros. (6x05:B) Rapacity in Blue
-- The Venture Bros. (6x06:B) Tanks for Nuthin’
-- The Venture Bros. (6x07:B) It Happening One Night
-- The Venture Bros. (6x08:B) A Party for Tarzan
-- The Venture Bros. (6x09:B) Red Means Stop
-- The Venture Bros. (7x01:B) The Venture Bros. and The Curse of the Haunted Problem
-- The Venture Bros. (7x02:B) The Rorqual Affair
-- The Venture Bros. (7x03:B) Arrears in Science
-- The Venture Bros. (7x04:B) The High Cost of Loathing
-- The Venture Bros. (7x05:B) The Inamorata Consequence
-- The Venture Bros. (7x06:B) The Bellicose Proxy
-- The Venture Bros. (7x07:B) The Unicorn in Captivity
-- The Venture Bros. (7x08:B) The Terminus Mandate
-- The Venture Bros. (7x09:B) The Forecast Manufacturer
-- The Venture Bros. (7x10:B) The Saphrax Protocol
-- Warehouse 13 (1x01:B)
-- Warehouse 13 (1x01:B) The New Guy
-- Warehouse 13 (1x01:B) A New Hope
-- Warehouse 13 (1x02:B) Resonance
-- Warehouse 13 (1x02:B) Trials
-- Warehouse 13 (1x02:B) An Evil Within
-- Warehouse 13 (1x03:B) Magnetism
-- Warehouse 13 (1x03:B) Love Sick
-- Warehouse 13 (1x03:B) Personal Effects
-- Warehouse 13 (1x04:B) Claudia
-- Warehouse 13 (1x04:B) Queen for a Day
-- Warehouse 13 (1x04:B) There’s Always a Downside
-- Warehouse 13 (1x05:B) Elements
-- Warehouse 13 (1x05:B) 3·. 2·. 1·.
-- Warehouse 13 (1x05:B) No Pain, No Gain
-- Warehouse 13 (1x06:B) Burnout
-- Warehouse 13 (1x06:B) Don’t Hate the Player
-- Warehouse 13 (1x06:B) Fractures
-- Warehouse 13 (1x07:B) Implosion
-- Warehouse 13 (1x07:B) Past Imperfect
-- Warehouse 13 (1x07:B) Endless Wonder
-- Warehouse 13 (1x08:B) Duped
-- Warehouse 13 (1x08:B) The 40th Floor
-- Warehouse 13 (1x08:B) Second Chance
-- Warehouse 13 (1x09:B) Regrets
-- Warehouse 13 (1x09:B) Shadows
-- Warehouse 13 (1x09:B) The Ones You Love
-- Warehouse 13 (1x10:B) Breakdown
-- Warehouse 13 (1x10:B) Insatiable
-- Warehouse 13 (1x10:B) We All Fall Down
-- Warehouse 13 (1x11:B) Nevermore
-- Warehouse 13 (1x12:B) MacPherson
-- Warehouse 13 (2x07:B) For the Team
-- Warehouse 13 (2x08:B) Merge with Caution
-- Warehouse 13 (2x09:B) Vendetta
-- Warehouse 13 (2x10:B) When and Where
-- Warehouse 13 (2x11:B) Buried
-- Warehouse 13 (2x11:B) The Living and the Dead
-- Warehouse 13 (2x12:B) Reset
-- Warehouse 13 (2x12:B) Parks and Rehabilitation
-- Warehouse 13 (2x13:B) The Greatest Gift
-- Warehouse 13 (2x13:B) The Big Snag
-- Warehouse 13 (2x14:B) The Sky’s the Limit
-- Warehouse 13 (2x15:B) Instinct
-- Warehouse 13 (2x16:B) Runaway
-- Warehouse 13 (2x17:B) What Matters Most
-- Warehouse 13 (2x18:B) Lost & Found
-- Warehouse 13 (2x19:B) All the Time in the World
-- Warehouse 13 (2x20:B) The Truth Hurts
-- Warehouse 13 (3x11:B) Emily Lake
-- Warehouse 13 (3x12:B) Stand
-- Warehouse 13 (4x01:B) Time Will Tell
-- Warehouse 13 (4x01:B) Endless Terror
-- Warehouse 13 (4x02:B) Mild Mannered
-- Warehouse 13 (4x02:B) Secret Services
-- Warehouse 13 (4x03:B) Beyond Our Control
-- Warehouse 13 (4x03:B) A Faire to Remember
-- Warehouse 13 (4x04:B) Age Before Beauty
-- Warehouse 13 (4x04:B) Savage Seduction
-- Warehouse 13 (4x05:B) 13.1
-- Warehouse 13 (4x05:B) Cangku Shisi
-- Warehouse 13 (4x06:B) Around the Bend
-- Warehouse 13 (4x06:B) Endless
-- Warehouse 13 (4x13:B) Secret Santa
+- (189F) Up
+- Upstart Crow (1x01:701B) Star-Crossed Lovers
+- Upstart Crow (1x02:701B) The Play’s the Thing
+- Upstart Crow (1x03:701B) The Apparel Proclaims the Man
+- Upstart Crow (1x04:701B) Love is Not Love
+- Upstart Crow (1x05:701B) What Bloody Man is That?
+- Upstart Crow (1x06:701B) The Quality of Mercy
+- Upstart Crow (2x01:702B) The Green-Eyed Monster
+- Upstart Crow (2x02:702B) I Know Thee Not, Old Man
+- Upstart Crow (2x03:702B) I Did Adore a Twinkling Star
+- Upstart Crow (2x04:702B) Food of Love
+- Upstart Crow (2x05:702B) Beware My Sting!
+- Upstart Crow (2x06:702B) Sweet Sorrow
+- Upstart Crow (3x01:703B) Lord, What Fools These Mortals Be!
+- Upstart Crow (3x02:703B) Wild Laughter in the Throat of Death
+- Upstart Crow (3x03:703B) If You Prick Us, Do We Not Bleed?
+- Upstart Crow (3x04:703B) Sigh No More
+- Upstart Crow (3x05:703B) The Most Unkindest Cut of All
+- Upstart Crow (3x06:703B) Go On and I Will Follow
+- (R) V
+- V (R) The Final Battle
+- The Venture Bros. (1:346B) The Terrible Secret of Turtle Bay
+- The Venture Bros. (1x01:345B) Dia de los Dangerous!
+- The Venture Bros. (1x02:345B) Careers in Science
+- The Venture Bros. (1x03:345B) Home Insecurity
+- The Venture Bros. (1x04:345B) The Incredible Mr. Brisby
+- The Venture Bros. (1x05:345B) Eeny, Meeny, Miney… Magic
+- The Venture Bros. (1x06:345B) Ghosts of the Sargasso
+- The Venture Bros. (1x07:346B) Ice Station ‑ Impossible!
+- The Venture Bros. (1x08:345B) Midlife Chrysalis
+- The Venture Bros. (1x09:346B) Are You There God? It’s Me, Dean
+- The Venture Bros. (1x10:345B) Tag Sale ‑ You’re IT!
+- The Venture Bros. (1x11:346B) Past Tense
+- The Venture Bros. (1x12:346B) The Trial of the Monarch
+- The Venture Bros. (1x13:346B) Return to Spider‑Skull Island
+- The Venture Bros. (1x14:345B) A Very Venture Christmas
+- The Venture Bros. (2x01:347B) Powerless in the Face of Death
+- The Venture Bros. (2x02:347B) Hate Floats
+- The Venture Bros. (2x03:347B) Assassinanny 911
+- The Venture Bros. (2x04:347B) Escape to the House of Mummies Part II
+- The Venture Bros. (2x05:347B) 20 Years to Midnight
+- The Venture Bros. (2x06:347B) Victor. Echo. November.
+- The Venture Bros. (2x07:347B) Love‑Bheits
+- The Venture Bros. (2x08:348B) Fallen Arches
+- The Venture Bros. (2x09:348B) Guess Who’s Coming to State Dinner?
+- The Venture Bros. (2x10:348B) I Know Why the Caged Bird Kills
+- The Venture Bros. (2x11:348B) ¡⁠Viva los Muertos!
+- The Venture Bros. (2x12\2:348B) Showdown at Cremation Creek
+- 'The Venture Bros. (3x01:349B) Shadowman 9: In the Cradle of Destiny'
+- The Venture Bros. (3x02:349B) The Doctor is Sin
+- The Venture Bros. (3x03:349B) The Invisible Hand of Fate
+- The Venture Bros. (3x04:349B) Home is Where the Hate Is
+- The Venture Bros. (3x05:349B) The Buddy System
+- The Venture Bros. (3x06:349B) Dr. Quymn, Medicine Woman
+- The Venture Bros. (3x07:349B) What Goes Down Must Come Up
+- The Venture Bros. (3x08:350B) Tears of a Sea Cow
+- The Venture Bros. (3x09:350B) Now Museum — Now You Don’t!
+- The Venture Bros. (3x10:350B) The Lepidopterists
+- The Venture Bros. (3x11:350B) ORB
+- The Venture Bros. (3x12\2:350B) The Family That Slays Together, Stays Together
+- The Venture Bros. (4x01:351B) Blood of the Father, Heart of Steel
+- The Venture Bros. (4x02:351B) Handsome Ransom
+- The Venture Bros. (4x03:351B) Perchance to Dean
+- The Venture Bros. (4x04:351B) Return to Malice
+- The Venture Bros. (4x05:351B) The Revenge Society
+- The Venture Bros. (4x06:351B) Self‑Medication
+- The Venture Bros. (4x07:351B) The Better Man
+- The Venture Bros. (4x08:351B) Pinstripes &amp; Poltergeists
+- The Venture Bros. (4x09:352B) The Diving Bell vs. The Butter‑Glider
+- The Venture Bros. (4x10:352B) Pomp and Circuitry
+- The Venture Bros. (4x11:352B) Any Which Way But Zeus
+- The Venture Bros. (4x12:352B) Everybody Comes to Hank’s
+- The Venture Bros. (4x13:352B) Bright Lights, Dean City
+- The Venture Bros. (4x14:352B) Assisted Suicide
+- The Venture Bros. (4x15:352B) The Silent Partners
+- 'The Venture Bros. (4x16:352B) Operation: P.R.O.M.'
+- 'The Venture Bros. (4x17:354B) From the Ladle to the Grave: The Shallow Gravy Story'
+- The Venture Bros. (5x01:354B) A Very Venture Halloween
+- The Venture Bros. (5x02:353B) What Color is Your Cleansuit?
+- The Venture Bros. (5x03:353B) Venture Libre
+- The Venture Bros. (5x04:353B) SPHINX Rising
+- The Venture Bros. (5x05:353B) Spanakopita
+- The Venture Bros. (5x06:353B) O.S.I. Love You
+- The Venture Bros. (5x07:354B) Momma’s Boys
+- The Venture Bros. (5x08:354B) Bot Seeks Bot
+- The Venture Bros. (5x09:354B) The Devil’s Grip
+- The Venture Bros. (6x01:355B) All This and Gargantua‑2
+- The Venture Bros. (6x02:355B) Hostile Makeover
+- The Venture Bros. (6x03:355B) Maybe No Go
+- The Venture Bros. (6x04:355B) Faking Miracles
+- The Venture Bros. (6x05:355B) Rapacity in Blue
+- The Venture Bros. (6x06:356B) Tanks for Nuthin’
+- The Venture Bros. (6x07:356B) It Happening One Night
+- The Venture Bros. (6x08:356B) A Party for Tarzan
+- The Venture Bros. (6x09:356B) Red Means Stop
+- The Venture Bros. (7x01:357B) The Venture Bros. and The Curse of the Haunted Problem
+- The Venture Bros. (7x02:357B) The Rorqual Affair
+- The Venture Bros. (7x03:357B) Arrears in Science
+- The Venture Bros. (7x04:357B) The High Cost of Loathing
+- The Venture Bros. (7x05:357B) The Inamorata Consequence
+- The Venture Bros. (7x06:358B) The Bellicose Proxy
+- The Venture Bros. (7x07:358B) The Unicorn in Captivity
+- The Venture Bros. (7x08:358B) The Terminus Mandate
+- The Venture Bros. (7x09:358B) The Forecast Manufacturer
+- The Venture Bros. (7x10:358B) The Saphrax Protocol
+- The Venture Bros. (8:1C) Radiant is the Blood of the Baboon Heart
+- Wallace &amp; Gromit (1x01:U) A Grand Day Out
+- Wallace &amp; Gromit (1x02:U) The Wrong Trousers
+- Wallace &amp; Gromit (1x03:U) A Close Shave
+- Wallace &amp; Gromit (1x04:U) A Matter of Loaf and Death
+- Wallace &amp; Gromit (2:223T) The Curse of the Were-Rabbit
+- (152F) Wall·E
+- (1x01:329B) Warehouse 13
+- Warehouse 13 (1x02:329B) Resonance
+- Warehouse 13 (1x03:329B) Magnetism
+- Warehouse 13 (1x04:330B) Claudia
+- Warehouse 13 (1x05:330B) Elements
+- Warehouse 13 (1x06:330B) Burnout
+- Warehouse 13 (1x07:330B) Implosion
+- Warehouse 13 (1x08:331B) Duped
+- Warehouse 13 (1x09:331B) Regrets
+- Warehouse 13 (1x10:331B) Breakdown
+- Warehouse 13 (1x11:331B) Nevermore
+- Warehouse 13 (1x12:331B) MacPherson
+- Warehouse 13 (2x01:332B) Time Will Tell
+- Warehouse 13 (2x02:332B) Mild Mannered
+- Warehouse 13 (2x03:332B) Beyond Our Control
+- Warehouse 13 (2x04:332B) Age Before Beauty
+- Warehouse 13 (2x05:333B) 13.1
+- Warehouse 13 (2x06:333B) Around the Bend
+- Warehouse 13 (2x07:333B) For the Team
+- Warehouse 13 (2x08:333B) Merge with Caution
+- Warehouse 13 (2x09:334B) Vendetta
+- Warehouse 13 (2x10:334B) When and Where
+- Warehouse 13 (2x11:334B) Buried
+- Warehouse 13 (2x12:334B) Reset
+- Warehouse 13 (2x13:334B) Secret Santa
+- Warehouse 13 (3x01:335B) The New Guy
+- Warehouse 13 (3x02:335B) Trials
+- Warehouse 13 (3x03:335B) Love Sick
+- Warehouse 13 (3x04:335B) Queen for a Day
+- Warehouse 13 (3x05:336B) 3… 2… 1…
+- Warehouse 13 (3x06:336B) Don’t Hate the Player
+- Warehouse 13 (3x07:336B) Past Imperfect
+- Warehouse 13 (3x08:336B) The 40th Floor
+- Warehouse 13 (3x09:336B) Shadows
+- Warehouse 13 (3x10:337B) Insatiable
+- Warehouse 13 (3x11:337B) Emily Lake
+- Warehouse 13 (3x12:337B) Stand
+- Warehouse 13 (3x13:337B) The Greatest Gift
+- Warehouse 13 (4x01:338B) A New Hope
+- Warehouse 13 (4x02:338B) An Evil Within
+- Warehouse 13 (4x03:338B) Personal Effects
+- Warehouse 13 (4x04:338B) There’s Always a Downside
+- Warehouse 13 (4x05:338B) No Pain, No Gain
+- Warehouse 13 (4x06:339B) Fractures
+- Warehouse 13 (4x07:339B) Endless Wonder
+- Warehouse 13 (4x08:339B) Second Chance
+- Warehouse 13 (4x09:339B) The Ones You Love
+- Warehouse 13 (4x10:339B) We All Fall Down
+- Warehouse 13 (4x11:340B) The Living and the Dead
+- Warehouse 13 (4x12:340B) Parks and Rehabilitation
+- Warehouse 13 (4x13:340B) The Big Snag
+- Warehouse 13 (4x14:340B) The Sky’s the Limit
+- Warehouse 13 (4x15:340B) Instinct
+- Warehouse 13 (4x16:341B) Runaway
+- Warehouse 13 (4x17:341B) What Matters Most
+- Warehouse 13 (4x18:341B) Lost &amp; Found
+- Warehouse 13 (4x19:341B) All the Time in the World
+- Warehouse 13 (4x20:341B) The Truth Hurts
+- Warehouse 13 (5x01:342B) Endless Terror
+- Warehouse 13 (5x02:342B) Secret Services
+- Warehouse 13 (5x03:342B) A Faire to Remember
+- Warehouse 13 (5x04:343B) Savage Seduction
+- Warehouse 13 (5x05:343B) Cāngkù Shísì (倉庫十四)
+- Warehouse 13 (5x06:343B) Endless
+- (56F) Welcome to the Jungle
+- (270B) What We Do in the Shadows
+- What We Do in the Shadows (1x01:913B) The Pilot Episode
+- What We Do in the Shadows (1x02:913B) City Council
+- What We Do in the Shadows (1x03:913B) Werewolf Feud
+- What We Do in the Shadows (1x04:913B) Manhattan Night Club
+- What We Do in the Shadows (1x05:913B) Animal Control
+- What We Do in the Shadows (1x06:914B) Baron's Night Out
+- What We Do in the Shadows (1x07:914B) The Trial
+- What We Do in the Shadows (1x08:914B) Citizenship
+- What We Do in the Shadows (1x09:914B) The Orgy
+- What We Do in the Shadows (1x10:914B) Ancestry
+- What We Do in the Shadows (2x01:915B) Resurrection
+- What We Do in the Shadows (2x02:915B) Ghosts
+- What We Do in the Shadows (2x03:915B) Brain Scramblies
+- What We Do in the Shadows (2x04:915B) The Curse
+- What We Do in the Shadows (2x05:915B) Colin's Promotion
+- What We Do in the Shadows (2x06:916B) On the Run
+- What We Do in the Shadows (2x07:916B) The Return
+- What We Do in the Shadows (2x08:916B) Collaboration
+- What We Do in the Shadows (2x09:916B) Witches
+- What We Do in the Shadows (2x10:916B) Nouveau Théâtre Des Vampires
+- What We Do in the Shadows (3x01:917B) The Prisoner
+- What We Do in the Shadows (3x02:917B) The Cloak of Duplication
+- What We Do in the Shadows (3x03:917B) Gail
+- What We Do in the Shadows (3x04:917B) The Casino
+- What We Do in the Shadows (3x05:917B) The Chamber of Judgement
+- What We Do in the Shadows (3x06:918B) The Escape
+- What We Do in the Shadows (3x07:918B) The Siren
+- What We Do in the Shadows (3x08:918B) The Wellness Center
+- What We Do in the Shadows (3x09:918B) A Farewell
+- What We Do in the Shadows (3x10:918B) The Portrait
+- What We Do in the Shadows (4x01:919B) Reunited
+- What We Do in the Shadows (4x02:919B) The Lamp
+- What We Do in the Shadows (4x03:919B) The Grand Opening
+- What We Do in the Shadows (4x04:919B) The Night Market
+- What We Do in the Shadows (4x05:919B) Private School
+- What We Do in the Shadows (4x06:920B) The Wedding
+- What We Do in the Shadows (4x07:920B) Pine Barrens
+- What We Do in the Shadows (4x08:920B) Go Flip Yourself
+- What We Do in the Shadows (4x09:920B) Freddie
+- What We Do in the Shadows (4x10:920B) Sunrise, Sunset
+- What We Do in the Shadows (5x01:921B) The Mall
+- What We Do in the Shadows (5x02:921B) A Night Out with the Guys
+- What We Do in the Shadows (5x03:921B) Pride Parade
+- What We Do in the Shadows (5x04:921B) The Campaign
+- What We Do in the Shadows (5x05:921B) Local News
+- What We Do in the Shadows (5x06:922B) Urgent Care
+- What We Do in the Shadows (5x07:922B) Hybrid Creatures
+- What We Do in the Shadows (5x08:922B) The Roast
+- What We Do in the Shadows (5x09:922B) A Weekend at Morrigan Manor
+- What We Do in the Shadows (5x10:922B) Exit Interview
+- (237B) Who Framed Roger Rabbit?
+- (77F) Willow
+- (2F) Willy Wonka and the Chocolate Factory
+- (61F) The Wizard of Oz
+- (1:288B) Wreck‑It Ralph
+- Wreck‑It Ralph (2:289B) Ralph Breaks the Internet
+- 'Hercules: the Legendary Journeys (1H) Hercules and the Amazon Women'
+- Hercules, the Legendary Journeys (1H) Hercules and the Lost Kingdom
+- Hercules, the Legendary Journeys (2H) Hercules and the Circle of Fire
+- Hercules, the Legendary Journeys (2H) Hercules in the Underworld
+- Hercules, the Legendary Journeys (3H) Hercules in the Maze of the Minotaur
 - 'Hercules: The Legendary Journeys (1x01:4H) The Wrong Path'
 - 'Hercules: The Legendary Journeys (1x02:4H) Eye of the Beholder'
 - 'Hercules: The Legendary Journeys (1x03:4H) The Road to Calydon'
@@ -6453,7 +8557,7 @@ text:
 - 'Hercules: The Legendary Journeys (3x04:2H) Mummy Dearest'
 - 'Hercules: The Legendary Journeys (3x05:2H) Not Fade Away'
 - 'Hercules: The Legendary Journeys (3x06:2H) Monster Child in the Promised Land'
-- 'Hercules: The Legendary Journeys (3x07:3H) The Green-Eyed Monster'
+- 'Hercules: The Legendary Journeys (3x07:3H) The Green‑Eyed Monster'
 - 'Hercules: The Legendary Journeys (3x08:3H) Prince Hercules'
 - 'Hercules: The Legendary Journeys (3x09:3H) A Star to Guide Them'
 - 'Hercules: The Legendary Journeys (3x10:4H) The Lady and the Dragon'
@@ -6471,17 +8575,17 @@ text:
 - 'Hercules: The Legendary Journeys (3x22:8H) Atlantis'
 - 'Hercules: The Legendary Journeys (4x01:1H) Beanstalks and Bad Eggs'
 - 'Hercules: The Legendary Journeys (4x02:1H) Hero’s Heart'
-- 'Hercules: The Legendary Journeys (4x03:1H) Regrets? I’ve Had a Few'
+- 'Hercules: The Legendary Journeys (4x03:1H) Regrets… I’ve Had a Few'
 - 'Hercules: The Legendary Journeys (4x04:2H) Web of Desire'
 - 'Hercules: The Legendary Journeys (4x05:2H) Stranger in a Strange World'
 - 'Hercules: The Legendary Journeys (4x06:2H) Two Men and a Baby'
 - 'Hercules: The Legendary Journeys (4x07:3H) Prodigal Sister'
-- 'Hercules: The Legendary Journeys (4x08:3H) ?And Fancy Free'
-- 'Hercules: The Legendary Journeys (4x09:3H) If I Had a Hammer?'
+- 'Hercules: The Legendary Journeys (4x08:3H) …⁠And Fancy Free'
+- 'Hercules: The Legendary Journeys (4x09:3H) If I Had a Hammer…'
 - 'Hercules: The Legendary Journeys (4x10:4H) Hercules on Trial'
 - 'Hercules: The Legendary Journeys (4x11:4H) Medea Culpa'
 - 'Hercules: The Legendary Journeys (4x12:4H) Men in Pink'
-- 'Hercules: The Legendary Journeys (4x13:5H) Armageddon Now'
+- 'Hercules: The Legendary Journeys (4x13\2:5H) Armageddon Now'
 - 'Hercules: The Legendary Journeys (4x15:5H) Yes, Virginia, There is a Hercules'
 - 'Hercules: The Legendary Journeys (4x16:6H) Porkules'
 - 'Hercules: The Legendary Journeys (4x17:6H) One Fowl Day'
@@ -6516,180 +8620,178 @@ text:
 - 'Hercules: The Legendary Journeys (6x02:1H) Love, Amazon Style'
 - 'Hercules: The Legendary Journeys (6x03:1H) Rebel With a Cause'
 - 'Hercules: The Legendary Journeys (6x04:2H) Darkness Visible'
-- 'Hercules: The Legendary Journeys (6x05:2H) Hercules, Tramps & Thieves'
+- 'Hercules: The Legendary Journeys (6x05:2H) Hercules, Tramps &amp; Thieves'
 - 'Hercules: The Legendary Journeys (6x06:2H) City of the Dead'
 - 'Hercules: The Legendary Journeys (6x07:3H) A Wicked Good Time'
 - 'Hercules: The Legendary Journeys (6x08:3H) Full Circle'
-- 'Hercules: the Legendary Journeys (H) Hercules and the Amazon Women'
-- Hercules, the Legendary Journeys (H) Hercules and the Lost Kingdom
-- Hercules, the Legendary Journeys (H) Hercules and the Circle of Fire
-- Hercules, the Legendary Journeys (H) Hercules in the Underworld
-- Hercules, the Legendary Journeys (H) Hercules in the Maze of the Minotaur
-- Xena, Warrior Princess (1x01:11H) Sins of the Past
-- Xena, Warrior Princess (1x02:11H) Chariots of War
-- Xena, Warrior Princess (1x03:11H) Dreamworker
-- Xena, Warrior Princess (1x04:11H) Cradle of Hope
-- Xena, Warrior Princess (1x05:12H) The Path Not Taken
-- Xena, Warrior Princess (1x06:12H) The Reckoning
-- Xena, Warrior Princess (1x07:12H) The Titans
-- Xena, Warrior Princess (1x08:12H) Prometheus
-- Xena, Warrior Princess (1x09:13H) Death in Chains
-- Xena, Warrior Princess (1x10:13H) Hooves & Harlots
-- Xena, Warrior Princess (1x11:13H) The Black Wolf
-- Xena, Warrior Princess (1x12:13H) Beware Greeks Bearing Gifts
-- Xena, Warrior Princess (1x13:21H) Athens City Academy of the Performing Bards
-- Xena, Warrior Princess (1x14:21H) A Fistful of Dinars
-- Xena, Warrior Princess (1x15:21H) Warrior? Princess
-- Xena, Warrior Princess (1x16:21H) Mortal Beloved
-- Xena, Warrior Princess (1x17:22H) The Royal Couple of Thieves
-- Xena, Warrior Princess (1x18:22H) The Prodigal
-- Xena, Warrior Princess (1x19:22H) Altared States
-- Xena, Warrior Princess (1x20:22H) Ties That Bind
-- Xena, Warrior Princess (1x21:23H) The Greater Good
-- Xena, Warrior Princess (1x22:23H) Callisto
-- Xena, Warrior Princess (1x23:23H) Death Mask
-- Xena, Warrior Princess (1x24:23H) Is There a Doctor in the House?
-- Xena, Warrior Princess (2x01:11H) Orphan of War
-- Xena, Warrior Princess (2x02:11H) Remember Nothing
-- Xena, Warrior Princess (2x03:11H) The Giant Killer
-- Xena, Warrior Princess (2x04:11H) Girls Just Wanna Have Fun
-- Xena, Warrior Princess (2x05:12H) Return of Callisto
-- Xena, Warrior Princess (2x06:12H) Warrior? Princess? Tramp
-- Xena, Warrior Princess (2x07:12H) Intimate Stranger
-- Xena, Warrior Princess (2x08:12H) Ten Little Warlords
-- Xena, Warrior Princess (2x09:13H) A Solstice Carol
-- Xena, Warrior Princess (2x10:13H) The Xena Scrolls
-- Xena, Warrior Princess (2x11:13H) Here She Comes? Miss Amphipolis
-- Xena, Warrior Princess (2x12:21H) Destiny
-- Xena, Warrior Princess (2x13:21H) The Quest
-- Xena, Warrior Princess (2x14:21H) A Necessary Evil
-- Xena, Warrior Princess (2x15:21H) A Day in the Life
-- Xena, Warrior Princess (2x16:22H) For Him The Bell Tolls
-- Xena, Warrior Princess (2x17:22H) The Execution
-- Xena, Warrior Princess (2x18:22H) Blind Faith
-- Xena, Warrior Princess (2x19:22H) Ulysses
-- Xena, Warrior Princess (2x20:23H) The Price
-- Xena, Warrior Princess (2x21:23H) Lost Mariner
-- Xena, Warrior Princess (2x22:23H) A Comedy of Eros
-- Xena, Warrior Princess (3x01:11H) The Furies
-- Xena, Warrior Princess (3x02:11H) Been There, Done That
-- Xena, Warrior Princess (3x03:11H) The Dirty Half Dozen
-- Xena, Warrior Princess (3x04:11H) The Deliverer
-- Xena, Warrior Princess (3x05:12H) Gabrielle’s Hope
-- Xena, Warrior Princess (3x06:12H) The Debt
-- Xena, Warrior Princess (3x07:12H) The King of Assassins
-- Xena, Warrior Princess (3x08:13H) Warrior? Priestess? Tramp
-- Xena, Warrior Princess (3x09:13H) The Quill Is Mightier?
-- Xena, Warrior Princess (3x10:13H) Maternal Instincts
-- Xena, Warrior Princess (3x11:21H) The Bitter Suite
-- Xena, Warrior Princess (3x12:21H) One Against an Army
-- Xena, Warrior Princess (3x13:21H) Forgiven
-- Xena, Warrior Princess (3x14:21H) King Con
-- Xena, Warrior Princess (3x15:22H) When In Rome?
-- Xena, Warrior Princess (3x16:22H) Forget Me Not
-- Xena, Warrior Princess (3x17:22H) Fins, Femmes and Gems
-- Xena, Warrior Princess (3x18:22H) Tsunami
-- Xena, Warrior Princess (3x19:23H) Vanishing Act
-- Xena, Warrior Princess (3x20:23H) Sacrifice
-- Xena, Warrior Princess (4x01:11H) Adventures in the Sin Trade
-- Xena, Warrior Princess (4x02:11H) A Family Affair
-- Xena, Warrior Princess (4x03:11H) In Sickness and In Hell
-- Xena, Warrior Princess (4x04:12H) A Good Day
-- Xena, Warrior Princess (4x05:12H) A Tale of Two Muses
-- Xena, Warrior Princess (4x06:12H) Locked Up and Tied Down
-- Xena, Warrior Princess (4x07:12H) Crusader
-- Xena, Warrior Princess (4x08:13H) Past Imperfect
-- Xena, Warrior Princess (4x09:13H) The Key to the Kingdom
-- Xena, Warrior Princess (4x10:13H) Daughter of Pomira
-- Xena, Warrior Princess (4x11:21H) If the Shoe Fits?
-- Xena, Warrior Princess (4x12:21H) Paradise Found
-- Xena, Warrior Princess (4x13:21H) Devi
-- Xena, Warrior Princess (4x14:21H) Between the Lines
-- Xena, Warrior Princess (4x15:22H) The Way
-- Xena, Warrior Princess (4x16:22H) The Play’s the Thing
-- Xena, Warrior Princess (4x17:22H) The Convert
-- Xena, Warrior Princess (4x18:22H) Takes One to Know One
-- Xena, Warrior Princess (4x19:23H) Endgame
-- Xena, Warrior Princess (4x20:23H) The Ides of March
-- Xena, Warrior Princess (4x21:23H) D?j? Vu All Over Again
-- Xena, Warrior Princess (5x01:11H) Fallen Angel
-- Xena, Warrior Princess (5x02:11H) Chakram
-- Xena, Warrior Princess (5x03:11H) Succession
-- Xena, Warrior Princess (5x04:11H) Animal Attraction
-- Xena, Warrior Princess (5x05:12H) Them Bones, Them Bones
-- Xena, Warrior Princess (5x06:12H) Purity
-- Xena, Warrior Princess (5x07:12H) Back in the Bottle
-- Xena, Warrior Princess (5x08:12H) Little Problems
-- Xena, Warrior Princess (5x09:13H) Seeds of Faith
-- Xena, Warrior Princess (5x10:13H) Lyre, Lyre, Hearts on Fire
-- Xena, Warrior Princess (5x11:13H) Punch Lines
-- Xena, Warrior Princess (5x12:21H) God Fearing Child
-- Xena, Warrior Princess (5x13:21H) Eternal Bonds
-- Xena, Warrior Princess (5x14:21H) Amphipolis Under Siege
-- Xena, Warrior Princess (5x15:21H) Married with Fishsticks
-- Xena, Warrior Princess (5x16:22H) Lifeblood
-- Xena, Warrior Princess (5x17:22H) Kindred Spirits
-- Xena, Warrior Princess (5x18:22H) Antony & Cleopatra
-- Xena, Warrior Princess (5x19:22H) Looking Death in the Eye
-- Xena, Warrior Princess (5x20:23H) Livia
-- Xena, Warrior Princess (5x21:23H) Eve
-- Xena, Warrior Princess (5x22:23H) Motherhood
-- Xena, Warrior Princess (6x01:11H) Coming Home
-- Xena, Warrior Princess (6x02:11H) The Haunting of Amphipolis
-- Xena, Warrior Princess (6x03:11H) Heart of Darkness
-- Xena, Warrior Princess (6x04:11H) Who’s Gurkhan?
-- Xena, Warrior Princess (6x05:12H) Legacy
-- Xena, Warrior Princess (6x06:12H) The Abyss
-- Xena, Warrior Princess (6x07:12H) The Rheingold
-- Xena, Warrior Princess (6x08:12H) The Ring
-- Xena, Warrior Princess (6x09:13H) Return of the Valkyrie
-- Xena, Warrior Princess (6x10:13H) Old Ares Had a Farm
-- Xena, Warrior Princess (6x11:13H) Dangerous Prey
-- Xena, Warrior Princess (6x12:21H) The God You Know
-- Xena, Warrior Princess (6x13:21H) You Are There
-- Xena, Warrior Princess (6x14:21H) Path of Vengeance
-- Xena, Warrior Princess (6x15:21H) To Helicon and Back
-- Xena, Warrior Princess (6x16:22H) Send in the Clones
-- Xena, Warrior Princess (6x17:22H) The Last of the Centaurs
-- Xena, Warrior Princess (6x18:22H) When Fates Collide
-- Xena, Warrior Princess (6x19:22H) Many Happy Returns
-- Xena, Warrior Princess (6x20:23H) Soul Possession
-- Xena, Warrior Princess (6x21:23H) Friend in Need
-- Yes, Minister (1x02:C) The Official Visit
-- Yes, Minister (1x01:C) Open Government
-- Yes, Minister (1x03:C) The Economy Drive
-- Yes, Minister (1x04:C) Big Brother
-- Yes, Minister (1x05:C) The Writing on the Wall
-- Yes, Minister (1x06:C) The Right to Know
-- Yes, Minister (1x07:C) Jobs for the Boys
-- Yes, Minister (2x01:C) The Compassionate Society
-- Yes, Minister (2x02:C) Doing the Honours
-- Yes, Minister (2x03:C) The Death List
-- Yes, Minister (2x04:C) The Greasy Pole
-- Yes, Minister (2x05:C) The Devil You Know
-- Yes, Minister (2x06:C) The Quality of Life
-- Yes, Minister (2x07:C) A Question of Loyalty
-- Yes, Minister (3x01:C) Equal Opportunities
-- Yes, Minister (3x02:C) The Challenge
-- Yes, Minister (3x03:C) The Skeleton in the Cupboard
-- Yes, Minister (3x04:C) The Moral Dimension
-- Yes, Minister (3x05:C) The Bed Of Nails
-- Yes, Minister (3x06:C) The Whisky Priest
-- Yes, Minister (3x07:C) The Middle-Class Rip-Off
-- Yes, Minister (3x08:C) Party Games
-- Yes, Prime Minister (1x01:1C) Grand Design
-- Yes, Prime Minister (1x02:1C) The Ministerial Broadcast
-- Yes, Prime Minister (1x03:1C) The Smoke Screen
-- Yes, Prime Minister (1x04:1C) The Key
-- Yes, Prime Minister (1x05:2C) A Real Partnership
-- Yes, Prime Minister (1x06:2C) A Victory For Democracy
-- Yes, Prime Minister (1x07:2C) The Bishop’s Gambit
-- Yes, Prime Minister (1x08:2C) One of Us?
-- Yes, Prime Minister (2x01:C) Man Overboard
-- Yes, Prime Minister (2x02:C) Official Secrets
-- Yes, Prime Minister (2x03:C) A Diplomatic Incident
-- Yes, Prime Minister (2x04:C) A Conflict of Interest
-- Yes, Prime Minister (2x05:C) Power To The People
-- Yes, Prime Minister (2x06:C) A Patron of the Arts
-- Yes, Prime Minister (2x07:C) The National Education Service
-- Yes, Prime Minister (2x08:C) The Tangled Web
+- Xena, Warrior Princess (1x01:1.1H) Sins of the Past
+- Xena, Warrior Princess (1x02:1.1H) Chariots of War
+- Xena, Warrior Princess (1x03:1.1H) Dreamworker
+- Xena, Warrior Princess (1x04:1.1H) Cradle of Hope
+- Xena, Warrior Princess (1x05:1.2H) The Path Not Taken
+- Xena, Warrior Princess (1x06:1.2H) The Reckoning
+- Xena, Warrior Princess (1x07:1.2H) The Titans
+- Xena, Warrior Princess (1x08:1.2H) Prometheus
+- Xena, Warrior Princess (1x09:1.3H) Death in Chains
+- Xena, Warrior Princess (1x10:1.3H) Hooves &amp; Harlots
+- Xena, Warrior Princess (1x11:1.3H) The Black Wolf
+- Xena, Warrior Princess (1x12:1.3H) Beware Greeks Bearing Gifts
+- Xena, Warrior Princess (1x13:2.1H) Athens City Academy of the Performing Bards
+- Xena, Warrior Princess (1x14:2.1H) A Fistful of Dinars
+- Xena, Warrior Princess (1x15:2.1H) Warrior… Princess
+- Xena, Warrior Princess (1x16:2.1H) Mortal Beloved
+- Xena, Warrior Princess (1x17:2.2H) The Royal Couple of Thieves
+- Xena, Warrior Princess (1x18:2.2H) The Prodigal
+- Xena, Warrior Princess (1x19:2.2H) Altared States
+- Xena, Warrior Princess (1x20:2.2H) Ties That Bind
+- Xena, Warrior Princess (1x21:2.3H) The Greater Good
+- Xena, Warrior Princess (1x22:2.3H) Callisto
+- Xena, Warrior Princess (1x23:2.3H) Death Mask
+- Xena, Warrior Princess (1x24:2.3H) Is There a Doctor in the House?
+- Xena, Warrior Princess (2x01:1.1H) Orphan of War
+- Xena, Warrior Princess (2x02:1.1H) Remember Nothing
+- Xena, Warrior Princess (2x03:1.1H) The Giant Killer
+- Xena, Warrior Princess (2x04:1.1H) Girls Just Wanna Have Fun
+- Xena, Warrior Princess (2x05:1.2H) Return of Callisto
+- Xena, Warrior Princess (2x06:1.2H) Warrior… ⁠Princess… Tramp
+- Xena, Warrior Princess (2x07:1.2H) Intimate Stranger
+- Xena, Warrior Princess (2x08:1.2H) Ten Little Warlords
+- Xena, Warrior Princess (2x09:1.3H) A Solstice Carol
+- Xena, Warrior Princess (2x10:1.3H) The Xena Scrolls
+- Xena, Warrior Princess (2x11:1.3H) Here She Comes… Miss Amphipolis
+- Xena, Warrior Princess (2x12:2.1H) Destiny
+- Xena, Warrior Princess (2x13:2.1H) The Quest
+- Xena, Warrior Princess (2x14:2.1H) A Necessary Evil
+- Xena, Warrior Princess (2x15:2.1H) A Day in the Life
+- Xena, Warrior Princess (2x16:2.2H) For Him The Bell Tolls
+- Xena, Warrior Princess (2x17:2.2H) The Execution
+- Xena, Warrior Princess (2x18:2.2H) Blind Faith
+- Xena, Warrior Princess (2x19:2.2H) Ulysses
+- Xena, Warrior Princess (2x20:2.3H) The Price
+- Xena, Warrior Princess (2x21:2.3H) Lost Mariner
+- Xena, Warrior Princess (2x22:2.3H) A Comedy of Eros
+- Xena, Warrior Princess (3x01:1.1H) The Furies
+- Xena, Warrior Princess (3x02:1.1H) Been There, Done That
+- Xena, Warrior Princess (3x03:1.1H) The Dirty Half Dozen
+- Xena, Warrior Princess (3x04:1.1H) The Deliverer
+- Xena, Warrior Princess (3x05:1.2H) Gabrielle’s Hope
+- Xena, Warrior Princess (3x06\2:1.2H) The Debt
+- Xena, Warrior Princess (3x07:1.2H) The King of Assassins
+- Xena, Warrior Princess (3x08:1.3H) Warrior… ⁠Priestess… Tramp
+- Xena, Warrior Princess (3x09:1.3H) The Quill Is Mightier…
+- Xena, Warrior Princess (3x10:1.3H) Maternal Instincts
+- Xena, Warrior Princess (3x11:2.1H) The Bitter Suite
+- Xena, Warrior Princess (3x12:2.1H) One Against an Army
+- Xena, Warrior Princess (3x13:2.1H) Forgiven
+- Xena, Warrior Princess (3x14:2.1H) King Con
+- Xena, Warrior Princess (3x15:2.2H) When In Rome…
+- Xena, Warrior Princess (3x16:2.2H) Forget Me Not
+- Xena, Warrior Princess (3x17:2.2H) Fins, Femmes and Gems
+- Xena, Warrior Princess (3x18:2.2H) Tsunami
+- Xena, Warrior Princess (3x19:2.3H) Vanishing Act
+- Xena, Warrior Princess (3x20\2:2.3H) Sacrifice
+- Xena, Warrior Princess (4x01\2:1.1H) Adventures in the Sin Trade
+- Xena, Warrior Princess (4x02:1.1H) A Family Affair
+- Xena, Warrior Princess (4x03:1.1H) In Sickness and In Hell
+- Xena, Warrior Princess (4x04:1.2H) A Good Day
+- Xena, Warrior Princess (4x05:1.2H) A Tale of Two Muses
+- Xena, Warrior Princess (4x06:1.2H) Locked Up and Tied Down
+- Xena, Warrior Princess (4x07:1.2H) Crusader
+- Xena, Warrior Princess (4x08:1.3H) Past Imperfect
+- Xena, Warrior Princess (4x09:1.3H) The Key to the Kingdom
+- Xena, Warrior Princess (4x10:1.3H) Daughter of Pomira
+- Xena, Warrior Princess (4x11:2.1H) If the Shoe Fits…
+- Xena, Warrior Princess (4x12:2.1H) Paradise Found
+- Xena, Warrior Princess (4x13:2.1H) Devi
+- Xena, Warrior Princess (4x14:2.1H) Between the Lines
+- Xena, Warrior Princess (4x15:2.2H) The Way
+- Xena, Warrior Princess (4x16:2.2H) The Play’s the Thing
+- Xena, Warrior Princess (4x17:2.2H) The Convert
+- Xena, Warrior Princess (4x18:2.2H) Takes One to Know One
+- Xena, Warrior Princess (4x19:2.3H) Endgame
+- Xena, Warrior Princess (4x20:2.3H) The Ides of March
+- Xena, Warrior Princess (4x21:2.3H) Déjà Vu All Over Again
+- Xena, Warrior Princess (5x01:1.1H) Fallen Angel
+- Xena, Warrior Princess (5x02:1.1H) Chakram
+- Xena, Warrior Princess (5x03:1.1H) Succession
+- Xena, Warrior Princess (5x04:1.1H) Animal Attraction
+- Xena, Warrior Princess (5x05:1.2H) Them Bones, Them Bones
+- Xena, Warrior Princess (5x06:1.2H) Purity
+- Xena, Warrior Princess (5x07:1.2H) Back in the Bottle
+- Xena, Warrior Princess (5x08:1.2H) Little Problems
+- Xena, Warrior Princess (5x09:1.3H) Seeds of Faith
+- Xena, Warrior Princess (5x10:1.3H) Lyre, Lyre, Hearts on Fire
+- Xena, Warrior Princess (5x11:1.3H) Punch Lines
+- Xena, Warrior Princess (5x12:2.1H) God Fearing Child
+- Xena, Warrior Princess (5x13:2.1H) Eternal Bonds
+- Xena, Warrior Princess (5x14:2.1H) Amphipolis Under Siege
+- Xena, Warrior Princess (5x15:2.1H) Married with Fishsticks
+- Xena, Warrior Princess (5x16:2.2H) Lifeblood
+- Xena, Warrior Princess (5x17:2.2H) Kindred Spirits
+- Xena, Warrior Princess (5x18:2.2H) Antony &amp; Cleopatra
+- Xena, Warrior Princess (5x19:2.2H) Looking Death in the Eye
+- Xena, Warrior Princess (5x20:2.3H) Livia
+- Xena, Warrior Princess (5x21:2.3H) Eve
+- Xena, Warrior Princess (5x22:2.3H) Motherhood
+- Xena, Warrior Princess (6x01:1.1H) Coming Home
+- Xena, Warrior Princess (6x02:1.1H) The Haunting of Amphipolis
+- Xena, Warrior Princess (6x03:1.1H) Heart of Darkness
+- Xena, Warrior Princess (6x04:1.1H) Who’s Gurkhan?
+- Xena, Warrior Princess (6x05:1.2H) Legacy
+- Xena, Warrior Princess (6x06:1.2H) The Abyss
+- Xena, Warrior Princess (6x07:1.2H) The Rheingold
+- Xena, Warrior Princess (6x08:1.2H) The Ring
+- Xena, Warrior Princess (6x09:1.3H) Return of the Valkyrie
+- Xena, Warrior Princess (6x10:1.3H) Old Ares Had a Farm
+- Xena, Warrior Princess (6x11:1.3H) Dangerous Prey
+- Xena, Warrior Princess (6x12:2.1H) The God You Know
+- Xena, Warrior Princess (6x13:2.1H) You Are There
+- Xena, Warrior Princess (6x14:2.1H) Path of Vengeance
+- Xena, Warrior Princess (6x15:2.1H) To Helicon and Back
+- Xena, Warrior Princess (6x16:2.2H) Send in the Clones
+- Xena, Warrior Princess (6x17:2.2H) The Last of the Centaurs
+- Xena, Warrior Princess (6x18:2.2H) When Fates Collide
+- Xena, Warrior Princess (6x19:2.2H) Many Happy Returns
+- Xena, Warrior Princess (6x20:2.3H) Soul Possession
+- Xena, Warrior Princess (6x21\2:2.3H) Friend in Need
+- Yes, Minister (1x01:1C) Open Government
+- Yes, Minister (1x02:1C) The Official Visit
+- Yes, Minister (1x03:1C) The Economy Drive
+- Yes, Minister (1x04:1C) Big Brother
+- Yes, Minister (1x05:1C) The Writing on the Wall
+- Yes, Minister (1x06:1C) The Right to Know
+- Yes, Minister (1x07:1C) Jobs for the Boys
+- Yes, Minister (2x01:2C) The Compassionate Society
+- Yes, Minister (2x02:2C) Doing the Honours
+- Yes, Minister (2x03:2C) The Death List
+- Yes, Minister (2x04:2C) The Greasy Pole
+- Yes, Minister (2x05:2C) The Devil You Know
+- Yes, Minister (2x06:2C) The Quality of Life
+- Yes, Minister (2x07:2C) A Question of Loyalty
+- Yes, Minister (3x01:3C) Equal Opportunities
+- Yes, Minister (3x02:3C) The Challenge
+- Yes, Minister (3x03:3C) The Skeleton in the Cupboard
+- Yes, Minister (3x04:3C) The Moral Dimension
+- Yes, Minister (3x05:3C) The Bed Of Nails
+- Yes, Minister (3x06:4C) The Whisky Priest
+- Yes, Minister (3x07:4C) The Middle‑Class Rip‑Off
+- Yes, Minister (3x08:4C) Party Games
+- Yes, Prime Minister (1x01:5.1C) Grand Design
+- Yes, Prime Minister (1x02:5.1C) The Ministerial Broadcast
+- Yes, Prime Minister (1x03:5.1C) The Smoke Screen
+- Yes, Prime Minister (1x04:5.1C) The Key
+- Yes, Prime Minister (1x05:5.2C) A Real Partnership
+- Yes, Prime Minister (1x06:5.2C) A Victory For Democracy
+- Yes, Prime Minister (1x07:5.2C) The Bishop’s Gambit
+- Yes, Prime Minister (1x08:5.2C) One of Us?
+- Yes, Prime Minister (2x01:6C) Man Overboard
+- Yes, Prime Minister (2x02:6C) Official Secrets
+- Yes, Prime Minister (2x03:6C) A Diplomatic Incident
+- Yes, Prime Minister (2x04:6C) A Conflict of Interest
+- Yes, Prime Minister (2x05:6C) Power To The People
+- Yes, Prime Minister (2x06:7C) A Patron of the Arts
+- Yes, Prime Minister (2x07:7C) The National Education Service
+- Yes, Prime Minister (2x08:7C) The Tangled Web
+- (306B) Young Einstein
+- (273B) Young Frankenstein
+- (310B) Zoolander

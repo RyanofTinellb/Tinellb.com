@@ -62,8 +62,8 @@ entries:
               - …to herself. She was the only one left, now. Who else was there to be true to? With a single motion, she erased her slate and began again. With shaking hands, she formed the glyphs for her <em>real</em> name, D‑E‑T‑S‑O‑R‑A.
               title: Detsora’s Diary
             Episode List:
-              date: '2025-03-25'
-              position: '12.61'
+              date: '2025-09-09'
+              position: '30.7'
               text:
               - <h1>Episodes of Stuff I’ve Got</h1>
               - <span>top</span>
@@ -80,7 +80,7 @@ entries:
               - Default – Groups TV series set in the same universe together.</ul></javascript>
               - <h2>Episodes of Stuff I’ve Got</h2>
               - <eplist>put here</eplist>
-              - <noscript><ul>eplist</ul></noscript>
+              - <noscript><ul><template>eplist</template></ul></noscript>
               - <arrow-left>top</arrow-left><javascript>
               - <sorts><checkbox>series|series</checkbox> <label-for>series|Show Series Name</label-for>
               - <checkbox>showFilm|films</checkbox> <label-for>showFilm|Films</label-for>

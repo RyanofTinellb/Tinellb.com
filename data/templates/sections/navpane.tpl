@@ -27,7 +27,7 @@ styles:
     type: toc
   ul: ul
 templates:
-  magnifyingglass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying_glass.tpl
+  magnifyingglass: c:\users\ryan\tinellbianlanguages\www\data\templates\svg\magnifying_glass.tpl
 text:
 - <nav|sidebar><details#menu><summary>Menu</summary>
 - <a><link>index</link>|<entry-data>root</entry-data></a>

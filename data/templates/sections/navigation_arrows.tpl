@@ -3,10 +3,10 @@ styles:
   error: error
   nav|mini: block
   next:
-    param: $link:next$|$text$
+    param: $next$|$text$
     type: anchor
   previous:
-    param: $link:previous$|$text$
+    param: $previous$|$text$
     type: anchor
 text:
 - <nav|mini><previous>← Previous Page<error><a>http://www.tinellb.com|↑ Back to Main</a></error></previous>

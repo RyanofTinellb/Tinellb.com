@@ -1,5 +1,6 @@
 a:
-  param: $link:lookup:external$|$text$
+  param: $lookup$|$node$
+  category: external
   props:
     colour: '#0000ff'
     underline: true
@@ -67,7 +68,8 @@ h2:
 h2-links:
   close: </h2>
   open: <h2>
-  param: <a href="$link:lookup:external$">$node$</a>
+  param: <a href="$lookup$">$node$</a>
+  category: external
   props:
     background: '#ccccdd'
     font: Gadugi
@@ -87,7 +89,7 @@ label-for:
 mailto:
   close: </a>
   open: <a href="
-  param: mailto:$text$|$text$
+  param: mailto:$text$|$node$
   pipe: '">'
   props:
     colour: '#339933'
@@ -114,7 +116,8 @@ slot:
 sort-button:
   close: </button>
   open: '<button type="submit" name="sort" '
-  param: id="$url(text)$" value="$url(text)$" title="$lookup:sorts$"|$node$
+  param: id="$grammar(text)$" value="$grammar(text)$" title="$lookup$"|$node$
+  category: sorts
   pipe: '>'
   type: line
 sorts:

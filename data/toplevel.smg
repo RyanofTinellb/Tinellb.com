@@ -1,34 +1,34 @@
 assets:
-  searchindex: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\searching.json
-  source: c:\users\ryan\tinellbianlanguages\toplevel\data\data.src
+  searchindex: c:\users\ryan\tinellbianlanguages\www\data\assets\searching.json
+  source: c:\users\ryan\tinellbianlanguages\www\data\data.src
 entries:
 - - Welcome to Tinellb!
   - Sections
   - Episode List
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
-languages: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\languages.yml
+languages: c:\users\ryan\tinellbianlanguages\www\data\assets\languages.yml
 links:
-  external: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\external.glk
-  sorts: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\sorts.glk
+  external: c:\users\ryan\tinellbianlanguages\www\data\assets\external.glk
+  sorts: c:\users\ryan\tinellbianlanguages\www\data\assets\sorts.glk
 locations:
-  directory: c:\users\ryan\tinellbianlanguages\toplevel
-  page404: c:\users\ryan\tinellbianlanguages\toplevel\404.html
-  search: c:\users\ryan\tinellbianlanguages\toplevel\special\search.html
-  wholepage: c:\users\ryan\tinellbianlanguages\toplevel\special\wholepage.html
+  directory: c:\users\ryan\tinellbianlanguages\www
+  page404: c:\users\ryan\tinellbianlanguages\www\404.html
+  search: c:\users\ryan\tinellbianlanguages\www\special\search.html
+  wholepage: c:\users\ryan\tinellbianlanguages\www\special\wholepage.html
 port: 40460
-styles: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\styles.tag
+styles: c:\users\ryan\tinellbianlanguages\www\data\assets\styles.tag
 templates:
-  entry: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\entry.tpl
-  main: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\page.tpl
+  entry: c:\users\ryan\tinellbianlanguages\www\data\templates\entry.tpl
+  main: c:\users\ryan\tinellbianlanguages\www\data\templates\page.tpl
   sections:
-    basesearch: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\base_search.tpl
-    copyright: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\copyright.tpl
-    eplist: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\eplist.tpl
-    magnifyingglass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying_glass.tpl
-    mini-nav: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\navigation_arrows.tpl
-    navigationpane: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\navpane.tpl
+    basesearch: c:\users\ryan\tinellbianlanguages\www\data\templates\base_search.tpl
+    copyright: c:\users\ryan\tinellbianlanguages\www\data\templates\sections\copyright.tpl
+    eplist: c:\users\ryan\tinellbianlanguages\www\data\templates\sections\eplist.tpl
+    magnifyingglass: c:\users\ryan\tinellbianlanguages\www\data\templates\svg\magnifying_glass.tpl
+    mini-nav: c:\users\ryan\tinellbianlanguages\www\data\templates\sections\navigation_arrows.tpl
+    navigationpane: c:\users\ryan\tinellbianlanguages\www\data\templates\sections\navpane.tpl
   special:
-    page404: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\search404.tpl
-    search: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\search.tpl
-    wholepage: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\wholepage.tpl
+    page404: c:\users\ryan\tinellbianlanguages\www\data\templates\search404.tpl
+    search: c:\users\ryan\tinellbianlanguages\www\data\templates\search.tpl
+    wholepage: c:\users\ryan\tinellbianlanguages\www\data\templates\wholepage.tpl
 url: http://www.tinellb.com

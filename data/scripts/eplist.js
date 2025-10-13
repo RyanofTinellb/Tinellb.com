@@ -241,12 +241,8 @@ function NameWithoutSeries(ep) {
 
 function Multi(ep) {
     let multi = ep.multi;
-    if (multi === undefined || typeof multi === 'number') {
-        return '';
-    }
-    if (typeof multi === "string") {
-        return `${multi}: `;
-    }
+    if (typeof multi === "string") { return `${multi}: `; }
+    if (multi === undefined || typeof multi === 'number' || !multi.name) { return ''; }
     return `${multi.name}: `
 
 }

@@ -148,7 +148,7 @@ function display(pages, data, terms) {
             let name = data.pages[pagenum];
             let lines = page.lines.map(
                 linenum => embolden(regexes, data.lines[linenum]));
-            return `<li><a href="../${link}">${name}</a>: ${lines.join(' &hellip; ')}</li>`;
+            return `<li><a href="../${link}#highlight">${name}</a>: ${lines.join(' &hellip; ')}</li>`;
         }).join('')}</ol>`}`;
 }
 

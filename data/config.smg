@@ -31,4 +31,4 @@ templates:
     page404: c:\users\ryan\tinellbianlanguages\www\data\templates\search404.tpl
     search: c:\users\ryan\tinellbianlanguages\www\data\templates\search.tpl
     wholepage: c:\users\ryan\tinellbianlanguages\www\data\templates\wholepage.tpl
-url: http://www.tinellb.com
+url: www.tinellb.com

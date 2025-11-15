@@ -74,7 +74,7 @@ function createTable(term, definition) {
 
 function filterShows() {
     box.innerHTML = "";
-    let value = textShows.value;
+    let value = textShows.value.toLowerCase();
     let list = namesList.filter(a => a.text.toLowerCase().includes(value));
     list.forEach(a => box.add(a));
     select();
@@ -82,7 +82,7 @@ function filterShows() {
 
 function filterOne() {
     seriesOne.innerHTML = "";
-    let value = textOne.value;
+    let value = textOne.value.toLowerCase();
     let list = showOneList.filter(a => a.text.toLowerCase().includes(value));
     list.forEach(a => seriesOne.add(a));
     shows();
@@ -90,7 +90,7 @@ function filterOne() {
 
 function filterTwo() {
     seriesTwo.innerHTML = "";
-    let value = textTwo.value;
+    let value = textTwo.value.toLowerCase();
     let list = showTwoList.filter(a => a.text.toLowerCase().includes(value));
     list.forEach(a => seriesTwo.add(a));
     shows();
@@ -104,7 +104,9 @@ function shows() {
     if (one == two) {
         for (let actor of d) {
             console.log(actor);
-            createTable(actor[0], Array.from(Object.keys(actor[1])).join('<br>'));
+            k = Array.from(Object.entries(actor[1])).map(a => a.toReversed().join(' (') + ')');
+            console.log(k);
+            createTable(actor[0], k.join('<br>'));
         }
     } else {
         for (let actor of d) {

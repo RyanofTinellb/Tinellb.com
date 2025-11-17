@@ -24,7 +24,7 @@ const createLine = entry => `<li><a href="../lex/${createUrl(entry.t)}">${entry.
     + `(${entry.l}) <em>${entry.d}</em></li>`;
 
 if (RESULTS) {
-    RESULTS.innerHTML = 'Searching...';
+    RESULTS.innerHTML = 'Searching…';
     let query = decodeURI(getTerms());
     if (SEARCHBOX) SEARCHBOX.value = query;
     if (SEARCH) SEARCH.value = query;

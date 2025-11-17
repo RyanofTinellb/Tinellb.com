@@ -1,5 +1,5 @@
 async function searchterms() {
-    document.getElementById('results').innerHTML = 'Searching...';
+    document.getElementById('results').innerHTML = 'Searching…';
     let data = await fetch('/data/assets/searching.json');
     data = await data.json();
     display(data, 'results');

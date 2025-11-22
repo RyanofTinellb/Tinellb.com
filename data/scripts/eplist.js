@@ -1,3 +1,4 @@
+const FILENAME = "/data/assets/eplist.json"
 let seen;
 
 const SORTS = {
@@ -96,7 +97,7 @@ async function openEpList() {
     let displayedItems = ALLOWED_TYPES.map(type => searchParams.get(type) == 'on' ? TYPES[type] : false)
         .filter(item => item);
     displayedItems.forEach(type => document.getElementById('show' + type).checked = true);
-    data = await fetch("/data/assets/eplist.json");
+    data = await fetch(FILENAME);
     data = await data.json();
     data = data.filter(displayedItems.length ? customSelection(displayedItems) : defaultSelection);
     data.forEach((ep, index) => ep.index = index);

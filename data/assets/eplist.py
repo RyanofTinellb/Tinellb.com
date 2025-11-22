@@ -1,11 +1,11 @@
 # pylint: disable=all
 
 import json
-import tkinter.ttk as ttk
 import tkinter as Tk
 import tkinter.simpledialog as sd
-from urllib.request import urlopen as open_url
+import tkinter.ttk as ttk
 from contextlib import contextmanager
+from urllib.request import urlopen as open_url
 
 
 @contextmanager

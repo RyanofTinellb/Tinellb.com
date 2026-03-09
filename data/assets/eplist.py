@@ -45,6 +45,7 @@ class WalletBox(FillBox):
                    'M': 'Brown Box',
                    'P': 'Dark Blue Covered Wallet',
                    'R': 'Blue and Dark Gray Wallet',
+                   'S': 'Big Silver Box',
                    'T': 'Black Box',
                    'U': 'Velcro Tabbed Black Wallet',
                    'W': 'Khaki Camoflage Covered Wallet'}

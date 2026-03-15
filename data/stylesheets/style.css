@@ -111,6 +111,8 @@ nav.sidebar form.sorts {
     font-size: 15px;
     padding: 0;
     text-align: center;
+    position: relative;
+    z-index: 100;
 }
 
 .sorts button.selected {

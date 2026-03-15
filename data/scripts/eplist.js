@@ -20,13 +20,12 @@ const TYPES = {
     'starts': 'Start',
     'ends': 'End',
     'specials': 'Special',
-    'gaps': 'Gap'
 }
 
 const ALLOWED_SORTS = ['airdate', 'calendar', 'default', 'title', 'length', 'wallet', 'random'];
 
 const ALLOWED_TYPES = [
-    'films', 'movies', 'miniseries', 'premieres', 'finales', 'starts', 'ends', 'specials', 'gaps']
+    'films', 'movies', 'miniseries', 'premieres', 'finales', 'starts', 'ends', 'specials']
 
 appendControlsToNavPane();
 let eplist = document.getElementsByClassName("eplist")[0];
@@ -86,7 +85,7 @@ const WALLETS = {
 
 const MONTHS = [undefined, "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
-defaultSelection = ep => ep.type != "Gap" && ep.type != "Special";
+defaultSelection = ep => ep.type != "Special";
 customSelection = items => ep => items.includes(ep.type);
 
 async function openEpList() {

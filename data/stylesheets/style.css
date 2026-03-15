@@ -168,6 +168,16 @@ nav.sidebar form.sorts {
     color: lightblue;
 }
 
+.warning {
+    color: light-dark(green, lightblue);
+    &::before {
+        content: '{'
+    }
+    &::after {
+        content: '}'
+    }
+}
+
 @media screen and (max-width: 800px) {
     input:checked+div {
         display: block;

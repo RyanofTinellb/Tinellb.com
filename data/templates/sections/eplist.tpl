@@ -4293,7 +4293,7 @@ text:
 - Murder, She Wrote (4x11:813B) Doom with a View
 - Murder, She Wrote (4x12:813B) Who Threw the Barbitals in Mrs. Fletcher’s Chowder?
 - Murder, She Wrote (4x13:814B) Harbinger of Death
-- Murder, She Wrote (4x14:814B) Curse of the Daanau
+- Murder, She Wrote (4x14:814B) Curse of the Daanav
 - Murder, She Wrote (4x15:814B) Mourning Among the Wisterias
 - Murder, She Wrote (4x16:814B) Murder Through the Looking Glass
 - Murder, She Wrote (4x17:815B) A Very Good Year for Murder

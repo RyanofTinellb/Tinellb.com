@@ -31,14 +31,29 @@
   }
 
   section {
-    columns: 40ch;
-    margin-block-start: 20px;
     padding-block-end: 3lh;
     border-bottom: 2px solid #999;
   }
 
+  section:not(:has(article)) {
+    columns: 40ch;
+    margin-block-start: 20px;
+  }
+
+  section:has(article) {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: space-between;
+  }
+
   section:not(:first-child) {
     padding-block-start: 3lh;
+  }
+
+  article {
+    flex: auto;
+    width: fit-content;
   }
 
   .ingredient {
@@ -108,7 +123,7 @@
     <p class="maker" style="color: #33f"><img src="Fabric.png" />33f: Cloth</p>
     <p class="maker" style="color: #f99"><img src="Explosive.png" />f99: Trinitrotoluene <code>TNT</code></p>
     <p class="maker" style="color: #c69"><img src="Fusion_Energy_Cell.png" />c69: Mr. Fusion</p>
-    <p class="maker" style="color: #f06"><img src="T2_Drone.png" />f06: Drone</p>
+    <p class="maker" style="color: #f06"><img src="T2_Drone.png" />f06: Courier</p>
     <p style="color: #f33"><img src="Access_Card.png" />f33: Access</p>
     <h2>Fuses</h2>
     <p class="maker" style="color: #cc6"><img src="Fuse_Cartridge.png" />cc6: <span class="ingredient">Fuse</span></p>
@@ -221,97 +236,127 @@
   </section>
   <output id="spares"></output>
   <section>
-    <p style="color: #699"><img src="Iron.png">699: Ferrum <code>Fe</code></p>
-    <p style="color: #966;"><img src="Silicon.png">966: Silicon<code>Si</code></p>
-    <p style="color: #669;"><img src="Cobalt.png">669: Cobalt <code>Co</code></p>
-    <p style="color: #999"><img src="Aluminum.png">999: Aluminium <code>Al</code></p>
-    <p style="color: #c9f"><img src="Super_Alloy.png">c9f: Tourmaline <code>To</code></p>
-    <p style="color: #c63"><img src="Iridium.png">c63: Iridium <code>Ir</code></p>
-    <p style="color: #0f0"><img src="Uranium.png">0f0: Uranium <code>U</code></p>
-    <p style="color: #f93"><img src="Iridium_Rod.png">f93: Iridium rod <code>Ir<sub>9</sub></code></p>
-    <p style="color: #00f; background-color: #ccc; width: fit-content;"><img src="Osmium.png">00f: Osmium
-      <code>Os</code>
-    </p>
-    <p style="color: #ff0"><img src="Sulfur.png">ff0: Sulphur <code>S</code></p>
-    <p style="color: #fff"><img src="Zeolite.png">fff: Zeolite <code>Z</code></p>
-    <p style="color: #906"><img src="Obsidian.png">906: Dragonglass <code>Dg</code></p>
-    <p style="color: #366"><img src="Selenium.png">366: Naquadah <code>Se</code></p>
-    <p style="color: #ccf"><img src="Phosphorus.png">ccf: Trinium <code>P</code></p>
-    <p style="color: #36c"><img src="Water_Bottle.png">36c: Bar <code>OH<sub>2</sub></code></p>
-    <p style="color: #399"><img src="Methane_cartridge.png">399: Methane <code>CH<sub>4</sub></code></p>
-    <p style="color: #f6f"><img src="Nitrogen_cartridge.png">f6f: Nitrogen <code>N<sub>2</sub></code></p>
-    <p style="color: #fcc"><img src="Silk.png">fcc: Silk</p>
-    <p style="color: #cfc"><img src="Algae.png">cfc: Alga</p>
-    <p style="color: #39c"><img src="Genetic_Trait.png">39c: DNA</p>
-    <p style="color: #6f6"><img src="Beans.png">6f6: Fava</p>
-    <p style="color: #ff9"><img src="Squash.png">ff9: Squish</p>
-    <p style="color: #f96"><img src="Mushroom.png">f96: Shroom</p>
-    <p style="color: #936"><img src="Eggplant.png">936: Eggle</p>
-    <p style="color: #c90"><img src="Honey.png">c90: Honey</p>
-    <p style="color: #9c0"><img src="Seed_Tuska.png">9c0: Tuska</p>
-    <p style="color: #c6f"><img src="Plant_Orema.png">c6f: Orema</p>
-    <p style="color: #630"><img src="Plant_Volnus.png">630: Volnus</p>
-    <p style="color: #fc0"><img src="Common_Larva.png">fc0: Imago</p>
-    <p style="color: #f36"><img src="Rare_Larva.png">f36: Nymph</p>
-    <p style="color: #c93"><img src="Bee_Larva.png">c93: Bee</p>
-    <p style="color: #fc9"><img src="Silk_Worm.png">fc9: Silky</p>
+    <article>
+      <p style="color: #699"><img src="Iron.png">699: Ferrum <code>Fe</code></p>
+      <p style="color: #966;"><img src="Silicon.png">966: Silicon<code>Si</code></p>
+      <p style="color: #669;"><img src="Cobalt.png">669: Cobalt <code>Co</code></p>
+      <p style="color: #999"><img src="Aluminum.png">999: Aluminium <code>Al</code></p>
+      <p style="color: #c9f"><img src="Super_Alloy.png">c9f: Tourmaline <code>To</code></p>
+      <p style="color: #c63"><img src="Iridium.png">c63: Iridium <code>Ir</code></p>
+      <p style="color: #0f0"><img src="Uranium.png">0f0: Uranium <code>U</code></p>
+    </article>
+    <article>
+      <p style="color: #f93"><img src="Iridium_Rod.png">f93: Iridium rod <code>Ir<sub>9</sub></code></p>
+      <p style="color: #00f; background-color: #ccc; width: fit-content;"><img src="Osmium.png">00f: Osmium
+        <code>Os</code>
+      </p>
+      <p style="color: #ff0"><img src="Sulfur.png">ff0: Sulphur <code>S</code></p>
+      <p style="color: #fff"><img src="Zeolite.png">fff: Zeolite <code>Z</code></p>
+      <p style="color: #906"><img src="Obsidian.png">906: Dragonglass <code>Dg</code></p>
+      <p style="color: #366"><img src="Selenium.png">366: Naquadah <code>Se</code></p>
+      <p style="color: #ccf"><img src="Phosphorus.png">ccf: Trinium <code>P</code></p>
+    </article>
+    <article>
+      <p style="color: #36c"><img src="Water_Bottle.png">36c: Bar <code>OH<sub>2</sub></code></p>
+      <p style="color: #399"><img src="Methane_cartridge.png">399: Methane <code>CH<sub>4</sub></code></p>
+      <p style="color: #f6f"><img src="Nitrogen_cartridge.png">f6f: Nitrogen <code>N<sub>2</sub></code></p>
+      <p style="color: #fcc"><img src="Silk.png">fcc: Silk</p>
+      <p style="color: #cfc"><img src="Algae.png">cfc: Alga</p>
+      <p style="color: #39c"><img src="Genetic_Trait.png">39c: DNA</p>
+    </article>
+    <article>
+      <p style="color: #6f6"><img src="Beans.png">6f6: Fava</p>
+      <p style="color: #ff9"><img src="Squash.png">ff9: Squish</p>
+      <p style="color: #f96"><img src="Mushroom.png">f96: Shroom</p>
+      <p style="color: #936"><img src="Eggplant.png">936: Eggle</p>
+      <p style="color: #c90"><img src="Honey.png">c90: Honey</p>
+    </article>
+    <article>
+      <p style="color: #9c0"><img src="Seed_Tuska.png">9c0: Tuska</p>
+      <p style="color: #c6f"><img src="Plant_Orema.png">c6f: Orema</p>
+      <p style="color: #630"><img src="Plant_Volnus.png">630: Volnus</p>
+      <p style="color: #fc0"><img src="Common_Larva.png">fc0: Imago</p>
+      <p style="color: #f36"><img src="Rare_Larva.png">f36: Nymph</p>
+      <p style="color: #c93"><img src="Bee_Larva.png">c93: Bee</p>
+      <p style="color: #fc9"><img src="Silk_Worm.png">fc9: Silky</p>
+    </article>
   </section>
   <section>
-    <p style="color: #f0f"><img src="Pulsar_Quartz.png">f0f: Rose</p>
-    <p style="color: #69f"><img src="Blazar_Quartz.png">69f: Dumortierite</p>
-    <p style="color: #9f9"><img src="Quasar_Quartz.png">9f9: Chrysoprase</p>
-    <p style="color: #ff6"><img src="Solar_Quartz.png">ff6: Citrine</p>
-    <p style="color: #96f"><img src="Cosmic_Quartz.png">96f: Jasper</p>
-    <p style="color: #f00"><img src="Explosive_powder.png">f00: Nitro</p>
-    <p style="color: #f90"><img src="Bioplastic_Nugget.png">f90: Nugg</p>
-    <p style="color: #090"><img src="Circuit_Board.png">090: Printed circuit board <code>PCB</code></p>
-    <p style="color: #9cc"><img src="Rocket_Engine.png">9cc: Soyuz</p>
-    <p style="color: #39f"><img src="T2_Rocket_Engine.png">39f: Saturn</p>
-    <p style="color: #33f"><img src="Fabric.png">33f: Cloth</p>
-    <p style="color: #f99"><img src="Explosive.png">f99: Trinitrotoluene <code>TNT</code></p>
-    <p style="color: #c69"><img src="Fusion_Energy_Cell.png">c69: Mr. Fusion</p>
-    <p style="color: #f06"><img src="T2_Drone.png">f06: Drone</p>
-    <p style="color: #cc6"><img src="Fuse_Cartridge.png">cc6: Fuse</p>
-    <p style="color: #c66"><img src="Insects_Multiplier_Fuse.png">c66: Insect</p>
-    <p style="color: #6cc"><img src="Animals_Multiplier_Fuse.png">6cc: Animal</p>
-    <p style="color: #f9f"><img src="Energy_Multiplier_Fuse.png">f9f: Power</p>
-    <p style="color: #9c9"><img src="Growth_Multiplier_Fuse.png">9c9: Farming</p>
-    <p style="color: #fc3"><img src="Trade_Rocket_Multiplier_Fuse.png">fc3: Trading</p>
-    <p style="color: #0f9"><img src="Honey_Cooked_Beans.png">0f9: Restaurant</p>
-    <p style="color: #666"><img src="Fertilizer.png">666: Compost</p>
-    <p style="color: #060"><img src="T2_Fertilizer.png">060: Mulch</p>
-    <p style="color: #9fc"><img src="T3_Fertilizer.png">9fc: Bone</p>
-    <p style="color: #9cf"><img src="Bacteria_Sample.png">9cf: Bacta</p>
-    <p style="color: #09f"><img src="Mutagen.png">09f: Terrigen</p>
-    <p style="color: #90f"><img src="T2_Mutagen.png">90f: Ooze</p>
-    <p style="color: #c30"><img src="T3_Mutagen.png">c30: GC-161</p>
-    <p style="color: #ff3"><img src="T4_Mutagen.png">ff3: Vespene</p>
-    <p style="color: #c99"><img src="T1_Animal_Food.png">c99: Pal</p>
-    <p style="color: #933"><img src="T2_Animal_Food.png">933: Chum</p>
-    <p style="color: #c36"><img src="T3_Animal_Food.png">c36: Whiskas</p>
+    <article>
+      <p style="color: #f00"><img src="Explosive_powder.png">f00: Nitro</p>
+      <p style="color: #f90"><img src="Bioplastic_Nugget.png">f90: Nugg</p>
+      <p style="color: #090"><img src="Circuit_Board.png">090: Printed circuit board <code>PCB</code></p>
+      <p style="color: #9cc"><img src="Rocket_Engine.png">9cc: Soyuz</p>
+      <p style="color: #39f"><img src="T2_Rocket_Engine.png">39f: Saturn</p>
+      <p style="color: #f06"><img src="T2_Drone.png">f06: Courier</p>
+    </article>
+    <article>
+      <p style="color: #666"><img src="Fertilizer.png">666: Compost</p>
+      <p style="color: #060"><img src="T2_Fertilizer.png">060: Mulch</p>
+      <p style="color: #9fc"><img src="T3_Fertilizer.png">9fc: Bone</p>
+      <p style="color: #9cf"><img src="Bacteria_Sample.png">9cf: Bacta</p>
+      <p style="color: #09f"><img src="Mutagen.png">09f: Terrigen</p>
+      <p style="color: #c30"><img src="T3_Mutagen.png">c30: GC-161</p>
+      <p style="color: #ff3"><img src="T4_Mutagen.png">ff3: Vespene</p>
+      <p style="color: #90f"><img src="T2_Mutagen.png">90f: Ooze</p>
+    </article>
+    <article>
+      <p style="color: #0f9"><img src="Honey_Cooked_Beans.png">0f9: Restaurant</p>
+      <p style="color: #c69"><img src="Fusion_Energy_Cell.png">c69: Mr. Fusion</p>
+      <p style="color: #f99"><img src="Explosive.png">f99: Trinitrotoluene <code>TNT</code></p>
+      <p style="color: #33f"><img src="Fabric.png">33f: Cloth</p>
+      <p style="color: #c99"><img src="T1_Animal_Food.png">c99: Pal</p>
+      <p style="color: #933"><img src="T2_Animal_Food.png">933: Chum</p>
+      <p style="color: #c36"><img src="T3_Animal_Food.png">c36: Whiskas</p>
+    </article>
+    <article>
+      <p style="color: #f0f"><img src="Pulsar_Quartz.png">f0f: Rose</p>
+      <p style="color: #69f"><img src="Blazar_Quartz.png">69f: Dumortierite</p>
+      <p style="color: #9f9"><img src="Quasar_Quartz.png">9f9: Chrysoprase</p>
+      <p style="color: #ff6"><img src="Solar_Quartz.png">ff6: Citrine</p>
+      <p style="color: #96f"><img src="Cosmic_Quartz.png">96f: Jasper</p>
+    </article>
+
+    <article>
+      <p style="color: #cc6"><img src="Fuse_Cartridge.png">cc6: Fuse</p>
+      <p style="color: #c66"><img src="Insects_Multiplier_Fuse.png">c66: Insect</p>
+      <p style="color: #6cc"><img src="Animals_Multiplier_Fuse.png">6cc: Animal</p>
+      <p style="color: #f9f"><img src="Energy_Multiplier_Fuse.png">f9f: Power</p>
+      <p style="color: #9c9"><img src="Growth_Multiplier_Fuse.png">9c9: Farming</p>
+      <p style="color: #fc3"><img src="Trade_Rocket_Multiplier_Fuse.png">fc3: Trading</p>
+    </article>
+
   </section>
   <section>
-    <p style="color: #f00"><img src="Explosive_powder.png">f00: Nitro</p>
-    <p style="color: #f90"><img src="Bioplastic_Nugget.png">f90: Nugg</p>
-    <p style="color: #090"><img src="Circuit_Board.png">090: Printed circuit board <code>PCB</code></p>
-    <p style="color: #9cc"><img src="Rocket_Engine.png">9cc: Soyuz</p>
-    <p style="color: #cc6"><img src="Fuse_Cartridge.png">cc6: Fuse</p>
-    <p style="color: #f0f"><img src="Pulsar_Quartz.png">f0f: Rose</p>
-    <p style="color: #90c"><img src="Magnetar_Quartz.png">90c: Amethyst</p>
-    <p style="color: #69f"><img src="Blazar_Quartz.png">69f: Dumortierite</p>
-    <p style="color: #9f9"><img src="Quasar_Quartz.png">9f9: Chrysoprase</p>
-    <p style="color: #ff6"><img src="Solar_Quartz.png">ff6: Citrine</p>
-    <p style="color: #96f"><img src="Cosmic_Quartz.png">96f: Jasper</p>
-    <p style="color: #9cf"><img src="Bacteria_Sample.png">9cf: Bacta</p>
-    <p style="color: #09f"><img src="Mutagen.png">09f: Terrigen</p>
-    <p style="color: #90f"><img src="T2_Mutagen.png">90f: Ooze</p>
-    <p style="color: #c30"><img src="T3_Mutagen.png">c30: GC-161</p>
-    <p style="color: #ff3"><img src="T4_Mutagen.png">ff3: Vespene</p>
-    <p style="color: #666"><img src="Fertilizer.png">666: Compost</p>
-    <p style="color: #060"><img src="T2_Fertilizer.png">060: Mulch</p>
-    <p style="color: #9fc"><img src="T3_Fertilizer.png">9fc: Bone</p>
-    <p style="color: #c99"><img src="T1_Animal_Food.png">c99: Pal</p>
-    <p style="color: #933"><img src="T2_Animal_Food.png">933: Chum</p>
+    <article>
+      <p style="color: #f00"><img src="Explosive_powder.png">f00: Nitro</p>
+      <p style="color: #f90"><img src="Bioplastic_Nugget.png">f90: Nugg</p>
+      <p style="color: #090"><img src="Circuit_Board.png">090: Printed circuit board <code>PCB</code></p>
+      <p style="color: #9cc"><img src="Rocket_Engine.png">9cc: Soyuz</p>
+    </article>
+    <article>
+      <p style="color: #9cf"><img src="Bacteria_Sample.png">9cf: Bacta</p>
+      <p style="color: #09f"><img src="Mutagen.png">09f: Terrigen</p>
+      <p style="color: #c30"><img src="T3_Mutagen.png">c30: GC-161</p>
+      <p style="color: #ff3"><img src="T4_Mutagen.png">ff3: Vespene</p>
+      <p style="color: #90f"><img src="T2_Mutagen.png">90f: Ooze</p>
+    </article>
+    <article>
+      <p style="color: #666"><img src="Fertilizer.png">666: Compost</p>
+      <p style="color: #060"><img src="T2_Fertilizer.png">060: Mulch</p>
+      <p style="color: #9fc"><img src="T3_Fertilizer.png">9fc: Bone</p>
+      <p style="color: #c99"><img src="T1_Animal_Food.png">c99: Pal</p>
+      <p style="color: #933"><img src="T2_Animal_Food.png">933: Chum</p>
+      <p style="color: #cc6"><img src="Fuse_Cartridge.png">cc6: Fuse</p>
+    </article>
+    <article>
+      <p style="color: #f0f"><img src="Pulsar_Quartz.png">f0f: Rose</p>
+      <p style="color: #90c"><img src="Magnetar_Quartz.png">90c: Amethyst</p>
+      <p style="color: #69f"><img src="Blazar_Quartz.png">69f: Dumortierite</p>
+      <p style="color: #9f9"><img src="Quasar_Quartz.png">9f9: Chrysoprase</p>
+      <p style="color: #ff6"><img src="Solar_Quartz.png">ff6: Citrine</p>
+      <p style="color: #96f"><img src="Cosmic_Quartz.png">96f: Jasper</p>
+    </article>
   </section>
   <script>
     paras = new Map(Array.from(document.getElementsByTagName('p')).map(a => a.innerHTML.replace(/<img src=".*?">/, '').split(': ')));

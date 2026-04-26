@@ -378,7 +378,6 @@ function place(ep) {
         space = location.space || 0;
     }
     if (location.wallet.includes('Box')) {
-        console.log(space, typeof(space));
         if (space > 1000) {
             return ` <span class="warning">${space % 1000} ➜ ${Math.floor(space / 1000)}</span> ${wallet}`;
         }

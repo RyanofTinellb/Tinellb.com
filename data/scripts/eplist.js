@@ -360,6 +360,7 @@ Season = season => (season === undefined || typeof season === "string") ? "" : (
 asc = character => character.charCodeAt(0);
 chr = code => String.fromCharCode(code);
 pad = (num, req) => (req && num < 10 ? "0" : '') + (num || '');
+pad3 = num => num < 100 ? "0" + pad(num) : num;
 
 function place(ep) {
     let location = ep.location;
@@ -381,7 +382,7 @@ function place(ep) {
         if (space > 1000) {
             return ` <span class="warning">${space % 1000} ➜ ${Math.floor(space / 1000)}</span> ${wallet}`;
         }
-        return `${space}${wallet}`;
+        return `${pad3(space)}${wallet}`;
     } else if (disc) {
         return `${disc}${wallet}`;
     } else {

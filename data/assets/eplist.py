@@ -39,15 +39,15 @@ class WalletBox(FillBox):
                    'D': 'Black Leather Wallet',
                    'E': 'Yellow Wallet',
                    'F': 'Silver Box',
-                   'G': 'Dark Blue Wallet',
                    'H': 'Brown Leather Wallet',
                    'L': 'Silver Wallet',
                    'M': 'Brown Box',
                    'P': 'Dark Blue Covered Wallet',
                    'R': 'Blue and Dark Gray Wallet',
-                   'S': 'Big Silver Box',
+                   'S': 'Dark Blue Wallet',
                    'T': 'Black Box',
                    'U': 'Velcro Tabbed Black Wallet',
+                   'V': 'Big Silver Box',
                    'W': 'Khaki Camoflage Covered Wallet'}
         super().__init__(*args, **kwargs, values=wallets.values(), width=30)
         self.wallets = wallets

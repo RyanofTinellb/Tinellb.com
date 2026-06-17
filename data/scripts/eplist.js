@@ -71,15 +71,15 @@ const WALLETS = {
     "Black Leather Wallet": "D",
     "Yellow Wallet": "E",
     "Silver Box": "F",
-    "Dark Blue Wallet": "G",
     "Brown Leather Wallet": "H",
     "Silver Wallet": "L",
     "Brown Box": "M",
     "Dark Blue Covered Wallet": "P",
     "Blue and Dark Gray Wallet": "R",
-    "Big Silver Box": "S",
+    "Dark Blue Wallet": "S",
     "Black Box": "T",
     "Velcro Tabbed Black Wallet": "U",
+    "Big Silver Box": "V",
     "Khaki Camoflage Covered Wallet": "W"
 };
 

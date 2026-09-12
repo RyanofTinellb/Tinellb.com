@@ -1,6 +1,7 @@
 # pylint: disable=all
 
 import json
+import math
 import tkinter as Tk
 import tkinter.simpledialog as sd
 import tkinter.ttk as ttk
@@ -93,6 +94,8 @@ class Entry(Tk.Entry):
         with ignored(AttributeError):
             self.bind('<Control-Left>', self.master.master.AddToArticle)
             self.bind('<Control-Right>', self.master.master.RemoveFromArticle)
+            self.bind('<Control-Up>', self.master.master.IncrementCounter)
+            self.bind('<Control-Down>', self.master.master.DecrementCounter)
 
 
 class Scale(ttk.Scale):
@@ -314,7 +317,7 @@ obj = {Tk.StringVar: Entry, Tk.IntVar: Spinbox,
 
 
 def clean(text):
-    return text.replace('_', '').capitalize()
+    return text.replace('_', ' ').title().replace(' Of ', ' of ')
 
 
 def pad(number, length):
@@ -574,6 +577,22 @@ class EpisodeEditor(Tk.Frame):
             return self.directory[lat][long_][alt].get()
         return self.directory[lat][long_].get()
 
+    def ChangeCounter(self, distance):
+        for unit in 'disc', 'space':
+            k = self.get_var('location', 'numbers', unit)
+            k += distance
+            self.set_var('location', 'numbers', k, unit)
+    
+    def IncrementCounter(self, event=None):
+        self.ChangeCounter(1)
+
+    def DecrementCounter(self, event=None):
+        self.ChangeCounter(-1)
+    
+    def DeleteEpisode(self, event=None):
+        for unit in 'day', 'month', 'year':
+            self.set_var('date', unit, 0)
+
     def AddToArticle(self, event=None):
         episode = self.get_var('episode', 'episode').split(' ')
         article = self.get_var('episode', 'article').split(' ')
@@ -637,6 +656,7 @@ class EpisodeAdder(Tk.Frame):
         self.shows = {k(p): p['show']['id'] for p in page}
         Tk.Label(self, text='Shows:').grid(**first_col())
         k = ttk.Combobox(self, values=list(self.shows))
+        k.config(width=50)
         k.grid(**next_col())
         k.bind('<<ComboboxSelected>>', self.show_seasons)
         k.focus_set()
@@ -662,7 +682,7 @@ class EpisodeAdder(Tk.Frame):
     def attributes_area(self):
         frame = Tk.Frame(self)
         self.series_info = dict(metaseries=Tk.StringVar(), name=Tk.StringVar(),
-                                number=Tk.IntVar(), wallet=Wallet())
+                                number=Tk.IntVar(), wallet=Wallet(), first_space=Tk.IntVar(), number_of_discs=Tk.StringVar())
         for row, (name, var) in enumerate(self.series_info.items()):
             Tk.Label(frame, text=clean(name)).grid(
                 row=row, column=0, sticky='w')
@@ -678,23 +698,36 @@ class EpisodeAdder(Tk.Frame):
             season = json.load(
                 open_url(f'http://api.tvmaze.com/seasons/{season}/episodes'))
             page.extend(season)
+        self.series = {k: v.get() for k, v in self.series_info.items()}
+        self.series['number_of_discs'] = [int(x) for x in self.series['number_of_discs'].split(' ')]
+        self.season_nums = {}
+        for e in page:
+            self.season_nums[e['season']] = max(self.season_nums.get(e['season'], 0), e['number'])
         self.return_value = map(self.entry, page)
         self.master.destroy()
 
     def entry(self, page):
         output = {}
-        series = {k: v.get() for k, v in self.series_info.items()}
-        output['meta'] = series['metaseries']
-        output['series'] = self._article_series(series)
+        output['meta'] = self.series['metaseries']
+        output['series'] = self._article_series()
         output['season'] = page['season']
         output['ep'] = self._article_episode(page)
-        output['location'] = dict(wallet=series['wallet'], space=-1)
+        output['location'] = self._location(page)
         output['date'] = page['airdate'].replace('-', '')
         return remove_empty_values(output)
 
-    def _article_series(self, series):
-        name = series['name']
-        number = series['number']
+    def _location(self, ep):
+        # season_nums = {1: 16, 2: 17, 3: 18, 4: 16, 5: 15, 6: 15, 7: 13}
+        # series['numberofdiscs'] = [4, 4, 4, 3, 3, 3, 3]
+        s = list(self.season_nums.keys())
+        n = self.series['number_of_discs']
+        disc = (ep['number'] - 1) * int(self.series['number_of_discs'][ep['season'] - 1]) // self.season_nums[ep['season']] + 1
+        space = sum(n[:s.index(ep['season'])]) + disc - 1 + self.series['first_space']
+        return {'wallet': self.series['wallet'], 'disc': disc, 'space': space}
+
+    def _article_series(self):
+        name = self.series['name']
+        number = self.series['number']
         if name.startswith('The '):
             name = name.replace('The ', '', 1) + ' (T)'
         return dict(name=name, number=number)

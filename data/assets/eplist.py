@@ -96,6 +96,7 @@ class Entry(Tk.Entry):
             self.bind('<Control-Right>', self.master.master.RemoveFromArticle)
             self.bind('<Control-Up>', self.master.master.IncrementCounter)
             self.bind('<Control-Down>', self.master.master.DecrementCounter)
+            self.bind('<Control-x>', self.master.master.DeleteEpisode)
 
 
 class Scale(ttk.Scale):

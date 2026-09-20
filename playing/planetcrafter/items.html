@@ -113,8 +113,8 @@
         </p>
         <p style="color: #366"><img src="Selenium.png" />366: <span class="ingredient">Naquadah</span> <code>Nq</code>
         </p>
-        <p style="color: #ccf"><img src="Phosphorus.png" />ccf: <span class="ingredient">Trinium</span> <code>Tr</code>
-        </p>
+        <p style="color: #ccf"><img src="Phosphorus.png" />ccf: <span class="ingredient">Trinium</span> <code>Tr</code></p>
+        <p style="color: #f60"><img src="Amber.png" />f60: <span class="ingredient">Kairopan</span> <code>Kp</code></p>
         <h2>Tech</h2>
         <p class="maker" style="color: #f00"><img src="Explosive_powder.png" />f00: <span
                 class="ingredient">Nitroglycerin</span> <code>Nitro</code> </p>
@@ -368,7 +368,7 @@
     <script> paras = new Map(Array.from(document.getElementsByTagName('p')).map(a => a.innerHTML.replace(/<img src=".*?">/, '').split(': '))); console.log(Array.from(document.getElementsByTagName('p')).length, paras.size); console.table(paras); let alphas = ['0', '3', '6', '9', 'c', 'f']; const betas = []; for (let i of alphas) { for (let j of alphas) { for (let k of alphas) { betas.push([i, j, k].join('')); } } } const gammae = betas.filter(a => !paras.has(a)); const SPARES = document.getElementById('spares'); text = ''; for (gamma of gammae) {
             let p = text += `<p style="color: #${gamma};">${gamma}: Nothing</p>
 `;
-        }  // SPARES.innerHTML = text; makers = document.getElementsByClassName('maker'); ingredients = document.getElementsByClassName('ingredient'); compounds = Array.from(document.getElementsByClassName('maker')).filter(a => a?.children[1]?.className == 'ingredient'); console.log(makers.length, ingredients.length - compounds.length, compounds.length) </script>
+        }   SPARES.innerHTML = text; makers = document.getElementsByClassName('maker'); ingredients = document.getElementsByClassName('ingredient'); compounds = Array.from(document.getElementsByClassName('maker')).filter(a => a?.children[1]?.className == 'ingredient'); console.log(makers.length, ingredients.length - compounds.length, compounds.length) </script>
 </body>
 
 </html>

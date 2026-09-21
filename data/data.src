@@ -1,7 +1,7 @@
 directory:
 - Welcome to Tinellb!
 - - Sections
-  - - Writings
+  - - Writing
     - - Entropy Relented
     - - Detsora’s Diary
   - - About
@@ -12,15 +12,15 @@ entries:
       children:
         Sections:
           children:
-            Writings:
+            Writing:
               children:
                 Entropy Relented:
                   title: Entropy Relented - Welcome to Tinellb!
                   text:
                   - <h1>Entropy Relented</h1>
-                  - Entropy relented, and I awoke. That principle which had held sway through all the dark millennia now allowed a singular point of order in the vast emptiness -- me.
-                  position: '3.0'
-                  date: '2026-09-20'
+                  - Entropy relented, and I awoke. That principle which had held sway through all the dark millennia now allowed a singular point of order in the vast emptiness -- me. Reaching forth, I carved out a bubble, within which I began designing Tinellb. I unfurled its dimensions of space, time, reality and gingla.
+                  position: '2.304'
+                  date: '2026-09-21'
                 Detsora’s Diary:
                   date: '2025-04-16'
                   position: '11.719'

@@ -7,13 +7,23 @@ const mapString = (str, fn) =>
 
 // Changes space to period, and adds dollar-signs before capitals
 const sellLetterCaps = letter =>
-    letter == letter.toLowerCase() ? 
-    letter == ' ' ? '.' : letter : `$${letter.toLowerCase()}`
+    letter == letter.toLowerCase() ?
+        letter == ' ' ? '.' : letter : `$${letter.toLowerCase()}`
 
 function sellCaps(text) {
     return mapString(text, sellLetterCaps);
 }
 
+const TARGET = window.location.pathname.split('.html')[0];
+if (TARGET.match(/\/lex\//)) {
+    const LEXEME = TARGET.match(/[\/\\]lex[\/\\](.*)/)[1];
+    console.log(LEXEME);
+    console.log(LEXEME.match(/(?<!%.{0,1})(.)/g));
+    const NEW_TARGET = LEXEME.replaceAll(/(?<!%.{0,1})(.)/g, sellLetterCaps).replaceAll('%20', '.');
+    if (NEW_TARGET !== LEXEME) {
+        window.location.href = window.location.pathname.replace(/(?<=[\/\\]lex[\/\\]).*/, NEW_TARGET) + '.html';
+    }
+}
 let term = searchParams.get('term')
 if (term) {
     window.location.href = `/special/search.html?query=${term}`;

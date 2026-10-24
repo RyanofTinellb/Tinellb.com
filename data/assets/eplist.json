@@ -12,7 +12,7 @@
 {"series": "12 Monkeys", "season": 1, "location": {"disc": 2, "wallet": "Big Silver Box", "space": 57}, "date": "20150306", "ep": {"number": 8, "name": "Yesterday"}},
 {"series": "12 Monkeys", "season": 1, "location": {"disc": 2, "wallet": "Big Silver Box", "space": 57}, "date": "20150313", "ep": {"number": 9, "name": "Tomorrow"}},
 {"series": "12 Monkeys", "season": 1, "location": {"disc": 3, "wallet": "Big Silver Box", "space": 58}, "date": "20150320", "ep": {"number": 10, "name": "Divine Move"}},
-{"series": "12 Monkeys", "season": 1, "location": {"disc": 3, "wallet": "Big Silver Box", "space": 58}, "date": "20150327", "ep": {"number": 11, "name": "Shonin"}},
+{"series": "12 Monkeys", "season": 1, "location": {"disc": 3, "wallet": "Big Silver Box", "space": 58}, "date": "20150327", "ep": {"number": 11, "name": "Shōnin", "aka": "証人 Witness"}},
 {"series": "12 Monkeys", "season": 1, "location": {"disc": 3, "wallet": "Big Silver Box", "space": 58}, "date": "20150403", "ep": {"number": 12, "name": "Paradox"}},
 {"series": "12 Monkeys", "season": 1, "location": {"disc": 3, "wallet": "Big Silver Box", "space": 58}, "date": "20150410", "type": "End", "ep": {"number": 13, "name": "Arms of Mine"}},
 {"series": "12 Monkeys", "season": 2, "location": {"disc": 1, "wallet": "Big Silver Box", "space": 59}, "date": "20160418", "type": "Start", "ep": {"number": 1, "name": "Year of the Monkey"}},

@@ -60,7 +60,26 @@ main ul {
     margin-inline-start: 5%;
 }
 
+@media print {
+
+    .arrow-left,
+    .arrow-right,
+    .sidebar,
+    p,
+    ul,
+    h1,
+    h2
+    {
+        display: none;
+    }
+
+    main .eplist ol {
+        margin-inline-start: 0;
+    }
+}
+
 .arrow-left a {
+
     position: fixed;
     bottom: 5%;
     left: 20%;
@@ -170,9 +189,11 @@ nav.sidebar form.sorts {
 
 .warning {
     color: light-dark(green, lightblue);
+
     &::before {
         content: '{'
     }
+
     &::after {
         content: '}'
     }

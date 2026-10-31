@@ -42,11 +42,11 @@ function appendControlsToNavPane() {
 }
 
 const NUMBERS = ["no", "one", "two", "three", "four", "five", "six", "seven", "eight",
-    "nine", "ten", "eleven", "twelve"];
+    "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen"];
 
 async function updateNumbers() {
     let numberofeps = data.length;
-    let time = numberofeps / 3 / 365.25;
+    let time = numberofeps / 1.8 / 365.25;
     let years = Math.floor(time);
     let months = Math.floor(12 * (time - years));
 

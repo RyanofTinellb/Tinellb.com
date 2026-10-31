@@ -64,7 +64,7 @@ class WalletBox(FillBox):
 class TypeBox(FillBox):
     def __init__(self, *args, **kwargs):
         values = ('', 'Premiere', 'Start', 'Movie',
-                  'Miniseries', 'Film', 'End', 'Finale', 'Iso', 'Special Features')
+                  'Miniseries', 'Film', 'End', 'Finale', 'Iso', 'Special')
         super().__init__(*args, **kwargs, values=values)
         self.values = values
         self._chars = ''

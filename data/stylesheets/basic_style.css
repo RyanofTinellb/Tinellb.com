@@ -52,6 +52,7 @@ abbr.glossary::after {
     content: "?";
     vertical-align: super;
     font-size: smaller;
+    line-height: 0;
 }
 
 .flex {

@@ -179,7 +179,7 @@ function RandomSort() {
 function EpNameSort() {
     document.getElementById("title").classList.add("selected");
     data.forEach(ep => {
-        ep.EPNAME = (ep.ep.name || ep.ep).toLowerCase();
+        ep.EPNAME = asciify((ep.ep.name || ep.ep).toLowerCase());
     });
     data.sort((a, b) => {
         if (a.EPNAME > b.EPNAME) {
@@ -189,6 +189,41 @@ function EpNameSort() {
         } else return 0;
     });
 }
+
+const asciify = s => replaceLetters(remove(s));
+
+const REPLACEMENTS = {
+    '²': 'squared',
+    '³': 'cubed',
+    '½': 'half',
+    'à': 'a',
+    'â': 'a',
+    'ä': 'a',
+    'æ': 'ae',
+    'ç': 'c',
+    'é': 'e',
+    'ì': 'i',
+    'í': 'i',
+    'ñ': 'n',
+    'õ': 'o',
+    'ö': 'o',
+    'ù': 'u',
+    'ā': 'a',
+    'ı': 'i',
+    'ō': 'o',
+    'ź': 'z',
+    'ω': 'omega',
+    'я': 'r'
+};
+
+const replaceLetters = s => {
+    for (const t in REPLACEMENTS) {
+        s = s.replaceAll(t, REPLACEMENTS[t])
+    }
+    return s;
+}
+
+const remove = s => s.replaceAll(/[ !#%&'()*+,./:?@_‑—‘’“”…·-]/g, '')
 
 function CalendarSort() {
     document.getElementById("calendar").classList.add("selected");

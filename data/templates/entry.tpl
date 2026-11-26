@@ -1,7 +1,13 @@
 styles:
   data: data
-  h1: heading
-  toc: toc
+  toc:    
+    open: <div class="toc">
+    close: </div>
+    start: <p>
+    end: </p>
+    param: <a href="$link$">$name$</a>
+    pipe: '">'
+    type: toc
 title:
 - <data>entry-title</data>
 text:

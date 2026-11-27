@@ -24,13 +24,16 @@ arrow-right:
     colour: '#ff00dd'
   start: ''
   type: div
-button: complete
+button:
+  type: complete
+  cat: form
 checkbox:
   close: '">'
   open: <input type="checkbox" id="
   pipe: '" name="'
   props:
     background: '#ccffff'
+  cat: form
 cite:
   props:
     italics: true

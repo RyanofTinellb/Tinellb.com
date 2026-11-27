@@ -3,9 +3,6 @@ assets:
   source: c:\users\ryan\tinellbianlanguages\www\data\data.src
 entries:
 - - Welcome to Tinellb!
-  - Sections
-  - Writing
-  - Entropy Relented
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 languages: c:\users\ryan\tinellbianlanguages\www\data\assets\languages.yml
 links:

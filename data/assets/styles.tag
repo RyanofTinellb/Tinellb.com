@@ -11,6 +11,7 @@ anchor:
     colour: '#3366ff'
   type: anchor
 arrow-left:
+  cat: eplist
   end: ''
   param: <a href="#$text$"></a>
   props:
@@ -18,22 +19,20 @@ arrow-left:
   start: ''
   type: div
 arrow-right:
+  cat: eplist
   end: ''
   param: <a href="#$text$"></a>
   props:
     colour: '#ff00dd'
   start: ''
   type: div
-button:
-  type: complete
-  cat: form
 checkbox:
   close: '">'
   open: <input type="checkbox" id="
   pipe: '" name="'
   props:
     background: '#ccffff'
-  cat: form
+  cat: eplist
 cite:
   props:
     italics: true
@@ -43,10 +42,18 @@ default:
     font: Dubai
     size: 18
 desktop: span
+dl:
+  cat: list
+  start: <dt>
+  end: </dd>
+  pipe: </dt><dd>
+  props:
+    background: '#ccccdd'
 em:
   props:
     italics: true
 eplist:
+  cat: eplist
   close: </slot>
   open: <slot class="eplist">
   props:
@@ -68,22 +75,13 @@ h2:
     size: 120
     top: 15
   type: heading
-h2-links:
-  close: </h2>
-  open: <h2>
-  param: <a href="$lookup$">$node$</a>
-  category: external
-  props:
-    background: '#ccccdd'
-    font: Gadugi
-    size: 120
-    top: 15
-    underline: true
-  type: heading
 internal-link: link
-javascript: div
+javascript:
+  cat: script
+  type: div
 label: block
 label-for:
+  cat: eplist
   close: </label>
   open: <label for="
   pipe: '">'
@@ -105,6 +103,7 @@ message:
   type: div
 mobile: span
 noscript:
+  cat: script
   rank: 110
   type: block
 script:
@@ -140,8 +139,6 @@ span:
   type: block
 template: template
 ul:
-  end: </li>
   props:
     left: 15
-  start: <li>
-  type: block
+  type: ul

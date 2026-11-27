@@ -7,13 +7,14 @@ main h1 {
     font-family: 'Times New Roman', Times, serif;
 }
 
-main h2 {
+main dt {
     margin-block-start: 2rem;
     margin-inline-start: 5%;
     margin-block-end: 1rem;
     font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
     text-decoration: overline;
+    font-size: x-large;
 }
 
 main h2 a {
@@ -26,7 +27,7 @@ main li {
     padding-block-end: 0.5em;
 }
 
-main p {
+main p, main dd {
     text-align: justify;
     text-indent: 1.5rem;
     line-height: 1.5;

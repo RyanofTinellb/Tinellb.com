@@ -123,17 +123,13 @@ entries:
           text: []
           title: ''
           position: '1.0'
-      date: '2025-03-23'
-      position: '10.0'
+      date: '2026-11-28'
+      position: '6.20'
       text:
       - <h1>Welcome to Tinellb!</h1>
       - Tinellb is a fictional universe. This site seeks to chronicle everything known about this realm and the guozu who live there.
-      - <h2-links><cite>The Coelacanth Quartet</cite></h2-links>
-      - A novel in four parts, detailing the adventures of Corla in her attempt to get home.
-      - <h2-links>A Grammar of the Tinellbian Languages</h2-links>
-      - A guide to the High Lulani language.
-      - <h2-links>Tinellbian Dictionary</h2-links>
-      - Pronunciations, spellings, etymologies and usage notes for over 1000 vocabulary items, and growing.
-      - <h2-links>Tinellbian Encyclopedia</h2-links>
-      - An exploration of the universe of Tinellb.
+      - <dl><cite><a>The Coelacanth Quartet</a></cite>|A novel in four parts, detailing the adventures of Corla in her attempt to get home.</dl>
+      - <dl><a>A Grammar of the Tinellbian Languages</a>|A guide to the High Lulani language.</dl>
+      - <dl><a>Dictionary</a>|Pronunciations, spellings, etymologies and usage notes for over 1000 vocabulary items, and growing.</dl>
+      - <dl><a>Encyclopedia</a>|An exploration of the universe of Tinellb.</dl>
       title: Welcome to Tinellb!

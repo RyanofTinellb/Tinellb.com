@@ -276,7 +276,7 @@ nav.sidebar p {
     padding-right: 15%;
 }
 
-nav.sidebar details > p:first-of-type {
+nav.sidebar details>p:first-of-type {
     font-weight: bold;
     font-size: larger;
     text-wrap: balance;
@@ -441,8 +441,8 @@ main details {
     p,
     +p,
     li,
-    +li {
-        line-height: 1.5;
+    +li{
+        line-height: 2;
         margin-block: 0;
     }
 
@@ -603,9 +603,17 @@ footer .copyright p {
         display: initial;
     }
 
-    .portrait table {
+    .portrait table,
+    .mobile table {
         margin-inline-start: auto;
         margin-inline-end: auto;
+    }
+
+    .mobile ul {
+        margin-inline: auto;
+        padding-inline-start: 25%;
+        list-style: none;
+        line-height: 1.8lh;
     }
 
     nav.sidebar {
